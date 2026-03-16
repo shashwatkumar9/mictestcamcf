@@ -6,7 +6,7 @@ pages_build_output_dir = ".vercel/output/static"
 [[d1_databases]]
 binding = "DB"
 database_name = "mictestcamcf"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "af2a4758-4098-4587-81fd-068e59b6badf"
 
 [vars]
 NEXT_PUBLIC_APP_URL = "https://mictestcam.com"
