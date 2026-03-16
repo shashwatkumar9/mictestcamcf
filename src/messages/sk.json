@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "home": {
+      "title": "Bezplatný test webkamery a mikrofónu online | MicTestCam",
+      "description": "Otestujte svoju webkameru a mikrofón okamžite online. Bezplatný test kamery a mikrofónu – 100% súkromný, bez sťahovania. Skontrolujte, či vaše zariadenia fungujú pred videohovormi."
+    },
+    "webcam": {
+      "title": "Test webkamery – bezplatný online nástroj na testovanie kamery | MicTestCam",
+      "description": "Bezplatný nástroj na testovanie webkamery – okamžite skontrolujte, či vaša kamera funguje. Otestujte webkameru so živým náhľadom, filtrami, nastaveniami kvality a nahrávaním. 100% súkromný, bez nutnosti sťahovania."
+    },
+    "microphone": {
+      "title": "Test mikrofónu – bezplatný online test mikrofónu | MicTestCam",
+      "description": "Bezplatný online test mikrofónu – skontrolujte, či váš mikrofón funguje. Otestujte úrovne zvuku, frekvenčnú odozvu a kvalitu nahrávania. 100% súkromný test mikrofónu, bez sťahovania."
+    },
+    "privacy": {
+      "title": "Zásady ochrany osobných údajov | MicTestCam",
+      "description": "Zistite, ako MicTestCam chráni vaše súkromie. Všetky testy webkamery a mikrofónu prebiehajú lokálne vo vašom prehliadači – nikdy nezhromažďujeme ani neukladáme vaše údaje."
+    },
+    "terms": {
+      "title": "Podmienky používania | MicTestCam",
+      "description": "Podmienky používania služby MicTestCam – bezplatný online nástroj na testovanie webkamery a mikrofónu. Prečítajte si naše podmienky používania služby."
+    },
+    "contact": {
+      "title": "Kontaktujte nás | MicTestCam",
+      "description": "Spojte sa s tímom MicTestCam. Kontaktujte nás pre podporu, spätnú väzbu alebo obchodné otázky týkajúce sa našich bezplatných nástrojov na testovanie webkamery a mikrofónu."
+    },
+    "blog": {
+      "title": "Blog – tipy pre webkameru a mikrofón | MicTestCam",
+      "description": "Odborné tipy, návody a sprievodcovia pre testovanie webkamery, nastavenie mikrofónu a optimalizáciu zvuku a videa. Naučte sa, ako dosiahnuť najlepšiu kvalitu pre vaše videohovory."
+    },
+    "reviews": {
+      "title": "Najlepšie recenzie webkamier a mikrofónov | MicTestCam",
+      "description": "Podrobné recenzie, hodnotenia a nákupné sprievodcovia pre webkamery, mikrofóny, headsety a audio/video zariadenia. Odborná analýza, ktorá vám pomôže vybrať si ideálne vybavenie na streamovanie a videohovory."
+    }
+  },
+  "nav": {
+    "home": "Domov",
+    "webcamTest": "Test webkamery",
+    "microphoneTest": "Test mikrofónu",
+    "reviews": "Recenzie",
+    "blog": "Blog",
+    "privacy": "Ochrana súkromia",
+    "terms": "Podmienky používania",
+    "contact": "Kontakt"
+  },
+  "privacy": {
+    "banner": "100% súkromné – nič neopustí váš prehliadač"
+  },
+  "home": {
+    "hero": {
+      "title": "Bezplatný test webkamery a mikrofónu online",
+      "subtitle": "Okamžite overte, či vaša kamera a mikrofón fungujú správne pred ďalším videohovorom. Bez sťahovania, bez registrácie, úplne súkromné.",
+      "webcamCta": "Otestovať webkameru",
+      "microphoneCta": "Otestovať mikrofón"
+    },
+    "features": {
+      "title": "Prečo používať MicTestCam?",
+      "privacy": {
+        "title": "100% súkromné",
+        "description": "Váš zvuk a video nikdy neopustia váš prehliadač. Neukladáme, nenahávame ani nespracúvame žiadne vaše mediálne údaje na našich serveroch."
+      },
+      "simple": {
+        "title": "Jednoduché na jedno kliknutie",
+        "description": "Žiadne zložité nastavovanie. Stačí kliknúť na tlačidlo a okamžite uvidíte svoju webkameru alebo počujete svoj mikrofón. Funguje za niekoľko sekúnd."
+      },
+      "professional": {
+        "title": "Profesionálne nástroje",
+        "description": "Pokročilé funkcie ako analýza frekvenčného spektra, video filtre, nastavenia kvality a možnosti lokálneho nahrávania."
+      },
+      "universal": {
+        "title": "Funguje všade",
+        "description": "Kompatibilný so všetkými modernými prehliadačmi a zariadeniami. Otestujte pred Zoom, Teams, Meet, Discord alebo akoukoľvek videokonferenčnou aplikáciou."
+      }
+    },
+    "howItWorks": {
+      "title": "Ako to funguje",
+      "step1": {
+        "title": "Kliknite na Štart",
+        "description": "Vyberte test webkamery alebo mikrofónu a kliknite na tlačidlo Štart"
+      },
+      "step2": {
+        "title": "Povoľte prístup",
+        "description": "Udeľte prehliadaču povolenie na prístup k vašej kamere alebo mikrofónu"
+      },
+      "step3": {
+        "title": "Zobrazte výsledky",
+        "description": "Okamžite uvidíte video z kamery alebo úrovne zvuku. V prípade potreby nahrajte klipy"
+      }
+    },
+    "faq": {
+      "title": "Často kladené otázky",
+      "q1": {
+        "question": "Je tento test webkamery naozaj súkromný?",
+        "answer": "Áno, úplne. Všetko spracovanie prebieha priamo vo vašom prehliadači pomocou webových API. Žiadne video ani zvukové údaje sa nikdy neodosielajú na naše servery ani žiadnej tretej strane. Môžete si to overiť kontrolou záložky sieťovej aktivity vo vašom prehliadači."
+      },
+      "q2": {
+        "question": "Musím niečo inštalovať?",
+        "answer": "Žiadna inštalácia nie je potrebná. MicTestCam funguje úplne vo vašom webovom prehliadači. Stačí navštíviť stránku a kliknúť na Štart."
+      },
+      "q3": {
+        "question": "Ktoré prehliadače sú podporované?",
+        "answer": "MicTestCam funguje vo všetkých moderných prehliadačoch vrátane Chrome, Firefox, Safari, Edge a Opera na stolných počítačoch aj mobilných zariadeniach."
+      },
+      "q4": {
+        "question": "Môžem nahrávať video alebo zvuk?",
+        "answer": "Áno! Na stránke testu webkamery môžete nahrávať videoklipy a na stránke testu mikrofónu zvukové klipy. Všetky nahrávky sa ukladajú lokálne vo vašom prehliadači a je možné ich stiahnuť."
+      },
+      "q5": {
+        "question": "Prečo mi nefunguje kamera/mikrofón?",
+        "answer": "Uistite sa, že ste prehliadaču udelili povolenie na prístup k zariadeniu. Skontrolujte, či žiadna iná aplikácia nepoužíva vašu kameru alebo mikrofón. Skúste obnoviť stránku alebo vybrať iné zariadenie z rozbaľovacej ponuky."
+      },
+      "q6": {
+        "question": "Je to zadarmo?",
+        "answer": "Áno, MicTestCam je úplne bezplatný bez akýchkoľvek obmedzení alebo skrytých poplatkov."
+      },
+      "q7": {
+        "question": "Môžem testovať pred hovorom cez Zoom/Teams/Meet?",
+        "answer": "Samozrejme! MicTestCam je ideálny na testovanie pred hovorom. Jednoducho tu otestujte svoje zariadenia a potom sa pripojte k videokonferencii s istotou."
+      },
+      "q8": {
+        "question": "Ako vyberiem inú kameru alebo mikrofón?",
+        "answer": "Použite rozbaľovaciu ponuku zariadení na testovacej stránke na prepínanie medzi pripojenými kamerami alebo mikrofónmi."
+      },
+      "q9": {
+        "question": "Kde sa ukladajú moje nahrávky?",
+        "answer": "Nahrávky sa ukladajú lokálne v úložisku vášho prehliadača. Zostanú aj po zatvorení prehliadača a môžete ich kedykoľvek stiahnuť alebo vymazať."
+      },
+      "q10": {
+        "question": "Funguje to na mobilných telefónoch?",
+        "answer": "Áno, MicTestCam funguje na mobilných zariadeniach s modernými prehliadačmi. Na svojom telefóne môžete otestovať prednú aj zadnú kameru."
+      }
+    },
+    "trust": {
+      "tests": "50 000+ testov denne",
+      "apps": "Funguje so Zoom, Teams, Meet",
+      "browsers": "Podpora všetkých moderných prehliadačov"
+    }
+  },
+  "webcam": {
+    "title": "Test webkamery – bezplatný online test kamery",
+    "subtitle": "Otestujte svoju kameru okamžite. Pozrite si video, upravte kvalitu, použite filtre a nahrávajte klipy.",
+    "startButton": "Spustiť kameru a nahrávanie",
+    "stopButton": "Zastaviť a uložiť nahrávku",
+    "snapshotButton": "Odfotiť snímku",
+    "permissionMessage": "Kliknite na tlačidlo vyššie pre spustenie testu webkamery",
+    "recording": "Nahrávanie",
+    "deviceLabel": "Kamera",
+    "qualityLabel": "Kvalita",
+    "filterLabel": "Filter",
+    "filters": {
+      "normal": "Normálny",
+      "grayscale": "Odtiene šedej",
+      "sepia": "Sépia",
+      "invert": "Inverzia",
+      "blur": "Rozostrenie",
+      "brightness": "Jas",
+      "contrast": "Kontrast",
+      "hueRotate": "Posun odtieňa",
+      "saturate": "Sýtosť"
+    },
+    "savedRecordings": {
+      "title": "Uložené nahrávky",
+      "clearAll": "Vymazať všetko",
+      "noRecordings": "Zatiaľ žiadne nahrávky. Spustite nahrávanie pre uloženie videoklipov.",
+      "play": "Prehrať",
+      "download": "Stiahnuť",
+      "delete": "Vymazať"
+    },
+    "testCamera": "Otestovať kameru",
+    "stopCamera": "Zastaviť kameru",
+    "record": "Nahrávať",
+    "stopRecording": "Zastaviť nahrávanie",
+    "showAdvanced": "Zobraziť pokročilé",
+    "hideAdvanced": "Skryť pokročilé",
+    "mirrorMode": "Zrkadlový režim",
+    "flipHorizontally": "Prevrátiť horizontálne",
+    "digitalZoom": "Digitálny zoom",
+    "brightness": "Jas",
+    "contrast": "Kontrast",
+    "dark": "Tmavé",
+    "normal": "Normálne",
+    "bright": "Svetlé",
+    "low": "Nízky",
+    "high": "Vysoký",
+    "cameraComparison": "Porovnanie kamier",
+    "compareSideBySide": "Porovnať vedľa seba",
+    "requires2Cameras": "(vyžaduje 2+ kamery)",
+    "secondCamera": "Druhá kamera",
+    "fineTuneWhileRecording": "Doladiť počas nahrávania",
+    "camera1": "Kamera 1",
+    "camera2": "Kamera 2",
+    "motion": "Pohyb",
+    "advanced": {
+      "title": "Pokročilé ovládanie kamery",
+      "exposure": "Expozícia",
+      "focus": "Zaostrenie",
+      "whiteBalance": "Vyváženie bielej",
+      "image": "Obraz",
+      "ptz": "PTZ",
+      "mode": "Režim",
+      "exposureTime": "Čas expozície",
+      "distance": "Vzdialenosť",
+      "temperature": "Teplota",
+      "sharpness": "Ostrosť",
+      "zoom": "Zoom",
+      "pan": "Posun",
+      "tilt": "Náklon",
+      "saturation": "Sýtosť",
+      "noAdvancedControls": "Vaša kamera nepodporuje pokročilé hardvérové ovládanie"
+    },
+    "backgroundBlur": {
+      "title": "Rozostrenie pozadia",
+      "blurStrength": "Intenzita rozostrenia",
+      "skinToneNote": "Používa sa ľahká detekcia farby pleti. Pre lepšie výsledky zabezpečte dobré osvetlenie."
+    },
+    "faceDetection": {
+      "facesDetected": "Zistené",
+      "face": "Tvár"
+    },
+    "framing": {
+      "grid": "Mriežka",
+      "faceGuide": "Vodítko tváre",
+      "moveRight": "Posuňte sa doprava",
+      "moveLeft": "Posuňte sa doľava",
+      "moveDown": "Posuňte sa nadol",
+      "moveUp": "Posuňte sa nahor",
+      "moveCloser": "Priblížte sa",
+      "moveBack": "Oddiaľte sa",
+      "greatFraming": "Výborné zarámovanie!",
+      "noFaceDetected": "Tvár nebola rozpoznaná"
+    },
+    "histogram": {
+      "videoAnalysis": "Analýza videa",
+      "histogram": "Histogram",
+      "waveform": "Priebeh signálu",
+      "shadows": "Tiene",
+      "midtones": "Stredné tóny",
+      "highlights": "Svetlá"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Rozlíšenie",
+      "bitrate": "Bitrate",
+      "lighting": "Osvetlenie",
+      "dropped": "Vynechané",
+      "tooDark": "Príliš tmavé",
+      "lowLight": "Slabé svetlo",
+      "overexposed": "Preexponované",
+      "good": "Dobré",
+      "hideMetrics": "Skryť metriky"
+    }
+  },
+  "microphone": {
+    "title": "Test mikrofónu – bezplatný online test mikrofónu",
+    "subtitle": "Otestujte svoj mikrofón s meračom úrovne zvuku v reálnom čase a analyzátorom frekvenčného spektra.",
+    "startButton": "Spustiť mikrofón a nahrávanie",
+    "stopButton": "Zastaviť a uložiť nahrávku",
+    "permissionMessage": "Kliknite na tlačidlo vyššie pre spustenie testu mikrofónu",
+    "recording": "Nahrávanie",
+    "deviceLabel": "Mikrofón",
+    "sampleRateLabel": "Vzorkovacia frekvencia",
+    "channelLabel": "Kanály",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Úroveň zvuku",
+    "frequencySpectrum": "Frekvenčné spektrum",
+    "savedRecordings": {
+      "title": "Uložené nahrávky",
+      "clearAll": "Vymazať všetko",
+      "noRecordings": "Zatiaľ žiadne nahrávky. Spustite nahrávanie pre uloženie zvukových klipov.",
+      "play": "Prehrať",
+      "download": "Stiahnuť",
+      "delete": "Vymazať"
+    },
+    "testMicrophone": "Otestovať mikrofón",
+    "stopMicrophone": "Zastaviť mikrofón",
+    "record": "Nahrávať",
+    "stopRecording": "Zastaviť nahrávanie",
+    "showAdvanced": "Zobraziť pokročilé",
+    "hideAdvanced": "Skryť pokročilé",
+    "inputGain": "Vstupné zosilnenie",
+    "noiseSuppression": "Potlačenie šumu",
+    "enableNoiseReduction": "Zapnúť redukciu šumu",
+    "echoCancellation": "Potlačenie ozveny",
+    "reduceEchoFeedback": "Redukovať ozvenu",
+    "autoGainControl": "Automatické riadenie zosilnenia",
+    "autoAdjustVolume": "Automaticky upraviť hlasitosť",
+    "microphoneComparison": "Porovnanie mikrofónov",
+    "compareSideBySide": "Porovnať vedľa seba",
+    "requires2Mics": "(vyžaduje 2+ mikrofóny)",
+    "secondMicrophone": "Druhý mikrofón",
+    "fineTuneWhileTesting": "Doladiť počas testovania",
+    "boost": "Zosilnenie",
+    "normal": "Normálne",
+    "low": "Nízke",
+    "advanced": {
+      "title": "Pokročilá analýza zvuku",
+      "metrics": "Metriky",
+      "spectrogram": "Spektrogram",
+      "signalToNoiseRatio": "Odstup signálu od šumu",
+      "excellent": "Vynikajúce",
+      "good": "Dobré",
+      "fair": "Prijateľné",
+      "poor": "Slabé",
+      "rms": "RMS (dB)",
+      "peak": "Špička (dB)",
+      "noiseFloor": "Úroveň šumu",
+      "dominantFrequency": "Dominantná frekvencia",
+      "detectedIssues": "Zistené problémy",
+      "detectedAt": "zistené o",
+      "time": "Čas",
+      "frequencyLowHigh": "Frekvencia (Nízka \u2192 Vysoká)"
+    },
+    "processing": {
+      "title": "Spracovanie zvuku",
+      "noiseSuppression": "Potlačenie šumu",
+      "reduceBackgroundNoise": "Redukovať šum v pozadí",
+      "echoCancellation": "Potlačenie ozveny",
+      "removeAudioFeedback": "Odstrániť zvukovú spätnú väzbu",
+      "autoGainControl": "Automatické riadenie zosilnenia",
+      "normalizeVolumeLevels": "Normalizovať úrovne hlasitosti",
+      "directMonitoring": "Priame monitorovanie",
+      "listenToYourMic": "Počúvajte svoj mikrofón",
+      "monitorVolume": "Hlasitosť monitorovania",
+      "useHeadphones": "Používajte slúchadlá, aby ste predišli spätnej väzbe!"
+    },
+    "comparison": {
+      "title": "A/B porovnanie mikrofónov",
+      "microphoneA": "Mikrofón A",
+      "microphoneB": "Mikrofón B",
+      "selectMicrophone": "Vyberte mikrofón...",
+      "startComparison": "Spustiť porovnanie",
+      "selectTwoDifferent": "Prosím, vyberte dva rôzne mikrofóny",
+      "active": "Aktívny",
+      "switchTo": "Prepnúť na",
+      "rmsLevel": "Úroveň RMS",
+      "peakLevel": "Úroveň špičky",
+      "snr": "SNR (dB)",
+      "stopComparison": "Zastaviť porovnanie",
+      "micA": "Mik A",
+      "micB": "Mik B"
+    }
+  },
+  "privacyPage": {
+    "title": "Zásady ochrany osobných údajov",
+    "lastUpdated": "Posledná aktualizácia",
+    "intro": "V MicTestCam berieme vaše súkromie vážne. Tieto zásady ochrany osobných údajov vysvetľujú, ako zaobchádzame s vašimi informáciami pri používaní našich služieb na testovanie webkamery a mikrofónu.",
+    "sections": {
+      "noCollection": {
+        "title": "Nezhromažďujeme vaše údaje",
+        "content": "MicTestCam je navrhnutý s ochranou súkromia ako základným princípom. Nezhromažďujeme, neukladáme ani neprenášame žiadne zvukové ani video údaje z vašich testov webkamery alebo mikrofónu. Všetko spracovanie prebieha výlučne vo vašom webovom prehliadači pomocou lokálnych JavaScript API."
+      },
+      "localStorage": {
+        "title": "Lokálne úložisko",
+        "content": "Keď nahrávate video alebo zvukové klipy, ukladajú sa lokálne v úložisku IndexedDB vášho prehliadača. Tieto údaje nikdy neopustia vaše zariadenie a nie sú prístupné nám ani žiadnej tretej strane. Tieto nahrávky môžete kedykoľvek vymazať cez rozhranie aplikácie alebo vymazaním údajov prehliadača."
+      },
+      "cookies": {
+        "title": "Cookies a analytika",
+        "content": "Používame minimálny počet cookies len pre základnú funkcionalitu webovej stránky, ako sú jazykové preferencie. Môžeme používať analytiku rešpektujúcu súkromie na pochopenie všeobecných vzorcov používania, ale nesledujeme jednotlivých používateľov ani nezhromažďujeme osobné informácie."
+      },
+      "thirdParty": {
+        "title": "Služby tretích strán",
+        "content": "Naša webová stránka môže obsahovať odkazy na webové stránky tretích strán. Nie sme zodpovední za praktiky ochrany súkromia týchto externých stránok. Odporúčame vám prečítať si ich zásady ochrany súkromia pred poskytnutím akýchkoľvek osobných informácií."
+      },
+      "security": {
+        "title": "Bezpečnosť",
+        "content": "Na ochranu všetkej komunikácie medzi vaším prehliadačom a naším webovým serverom používame šifrovanie HTTPS. Keďže nezhromažďujeme vaše mediálne údaje, neexistuje riziko, že by vaše nahrávky z webkamery alebo mikrofónu boli odhalené v dôsledku úniku dát."
+      },
+      "children": {
+        "title": "Ochrana súkromia detí",
+        "content": "MicTestCam nie je určený pre deti mladšie ako 13 rokov. Vedome nezhromažďujeme informácie od detí."
+      },
+      "changes": {
+        "title": "Zmeny týchto zásad",
+        "content": "Tieto zásady ochrany osobných údajov môžeme z času na čas aktualizovať. O akýchkoľvek zmenách vás budeme informovať zverejnením nových zásad na tejto stránke a aktualizáciou dátumu \u201ePosledná aktualizácia\u201c."
+      },
+      "contact": {
+        "title": "Kontaktujte nás",
+        "content": "Ak máte akékoľvek otázky týkajúce sa týchto zásad ochrany osobných údajov, kontaktujte nás prostredníctvom našej kontaktnej stránky."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Podmienky používania",
+    "lastUpdated": "Posledná aktualizácia",
+    "intro": "Vitajte na MicTestCam. Prístupom alebo používaním našej webovej stránky a služieb súhlasíte s dodržiavaním týchto podmienok používania.",
+    "sections": {
+      "acceptance": {
+        "title": "Prijatie podmienok",
+        "content": "Používaním MicTestCam súhlasíte s týmito podmienkami používania a našimi zásadami ochrany osobných údajov. Ak nesúhlasíte s akoukoľvek časťou týchto podmienok, nemôžete používať naše služby."
+      },
+      "description": {
+        "title": "Popis služby",
+        "content": "MicTestCam poskytuje bezplatné online nástroje na testovanie webkamier a mikrofónov. Naša služba vám umožňuje overiť, či vaša kamera a mikrofón fungujú správne pred videohovormi, nahrávaniami alebo streamovacími reláciami."
+      },
+      "usage": {
+        "title": "Prijateľné použitie",
+        "content": "Súhlasíte s tým, že budete MicTestCam používať len na zákonné účely a v súlade s týmito podmienkami. Súhlasíte, že nebudete: používať službu na akúkoľvek nezákonnú činnosť, pokúšať sa narušiť riadne fungovanie webovej stránky, pokúšať sa získať prístup k oblastiam webovej stránky, ktoré nie sú určené pre verejný prístup, ani používať automatizované systémy na prístup k službe bez povolenia."
+      },
+      "privacy": {
+        "title": "Súkromie a údaje",
+        "content": "Všetky testy webkamery a mikrofónu prebiehajú lokálne vo vašom prehliadači. Nezhromažďujeme, neukladáme ani nemáme prístup k vašim zvukovým alebo video údajom. Pre viac informácií si prosím prečítajte naše zásady ochrany osobných údajov."
+      },
+      "intellectual": {
+        "title": "Duševné vlastníctvo",
+        "content": "Webová stránka MicTestCam vrátane jej dizajnu, kódu a obsahu je chránená autorským právom a inými zákonmi o duševnom vlastníctve. Bez nášho predchádzajúceho písomného súhlasu nesmiete kopírovať, upravovať, distribuovať ani reprodukovať žiadnu časť webovej stránky."
+      },
+      "disclaimer": {
+        "title": "Vylúčenie záruk",
+        "content": "MicTestCam je poskytovaný \u201etak, ako je\u201c bez akýchkoľvek záruk, či už výslovných alebo implicitných. Nezaručujeme, že služba bude nepretržitá, bezchybná alebo že splní vaše konkrétne požiadavky. Nie sme zodpovední za akékoľvek problémy s hardvérom alebo softvérom vašich zariadení."
+      },
+      "limitation": {
+        "title": "Obmedzenie zodpovednosti",
+        "content": "V najväčšom rozsahu povolenom zákonom MicTestCam nenesie zodpovednosť za akékoľvek nepriame, náhodné, špeciálne, následné alebo represívne škody vyplývajúce z vášho používania služby."
+      },
+      "changes": {
+        "title": "Zmeny podmienok",
+        "content": "Vyhradzujeme si právo kedykoľvek zmeniť tieto podmienky používania. Zmeny nadobúdajú účinnosť okamžite po zverejnení na webovej stránke. Vaše ďalšie používanie služby po zverejnení zmien predstavuje váš súhlas s upravenými podmienkami."
+      },
+      "governing": {
+        "title": "Rozhodné právo",
+        "content": "Tieto podmienky používania sa riadia a vykladajú v súlade s platnými zákonmi, bez ohľadu na kolízne normy."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "Ak máte akékoľvek otázky k týmto podmienkam používania, kontaktujte nás prostredníctvom našej kontaktnej stránky."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Kontaktujte nás",
+    "subtitle": "Máte otázky alebo spätnú väzbu? Radi vás vypočujeme.",
+    "form": {
+      "name": "Vaše meno",
+      "namePlaceholder": "Zadajte svoje meno",
+      "email": "E-mailová adresa",
+      "emailPlaceholder": "Zadajte svoj e-mail",
+      "subject": "Predmet",
+      "subjectPlaceholder": "O čom sa jedná?",
+      "message": "Správa",
+      "messagePlaceholder": "Napíšte svoju správu tu...",
+      "submit": "Odoslať správu",
+      "sending": "Odosielanie...",
+      "success": "Ďakujeme! Vaša správa bola úspešne odoslaná.",
+      "error": "Prepáčte, pri odosielaní správy došlo k chybe. Skúste to prosím znova."
+    },
+    "info": {
+      "title": "Ďalšie spôsoby, ako nás kontaktovať",
+      "email": "E-mail",
+      "response": "Zvyčajne odpovedáme do 24 – 48 hodín.",
+      "social": "Sledujte nás"
+    },
+    "faq": {
+      "title": "Predtým, než nás kontaktujete",
+      "subtitle": "Odpoveď na svoju otázku možno nájdete v sekcii často kladených otázok na hlavnej stránke."
+    }
+  },
+  "blogPage": {
+    "title": "Blog o testovaní webkamery a mikrofónu – tipy, sprievodcovia a návody",
+    "subtitle": "Odborné tipy, návody a poznatky o testovaní webkamery, nastavení mikrofónu a optimalizácii zvuku a videa pre videohovory, streamovanie a tvorbu obsahu.",
+    "noPosts": "Zatiaľ žiadne príspevky",
+    "noPostsDescription": "Čoskoro sa vráťte pre nový obsah!",
+    "readMore": "Čítať viac",
+    "by": "od",
+    "minRead": "min čítania",
+    "categories": {
+      "all": "Všetky príspevky",
+      "webcam": "Tipy pre webkameru",
+      "microphone": "Tipy pre mikrofón",
+      "tutorials": "Návody",
+      "troubleshooting": "Riešenie problémov"
+    },
+    "search": "Vyhľadať články...",
+    "featured": "Odporúčané",
+    "latest": "Najnovšie články",
+    "relatedPosts": "Súvisiace príspevky"
+  },
+  "reviewsPage": {
+    "title": "Najlepšie recenzie webkamier a mikrofónov – odborná analýza produktov",
+    "subtitle": "Podrobné recenzie, hodnotenia a nákupné sprievodcovia pre webkamery, mikrofóny, headsety a audio/video zariadenia. Nájdite ideálne vybavenie na streamovanie, videohovory a tvorbu obsahu.",
+    "noReviews": "Zatiaľ žiadne recenzie nie sú k dispozícii",
+    "noReviewsDescription": "Čoskoro sa vráťte pre odborné recenzie produktov!",
+    "by": "od",
+    "readMore": "Prečítať recenziu"
+  },
+  "footer": {
+    "tagline": "Otestujte svoju webkameru a mikrofón online zadarmo",
+    "privacy": "Ochrana súkromia",
+    "terms": "Podmienky používania",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Všetky práva vyhradené.",
+    "language": "Jazyk"
+  },
+  "common": {
+    "loading": "Načítavanie...",
+    "error": "Chyba",
+    "close": "Zavrieť",
+    "back": "Späť",
+    "next": "Ďalej",
+    "submit": "Odoslať",
+    "cancel": "Zrušiť",
+    "save": "Uložiť",
+    "delete": "Vymazať",
+    "edit": "Upraviť",
+    "view": "Zobraziť",
+    "download": "Stiahnuť",
+    "share": "Zdieľať",
+    "copy": "Kopírovať",
+    "copied": "Skopírované!",
+    "readMore": "Čítať viac",
+    "learnMore": "Dozvedieť sa viac",
+    "getStarted": "Začať"
+  },
+  "cta": {
+    "title": "Pripravení otestovať svoje zariadenia?",
+    "subtitle": "Začnite testovať svoju webkameru a mikrofón hneď teraz. Bez sťahovania, bez registrácie.",
+    "webcamButton": "Otestovať webkameru",
+    "microphoneButton": "Otestovať mikrofón"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam poskytuje okamžité, bezplatné online testovanie webkamier a mikrofónov priamo vo vašom prehliadači. Nie je potrebné nič sťahovať. Otestujte kvalitu kamery, úrovne mikrofónu a čistotu zvuku za menej ako 30 sekúnd pred akýmkoľvek videohovorom alebo nahrávacou reláciou.",
+      "p1": "Vitajte na MicTestCam! MicTestCam ponúka najjednoduchší spôsob, ako <strong>otestovať webkameru a mikrofón online</strong>, či už chcete skontrolovať svoju webkameru pre videokonferenciu, stretnutie, prezentáciu, nahrať komentáre pre vaše YouTube videá a kanál, alebo vykonať podrobný <strong>test mikrofónu</strong> pre váš podcast.",
+      "p2": "Nástroje MicTestCam na testovanie kamery a mikrofónu fungujú úplne v prehliadači a nevyžadujú žiadne sťahovanie. Súkromie používateľov je najvyššou prioritou MicTestCam. Všetky testy sa vykonávajú vo vašom prehliadači a vaše video a zvukové informácie nikdy neopustia váš počítač. S viac ako 50 000 testami denne a 99,9% úspešnosťou je MicTestCam najobľúbenejšou platformou pre profesionálov, vzdialených zamestnancov, tvorcov obsahu a bežných používateľov, ktorí chcú otestovať zariadenia.",
+      "p3": "Stlačte tlačidlá nižšie pre <strong>test webkamery</strong> alebo <strong>test mikrofónu</strong>. MicTestCam potrebuje len niekoľko sekúnd na overenie, či vaša kamera a mikrofón fungujú správne pred hovorom cez Zoom, Microsoft Teams, Google Meet, Discord, Skype alebo iný videohovor.",
+      "keyTakeaways": {
+        "title": "Kľúčové informácie",
+        "points": [
+          "Bezplatné okamžité testovanie webkamery a mikrofónu – nie je potrebná inštalácia softvéru",
+          "100% testovanie v prehliadači zaručuje úplné súkromie a bezpečnosť údajov",
+          "Spätná väzba v reálnom čase o kvalite videa, úrovniach zvuku a frekvenčnej odozve",
+          "Kompatibilné so Zoom, Teams, Meet, Discord a všetkými video platformami",
+          "Viac ako 50 000 denných testov s 99,9% presnosťou"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Prečo by ste mali otestovať webkameru a mikrofón pred videohovormi?",
+      "directAnswer": "Testovanie webkamery a mikrofónu pred videohovormi zabraňuje trápnym technickým zlyhaniam, šetrí čas na stretnutiach a zabezpečuje profesionálnu kvalitu komunikácie. Test pred hovorom identifikuje problémy s uhlom kamery, osvetlením, úrovňami zvuku a šumom v pozadí skôr, ako ich uvidí vaše publikum.",
+      "p1": "Práca na diaľku a virtuálna komunikácia sú dnes štandardnými obchodnými praktikami. Schopnosť jasne komunikovať prostredníctvom videa a zvuku je kľúčová pre profesionálny úspech. Technické prerušenia počas stretnutí poškodzujú dôveryhodnosť a plytvia časom. Opakované pýtanie sa \u201eVidíte ma? A teraz?\u201c podkopáva profesionálnu reputáciu a zdržiava dôležité diskusie.",
+      "p2": "Rýchly video test pred stretnutiami predchádza technickým nedostatkom. Rýchly audio test pred dôležitými hovormi zabezpečí, že váš zvuk je čistý bez šumu v pozadí, ozveny alebo skreslenia. Obchodní pracovníci, manažéri, učitelia a tvorcovia obsahu chápu dôležitosť spoľahlivého výkonu webkamery a mikrofónu.",
+      "p3": "Na rozdiel od iných nástrojov na testovanie webkamery a mikrofónu, MicTestCam nielen overuje, či vaša webkamera alebo mikrofón fungujú, ale poskytuje aj podrobné informácie o kvalite videa a zvukových charakteristikách. MicTestCam pomáha používateľom nájsť a opraviť technické problémy pred začiatkom videohovorov.",
+      "comparison": {
+        "title": "MicTestCam vs. vstavané testy video platforiem",
+        "points": [
+          "<strong>MicTestCam:</strong> Poskytuje podrobnú analýzu zvukových frekvencií, priebehy signálu v reálnom čase a profesionálne metriky",
+          "<strong>Testy platforiem:</strong> Zobrazujú iba základnú funkcionalitu áno/nie bez podrobností o kvalite",
+          "<strong>MicTestCam:</strong> Testy fungujú na všetkých platformách – Zoom, Teams, Meet, Discord súčasne",
+          "<strong>Testy platforiem:</strong> Overujú funkcionalitu iba v rámci konkrétnej platformy",
+          "<strong>MicTestCam:</strong> Ponúka prehrávanie nahrávky, aby ste počuli presne to, čo budú počuť ostatní",
+          "<strong>Testy platforiem:</strong> Žiadna funkcia prehrávania na overenie kvality"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Ako funguje test kamery a mikrofónu MicTestCam?",
+      "directAnswer": "MicTestCam používa technológiu WebRTC na prístup k vašej webkamere a mikrofónu priamo cez váš prehliadač. Testovanie prebieha výlučne na vašom zariadení pomocou rovnakých protokolov, aké používajú Zoom, Teams a Meet, čím sa zabezpečuje presné testovanie výkonu v reálnych podmienkach bez nahrávania akýchkoľvek údajov na servery.",
+      "p1": "Test kamery a mikrofónu MicTestCam používa protokoly WebRTC, tie isté protokoly, na ktoré sa spoliehajú populárne webové videokonferenčné služby. Keď <strong>testujete svoju webkameru</strong> pomocou MicTestCam, platforma pristupuje k vašej webkamere cez webové API prehliadača a zobrazuje video v reálnom čase na obrazovke. Používatelia môžu overiť, či webkamera funguje, skontrolovať, či je osvetlenie vhodné, potvrdiť správny uhol kamery a posúdiť celkovú kvalitu videa.",
+      "p2": "Nástroj na <strong>test mikrofónu</strong> MicTestCam poskytuje okamžitú spätnú väzbu o úrovniach hlasitosti. Keď používatelia hovoria do mikrofónu, merače zvuku odrážajú úrovne hlasu v reálnom čase, čo pomáha určiť, či mikrofón správne zachytáva zvuk. 32-pásmový analyzátor frekvenčného spektra zobrazuje, ako je zvuk rozložený naprieč frekvenciami, čo je obzvlášť cenná funkcia pre podcasterov a hudobníkov testujúcich mikrofóny na profesionálne nahrávanie.",
+      "p3": "Oba nástroje MicTestCam ponúkajú funkciu automatického nahrávania. Používatelia môžu spustiť test a MicTestCam automaticky nahráva obraz z kamery a zvuk, čo umožňuje prehrávanie na vyhodnotenie kvality tak, ako by ju vnímalo publikum. Všetko nahrávanie prebieha lokálne v prehliadači. MicTestCam nenahráva ani neukladá žiadne používateľské údaje na externé servery, čím je zabezpečené úplné súkromie.",
+      "technicalSpecs": {
+        "title": "Technické špecifikácie",
+        "specs": [
+          "<strong>Protokol:</strong> WebRTC (Web Real-Time Communication) – priemyselný štandard používaný službami Zoom, Microsoft Teams, Google Meet",
+          "<strong>Analýza zvuku:</strong> 32-pásmový analyzátor frekvenčného spektra (rozsah 20 Hz – 20 kHz)",
+          "<strong>Rozlíšenie videa:</strong> Podporuje testovanie od 240p po 8K (7680×4320) v závislosti od schopností kamery",
+          "<strong>Snímková frekvencia:</strong> Monitorovanie v reálnom čase pri 15 fps, 30 fps a 60 fps",
+          "<strong>Súkromie:</strong> 100% spracovanie na strane klienta – žiadny prenos údajov na servery MicTestCam",
+          "<strong>Kompatibilita:</strong> Funguje v prehliadačoch Chrome, Firefox, Safari, Edge – všetky hlavné prehliadače"
+        ]
+      }
+    },
+    "features": {
+      "title": "Kompletný zoznam funkcií testov",
+      "webcamTitle": "Test webkamery",
+      "webcamFeatures": [
+        "Živý náhľad vašej kamery s možnosťami rozlíšenia od 240p po 1080p.",
+        "Detekcia viacerých kamerových zariadení ako USB kamery, webkamery, externé kamery.",
+        "9+ rôznych filtrov a efektov na testovanie webkamery a jej farebnej rovnováhy.",
+        "Snímky za sekundu na monitorovanie kamery.",
+        "Možnosť zachytiť snímku obrazovky.",
+        "Automatické nahrávanie videa z webkamery vo formáte WebM a MP4.",
+        "Nahrávky uložené v lokálnom úložisku."
+      ],
+      "microphoneTitle": "Test mikrofónu",
+      "microphoneFeatures": [
+        "Merač úrovne zvuku a merač špičiek v reálnom čase.",
+        "32-pásmový analyzátor frekvenčného spektra v reálnom čase.",
+        "Detekcia viacerých mikrofónových zariadení ako USB mikrofóny, mikrofóny na headsetoch atď.",
+        "Možnosť konfigurácie vzorkovacej frekvencie až do 48 kHz štúdiovej kvality.",
+        "Konfigurácia nahrávania zvuku v mono alebo stereo.",
+        "Merač špičkových a RMS úrovní pre zvuk.",
+        "Automatické nahrávanie zvuku s možnosťou prehrávania."
+      ]
+    },
+    "whoUses": {
+      "title": "Kto používa náš test webkamery a mikrofónu",
+      "remoteWorkers": {
+        "title": "Vzdialení pracovníci a profesionáli",
+        "description": "Vzdialený pracovník alebo profesionál vykoná rýchly test pred videokonferenciami a stretnutiami na Zoom, Google Meet alebo Microsoft Teams, aby zistil, či jeho webkamera funguje správne, a potom vykoná rýchly <strong>test mikrofónu</strong>, aby sa uistil, že je počuteľný, aby sa nemusel opakovať a nebol prerušovaný vetou \u201eNepočujeme vás!\u201c"
+      },
+      "contentCreators": {
+        "title": "YouTuberi, Twitch streameri, podcasteri a ďalší tvorcovia obsahu",
+        "description": "Pre YouTuberov, Twitch streamerov, podcasterov a ďalších tvorcov obsahu je náš pokročilý diagnostický nástroj pre zvuk a video nevyhnutný. Použite analyzátor frekvenčného spektra na vyriešenie zvukových problémov a spustite testy kvality videa, aby ste sa uistili, že dodávate kvalitný obsah."
+      },
+      "students": {
+        "title": "Študenti a učitelia",
+        "description": "Študenti sa potrebujú uistiť, že môžu komunikovať cez internet. Pred vyučovaním vykonávajú testy, aby potvrdili, že ich vybavenie funguje. Učitelia tiež kontrolujú, či je ich vybavenie v poriadku, aby mohli úspešne viesť vyučovanie."
+      },
+      "jobSeekers": {
+        "title": "Uchádzači o zamestnanie",
+        "description": "Ak sa chystáte na video pohovor, uistite sa, že pred ním vykonáte <strong>test kamery</strong> a <strong>test mikrofónu</strong>. Je to obrovský rozdiel a ukáže to, že ste pripravení. (Nie je nič horšie, ako prísť o príležitosť kvôli technickému zlyhaniu.)"
+      },
+      "gamers": {
+        "title": "Hráči:",
+        "description": "Používate herný headset? Získajte presné výsledky, ktoré potrebujete na otestovanie mikrofónu pre Discord, hernú komunikáciu alebo streamovanie."
+      },
+      "techSupport": {
+        "title": "Technická podpora",
+        "description": "Ak máte problémy s kamerou alebo mikrofónom, naše nástroje vám pomôžu určiť, či je problém s vaším hardvérom, ovládačmi alebo nastaveniami softvéru."
+      }
+    },
+    "privacy": {
+      "title": "100% garantované súkromie",
+      "intro": "Súkromie je jadrom všetkého, čo robíme v našich nástrojoch na <strong>test webkamery</strong> a <strong>test mikrofónu</strong>. Uvedomujeme si, že prístupom k vašej kamere a mikrofónu s nami zdieľate citlivé informácie. Preto je celá naša platforma navrhnutá s politikou nulovej dôvery.",
+      "localProcessing": {
+        "title": "Všetko spracovanie prebieha na vašom lokálnom zariadení",
+        "description": "Spracovanie videa a zvuku sa vykonáva pomocou WebRTC API vo vašom prehliadači. Vaše údaje neukladáme na našich serveroch, pretože ich ani nezískame."
+      },
+      "noAccount": {
+        "title": "Nie je potrebný účet",
+        "description": "Nemusíte si vytvárať účet, zadávať e-mailovú adresu ani zdieľať žiadne osobné údaje. Jednoducho navštívte stránku, povoľte prehliadaču prístup, otestujte zariadenia a pokračujte."
+      },
+      "transparent": {
+        "title": "Transparentný kód",
+        "description": "Náš kód nie je zašifrovaný. Môžete si ho pozrieť vo svojom prehliadači pomocou vývojárskych nástrojov. Žiadne sledovanie, žiadny zber údajov, žiadna analytika na zhromažďovanie vašich súkromných údajov."
+      },
+      "cleanup": {
+        "title": "Automatické mazanie:",
+        "description": "Všetky nahrávky sú uložené v lokálnom úložisku prehliadača. Budú automaticky vymazané, keď zatvoríte prehliadač alebo vymažete lokálne úložisko. Máte plnú kontrolu nad tým, čo je uložené a na aké časové obdobie."
+      }
+    },
+    "compatibility": {
+      "title": "Kompatibilita s prehliadačmi a zariadeniami",
+      "intro": "Naše testy webkamery a mikrofónu podporujú väčšinu populárnych aktuálnych prehliadačov a zariadení. Oba nástroje sú dostupné na Windows, Mac OS, Linux, iOS, Android alebo akomkoľvek inom operačnom systéme, ktorý podporuje moderný prehliadač, bez potreby akéhokoľvek ďalšieho sťahovania alebo inštalácie.",
+      "browsersTitle": "Podporované prehliadače",
+      "browsers": [
+        "Google Chrome (najlepší výkon)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (na MacOS a iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Podporované zariadenia",
+      "devices": [
+        "Vstavané alebo externé USB webkamery na stolných a prenosných počítačoch",
+        "Smartfóny a tablety s prednou a zadnou kamerou",
+        "Externé USB kamery a webkamery pre PC",
+        "Vstavané mikrofóny v notebookoch",
+        "Externé USB mikrofóny",
+        "Herné headsety s mikrofónmi",
+        "Profesionálne zvukové rozhrania a kondenzátorové mikrofóny"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Potrebujete pomoc?",
+      "intro": "Nedarí sa vám spustiť <strong>test webkamery</strong> alebo <strong>test mikrofónu</strong>? Vyskúšajte jedno z týchto riešení.",
+      "cameraTitle": "Kamera nebola rozpoznaná alebo nefunguje",
+      "cameraIssues": [
+        "Uistite sa, že ste povolili kameru vo vašom prehliadači. V adresnom riadku uvidíte ikonu kamery, ktorou môžete povoliť prístup ku kamere.",
+        "Kameru používate v inej aplikácii (Zoom, Teams, Skype atď.). Kameru môžete používať iba v jednej aplikácii naraz. Zatvorte druhú aplikáciu alebo obnovte stránku a znova povoľte prístup.",
+        "Obnovte stránku a znova povoľte prístup. Môže to byť spôsobené chybou prehliadača.",
+        "Používajte najnovšiu verziu prehliadača.",
+        "Skontrolujte, či sú ovládače kamery správne nainštalované vo vašom počítači.",
+        "Ak používate USB kameru, skúste ju pripojiť k inému USB portu alebo použite iný kábel."
+      ],
+      "microphoneTitle": "Mikrofón nefunguje",
+      "microphoneIssues": [
+        "Povoľte prístup k mikrofónu vo vašom prehliadači.",
+        "Uistite sa, že mikrofón je správne pripojený k napájaniu.",
+        "Pomocou systémových zvukových nastavení skontrolujte, či mikrofón funguje.",
+        "Mikrofón používajú iné aplikácie. Skúste ich zatvoriť.",
+        "Skúste upraviť úroveň mikrofónu v systémových nastaveniach na zvýšenie hlasitosti, ak nie ste dostatočne hlasní, alebo na zníženie hlasitosti, ak ste príliš hlasní.",
+        "Skontrolujte, či mikrofón nie je stlmený v systéme alebo na zariadení (ak má hardvérové tlačidlo stlmenia)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Rýchle odkazy",
+      "webcamTitle": "Testovanie webkamery:",
+      "webcamLinks": ["Test webkamery", "Otestovať webkameru online", "Test kamery", "Online test kamery", "Bezplatný test webkamery", "Skontrolovať webkameru", "Test USB kamery", "Test kamery notebooku", "Test kamery pre Zoom"],
+      "microphoneTitle": "Testovanie mikrofónu:",
+      "microphoneLinks": ["Test mikrofónu", "Test mikrofónu online", "Otestovať môj mikrofón", "Online test mikrofónu", "Bezplatný test mikrofónu", "Skontrolovať mikrofón", "Audio test online", "Test USB mikrofónu", "Test mikrofónu pre Discord"]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Otestujte svoju webkameru pomocou nášho rýchleho a jednoduchého online testovacieho nástroja. Ponúka náhľad vašej kamery v reálnom čase, viaceré nastavenia kvality, špeciálne efekty a automatické nahrávanie pomocou vašej kamery online, to všetko bez inštalácie akéhokoľvek ďalšieho softvéru. Môžete ho teda použiť ako <strong>test kamery</strong> pre videokonferencie alebo na otestovanie vstavanej webkamery na novom počítači.",
+      "p2": "Na otestovanie stačí stlačiť tlačidlo \u201eSpustiť kameru a nahrávanie\u201c vyššie. Zobrazí sa živý náhľad vašej webkamery, aby ste videli, či vaše video funguje, otestovali osvetlenie a správne umiestnenie kamery. Nič sa nenahráva na server, neukladá ani nepristupuje k tomu. Váš video test prebieha lokálne na vašom počítači."
+    },
+    "howToUse": {
+      "title": "Ako používať náš nástroj na test webkamery",
+      "intro": "Na otestovanie webkamery postupujte podľa týchto jednoduchých krokov:",
+      "steps": [
+        "<strong>Povoľte prístup:</strong> Zobrazí sa dialógové okno s otázkou, či prehliadač môže pristúpiť k webkamere. Stlačením tlačidla Povoliť povolíte prehliadaču prístup k webkamere. Toto platí pre akúkoľvek webovú stránku s testom webkamery. Dialógové okno sa zobrazuje ako bezpečnostné opatrenie, aby sa zabránilo náhodným webovým stránkam v prístupe k webkamere.",
+        "<strong>Vyberte správnu kameru:</strong> Ak máte viac kamier (napríklad vstavanú kameru notebooku a samostatnú USB kameru), môžete si vybrať, ktorú kameru chcete použiť z rozbaľovacej ponuky. Náš nástroj na test webkamery automaticky rozpozná a zobrazí všetky kamery.",
+        "<strong>Vyberte kvalitu:</strong> Zvoľte požadované rozlíšenie (kvalitu) z rozbaľovacej ponuky kvality. Kameru môžete otestovať v nízkej kvalite (240p), strednej kvalite (480p), vysokej kvalite (720p), Full HD kvalite (1080p) atď. Vyššia kvalita poskytuje jasnejší obraz, ale vyžaduje väčšiu šírku pásma a výkon procesora.",
+        "<strong>Spustite test:</strong> Stlačte Spustiť kameru a nahrávanie a okamžite uvidíte živý obraz z vašej kamery. Môžete okamžite začať nahrávať a potom si pozrieť kvalitu.",
+        "<strong>Použite vizuálne filtre:</strong> Máme viac ako 9 vizuálnych filtrov (čiernobiely, sépia, rozostrenie, vysoký kontrast atď.), aby ste videli, ako ovplyvňujú výstup vašej kamery.",
+        "<strong>Zachyťte snímku:</strong> Počas testu môžete zachytiť snímku na kontrolu kvality obrazu alebo na zistenie, ako kamera zvláda konkrétne svetelné podmienky.",
+        "<strong>Zastavte a uložte:</strong> Keď skončíte, stlačte Zastaviť a uložiť nahrávku. Video sa uloží v prehliadači, aby ste si ho mohli znova prehrať a stiahnuť."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Pokročilé funkcie webkamery",
+      "intro": "Náš <strong>test webkamery</strong> obsahuje funkcie profesionálnej úrovne navrhnuté pre rôzne prípady použitia – od bežných videohovorov po tvorbu obsahu.",
+      "mirrorMode": {
+        "title": "Zrkadlový režim pre dokonalé selfie",
+        "description": "Zrkadlenie a prevrátenie je nevyhnutná funkcia pre tutoriály na líčenie, blogerov a pre tých, ktorí chcú vidieť, ako vyzerajú v zrkadle. Keď kliknete na tlačidlo Zrkadlo (pri zapnutej kamere), horizontálne prevráti obraz vašej webkamery, aby ste si mohli lepšie skontrolovať tvár, urobiť make-up alebo si jednoducho zvyknúť na zrkadlový pohľad. Obzvlášť ak nahrávate YouTube video, TikTok video alebo Instagram príbeh, kde potrebujete ukázať text, používať smerové pokyny atď."
+      },
+      "digitalZoom": {
+        "title": "Digitálny zoom (1x až 3x)",
+        "description": "Pozrite sa, aká ostrá je vaša <strong>webkamera</strong> pri priblížení na rôznych úrovniach. Ideálne pre ukážky produktov, tutoriály alebo jednoducho pre detailný pohľad. Posuvník zoomu a tlačidlá rýchleho zoomu 1x, 2x, 3x na testovanie ostrosti vašej webkamery pri priblížení. Užitočné na zistenie, či sa potrebujete priblížiť k kamere, alebo či môžete priblížiť bez prílišného zhoršenia kvality obrazu. Praktické pre živých streamerov, ktorí chcú priblížiť na svoju maľbu, ručné práce alebo opravy techniky."
+      },
+      "brightnessContrast": {
+        "title": "Ovládanie jasu a kontrastu",
+        "description": "Upravte jas (50 – 150 %) a kontrast (50 – 150 %) a pozrite sa, ako vaša webkamera vyzerá v rôznych svetelných podmienkach. Tieto posuvníky môžete použiť na testovanie, či automatická expozícia vašej kamery funguje správne, a na simuláciu rôznych nastavení nahrávania. Ak je vo vašej miestnosti príliš tma alebo príliš jasno, môžete posuvníky upraviť na pohodlné nastavenie pre vaše ďalšie videokonferenčné stretnutie. Streameri a YouTuberi často používajú tieto posuvníky na dosiahnutie najlepšieho výsledku zo svojej kamery a na udržanie rovnakých svetelných podmienok pre svoje videá."
+      },
+      "gridOverlay": {
+        "title": "Prekrytie mriežkou pre profesionálne rámovanie",
+        "description": "Naše vstavané prekrytie mriežkou využíva kompozičnú techniku pravidla tretín, čo vám umožňuje dokonale zarámovať tvár v nahrávke. Jednoducho umiestnite oči na hornú horizontálnu čiaru a zarovnajte tvár s vertikálnymi vodítkami. Tento profesionálny fotografický princíp zabezpečuje atraktívnejšie a zaujímavejšie video nahrávky pre YouTube, obchodné stretnutia alebo Twitch streamy. Prekrytie mriežkou pomáha s konzistentným rámovaním pri opakovaných nahrávaniach."
+      },
+      "videoFilters": {
+        "title": "Video filtre a efekty",
+        "description": "Aplikujte nasledujúce filtre na svoju <strong>webkameru</strong>, aby ste videli, ako vyzerajú: Normálny, Odtiene šedej, Sépia, Inverzia, Rozostrenie, Jas, Kontrast, Posun odtieňa a Sýtosť. Filtre vám ukážu, ako dobre vaša kamera dokáže reprodukovať farby a ako bude vyzerať pri použití video efektových filtrov. Ak ste streamer alebo YouTuber, môžete použiť filtre na zistenie, ako by váš stream vyzeral s rôznymi aplikovanými efektmi. Filtre sa dajú použiť aj na overenie, či vaša kamera vytvára správne farby. Porovnajte výsledky filtrov Odtiene šedej a Sépia."
+      },
+      "videoMetrics": {
+        "title": "Metriky videa v reálnom čase a histogram:",
+        "description": "Zobrazte technické detaily o vašom videu, ako rozlíšenie, snímkovú frekvenciu a bitrate. RGB histogram vám umožní zobraziť rozloženie farieb vo vašom videu. To je užitočné na detekciu nad/podexponovania, farebných posunov a zlého osvetlenia. Táto funkcia je ideálna pre profesionálov ako videografi, YouTuberi a vlogeri, ktorí chcú zabezpečiť, aby ich video bolo čo najkvalitnejšie. Ak má váš histogram strmý pád na ktorejkoľvek strane, budete musieť upraviť osvetlenie alebo nastavenia kamery."
+      },
+      "advancedControls": {
+        "title": "Pokročilé ovládanie kamery",
+        "description": "Niektoré webkamery majú funkcie ako expozícia, režim zaostrenia, vyváženie bielej, ISO a ostrosť, ktoré môže používateľ ovládať. Naša webová aplikácia vám umožní zistiť, čo vaša <strong>webkamera</strong> dokáže. Môžete prepínať medzi automatickým a manuálnym režimom zaostrenia, zmeniť vyváženie bielej tak, aby zodpovedalo teplote vášho svetla, alebo nastaviť kompenzáciu expozície podľa vašich preferencií. To je veľmi užitočné pre streamerov, YouTuberov a profesionálov, ktorí potrebujú kontrolovať nastavenia kamery."
+      },
+      "backgroundBlur": {
+        "title": "Efekt rozostrenia pozadia",
+        "description": "Vyskúšajte webové rozostrenie pozadia bez akýchkoľvek aplikácií alebo zeleného plátna. Náš efekt rozostrenia pozadia využíva najnovšie webové technológie na odstránenie pozadia a jeho oddelenie od vás, čo je užitočné, keď musíte robiť videokonferenčné hovory z domu s pozadím, ktoré nechcete, aby ostatní videli. Môžete nastaviť úroveň rozostrenia aplikovanú na pozadie. Tento nástroj vám umožní zistiť, ako dobre efekt rozostrenia pozadia funguje s vašou <strong>webkamerou</strong> a kamerovou aplikáciou. To je obzvlášť užitočné pre webových vývojárov, digitálnych marketérov a pre každého, kto vytvára video obsah."
+      },
+      "motionDetection": {
+        "title": "Detekcia pohybu pre bezpečnostné testovanie",
+        "description": "Ak chcete skontrolovať, ako vaša <strong>webkamera</strong> reaguje na pohyb, použite našu detekciu pohybu v reálnom čase. V pokročilom režime môžete vidieť živý percentuálny ukazovateľ pohybu vo vašom videu. Použite toto na testovanie pohybu bezpečnostných kamier, konfiguráciu sledovacích systémov alebo testovanie kamier s aktiváciou pohybom. Detektor pohybu analyzuje video snímok po snímke na zistenie množstva pohybu. To umožňuje skontrolovať, aká dobrá je kamera a akú citlivosť potrebujete. Užitočné pre testovanie domácej bezpečnosti, monitorovania domácich zvierat a detských monitorov."
+      },
+      "faceDetection": {
+        "title": "Detekcia a sledovanie tváre",
+        "description": "Otestujte schopnosť vašej webkamery detegovať tváre. V pokročilom režime kreslíme ohraničujúce rámčeky okolo tvárí a počítame ich. Náš nástroj na detekciu tváre používa FaceDetector API, keď je k dispozícii vo vašom prehliadači, na detekciu viacerých tvárí v snímke. Použite tento nástroj na testovanie funkcionality vašej <strong>kamery</strong> pre automatické rámovanie vo videokonferenciách alebo na zistenie, ako zvláda viac ako jednu tvár. Tvorcovia video obsahu môžu zistiť, či ich kamera správne deteguje tváre na účely automatického zaostrovania, a profesionáli môžu skontrolovať, či ich zasadačka pre viac osôb funguje podľa očakávania."
+      },
+      "sideBySide": {
+        "title": "Režim vedľa seba: Porovnanie dvoch kamier",
+        "description": "Režim vedľa seba vám umožňuje porovnať 2 webkamery vedľa seba. Je užitočný na testovanie viacerých webkamier súčasne. Ak máte vstavanú webkameru a externú USB webkameru, môžete ich zobraziť vedľa seba súčasne. Je tiež veľmi užitočný pri výbere webkamery na kúpu. Môžete porovnať kvalitu obrazu, farebnú presnosť, výkon pri slabom osvetlení a zorné pole v reálnom čase. Je to skvelý nástroj pre streamerov a YouTuberov."
+      }
+    },
+    "videoQuality": {
+      "title": "Vysvetlenie nastavení kvality videa webkamery",
+      "intro": "Rozlíšenie určuje ostrosť videa, ktoré vaša webkamera produkuje. Tu je porovnanie výkonu jednotlivých nastavení v našom teste rozlíšenia webkamery:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Toto je najnižšie nastavenie kvality, vhodné vtedy, keď chcete len otestovať, či váš stream funguje, a vaše internetové pripojenie je slabé. Vaše video bude rozmazané, ale je skvelé na overenie, či vaša kamera aspoň streamuje."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Nízka kvalita, malá spotreba šírky pásma. Dá sa uskutočniť videohovor v nízkom rozlíšení, ak vám príliš nezáleží na kvalite. Stále rozoznáte tváre, ale nič viac."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "– Štandardné rozlíšenie. Toto je stredná cesta medzi kvalitou a šírkou pásma. Väčšina aplikácií pre videochat a streamovanie to môže využiť. Toto je typické rozlíšenie väčšiny starších webkamier."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Toto rozlíšenie poskytuje vysoko kvalitný video konferenčný obraz, čo je skvelé pre profesionálne použitie. Ponúka ostré obrazy a slušnú farebnú kvalitu. Toto je najpoužívanejšie rozlíšenie vo videokonferenčných aplikáciách ako Zoom, Teams a Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Toto je najvyššie rozlíšenie, ktoré nájdete vo webkamere, a je ideálne pre ľudí, ktorí chcú vytvárať vysokokvalitný obsah, streamovať alebo potrebujú najlepšiu možnú kvalitu videa. Vyžaduje väčšiu šírku pásma a výpočtový výkon, ale získate ostrý a profesionálny obraz."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Rozlíšenie Quad HD s vynikajúcimi detailmi a jasnosťou. Skvelé pre profesionálnych tvorcov obsahu, streamerov, ktorí vyžadujú vysokú úroveň kvality obrazu, a tých s 4K monitormi, ktorí chcú natívne rozlíšenie. Sú potrebné kvalitné webkamery a značná šírka pásma."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra High Definition so štvornásobným počtom pixelov oproti 1080p. Profesionálna kvalita pre tvorcov obsahu, filmárov a prémiové streamovanie. Vyžaduje prémiové webkamery, výkonný počítačový hardvér a vysokorýchlostný internet. Ideálne pre budúce nahrávky a maximalizáciu detailov pre digitálny zoom a orezávanie."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "Maximálne možné rozlíšenie. Má 16-krát viac pixelov ako 1080p. Toto sa typicky používa pre veľmi kvalitné profesionálne webkamery alebo pre ľudí, ktorí používajú DSLR/bezzrkadlovky ako webkamery. Budete potrebovať extrémne kvalitnú webkameru alebo DSLR/bezzrkadlovku, extrémne výkonný počítač a extrémne rýchle pripojenie. Toto by sa malo používať len vtedy, keď potrebujete kvalitu na kinematografickej úrovni, alebo keď máte extrémne veľký monitor, alebo ak chcete výrazne digitálne priblížiť."
+        }
+      },
+      "tip": "Ak robíte test webkamery, najskôr otestujte s rozlíšením 720p, aby ste sa uistili, že vaša kamera funguje s vysokým rozlíšením, a potom otestujte akékoľvek iné rozlíšenie, ktoré potrebujete."
+    },
+    "frameRate": {
+      "title": "Snímková frekvencia a plynulý výkon videa",
+      "intro": "Snímková frekvencia je frekvencia (rýchlosť), akou zobrazovacie zariadenie produkuje jedinečné po sebe idúce snímky. Snímková frekvencia sa vyjadruje v snímkach za sekundu (FPS). Čím vyššia snímková frekvencia, tým plynulejšie video vyzerá, najmä pri pohybe. Náš online nástroj na test webkamery kontroluje skutočné FPS vašej webkamery, aby ukázal, či vaša webkamera má nejaké problémy.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Prijateľné pre videokonferencie. Pohyb vyzerá trochu trhane. Môže to byť spôsobené lacnou kamerou, slabým osvetlením alebo nedostatočným výkonom procesora."
+        },
+        "30fps": {
+          "title": "24 – 30 FPS",
+          "description": "– Toto je typická snímková frekvencia pre webkamery a väčšinu videokonferenčných aplikácií. Pohyb je plynulý a realistický. Toto je tiež ideálna snímková frekvencia pre profesionálnu videokonferenciu."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Vysoká snímková frekvencia, ktorá umožňuje ešte plynulejší pohyb. Ideálne pre streamerov a YouTuberov, kde je plynulosť pohybu kľúčová. Upozorňujeme, že nie všetky webkamery podporujú 60 FPS a spotreba šírky pásma bude vyššia."
+        }
+      },
+      "tip": "Ak výsledok testu vašej webkamery ukazuje nízku snímkovú frekvenciu, zvážte použitie nižšieho rozlíšenia alebo zlepšite osvetlenie. Svetlo môže byť problém pre webkamery, pretože môžu znížiť snímkovú frekvenciu, aby mohli predĺžiť čas expozície."
+    },
+    "lighting": {
+      "title": "Tipy pre lepšie vyzerajúce video z webkamery",
+      "intro": "Osvetlenie je najdôležitejšou premennou, pokiaľ ide o kvalitu videa z webkamery. Lacná webkamera s vynikajúcim osvetlením bude vyzerať lepšie ako drahá webkamera so zlým osvetlením.",
+      "tips": {
+        "position": {
+          "title": "Svetlo pred vami",
+          "description": "Zdroj svetla by mal byť pred vami, nie za vami. Podsvietenie (napríklad keď sedíte pred oknom) spôsobí, že vaša tvár bude tmavá a tienistá."
+        },
+        "soft": {
+          "title": "Zjemnite svetlo",
+          "description": "Vyhýbajte sa priamemu osvetleniu, ktoré spôsobuje silné tiene a presvetlené miesta. Viacero zdrojov svetla alebo svetlo prichádzajúce cez veľké okná je vždy mäkké a vytvára profesionálnejšie vyzerajúce obrazy."
+        },
+        "flicker": {
+          "title": "Vyhýbanie sa blikajúcim žiarovkám",
+          "description": "Niektoré LED žiarovky a žiarivky blikajú na frekvencii, ktorú vaša kamera zachytí, a vo videu sa objaví blikanie. Skúste použiť žiarovky alebo kvalitné LED žiarovky vhodné na video."
+        },
+        "color": {
+          "title": "Teplota farby je ďalším faktorom, ktorý treba zvážiť.",
+          "description": "Zabezpečte, aby všetky zdroje svetla mali rovnakú farebnú teplotu. Zmiešanie teplého a studeného svetla vyzerá neprirodzene. Webkamery zvyčajne vyzerajú lepšie pod svetlom s dennou teplotou (5000 – 6500 K)."
+        }
+      },
+      "tip": "Otestujte náš test webkamery s viacerými zdrojmi svetla, aby ste zistili, či sa obraz vašej webkamery zlepší. Vďaka živému náhľadu môžete testovať rôzne svetelné nastavenia a zistiť, čo pre vás funguje najlepšie."
+    },
+    "types": {
+      "title": "Typy webkamier a čo od nich očakávať",
+      "builtIn": {
+        "title": "Vstavané webkamery v notebookoch",
+        "description": "Notebooky majú takmer vždy webkameru zabudovanú v hornej časti obrazovky. Väčšinou ide o 720p kamery a fungujú dobre na príležitostný videochat. Kvalita sa však môže výrazne líšiť v závislosti od notebooku, ktorý vlastníte. Všeobecne platí, že drahšie notebooky majú lepšie webkamery."
+      },
+      "usb": {
+        "title": "USB webkamery",
+        "description": "Existujú aj externé webkamery, ktoré sa pripájajú cez USB. Ak hľadáte niečo lepšie ako integrovanú kameru, základný model vám poskytne 1080p pri 30 FPS, ale top modely ponúkajú až 4K, 60 FPS, s automatickým zaostrením, kompenzáciou slabého osvetlenia atď."
+      },
+      "streaming": {
+        "title": "Streamovacie kamery:",
+        "description": "Kamery vyrobené pre streamerov sa zameriavajú na kvalitu obrazu s väčšími snímačmi, zlepšenou citlivosťou pri slabom osvetlení a vylepšenou farebnou vedou. HDR a nastavenia zorného poľa sú bežné."
+      },
+      "dslr": {
+        "title": "Možnosť 1: DSLR/bezzrkadlovka ako webkamera",
+        "description": "Mnoho nových fotoaparátov sa dá použiť ako webkamera cez USB alebo so záznamovou kartou. To vám poskytne najkvalitnejší obraz, ale tiež vyžaduje najviac vybavenia a konfigurácie."
+      },
+      "tip": "Ak si nie ste istí, či vaša kamera funguje s naším nástrojom, náš komplexný test webkamery je kompatibilný so všetkými typmi kamier. Neváhajte ho použiť na porovnanie rôznych webkamier alebo jednoducho na overenie, že vaša nová webkamera funguje po pripojení."
+    },
+    "troubleshooting": {
+      "title": "Potrebujete pomoc s opravou webkamery?",
+      "intro": "Ak ste spustili test a zistili problém, postupujte podľa týchto krokov na identifikáciu a opravu najčastejších problémov:",
+      "blackScreen": {
+        "title": "Webkamera zobrazuje čiernu obrazovku",
+        "issues": [
+          "Skontrolujte, či nemáte fyzickú prekážku (ako posuvný kryt súkromia, náplasť alebo kúsok pásky) na objektíve kamery",
+          "Skontrolujte, či iná aplikácia (Skype, Zoom, Teams atď.) momentálne nepoužíva kameru na pozadí. Zatvorte tieto aplikácie a skúste tento test webkamery znova.",
+          "Ak problémy pretrvávajú, skúste reštartovať prehliadač a test webkamery zopakovať.",
+          "Ak používate externú USB webkameru, skúste ju zapojiť do iného USB portu.",
+          "Aktualizujte alebo preinštalujte ovládače kamery."
+        ]
+      },
+      "blurry": {
+        "title": "Video z webkamery je rozmazané",
+        "issues": [
+          "Vyčistite objektív webkamery handričkou z mikrovlákna.",
+          "Ak má vaša webkamera zaostrovací prstenec, skúste manuálne nastaviť zaostrenie.",
+          "Uistite sa, že je dostatok svetla, aby vaša kamera mohla automaticky zaostrovať.",
+          "Posuňte sa trochu bližšie alebo ďalej od webkamery a pozorujte, či sa obraz zlepší."
+        ]
+      },
+      "colors": {
+        "title": "Farby webkamery vyzerajú nesprávne",
+        "issues": [
+          "Ste v odlišných svetelných podmienkach? Prirodzené a umelé osvetlenie môžu mať rôzne farebné tóny.",
+          "Skúste upraviť vyváženie bielej v nastaveniach webkamery, ak je k dispozícii.",
+          "Máte na sebe niečo alebo máte okolo seba niečo s dominantnou farbou, čo môže spôsobovať farebné odliatky? Skúste to odstrániť."
+        ]
+      },
+      "choppy": {
+        "title": "Video je trhané alebo oneskorené",
+        "issues": [
+          "Znížte kvalitu videa v nastaveniach tohto nástroja na test webkamery.",
+          "Skúste zatvoriť všetky ostatné aplikácie, ktoré spotrebúvajú výkon procesora alebo grafickej karty.",
+          "Zlepšite svetelné podmienky, aby ste znížili zaťaženie kamery.",
+          "Ak používate externú USB webkameru, pripojte ju priamo k počítaču namiesto USB rozbočovača."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Testovanie webkamery pre konkrétne platformy",
+      "zoom": {
+        "title": "Videokonferencie Zoom",
+        "description": "Použite tento test webkamery na overenie, že vaša kamera funguje správne pred dôležitým stretnutím na Zoom. Uistite sa, že kvalita videa je dostatočná pri 720p (čo je predvolená kvalita pre väčšinu stretnutí na Zoom). Zabezpečte, aby bolo vaše osvetlenie dostatočné a vaša pozícia v zábere webkamery bola dobrá pred pripojením k hovoru na Zoom."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "Na stretnutiach je k dispozícii 1080p HD video. Otestujte kameru pri rôznych rozlíšeniach, aby ste potvrdili, že vaša kamera podporuje rozlíšenie videa pre Teams. Otestujte pozadie pre profesionálnu kvalitu v režime Together Mode a virtuálnom pozadí."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet automaticky prispôsobuje kvalitu videa podľa sieťových podmienok. Otestujte minimálne pri 720p, aby ste sa uistili, že vaša kamera spĺňa minimálne požiadavky Google Meet na vysokokvalitný prenos videa."
+      },
+      "streaming": {
+        "title": "Streamovanie (Twitch/YouTube)",
+        "description": "Otestujte pri maximálnom rozlíšení, ktoré vaša webkamera zvládne (najlepšie 1080p60). Uistite sa, že snímková frekvencia je stabilná, a pozrite sa, ako dobre vaša kamera zvláda rýchle pohyby a rôzne svetelné podmienky."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Ak používate Discord na videohovory, je potrebné mať webkameru schopnú rozlíšenia 720p. Chcete sa uistiť, že kamera, ktorú máte, je vhodná pre váš počítač a pre herné relácie a komunitné hovory. Tým tiež zabezpečíte, že vaša kamera nezaberá príliš veľa šírky pásma a nebráni vám v hraní."
+      }
+    },
+    "relatedTools": {
+      "title": "Súvisiace nástroje a zdroje",
+      "alsoTry": "Vyskúšajte tiež:",
+      "alsoTryLinks": ["Test webkamery a mikrofónu", "Otestovať mikrofón", "Test mikrofónu", "Test nahrávania zvuku", "Skontrolovať mikrofón online"],
+      "onThisPage": "Na tejto stránke:",
+      "onThisPageLinks": ["Ako otestovať webkameru", "Nastavenia kvality videa", "Riešenie problémov s kamerou", "Oprava nefunkčnej webkamery", "Najlepšie nastavenia webkamery"]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Fungoval vám mikrofón? Použite náš rýchly a jednoduchý <strong>test mikrofónu</strong>, aby ste sa uistili, že váš <strong>mikrofón funguje</strong> správne. Tento <strong>online test mikrofónu</strong> vám tiež ukáže úrovne mikrofónu, frekvenčné spektrum a nahrá váš zvuk. Na <strong>otestovanie mikrofónu</strong> nie je potrebný žiadny softvér ani zásuvný modul. <strong>Otestujte svoj mikrofón</strong> teraz, predtým ako začnete vysielať, spustíte videohovor alebo nahráte podcast.",
+      "p2": "Stlačte tlačidlo \u201ESpustiť mikrofón a nahrávanie\u201C vyššie pre kontrolu mikrofónu. Úrovne zvuku sa zobrazujú v reálnom čase, takže môžete vidieť, či váš mikrofón zachytáva zvuk podľa očakávania. 32-pásmový graf zvukových frekvencií vám umožňuje vidieť, ako dobre váš mikrofón zachytáva jednotlivé frekvencie zvuku. To je obzvlášť užitočné, ak ste podcaster alebo hudobník, pretože to umožňuje používať zariadenie, ktoré dokáže zachytiť všetky frekvencie jasne."
+    },
+    "howToTest": {
+      "title": "Ako otestovať mikrofón",
+      "intro": "Vykonajte tieto kroky pre kompletný <strong>test mikrofónu</strong>:",
+      "steps": [
+        "<strong>Povoľte prístup k mikrofónu:</strong> Povoľte prehliadaču používať váš mikrofón. Ak sa zobrazí dialógové okno so žiadosťou o povolenie prístupu k mikrofónu, kliknite na Povoliť. Ak prehliadač používate prvýkrát, možno budete musieť kliknúť na ikonu štítu v adresnom riadku a potom vybrať mikrofón, aby ste povolili prístup stránke.",
+        "<strong>Vyberte mikrofón (ak je potrebné):</strong> Z rozbaľovacích možností vyberte požadovaný mikrofón (mikrofón počítača, externý mikrofón atď.). <strong>Online test mikrofónu</strong> sa dá vykonať iba s jedným mikrofónom naraz.",
+        "<strong>Nastavte vzorkovaciu frekvenciu a kanály:</strong> Vyberte vzorkovaciu frekvenciu mikrofónu (44,1 kHz pre štandardnú kvalitu a 48 kHz pre vyššiu kvalitu). Vyberte mono alebo stereo kanál podľa toho, čo chcete dosiahnuť.",
+        "<strong>Nahrajte test mikrofónu:</strong> Kliknite na tlačidlo nahrávať pre spustenie <strong>testu mikrofónu</strong>. Automaticky sa začne nahrávať, aby ste si neskôr mohli vypočuť prehrávanie a zistiť, ako váš mikrofón znie.",
+        "<strong>Sledujte merač úrovne mikrofónu:</strong> Počas <strong>testu mikrofónu</strong> sledujte merač úrovne mikrofónu, keď hovoríte do mikrofónu. Ak vás správne nahráva, merač by sa mal pohybovať podľa hlasitosti vášho hlasu. Zelená farba značí ideálnu úroveň hlasitosti, žltá vyššiu úroveň hlasitosti a červená hlasitosť, ktorá je príliš hlasná a potenciálne orezáva signál.",
+        "<strong>Skúste hovoriť rôznou hlasitosťou:</strong> Vykonajte <strong>test mikrofónu</strong> hovorením normálnym hlasom a potom veľmi tichým a hlasným hlasom. Pomôže vám to vidieť, aký citlivý je váš mikrofón na rôzne hlasitosti.",
+        "<strong>Prehrajte nahrávku:</strong> Po vykonaní <strong>online testu mikrofónu</strong> si prehrajte nahrávku, aby ste počuli, ako mikrofón znie. Pomôže vám to identifikovať problémy, ktoré by ste si nevšimli len na merači úrovne mikrofónu."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Pokročilé funkcie",
+      "intro": "Či už riešite, prečo váš mikrofón nefunguje, alebo hľadáte najlepší výkon pre dôležité stretnutie či živý prenos, na tejto stránke si môžete otestovať niekoľko pokročilých funkcií:",
+      "inputGain": {
+        "title": "Optimálne vstupné zosilnenie",
+        "description": "Nakonfigurujte zosilnenie mikrofónu medzi 50 % a 150 % pomocou našich prednastavených možností alebo priebežne pomocou posuvníka. Kontrola nad vstupným zosilnením je obzvlášť dôležitá pre tých, ktorí nahrávajú zvuk pre podcasty, kde je žiaduci konzistentný zvuk medzi epizódami, pre hudobníkov (hlas aj nástroje) a pre streamerov, ktorí sú citliví na orezávanie a skreslenie. Vyberte prednastavenie Nízke (50 %) pre prostredia, ktoré sú príliš hlučné, alebo ak máte citlivý kondenzátorový mikrofón, Normálne (100 %) pre väčšinu prípadov a Zosilnenie (150 %) pre tichšie zdroje, ktoré potrebujú väčšie zosilnenie. Naše priebežné ovládanie zosilnenia využíva GainNode Web Audio API na zosilnenie bez zavedenia šumu alebo oneskorenia."
+      },
+      "noiseSuppression": {
+        "title": "Aplikujte potlačenie šumu pre čisté nahrávky",
+        "description": "Ak chcete odstrániť zvuky písania, klikania myši, ventilátorov, klimatizácie a podobné zvuky z nahrávky, zapnite potlačenie šumu a skúste to znova. Funguje vo vašom prehliadači a dá sa použiť na vyčistenie hlučných nahrávok z práce na diaľku, podcastov, domácich nahrávok, videí atď. a nepotrebujete noise gate ani plugin na redukciu šumu. Potlačenie šumu využíva Web Audio API na potlačenie šumu priamo na mikrofóne, takže nezvyšuje zaťaženie procesora ani nepridáva oneskorenie. Môžete otestovať s potlačením šumu aj bez neho, aby ste zistili, čo pre váš mikrofón funguje lepšie."
+      },
+      "echoCancellation": {
+        "title": "Prečo je to užitočné: Potlačenie ozveny",
+        "description": "odstraňuje akustickú spätnú väzbu a ozvenu z vášho mikrofónu pred testom. To je dôležité pre videohovory, rozhovory v podcastoch a živé vysielanie, keď zvuk z vašich reproduktorov môže byť zachytený vaším mikrofónom. Použite prednastavenia na zapnutie potlačenia ozveny na otestovanie mikrofónu s touto funkciou. To vám pomôže rozhodnúť sa, či potrebujete akusticky upraviť svoju nahrávaciu miestnosť, alebo či sa môžete spoľahnúť na potlačenie ozveny v prehliadači. Užitočné pre: vzdialených pracovníkov, podcasterov vedúcich rozhovory a kohokoľvek, kto nahráva v miestnosti s množstvom tvrdých povrchov (ktoré môžu odrážať zvuk)."
+      },
+      "autoGainControl": {
+        "title": "Udržujte konzistentnú hlasitosť pomocou AGC",
+        "description": "AGC robí úroveň vášho mikrofónu hlasnejšou a konzistentnejšou. Ak ste tichí, zosilní vás. Ak ste hlasní, stíši vás. Je to skvelé pre streamerov, pretože v hlasných momentoch sa nemusíte obávať, že budete príliš hlasní. Je to tiež dobré pre podcasterov, ak sa vzďaľujete od mikrofónu. Tiež je to skvelé pre videokonferencie, ak chcete znieť profesionálne. Zaškrtnite toto políčko a pozrite sa, či AGC funguje dobre s vaším prehliadačom a mikrofónom. Ak radi nahrávate hudbu alebo ASMR, možno budete chcieť túto funkciu nechať vypnutú."
+      },
+      "realtimeMeter": {
+        "title": "Monitorujte úrovne zvuku v reálnom čase.",
+        "description": "Merač úrovní zobrazuje RMS (Root Mean Square – efektívnu hodnotu) zvukového signálu, čím ukazuje skutočnú úroveň zvuku. Zobrazuje sa aj špička, kde úroveň začne orezávať signál. Merač úrovní má tri sekcie: zelenú, žltú a červenú. Zelená zóna je optimálna úroveň, medzi -12 a -6 dB. Žltá zóna je medzi -6 a -3 dB a červená zóna je čokoľvek nad -3 dB, keď sa váš zvuk bude orezávať. Použite tento merač na uistenie, že váš mikrofón je správne umiestnený. Použite ho na úpravu hlasitosti vášho hlasu. Použite ho na monitorovanie úrovne zvuku pred stlačením nahrávania, aby ste vedeli, že vaše úrovne nebudú orezávať. Podcasteri to používajú na zosúladenie úrovní medzi epizódami. Hudobníci to používajú na nastavenie zosilnenia mikrofónov. Vzdialení pracovníci to používajú na uistenie, že sú počuteľní, ale nie príliš hlasní."
+      },
+      "frequencySpectrum": {
+        "title": "Analýza frekvenčného spektra",
+        "description": "Analýza frekvenčného spektra frekvenčnej odozvy mikrofónu v reálnom čase. Použite 32-pásmové spektrum na zistenie, ktoré frekvencie váš mikrofón zachytáva. Nadmerné dunenie (20 – 250 Hz)? Zakalené stredné frekvencie (250 Hz – 2 kHz)? Ostré sykavky (6 kHz – 8 kHz)? Toto používajú zvukoví inžinieri na hodnotenie mikrofónov a miestností, podcasteri na nájdenie problematických frekvencií, ktoré je potrebné ekvalizovať, a hudobníci na určenie, ktorý mikrofón najlepšie funguje pre ich hlas alebo nástroj. Aktualizácie v reálnom čase vám umožňujú analyzovať vašu polohu, vzdialenosť a okolie."
+      },
+      "sideBySide": {
+        "title": "Porovnanie dvoch mikrofónov vedľa seba",
+        "description": "Vyberte možnosť porovnania vedľa seba na použitie dvoch mikrofónov naraz. To je obzvlášť užitočné, ak máte pripojené dva mikrofóny (napríklad vstavaný mikrofón notebooku a USB mikrofón) a chcete ich vidieť vedľa seba na porovnanie kvality zvuku, úrovne šumu, frekvenčnej odozvy a citlivosti každého z nich. To je užitočné pri výbere mikrofónu na kúpu, testovaní rôznych umiestnení mikrofónu alebo rozhodovaní, ktorý mikrofón použiť pre váš podcast alebo stream. Používam to na presvedčenie sa, že kúpa nového mikrofónu stojí za to, zvukoví dizajnéri to používajú na nájdenie páru k inému mikrofónu pre stereo nahrávanie a IT oddelenie spoločnosti to môže použiť na testovanie mikrofónov pred ich nasadením v celej spoločnosti. Na použitie vyberte nastavenie porovnania, zvoľte druhý mikrofón a oba sa zobrazia vedľa seba s výsledkami v reálnom čase."
+      },
+      "snrMeasurement": {
+        "title": "Meranie pomeru signálu k šumu (SNR)",
+        "description": "Zelené číslo zobrazuje váš aktuálny SNR. 60 dB je minimálna odporúčaná hodnota pre profesionálne nahrávanie, 50 – 60 dB je minimum pre vysielanie a podcasty a 40 – 50 dB je prijateľné pre videochaty a návody. Dobrý SNR vám povie, či je váš mikrofón dostatočne kvalitný na to, čo chcete robiť, či je vaša miestnosť príliš hlučná, alebo či potrebujete pridať akustické panely. Kliknite na tlačidlo \u201EPokročilé\u201C v pravom hornom rohu obrazovky pre zobrazenie SNR, úrovne šumu a dynamického rozsahu počas merania. Toto je užitočné meranie pre podcasterov, ktorí sa chcú uistiť, že ich vysielanie spĺňa vysielacie štandardy, hudobníkov, ktorí chcú zhodnotiť nastavenie domáceho štúdia, a pre každého, komu záleží na kvalite zvuku."
+      }
+    },
+    "audioLevels": {
+      "title": "Vysvetlenie úrovní zvuku",
+      "intro": "Merač úrovne zvuku v teste mikrofónu vyššie poskytuje vizuálnu reprezentáciu úrovne hlasitosti vstupu mikrofónu. Je dôležité vedieť, čo každá úroveň znamená, aby ste dodali vynikajúci zvuk:",
+      "green": {
+        "title": "Zelená zóna (0 – 50 %)",
+        "description": "Prijateľné úrovne zvuku pre väčšinu prípadov. Zniete hlasno a zreteľne a máte dostatok priestoru na zosilnenie bez orezávania. Snažte sa zostať v tomto rozsahu pre videohovory a inú komunikáciu."
+      },
+      "yellow": {
+        "title": "Žltá zóna (50 – 80 %)",
+        "description": ": Vysoké úrovne zvuku, ktoré sú stále prijateľné. Dobré pre nahrávanie, keď chcete silný, prítomný zvuk. Náhle hlasné zvuky však môžu spôsobiť orezávanie."
+      },
+      "red": {
+        "title": "Červená zóna (80 – 100 %)",
+        "description": ": Toto je nebezpečná zóna, kde bude váš zvuk pravdepodobne skreslený (orezaný). Ak ste často v červenej, mali by ste znížiť hlasitosť mikrofónu v ovládacom paneli alebo sa od mikrofónu vzdialiť."
+      },
+      "peak": {
+        "title": "Úroveň špičky:",
+        "description": "Najvyššia úroveň dosiahnutá počas vašej relácie. To je užitočné na kontrolu, či krátke hlasné udalosti spôsobujú orezávanie, keď sú priemerné úrovne v poriadku."
+      },
+      "rms": {
+        "title": "Úroveň RMS",
+        "description": "– Priemerná hlasitosť v čase. Oveľa dôležitejšia ako špička, pokiaľ ide o vnímanú hlasitosť. Chcete, aby vaše úrovne RMS boli v zelenej pre konzistentne hlasný, ale stále príjemne znejúci zvuk."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Analýza frekvenčného spektra",
+      "intro": "Náš test mikrofónu obsahuje 32-pásmový analyzátor frekvenčného spektra, ktorý zobrazuje rozloženie zvukového signálu naprieč rôznymi frekvenciami. Toto je profesionálny nástroj, ktorý vám umožňuje analyzovať frekvenčnú odozvu mikrofónu a diagnostikovať rôzne problémy:",
+      "low": {
+        "title": "Nízke frekvencie (20 – 250 Hz)",
+        "description": "Toto sú basové frekvencie, ktoré pridávajú telo a teplo vášmu hlasu. Nadmerná energia nízkych frekvencií môže spôsobiť, že vaša nahrávka bude znieť zakalene alebo dunivo. To je často výsledkom príliš blízkeho umiestnenia k mikrofónu. (Proximálny efekt.)"
+      },
+      "mid": {
+        "title": "Stredné frekvencie (250 – 4000 Hz)",
+        "description": "Väčšina jasnosti vášho hlasu leží tu. Táto oblasť by mala byť výrazná a definovaná. Ak tento rozsah chýba, váš hlas bude znieť slabo alebo vzdialene."
+      },
+      "high": {
+        "title": "Vysoké frekvencie (4000 – 20000 Hz)",
+        "description": "Jas a zreteľnosť. Dobre vyvážené vysoké frekvencie reprodukujú reč ostro a zrozumiteľne. Príliš veľa vysokých frekvencií znie sykavo alebo sibilantne (zvuk \u201Etzz\u201C)."
+      },
+      "tip": "Pozorujte merač frekvencií počas rozprávania. Ak zobrazuje rovnomerné rozloženie frekvencií, mikrofón je v dobrej polohe a pravdepodobne zachytáva prirodzený zvuk. Ak zobrazuje príliš veľa aktivity v nízkych frekvenciách, možno sa budete musieť od mikrofónu trochu vzdialiť."
+    },
+    "sampleRates": {
+      "title": "Nastavenia vzorkovacej frekvencie",
+      "intro": "Vzorkovacia frekvencia je počet zvukových vzoriek zaznamenaných za sekundu. Čím vyššia vzorkovacia frekvencia, tým viac detailov zvuk má, ale tiež zaberá viac prostriedkov na spracovanie a uloženie:",
+      "rates": {
+        "22khz": {
+          "title": "22,05 kHz",
+          "description": "Nízka kvalita. Iba pre hlas. Veľmi nízka spotreba šírky pásma, ale slabá frekvenčná odozva. Zvyčajne by sa malo vyhnúť."
+        },
+        "44khz": {
+          "title": "44,1 kHz (kvalita CD)",
+          "description": "– Vhodné pre všeobecné použitie. Zaznamenáva všetky frekvencie, ktoré ľudské ucho počuje (20 Hz – 20 kHz). Skvelé pre videokonferencie, podcasty a hudbu."
+        },
+        "48khz": {
+          "title": "48 kHz (profesionálny štandard):",
+          "description": "Veľmi podobné 44,1 kHz, ale s mierne vyššou kvalitou. Toto je štandard pre video/film a vysielanie. Použite toto, ak budete synchronizovať zvuk s videom."
+        }
+      },
+      "tip": "Vo všeobecnosti je 44,1 kHz dostatočné pre väčšinu testov mikrofónu. Ak ste seriózny zvukový profesionál a chcete najvyššiu kvalitu (alebo ju potrebujete na synchronizáciu s video materiálom), môžete použiť 48 kHz."
+    },
+    "types": {
+      "title": "Typy mikrofónov",
+      "builtIn": {
+        "title": "Vstavané mikrofóny v notebookoch:",
+        "description": "Toto sú mikrofóny zabudované vo vašom notebooku. Sú pohodlné, ale zvyčajne nižšej kvality. Môžete počuť písanie na klávesnici a ventilátor z vášho počítača. Stále ich môžete používať, len umiestnite notebook tak, aby mikrofón smeroval k vám. Pre videochat s priateľmi alebo rodinou sú dostačujúce, ale na nahrávanie komentárov ich pravdepodobne nebudete chcieť použiť."
+      },
+      "usb": {
+        "title": "USB mikrofóny:",
+        "description": "Tu sú naše top odporúčania USB mikrofónov pre Mac aj PC. Slušný USB mikrofón urobí obrovský rozdiel v porovnaní s interným mikrofónom počítača. Blue Yeti a Audio-Technica AT2020 USB sú dva z najpopulárnejších USB mikrofónov a znejú fantasticky. Ideálne pre podcasty, Twitch streamovanie alebo videohovory."
+      },
+      "headset": {
+        "title": "Herné headsety a slúchadlá:",
+        "description": "Ak chcete headset alebo slúchadlá na hranie, môžete zvážiť aj tieto možnosti. Sú pohodlnejšie na použitie a poloha mikrofónu zostáva rovnaká zakaždým. Samozrejme, čím lepší (a drahší) headset alebo slúchadlá, tým lepšia bude kvalita. Sú skvelé na herné účely a príležitostné telefonovanie."
+      },
+      "condenser": {
+        "title": "Kondenzátorové mikrofóny",
+        "description": "Citlivé mikrofóny, ktoré zachytávajú bohatý, detailný zvuk. Vyžadujú starostlivé umiestnenie a akustickú úpravu. Najlepšie pre profesionálne nahrávanie, dabing a hudobnú produkciu."
+      },
+      "dynamic": {
+        "title": "Dynamické mikrofóny:",
+        "description": "Robustné a výborné v potlačení šumu v pozadí. Často sa používajú na podcasty a streamovanie vďaka ich tolerancii voči domácemu prostrediu. Nie sú tak citlivé ako kondenzátorové, ale sú pohodlnejšie."
+      },
+      "tip": "Náš test mikrofónu je kompatibilný so všetkými typmi mikrofónov. Môžete ho použiť na otestovanie viacerých mikrofónov, vyskúšanie nového hardvéru alebo riešenie problémov."
+    },
+    "bestPractices": {
+      "title": "Osvedčené postupy pri nahrávaní mikrofónom",
+      "distance": {
+        "title": "Vzdialenosť.",
+        "description": "15 – 30 cm od úst. Bližšie: Zvuk je viac basový (proximálny efekt) a zachytáva dýchanie. Ďalej: Tenší zvuk a zachytáva šum miestnosti."
+      },
+      "popFilter": {
+        "title": "Investujte do pop filtra:",
+        "description": "Explozívy (P, B, T) vytvárajú vzduchové nárazy, ktoré spôsobujú skreslenie. Umiestnite pop filter medzi seba a mikrofón a zmiznú. Ak plánujete robiť podcasty alebo dabing, je to nevyhnutnosť."
+      },
+      "background": {
+        "title": "Minimalizujte šum v pozadí",
+        "description": "— Vypnite ventilátor, zatvorte okno, stíšte telefón. Vykonajte test mikrofónu v prostredí, kde budete nahrávať. Je veľa šumu, o ktorom ani nevieme."
+      },
+      "acoustics": {
+        "title": "Nezabúdajte na akustiku miestnosti",
+        "description": "Nechcete nahrávať v priestore s množstvom tvrdých, hladkých povrchov — to vytvorí ozvenu a dozvuk. Potrebujete mäkké povrchy, ktoré absorbujú zvukové odrazy (závesy, koberce, akustické panely). Môžete dokonca nahrávať v skrini plnej oblečenia, čo môže urobiť obrovský rozdiel."
+      },
+      "positioning": {
+        "title": "Konzistentnosť je kľúčová!",
+        "description": "Ak zistíte, že mikrofón na jednom mieste znie dobre, nechajte ho tam po celú dobu nahrávania. Môžete investovať do mikrofónového ramena alebo stojanu, ak chcete zabrániť pohybu mikrofónu. Môžete si dokonca nakresliť kruh na stole, aby ste ukázali, kde by mal byť mikrofón umiestnený na dosiahnutie rovnakého dobrého zvuku."
+      }
+    },
+    "troubleshooting": {
+      "title": "Riešenie problémov s mikrofónom",
+      "noAudio": {
+        "title": "Nebol zistený žiadny zvuk:",
+        "issues": [
+          "Overte, či sú v nastaveniach prehliadača udelené povolenia mikrofónu",
+          "Skontrolujte, či je v rozbaľovacej ponuke vybrané správne vstupné zariadenie",
+          "Uistite sa, že mikrofón nie je stlmený v hardvéri alebo systémových nastaveniach",
+          "Pre USB mikrofóny skúste iný port",
+          "Zatvorte ostatné aplikácie, ktoré môžu používať mikrofón"
+        ]
+      },
+      "quiet": {
+        "title": "Zvuk je príliš tichý:",
+        "issues": [
+          "Zvýšte úroveň vstupu mikrofónu v systémových nastaveniach",
+          "Priblížte sa k mikrofónu",
+          "Skontrolujte ovládanie zosilnenia priamo na mikrofóne",
+          "Uistite sa, že hovoríte smerom k snímaciemu vzoru mikrofónu"
+        ]
+      },
+      "distorted": {
+        "title": "Zvuk je skreslený alebo orezáva:",
+        "issues": [
+          "Znížte úroveň vstupu mikrofónu v systémových nastaveniach",
+          "Mierne sa od mikrofónu vzdiaľte",
+          "Skontrolujte, či na mikrofóne nie sú fyzické prekážky alebo nečistoty"
+        ]
+      },
+      "echo": {
+        "title": "Ozvena alebo dozvuk:",
+        "issues": [
+          "Použite slúchadlá, aby ste zabránili spätnej väzbe reproduktorov do mikrofónu",
+          "Pridajte do miestnosti mäkké materiály na absorpciu zvukových odrazov",
+          "Priblížte sa k mikrofónu na zvýšenie priameho zvuku voči odrazom miestnosti"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Súvisiace nástroje a zdroje",
+      "alsoTry": "Vyskúšajte tiež:",
+      "alsoTryLinks": ["Test webkamery a mikrofónu", "Otestovať webkameru", "Test kamery", "Test nahrávania videa", "Skontrolovať kameru online"],
+      "onThisPage": "Na tejto stránke:",
+      "onThisPageLinks": ["Ako otestovať mikrofón", "Sprievodca úrovňami zvuku", "Riešenie problémov s mikrofónom", "Oprava nefunkčného mikrofónu", "Najlepšie nastavenia mikrofónu"]
+    }
+  }
+}

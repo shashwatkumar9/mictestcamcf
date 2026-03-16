@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "home": {
+      "title": "Prova de càmera web i prova de micròfon en línia gratuïta | MicTestCam",
+      "description": "Proveu la vostra càmera web i el vostre micròfon instantàniament en línia. Eina gratuïta de prova de càmera i micròfon - 100% privada, sense descàrregues. Comproveu si els vostres dispositius funcionen abans de les videotrucades."
+    },
+    "webcam": {
+      "title": "Prova de càmera web - Eina gratuïta en línia per provar la càmera | Comproveu la vostra càmera web",
+      "description": "Eina gratuïta de prova de càmera web - comproveu instantàniament si la vostra càmera funciona. Proveu la càmera web amb vista prèvia en directe, filtres, configuració de qualitat i gravació. 100% privada, sense descàrregues necessàries."
+    },
+    "microphone": {
+      "title": "Prova de micròfon - Prova gratuïta de micròfon en línia | Comproveu el vostre àudio",
+      "description": "Prova gratuïta de micròfon en línia - comproveu si el vostre micròfon funciona. Proveu els nivells d'àudio, la resposta de freqüència i la qualitat de gravació. Eina de prova de micròfon 100% privada, sense descàrregues."
+    },
+    "privacy": {
+      "title": "Política de privacitat | MicTestCam",
+      "description": "Descobriu com MicTestCam protegeix la vostra privacitat. Totes les proves de càmera web i micròfon es fan localment al vostre navegador - mai recopilem ni emmagatzemem les vostres dades."
+    },
+    "terms": {
+      "title": "Condicions del servei | MicTestCam",
+      "description": "Condicions del servei de MicTestCam - eina gratuïta en línia per provar càmeres web i micròfons. Llegiu les nostres condicions d'ús del servei."
+    },
+    "contact": {
+      "title": "Contacteu-nos | MicTestCam",
+      "description": "Poseu-vos en contacte amb l'equip de MicTestCam. Contacteu-nos per a assistència, comentaris o consultes comercials sobre les nostres eines gratuïtes de prova de càmera web i micròfon."
+    },
+    "blog": {
+      "title": "Blog - Consells sobre càmeres web i micròfons | MicTestCam",
+      "description": "Consells d'experts, tutorials i guies per a proves de càmera web, configuració de micròfons i optimització d'àudio/vídeo. Apreneu com obtenir la millor qualitat per a les vostres videotrucades."
+    },
+    "reviews": {
+      "title": "Les millors ressenyes de càmeres web i micròfons | MicTestCam",
+      "description": "Ressenyes en profunditat, valoracions i guies de compra per a càmeres web, micròfons, auriculars i equips d'àudio/vídeo. Anàlisi experta per ajudar-vos a triar l'equip perfecte per a streaming i videotrucades."
+    }
+  },
+  "nav": {
+    "home": "Inici",
+    "webcamTest": "Prova de càmera web",
+    "microphoneTest": "Prova de micròfon",
+    "reviews": "Ressenyes",
+    "blog": "Blog",
+    "privacy": "Política de privacitat",
+    "terms": "Condicions del servei",
+    "contact": "Contacte"
+  },
+  "privacy": {
+    "banner": "100% Privat - Res no surt del vostre navegador"
+  },
+  "home": {
+    "hero": {
+      "title": "Prova gratuïta de càmera web i micròfon en línia",
+      "subtitle": "Verifiqueu instantàniament que la vostra càmera i el vostre micròfon funcionen perfectament abans de la vostra propera videotrucada. Sense descàrregues, sense registres, completament privat.",
+      "webcamCta": "Proveu la vostra càmera web",
+      "microphoneCta": "Proveu el vostre micròfon"
+    },
+    "features": {
+      "title": "Per què utilitzar MicTestCam?",
+      "privacy": {
+        "title": "100% Privat",
+        "description": "El vostre àudio i vídeo mai surten del vostre navegador. No emmagatzemem, pengem ni processem cap de les vostres dades multimèdia als nostres servidors."
+      },
+      "simple": {
+        "title": "Simple amb un sol clic",
+        "description": "Sense configuració complicada. Simplement feu clic a un botó i veieu instantàniament la vostra càmera web o escolteu el vostre micròfon. Funciona en segons."
+      },
+      "professional": {
+        "title": "Eines professionals",
+        "description": "Funcions avançades com l'anàlisi de l'espectre de freqüències, filtres de vídeo, configuració de qualitat i capacitats de gravació local."
+      },
+      "universal": {
+        "title": "Funciona a tot arreu",
+        "description": "Compatible amb tots els navegadors i dispositius moderns. Proveu abans de Zoom, Teams, Meet, Discord o qualsevol aplicació de videoconferència."
+      }
+    },
+    "howItWorks": {
+      "title": "Com funciona",
+      "step1": {
+        "title": "Feu clic a Iniciar",
+        "description": "Trieu la prova de càmera web o micròfon i feu clic al botó d'inici"
+      },
+      "step2": {
+        "title": "Permeteu l'accés",
+        "description": "Concediu permís al navegador per accedir a la vostra càmera o micròfon"
+      },
+      "step3": {
+        "title": "Veieu els resultats",
+        "description": "Veieu instantàniament el vostre senyal de vídeo o els nivells d'àudio. Graveu clips si cal"
+      }
+    },
+    "faq": {
+      "title": "Preguntes freqüents",
+      "q1": {
+        "question": "Aquesta prova de càmera web és realment privada?",
+        "answer": "Sí, absolutament. Tot el processament es fa directament al vostre navegador mitjançant Web APIs. Cap dada de vídeo o àudio s'envia mai als nostres servidors ni a tercers. Podeu verificar-ho comprovant la pestanya de xarxa del vostre navegador."
+      },
+      "q2": {
+        "question": "He d'instal·lar alguna cosa?",
+        "answer": "No cal instal·lar res. MicTestCam funciona completament al vostre navegador web. Simplement visiteu la pàgina i feu clic a iniciar."
+      },
+      "q3": {
+        "question": "Quins navegadors són compatibles?",
+        "answer": "MicTestCam funciona en tots els navegadors moderns, incloent-hi Chrome, Firefox, Safari, Edge i Opera, tant en dispositius d'escriptori com mòbils."
+      },
+      "q4": {
+        "question": "Puc gravar vídeo o àudio?",
+        "answer": "Sí! Podeu gravar clips de vídeo a la pàgina de prova de càmera web i clips d'àudio a la pàgina de prova de micròfon. Totes les gravacions es desen localment al vostre navegador i es poden descarregar."
+      },
+      "q5": {
+        "question": "Per què no funciona la meva càmera/micròfon?",
+        "answer": "Assegureu-vos que heu concedit permís al navegador per accedir al vostre dispositiu. Comproveu que cap altra aplicació estigui utilitzant la vostra càmera o micròfon. Proveu d'actualitzar la pàgina o seleccionar un dispositiu diferent del menú desplegable."
+      },
+      "q6": {
+        "question": "Això és gratuït?",
+        "answer": "Sí, MicTestCam és completament gratuït sense limitacions ni costos ocults."
+      },
+      "q7": {
+        "question": "Puc provar abans d'una trucada de Zoom/Teams/Meet?",
+        "answer": "Per descomptat! MicTestCam és perfecte per provar abans d'una trucada. Simplement proveu els vostres dispositius aquí i després uniu-vos a la vostra videoconferència amb confiança."
+      },
+      "q8": {
+        "question": "Com selecciono una càmera o micròfon diferent?",
+        "answer": "Utilitzeu el menú desplegable de dispositius a la pàgina de prova per canviar entre les càmeres o micròfons connectats."
+      },
+      "q9": {
+        "question": "On es desen les meves gravacions?",
+        "answer": "Les gravacions es desen localment a l'emmagatzematge del vostre navegador. Es mantenen fins i tot després de tancar el navegador i es poden descarregar o eliminar en qualsevol moment."
+      },
+      "q10": {
+        "question": "Això funciona en telèfons mòbils?",
+        "answer": "Sí, MicTestCam funciona en dispositius mòbils amb navegadors moderns. Podeu provar tant la càmera frontal com la posterior del vostre telèfon."
+      }
+    },
+    "trust": {
+      "tests": "Més de 50.000 proves diàries",
+      "apps": "Funciona amb Zoom, Teams, Meet",
+      "browsers": "Tots els navegadors moderns compatibles"
+    }
+  },
+  "webcam": {
+    "title": "Prova de càmera web - Eina gratuïta en línia per provar la càmera",
+    "subtitle": "Proveu la vostra càmera instantàniament. Veieu el vostre vídeo, ajusteu la qualitat, apliqueu filtres i graveu clips.",
+    "startButton": "Iniciar càmera i gravar",
+    "stopButton": "Aturar i desar la gravació",
+    "snapshotButton": "Fer una captura",
+    "permissionMessage": "Feu clic al botó de dalt per iniciar la prova de càmera web",
+    "recording": "Gravant",
+    "deviceLabel": "Càmera",
+    "qualityLabel": "Qualitat",
+    "filterLabel": "Filtre",
+    "filters": {
+      "normal": "Normal",
+      "grayscale": "Escala de grisos",
+      "sepia": "Sèpia",
+      "invert": "Invertir",
+      "blur": "Desenfocament",
+      "brightness": "Brillantor",
+      "contrast": "Contrast",
+      "hueRotate": "Rotació de to",
+      "saturate": "Saturar"
+    },
+    "savedRecordings": {
+      "title": "Gravacions desades",
+      "clearAll": "Esborrar-ho tot",
+      "noRecordings": "Encara no hi ha gravacions. Inicieu una gravació per desar clips de vídeo.",
+      "play": "Reproduir",
+      "download": "Descarregar",
+      "delete": "Eliminar"
+    },
+    "testCamera": "Provar càmera",
+    "stopCamera": "Aturar càmera",
+    "record": "Gravar",
+    "stopRecording": "Aturar gravació",
+    "showAdvanced": "Mostrar avançat",
+    "hideAdvanced": "Amagar avançat",
+    "mirrorMode": "Mode mirall",
+    "flipHorizontally": "Girar horitzontalment",
+    "digitalZoom": "Zoom digital",
+    "brightness": "Brillantor",
+    "contrast": "Contrast",
+    "dark": "Fosc",
+    "normal": "Normal",
+    "bright": "Brillant",
+    "low": "Baix",
+    "high": "Alt",
+    "cameraComparison": "Comparació de càmeres",
+    "compareSideBySide": "Comparar costat a costat",
+    "requires2Cameras": "(requereix 2 o més càmeres)",
+    "secondCamera": "Segona càmera",
+    "fineTuneWhileRecording": "Ajustar durant la gravació",
+    "camera1": "Càmera 1",
+    "camera2": "Càmera 2",
+    "motion": "Moviment",
+    "advanced": {
+      "title": "Controls avançats de càmera",
+      "exposure": "Exposició",
+      "focus": "Enfocament",
+      "whiteBalance": "Balanç de blancs",
+      "image": "Imatge",
+      "ptz": "PTZ",
+      "mode": "Mode",
+      "exposureTime": "Temps d'exposició",
+      "distance": "Distància",
+      "temperature": "Temperatura",
+      "sharpness": "Nitidesa",
+      "zoom": "Zoom",
+      "pan": "Pan",
+      "tilt": "Tilt",
+      "saturation": "Saturació",
+      "noAdvancedControls": "La vostra càmera no admet controls avançats de maquinari"
+    },
+    "backgroundBlur": {
+      "title": "Desenfocament de fons",
+      "blurStrength": "Intensitat del desenfocament",
+      "skinToneNote": "S'utilitza la detecció lleugera de to de pell. Per obtenir millors resultats, assegureu una bona il·luminació."
+    },
+    "faceDetection": {
+      "facesDetected": "Detectats",
+      "face": "Cara"
+    },
+    "framing": {
+      "grid": "Quadrícula",
+      "faceGuide": "Guia de cara",
+      "moveRight": "Moveu-vos a la dreta",
+      "moveLeft": "Moveu-vos a l'esquerra",
+      "moveDown": "Moveu-vos cap avall",
+      "moveUp": "Moveu-vos cap amunt",
+      "moveCloser": "Acosteu-vos",
+      "moveBack": "Allunyeu-vos",
+      "greatFraming": "Bon enquadrament!",
+      "noFaceDetected": "No s'ha detectat cap cara"
+    },
+    "histogram": {
+      "videoAnalysis": "Anàlisi de vídeo",
+      "histogram": "Histograma",
+      "waveform": "Forma d'ona",
+      "shadows": "Ombres",
+      "midtones": "Tons mitjans",
+      "highlights": "Llums altes"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Resolució",
+      "bitrate": "Taxa de bits",
+      "lighting": "Il·luminació",
+      "dropped": "Perduts",
+      "tooDark": "Massa fosc",
+      "lowLight": "Poca llum",
+      "overexposed": "Sobreexposat",
+      "good": "Bo",
+      "hideMetrics": "Amagar mètriques"
+    }
+  },
+  "microphone": {
+    "title": "Prova de micròfon - Eina gratuïta en línia per provar el micròfon",
+    "subtitle": "Proveu el vostre micròfon amb un mesurador de nivell d'àudio en temps real i un analitzador d'espectre de freqüències.",
+    "startButton": "Iniciar micròfon i gravar",
+    "stopButton": "Aturar i desar la gravació",
+    "permissionMessage": "Feu clic al botó de dalt per iniciar la prova de micròfon",
+    "recording": "Gravant",
+    "deviceLabel": "Micròfon",
+    "sampleRateLabel": "Freqüència de mostreig",
+    "channelLabel": "Canals",
+    "mono": "Mono",
+    "stereo": "Estèreo",
+    "levelMeter": "Nivell d'àudio",
+    "frequencySpectrum": "Espectre de freqüències",
+    "savedRecordings": {
+      "title": "Gravacions desades",
+      "clearAll": "Esborrar-ho tot",
+      "noRecordings": "Encara no hi ha gravacions. Inicieu una gravació per desar clips d'àudio.",
+      "play": "Reproduir",
+      "download": "Descarregar",
+      "delete": "Eliminar"
+    },
+    "testMicrophone": "Provar micròfon",
+    "stopMicrophone": "Aturar micròfon",
+    "record": "Gravar",
+    "stopRecording": "Aturar gravació",
+    "showAdvanced": "Mostrar avançat",
+    "hideAdvanced": "Amagar avançat",
+    "inputGain": "Guany d'entrada",
+    "noiseSuppression": "Supressió de soroll",
+    "enableNoiseReduction": "Activar la reducció de soroll",
+    "echoCancellation": "Cancel·lació d'eco",
+    "reduceEchoFeedback": "Reduir la retroalimentació d'eco",
+    "autoGainControl": "Control automàtic de guany",
+    "autoAdjustVolume": "Ajustament automàtic del volum",
+    "microphoneComparison": "Comparació de micròfons",
+    "compareSideBySide": "Comparar costat a costat",
+    "requires2Mics": "(requereix 2 o més micròfons)",
+    "secondMicrophone": "Segon micròfon",
+    "fineTuneWhileTesting": "Ajustar durant la prova",
+    "boost": "Augmentar",
+    "normal": "Normal",
+    "low": "Baix",
+    "advanced": {
+      "title": "Anàlisi d'àudio avançada",
+      "metrics": "Mètriques",
+      "spectrogram": "Espectrograma",
+      "signalToNoiseRatio": "Relació senyal-soroll",
+      "excellent": "Excel·lent",
+      "good": "Bo",
+      "fair": "Acceptable",
+      "poor": "Deficient",
+      "rms": "RMS (dB)",
+      "peak": "Pic (dB)",
+      "noiseFloor": "Soroll de fons",
+      "dominantFrequency": "Freqüència dominant",
+      "detectedIssues": "Problemes detectats",
+      "detectedAt": "detectat a",
+      "time": "Temps",
+      "frequencyLowHigh": "Freqüència (Baixa → Alta)"
+    },
+    "processing": {
+      "title": "Processament d'àudio",
+      "noiseSuppression": "Supressió de soroll",
+      "reduceBackgroundNoise": "Reduir el soroll de fons",
+      "echoCancellation": "Cancel·lació d'eco",
+      "removeAudioFeedback": "Eliminar la retroalimentació d'àudio",
+      "autoGainControl": "Control automàtic de guany",
+      "normalizeVolumeLevels": "Normalitzar els nivells de volum",
+      "directMonitoring": "Monitoratge directe",
+      "listenToYourMic": "Escolteu el vostre micròfon",
+      "monitorVolume": "Volum del monitor",
+      "useHeadphones": "Utilitzeu auriculars per evitar retroalimentació!"
+    },
+    "comparison": {
+      "title": "Comparació A/B de micròfons",
+      "microphoneA": "Micròfon A",
+      "microphoneB": "Micròfon B",
+      "selectMicrophone": "Seleccioneu un micròfon...",
+      "startComparison": "Iniciar comparació",
+      "selectTwoDifferent": "Seleccioneu dos micròfons diferents",
+      "active": "Actiu",
+      "switchTo": "Canviar a",
+      "rmsLevel": "Nivell RMS",
+      "peakLevel": "Nivell de pic",
+      "snr": "SNR (dB)",
+      "stopComparison": "Aturar comparació",
+      "micA": "Mic A",
+      "micB": "Mic B"
+    }
+  },
+  "privacyPage": {
+    "title": "Política de privacitat",
+    "lastUpdated": "Darrera actualització",
+    "intro": "A MicTestCam, ens prenem la vostra privacitat molt seriosament. Aquesta política de privacitat explica com gestionem la vostra informació quan utilitzeu els nostres serveis de prova de càmera web i micròfon.",
+    "sections": {
+      "noCollection": {
+        "title": "No recopilem les vostres dades",
+        "content": "MicTestCam està dissenyat amb la privacitat com a principi fonamental. No recopilem, emmagatzemem ni transmetem cap dada d'àudio o vídeo de les vostres proves de càmera web o micròfon. Tot el processament es fa completament dins del vostre navegador web mitjançant APIs locals de JavaScript."
+      },
+      "localStorage": {
+        "title": "Emmagatzematge local",
+        "content": "Quan graveu clips de vídeo o àudio, es desen localment a l'emmagatzematge IndexedDB del vostre navegador. Aquestes dades mai surten del vostre dispositiu i no són accessibles per a nosaltres ni per a tercers. Podeu eliminar aquestes gravacions en qualsevol moment a través de la interfície de l'aplicació o esborrant les dades del vostre navegador."
+      },
+      "cookies": {
+        "title": "Galetes i analítiques",
+        "content": "Utilitzem galetes mínimes només per a la funcionalitat essencial del lloc web, com les preferències d'idioma. Podem utilitzar analítiques respectuoses amb la privacitat per comprendre els patrons generals d'ús, però no rastregem usuaris individuals ni recopilem informació personal."
+      },
+      "thirdParty": {
+        "title": "Serveis de tercers",
+        "content": "El nostre lloc web pot incloure enllaços a llocs web de tercers. No som responsables de les pràctiques de privacitat d'aquests llocs externs. Recomanem revisar les seves polítiques de privacitat abans de proporcionar qualsevol informació personal."
+      },
+      "security": {
+        "title": "Seguretat",
+        "content": "Utilitzem xifratge HTTPS per protegir totes les comunicacions entre el vostre navegador i el nostre lloc web. Com que no recopilem les vostres dades multimèdia, no hi ha risc que les vostres gravacions de càmera web o micròfon quedin exposades per una violació de dades."
+      },
+      "children": {
+        "title": "Privacitat dels menors",
+        "content": "MicTestCam no està destinat a menors de 13 anys. No recopilem informació de menors de manera conscient."
+      },
+      "changes": {
+        "title": "Canvis en aquesta política",
+        "content": "Podem actualitzar aquesta política de privacitat de tant en tant. Us notificarem qualsevol canvi publicant la nova política de privacitat en aquesta pàgina i actualitzant la data de \"Darrera actualització\"."
+      },
+      "contact": {
+        "title": "Contacteu-nos",
+        "content": "Si teniu alguna pregunta sobre aquesta política de privacitat, poseu-vos en contacte amb nosaltres a través de la nostra pàgina de contacte."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Condicions del servei",
+    "lastUpdated": "Darrera actualització",
+    "intro": "Benvinguts a MicTestCam. En accedir o utilitzar el nostre lloc web i serveis, accepteu quedar vinculats per aquestes condicions del servei.",
+    "sections": {
+      "acceptance": {
+        "title": "Acceptació de les condicions",
+        "content": "En utilitzar MicTestCam, accepteu aquestes condicions del servei i la nostra política de privacitat. Si no esteu d'acord amb cap part d'aquestes condicions, no podeu utilitzar els nostres serveis."
+      },
+      "description": {
+        "title": "Descripció del servei",
+        "content": "MicTestCam ofereix eines gratuïtes en línia per provar càmeres web i micròfons. El nostre servei us permet verificar que la vostra càmera i micròfon funcionen correctament abans de videotrucades, gravacions o sessions de streaming."
+      },
+      "usage": {
+        "title": "Ús acceptable",
+        "content": "Accepteu utilitzar MicTestCam només per a finalitats legals i d'acord amb aquestes condicions. Accepteu no: utilitzar el servei per a cap activitat il·legal, intentar interferir amb el funcionament correcte del lloc web, intentar accedir a àrees del lloc web que no estan destinades a l'accés públic, ni utilitzar sistemes automatitzats per accedir al servei sense permís."
+      },
+      "privacy": {
+        "title": "Privacitat i dades",
+        "content": "Totes les proves de càmera web i micròfon es fan localment al vostre navegador. No recopilem, emmagatzemem ni tenim accés a les vostres dades d'àudio o vídeo. Per a més informació, consulteu la nostra política de privacitat."
+      },
+      "intellectual": {
+        "title": "Propietat intel·lectual",
+        "content": "El lloc web de MicTestCam, incloent-hi el seu disseny, codi i contingut, està protegit per drets d'autor i altres lleis de propietat intel·lectual. No podeu copiar, modificar, distribuir ni reproduir cap part del lloc web sense el nostre consentiment previ per escrit."
+      },
+      "disclaimer": {
+        "title": "Exempció de garanties",
+        "content": "MicTestCam es proporciona \"tal com és\" sense garanties de cap tipus, ja siguin expresses o implícites. No garantim que el servei sigui ininterromput, lliure d'errors o que compleixi els vostres requisits específics. No som responsables de cap problema de maquinari o programari dels vostres dispositius."
+      },
+      "limitation": {
+        "title": "Limitació de responsabilitat",
+        "content": "En la mesura màxima permesa per la llei, MicTestCam no serà responsable de cap dany indirecte, incidental, especial, conseqüent o punitiu derivat del vostre ús del servei."
+      },
+      "changes": {
+        "title": "Canvis en les condicions",
+        "content": "Ens reservem el dret de modificar aquestes condicions del servei en qualsevol moment. Els canvis seran efectius immediatament després de la seva publicació al lloc web. El vostre ús continuat del servei després de la publicació dels canvis constitueix la vostra acceptació de les condicions modificades."
+      },
+      "governing": {
+        "title": "Llei aplicable",
+        "content": "Aquestes condicions del servei es regiran i interpretaran d'acord amb les lleis aplicables, sense tenir en compte els principis de conflicte de lleis."
+      },
+      "contact": {
+        "title": "Contacte",
+        "content": "Si teniu alguna pregunta sobre aquestes condicions del servei, poseu-vos en contacte amb nosaltres a través de la nostra pàgina de contacte."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Contacteu-nos",
+    "subtitle": "Teniu preguntes o comentaris? Ens encantaria saber de vosaltres.",
+    "form": {
+      "name": "El vostre nom",
+      "namePlaceholder": "Introduïu el vostre nom",
+      "email": "Adreça electrònica",
+      "emailPlaceholder": "Introduïu el vostre correu electrònic",
+      "subject": "Assumpte",
+      "subjectPlaceholder": "De què es tracta?",
+      "message": "Missatge",
+      "messagePlaceholder": "Escriviu el vostre missatge aquí...",
+      "submit": "Enviar missatge",
+      "sending": "Enviant...",
+      "success": "Gràcies! El vostre missatge s'ha enviat correctament.",
+      "error": "Ho sentim, s'ha produït un error en enviar el vostre missatge. Torneu-ho a provar."
+    },
+    "info": {
+      "title": "Altres maneres de contactar-nos",
+      "email": "Correu electrònic",
+      "response": "Normalment responem en un termini de 24-48 hores.",
+      "social": "Seguiu-nos"
+    },
+    "faq": {
+      "title": "Abans de contactar-nos",
+      "subtitle": "Potser trobareu la vostra resposta a la secció de preguntes freqüents de la pàgina principal."
+    }
+  },
+  "blogPage": {
+    "title": "Blog de proves de càmera web i micròfon - Consells, guies i tutorials",
+    "subtitle": "Consells d'experts, tutorials i informació sobre proves de càmera web, configuració de micròfons i optimització d'àudio/vídeo per a videotrucades, streaming i creació de contingut.",
+    "noPosts": "Encara no hi ha publicacions",
+    "noPostsDescription": "Torneu aviat per trobar contingut nou!",
+    "readMore": "Llegir més",
+    "by": "per",
+    "minRead": "min de lectura",
+    "categories": {
+      "all": "Totes les publicacions",
+      "webcam": "Consells de càmera web",
+      "microphone": "Consells de micròfon",
+      "tutorials": "Tutorials",
+      "troubleshooting": "Resolució de problemes"
+    },
+    "search": "Cercar articles...",
+    "featured": "Destacat",
+    "latest": "Últims articles",
+    "relatedPosts": "Publicacions relacionades"
+  },
+  "reviewsPage": {
+    "title": "Les millors ressenyes de càmeres web i micròfons - Anàlisi experta de productes",
+    "subtitle": "Ressenyes en profunditat, valoracions i guies de compra per a càmeres web, micròfons, auriculars i equips d'àudio/vídeo. Trobeu l'equip perfecte per a streaming, videotrucades i creació de contingut.",
+    "noReviews": "Encara no hi ha ressenyes disponibles",
+    "noReviewsDescription": "Torneu aviat per trobar ressenyes de productes expertes!",
+    "by": "per",
+    "readMore": "Llegir la ressenya"
+  },
+  "footer": {
+    "tagline": "Proveu la vostra càmera web i micròfon en línia de manera gratuïta",
+    "privacy": "Política de privacitat",
+    "terms": "Condicions del servei",
+    "contact": "Contacte",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Tots els drets reservats.",
+    "language": "Idioma"
+  },
+  "common": {
+    "loading": "Carregant...",
+    "error": "Error",
+    "close": "Tancar",
+    "back": "Enrere",
+    "next": "Següent",
+    "submit": "Enviar",
+    "cancel": "Cancel·lar",
+    "save": "Desar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Veure",
+    "download": "Descarregar",
+    "share": "Compartir",
+    "copy": "Copiar",
+    "copied": "Copiat!",
+    "readMore": "Llegir més",
+    "learnMore": "Més informació",
+    "getStarted": "Començar"
+  },
+  "cta": {
+    "title": "Esteu preparats per provar els vostres dispositius?",
+    "subtitle": "Comenceu a provar la vostra càmera web i micròfon ara mateix. Sense descàrregues, sense registres necessaris.",
+    "webcamButton": "Provar càmera web",
+    "microphoneButton": "Provar micròfon"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam ofereix proves instantànies i gratuïtes en línia per a càmeres web i micròfons directament al vostre navegador. Sense descàrregues necessàries. Proveu la qualitat de la vostra càmera, els nivells del micròfon i la claredat de l'àudio en menys de 30 segons abans de qualsevol videotrucada o sessió de gravació.",
+      "p1": "Hola i benvinguts a MicTestCam! MicTestCam ofereix la manera més fàcil de <strong>provar la vostra càmera web i micròfon en línia</strong>, tant si voleu comprovar la vostra càmera web per a una videoconferència, una reunió, una presentació, gravar veus en off per als vostres vídeos i canal de YouTube, o realitzar una <strong>prova de micròfon</strong> en profunditat per al vostre podcast.",
+      "p2": "Les eines de prova de càmera i micròfon de MicTestCam funcionen completament dins del navegador i no requereixen cap descàrrega. La privacitat de l'usuari és la prioritat més important per a MicTestCam. Totes les proves es realitzen al vostre navegador i la vostra informació de vídeo i àudio mai surt del vostre ordinador. Amb més de 50.000 proves cada dia i una taxa d'èxit del 99,9%, MicTestCam és la plataforma més popular per a professionals, treballadors remots, creadors de contingut i usuaris regulars que volen provar els seus dispositius.",
+      "p3": "Premeu els botons de sota per <strong>provar la càmera web</strong> o <strong>provar el micròfon</strong>. MicTestCam necessita només uns segons per verificar si la vostra càmera i micròfon funcionen correctament abans d'una trucada de Zoom, Microsoft Teams, Google Meet, Discord, Skype o qualsevol altra videotrucada.",
+      "keyTakeaways": {
+        "title": "Punts clau",
+        "points": [
+          "Prova instantània i gratuïta de càmera web i micròfon - sense necessitat d'instal·lar programari",
+          "Proves basades 100% en el navegador que garanteixen total privacitat i seguretat de dades",
+          "Retroalimentació en temps real sobre la qualitat del vídeo, els nivells d'àudio i la resposta de freqüència",
+          "Compatible amb Zoom, Teams, Meet, Discord i totes les plataformes de vídeo",
+          "Més de 50.000 proves diàries amb una taxa de precisió del 99,9%"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Per què hauríeu de provar la vostra càmera web i micròfon abans de les videotrucades?",
+      "directAnswer": "Provar la vostra càmera web i micròfon abans de les videotrucades evita fallades tècniques vergonyoses, estalvia temps de reunió i garanteix una qualitat de comunicació professional. Una prova prèvia a la trucada identifica problemes amb l'angle de la càmera, la il·luminació, els nivells d'àudio i el soroll de fons abans que la vostra audiència els vegi.",
+      "p1": "El treball remot i la comunicació virtual són ara pràctiques empresarials estàndard. Poder comunicar-se clarament per vídeo i àudio és crucial per a l'èxit professional. Les interrupcions tècniques durant les reunions malmeten la credibilitat i fan perdre temps. Haver de preguntar repetidament \"Em veieu ara? I ara?\" deteriora la reputació professional i retarda discussions importants.",
+      "p2": "Realitzar una prova ràpida de vídeo abans de les reunions evita errades tècniques. Fer una prova ràpida d'àudio abans de trucades importants assegura que el vostre àudio sigui clar, sense soroll de fons, eco o distorsió. Professionals de vendes, directius, professors i creadors de contingut entenen la importància d'un rendiment fiable de la càmera web i el micròfon.",
+      "p3": "A diferència d'altres eines de prova de càmera web i micròfon, MicTestCam no només verifica si la vostra càmera web o micròfon funcionen, sinó que també proporciona informació detallada sobre la qualitat del vídeo i les característiques de l'àudio. MicTestCam ajuda els usuaris a trobar i solucionar problemes tècnics abans que comencin les videotrucades.",
+      "comparison": {
+        "title": "MicTestCam vs. Proves integrades de les plataformes de vídeo",
+        "points": [
+          "<strong>MicTestCam:</strong> Proporciona anàlisi detallada de freqüència d'àudio, formes d'ona en temps real i mètriques professionals",
+          "<strong>Proves de plataformes:</strong> Només mostren funcionalitat bàsica sí/no sense detalls de qualitat",
+          "<strong>MicTestCam:</strong> Les proves funcionen en totes les plataformes: Zoom, Teams, Meet, Discord simultàniament",
+          "<strong>Proves de plataformes:</strong> Només verifiquen la funcionalitat dins d'aquella plataforma específica",
+          "<strong>MicTestCam:</strong> Ofereix reproducció de gravacions per escoltar exactament el que sentiran els altres",
+          "<strong>Proves de plataformes:</strong> Cap funció de reproducció per a la verificació de qualitat"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Com funciona l'eina de prova de càmera i micròfon de MicTestCam?",
+      "directAnswer": "MicTestCam utilitza la tecnologia WebRTC per accedir a la vostra càmera web i micròfon directament a través del vostre navegador. Les proves es fan completament al vostre dispositiu utilitzant els mateixos protocols que utilitzen Zoom, Teams i Meet, garantint proves de rendiment precises en condicions reals sense pujar cap dada als servidors.",
+      "p1": "L'eina de prova de càmera i micròfon de MicTestCam utilitza protocols WebRTC, els mateixos protocols en què es basen els serveis populars de videoconferència basats en web. Quan <strong>proveu la vostra càmera web</strong> amb MicTestCam, la plataforma accedeix a la vostra càmera web a través de la Web API del navegador i presenta el senyal de vídeo en temps real a la pantalla. Els usuaris poden verificar si la càmera web funciona, comprovar si la il·luminació és adequada, confirmar que l'angle de la càmera és correcte i avaluar la qualitat general del vídeo.",
+      "p2": "L'eina de <strong>prova de micròfon</strong> de MicTestCam proporciona retroalimentació immediata sobre els nivells de volum de la veu. Quan els usuaris parlen al micròfon, els mesuradors d'àudio reflecteixen els nivells de veu en temps real per ajudar a determinar si el micròfon capta el so correctament. L'analitzador d'espectre de freqüència de 32 bandes mostra com es distribueix el so a través de les freqüències, una funció especialment valuosa per a podcasters i músics que proven micròfons per a gravació professional.",
+      "p3": "Ambdues eines de MicTestCam ofereixen capacitat de gravació automàtica. Els usuaris poden iniciar una prova i MicTestCam gravarà automàticament el senyal de la càmera i l'àudio, permetent la reproducció per avaluar la qualitat tal com l'experimentaria l'audiència. Tota la gravació es fa localment al navegador. MicTestCam no puja ni emmagatzema cap dada d'usuari en servidors externs, garantint total privacitat.",
+      "technicalSpecs": {
+        "title": "Especificacions tècniques",
+        "specs": [
+          "<strong>Protocol:</strong> WebRTC (Web Real-Time Communication) - Estàndard de la indústria utilitzat per Zoom, Microsoft Teams, Google Meet",
+          "<strong>Anàlisi d'àudio:</strong> Analitzador d'espectre de freqüència de 32 bandes (rang de 20Hz - 20kHz)",
+          "<strong>Resolució de vídeo:</strong> Suporta proves des de 240p fins a 8K (7680×4320) segons la capacitat de la càmera",
+          "<strong>Velocitat de fotogrames:</strong> Monitoratge en temps real a 15fps, 30fps i 60fps",
+          "<strong>Privacitat:</strong> Processament 100% al costat del client - zero transmissió de dades als servidors de MicTestCam",
+          "<strong>Compatibilitat:</strong> Funciona a Chrome, Firefox, Safari, Edge - tots els navegadors principals"
+        ]
+      }
+    },
+    "features": {
+      "title": "Llista completa de funcionalitats de les proves",
+      "webcamTitle": "Prova de càmera web",
+      "webcamFeatures": [
+        "Vista prèvia en directe de la vostra càmera amb opcions de resolució des de 240p fins a 1080p.",
+        "Detecció de múltiples dispositius de càmera com càmeres USB, càmeres web i càmeres externes.",
+        "Més de 9 filtres i efectes diferents per provar la càmera web i els seus balanços de color.",
+        "Fotogrames per segon per monitorar la càmera.",
+        "Capacitat de fer una captura de pantalla.",
+        "Gravació automàtica de vídeo des de la càmera web en format WebM i MP4.",
+        "Gravacions desades a l'emmagatzematge local."
+      ],
+      "microphoneTitle": "Prova de micròfon",
+      "microphoneFeatures": [
+        "Mesurador de nivell d'àudio i de pic en temps real.",
+        "Analitzador d'espectre de freqüència de 32 bandes en temps real.",
+        "Detecció de múltiples dispositius de micròfon com micròfons USB, micròfons d'auriculars, etc.",
+        "Capacitat de configurar freqüències de mostreig fins a 48 kHz de qualitat d'estudi.",
+        "Configuració per gravar àudio en mono o estèreo.",
+        "Mesurador de nivell de pic i RMS per a l'àudio.",
+        "Gravació automàtica d'àudio amb opció de reproducció."
+      ]
+    },
+    "whoUses": {
+      "title": "Qui utilitza les nostres proves de càmera web i micròfon",
+      "remoteWorkers": {
+        "title": "Treballadors remots i professionals",
+        "description": "Un treballador remot o un professional realitza una prova ràpida abans de les seves videoconferències i reunions a Zoom, Google Meet o Microsoft Teams per veure si la seva càmera web funciona correctament, i després fa una <strong>prova de micròfon</strong> ràpida per assegurar-se que se'ls sent bé i no han de repetir-se ni ser interromputs amb un \"No us sentim!\""
+      },
+      "contentCreators": {
+        "title": "YouTubers, streamers de Twitch, podcasters i altres creadors de contingut",
+        "description": "Per a YouTubers, streamers de Twitch, podcasters i altres creadors de contingut, la nostra eina avançada de diagnòstic d'àudio i vídeo és imprescindible. Utilitzeu l'analitzador d'espectre de freqüència per resoldre problemes d'àudio i executeu proves de qualitat de vídeo per assegurar-vos que esteu oferint contingut d'alta qualitat."
+      },
+      "students": {
+        "title": "Estudiants i professors",
+        "description": "Els estudiants necessiten assegurar-se que es poden comunicar per Internet. Realitzen proves abans de les seves classes per confirmar que el seu equip funciona. Els professors també comproven que el seu equip estigui en bon estat per impartir les seves classes amb èxit."
+      },
+      "jobSeekers": {
+        "title": "Persones que busquen feina",
+        "description": "Si aneu a fer entrevistes per vídeo, assegureu-vos de fer una <strong>prova de càmera</strong> i una <strong>prova de micròfon</strong> abans de començar. Això marca una gran diferència i demostrarà que esteu preparats. (No hi ha res pitjor que perdre una oportunitat per una fallada tècnica.)"
+      },
+      "gamers": {
+        "title": "Jugadors:",
+        "description": "Utilitzeu uns auriculars de gaming? Obteniu els resultats precisos que necessiteu per provar el vostre micròfon per a Discord, xat dins del joc o streaming."
+      },
+      "techSupport": {
+        "title": "Suport tècnic",
+        "description": "Si teniu problemes amb la vostra càmera o micròfon, les nostres eines us poden ajudar a determinar si el problema és del vostre maquinari, controladors o configuració del programari."
+      }
+    },
+    "privacy": {
+      "title": "Privacitat 100% garantida",
+      "intro": "La privacitat és al cor de tot el que fem a les nostres eines de <strong>prova de càmera web</strong> i <strong>prova de micròfon</strong>. Som conscients que en accedir a la vostra càmera i micròfon, esteu compartint informació privada amb nosaltres. Per això tota la nostra plataforma està dissenyada amb una política de confiança zero.",
+      "localProcessing": {
+        "title": "Tot el processament es fa a la vostra màquina local",
+        "description": "El processament de vídeo i àudio es fa mitjançant les APIs WebRTC al vostre navegador. No emmagatzemem les vostres dades als nostres servidors perquè ni tan sols les rebem."
+      },
+      "noAccount": {
+        "title": "No cal cap compte",
+        "description": "No heu de crear cap compte, introduir una adreça de correu electrònic ni compartir cap dada personal. Simplement aneu al lloc, permeteu l'accés al navegador, proveu els vostres dispositius i aneu-vos-en."
+      },
+      "transparent": {
+        "title": "Codi transparent",
+        "description": "No ofusquem el nostre codi. Podeu veure'l al vostre navegador utilitzant les eines de desenvolupador. Sense rastreig, sense recollida de dades, sense analítiques que recopilin les vostres dades privades."
+      },
+      "cleanup": {
+        "title": "Eliminació automàtica:",
+        "description": "Totes les gravacions s'emmagatzemen a l'emmagatzematge local del navegador. S'eliminaran automàticament quan tanqueu el navegador o esborreu l'emmagatzematge local. Teniu control total sobre el que s'emmagatzema i durant quant de temps."
+      }
+    },
+    "compatibility": {
+      "title": "Compatibilitat entre navegadors i dispositius",
+      "intro": "Els navegadors i dispositius moderns més populars són compatibles amb les nostres proves de càmera web i micròfon. Ambdues eines estan disponibles a Windows, macOS, Linux, iOS, Android o qualsevol altre sistema operatiu que admeti un navegador modern sense requerir cap descàrrega ni instal·lació addicional.",
+      "browsersTitle": "Navegadors compatibles",
+      "browsers": [
+        "Google Chrome (millor rendiment)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (a macOS i iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Dispositius compatibles",
+      "devices": [
+        "Càmeres web integrades o externes USB en ordinadors d'escriptori i portàtils",
+        "Telèfons intel·ligents i tauletes amb càmeres frontals i posteriors",
+        "Càmeres USB externes i càmeres web per a PC",
+        "Micròfons integrats de portàtils",
+        "Micròfons USB externs",
+        "Auriculars de gaming amb micròfon",
+        "Interfícies d'àudio professionals i micròfons de condensador"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Necessiteu ajuda?",
+      "intro": "No aconseguiu que la <strong>prova de càmera web</strong> o la <strong>prova de micròfon</strong> funcioni? Proveu una d'aquestes solucions.",
+      "cameraTitle": "La càmera no es detecta o no funciona",
+      "cameraIssues": [
+        "Assegureu-vos que heu permès la càmera al vostre navegador. A la barra d'adreces veureu un símbol de càmera que podeu utilitzar per activar l'accés a la càmera.",
+        "Esteu utilitzant la càmera en una altra aplicació (Zoom, Teams, Skype, etc.). Només podeu utilitzar la càmera en una aplicació alhora. Tanqueu l'altra aplicació o actualitzeu la pàgina i permeteu l'accés de nou.",
+        "Actualitzeu la pàgina i permeteu l'accés de nou. Pot ser degut a un error del navegador.",
+        "Utilitzeu l'última versió del navegador.",
+        "Comproveu si els controladors de la càmera estan instal·lats correctament al vostre ordinador.",
+        "Si utilitzeu una càmera USB, proveu de connectar-la a un altre port USB o utilitzeu un cable diferent."
+      ],
+      "microphoneTitle": "El micròfon no funciona",
+      "microphoneIssues": [
+        "Permeteu l'accés al micròfon al vostre navegador.",
+        "Assegureu-vos que el micròfon estigui correctament connectat a l'alimentació.",
+        "Utilitzeu la configuració de so del sistema per comprovar si el micròfon funciona.",
+        "Altres aplicacions estan utilitzant el micròfon. Proveu de tancar-les.",
+        "Proveu d'ajustar el nivell del micròfon a la configuració del sistema per augmentar el volum si no sou prou forts, o per reduir-lo si sou massa forts.",
+        "Comproveu si el micròfon no està silenciat al vostre sistema o al dispositiu (si té un botó de silenci de maquinari al dispositiu)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Enllaços ràpids",
+      "webcamTitle": "Proves de càmera web:",
+      "webcamLinks": ["Prova de càmera web", "Provar càmera web en línia", "Prova de càmera", "Eina de prova de càmera en línia", "Prova gratuïta de càmera web", "Comprovar la meva càmera web", "Prova de càmera USB", "Prova de càmera de portàtil", "Provar càmera per a Zoom"],
+      "microphoneTitle": "Proves de micròfon:",
+      "microphoneLinks": ["Prova de micròfon", "Prova de micròfon en línia", "Provar el meu micròfon", "Eina de prova de micròfon en línia", "Prova gratuïta de micròfon", "Comprovar micròfon", "Prova d'àudio en línia", "Prova de micròfon USB", "Prova de micròfon per a Discord"]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Proveu la vostra càmera web amb la nostra eina de prova en línia ràpida i fàcil. Ofereix una vista prèvia en temps real de la vostra càmera, múltiples configuracions de qualitat, efectes especials i gravació automàtica utilitzant la vostra càmera en línia, tot sense cap instal·lació addicional de programari. Així podeu utilitzar-la com a <strong>prova de càmera</strong> per a videoconferències, o provar la vostra càmera web integrada en un ordinador nou.",
+      "p2": "Per provar, simplement premeu el botó \"Iniciar càmera i gravar\" de dalt. Apareixerà una vista prèvia en directe de la vostra càmera web perquè pugueu veure si el vostre vídeo funciona, provar la il·luminació i si la vostra càmera està ben posicionada. No es puja, emmagatzema ni accedeix a res. La vostra prova de vídeo es fa localment al vostre ordinador."
+    },
+    "howToUse": {
+      "title": "Com utilitzar la nostra eina de prova de càmera web",
+      "intro": "Per provar la vostra càmera web, seguiu aquests passos senzills:",
+      "steps": [
+        "<strong>Permeteu l'accés:</strong> Apareixerà un diàleg preguntant si el navegador pot accedir a la càmera web. Premeu Permetre per autoritzar l'accés del navegador a la càmera web. Tingueu en compte que aquest és el cas per a qualsevol lloc web de prova de càmera web. El diàleg apareix com a mesura de seguretat per evitar que llocs web aleatoris accedeixin a la càmera web.",
+        "<strong>Seleccioneu la càmera correcta:</strong> Si teniu múltiples càmeres (per exemple, una càmera integrada al portàtil i una càmera USB independent), podeu seleccionar quina càmera utilitzar des del menú desplegable. La nostra eina de prova de càmera web detectarà i llistarà automàticament totes les càmeres.",
+        "<strong>Seleccioneu la qualitat:</strong> Trieu la resolució desitjada (qualitat) del menú desplegable de qualitat. Podeu provar la càmera a baixa qualitat (240p), qualitat mitjana (480p), alta qualitat (720p), qualitat Full HD (1080p), etc. Una qualitat superior proporciona una imatge més nítida però requereix més ample de banda i CPU.",
+        "<strong>Inicieu la prova:</strong> Premeu Iniciar càmera i gravar i veureu immediatament el senyal en directe de la vostra càmera. Podeu començar a gravar immediatament i després veure la qualitat.",
+        "<strong>Utilitzeu filtres visuals:</strong> Disposem de més de 9 filtres visuals (blanc i negre, sèpia, desenfocament, alt contrast, etc.) per veure com afecten la sortida de la vostra càmera.",
+        "<strong>Feu una captura:</strong> Podeu fer una captura durant una prova per comprovar la qualitat de la vostra imatge o per veure com la càmera gestiona condicions d'il·luminació específiques.",
+        "<strong>Atureu i deseu:</strong> Quan hàgiu acabat, premeu Aturar i desar la gravació per aturar la gravació. El vídeo es desarà al navegador perquè pugueu reproduir-lo de nou i descarregar-lo."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Funcionalitats avançades de la càmera web",
+      "intro": "La nostra <strong>eina de prova de càmera web</strong> inclou funcions de nivell professional dissenyades per a diversos usos: des de videotrucades casuals fins a la creació de contingut.",
+      "mirrorMode": {
+        "title": "Mode mirall per a selfies perfectes",
+        "description": "Mirall i gir és una funció imprescindible per a tutorials de maquillatge, bloggers i per a aquells que volen veure com es veuen en un mirall. Quan feu clic al botó Mirall (amb la càmera encesa), girarà el vídeo de la vostra càmera web horitzontalment perquè pugueu comprovar millor la vostra cara, maquillar-vos o simplement acostumar-vos a la vista de mirall. Especialment, si esteu gravant un vídeo per a YouTube, un vídeo de TikTok o una història d'Instagram on necessiteu mostrar text, indicar direccions, etc."
+      },
+      "digitalZoom": {
+        "title": "Zoom digital (1x a 3x)",
+        "description": "Veieu com de nítida és la vostra <strong>càmera web</strong> quan s'apropa a diferents nivells. Ideal per a demostracions de productes, tutorials o simplement per veure les coses de molt a prop. Control lliscant de zoom i botons ràpids 1x, 2x, 3x per provar la nitidesa de la vostra càmera web quan s'apropa. Útil per veure si necessiteu acostar-vos més a la càmera, o si podeu apropar sense degradar massa la qualitat de la imatge. Pràctic per a streamers que volen apropar la seva pintura, manualitats o treball de reparació tecnològica."
+      },
+      "brightnessContrast": {
+        "title": "Controls de brillantor i contrast",
+        "description": "Ajusteu la brillantor (50-150%) i el contrast (50-150%) i veieu com es veu la vostra càmera web en diferents condicions d'il·luminació. Podeu utilitzar aquests controls lliscants per provar si l'exposició automàtica de la vostra càmera funciona correctament i per simular diferents configuracions de gravació. Si és massa fosc o massa brillant a la vostra habitació, podeu ajustar els controls a una configuració còmoda per a la vostra propera reunió per vídeo. Streamers i YouTubers sovint utilitzen aquests controls per treure el màxim de la seva càmera i mantenir les mateixes condicions d'il·luminació per als seus vídeos."
+      },
+      "gridOverlay": {
+        "title": "Superposició de quadrícula per a enquadrament professional",
+        "description": "La nostra superposició de quadrícula integrada utilitza la tècnica de composició de la Regla dels Terços, permetent-vos enquadrar perfectament la vostra cara a la gravació. Simplement col·loqueu els ulls a la línia horitzontal superior i alineeu la vostra cara amb les guies verticals. Aquest principi de fotografia professional garanteix gravacions de vídeo més atractives i interessants per a YouTube, reunions de negocis o streams de Twitch. La superposició de quadrícula ajuda a mantenir un enquadrament consistent en gravacions repetides."
+      },
+      "videoFilters": {
+        "title": "Filtres i efectes de vídeo",
+        "description": "Apliqueu els següents filtres a la vostra <strong>càmera web</strong> per veure com queden: Normal, Escala de grisos, Sèpia, Invertir, Desenfocament, Brillantor, Contrast, Rotació de to i Saturar. Els filtres us mostren com de bé pot representar colors la vostra càmera i com es veurà quan utilitzeu filtres d'efectes de vídeo. Si sou streamer o youtuber, podeu utilitzar filtres per veure com es veuria el vostre stream amb diferents efectes aplicats. Els filtres també es poden utilitzar per veure si la vostra càmera emet els colors correctes. Compareu els resultats dels filtres d'escala de grisos i sèpia."
+      },
+      "videoMetrics": {
+        "title": "Mètriques de vídeo en temps real i histograma:",
+        "description": "Visualitzeu detalls tècnics sobre el vostre vídeo com la resolució, la velocitat de fotogrames i la taxa de bits. L'histograma RGB us permet veure la distribució de colors al vostre vídeo. Això és útil per detectar sobre/subexposició, dominants de color i mala il·luminació. Aquesta funció és ideal per a professionals com videògrafs, youtubers i vloggers que volen assegurar-se que el seu vídeo sigui el millor possible. Si el vostre histograma té un tall brusc a qualsevol costat, haureu de corregir la il·luminació o la configuració de la càmera."
+      },
+      "advancedControls": {
+        "title": "Controls avançats de càmera",
+        "description": "Algunes càmeres web tenen funcions com l'exposició, el mode d'enfocament, el balanç de blancs, l'ISO i la nitidesa que poden ser controlades per l'usuari. La nostra aplicació web us permetrà comprovar què pot fer la vostra <strong>càmera web</strong>. Podeu canviar entre mode d'enfocament automàtic i manual, canviar el balanç de blancs per coincidir amb la temperatura de la vostra llum, o ajustar la compensació d'exposició al vostre gust. Això és molt útil per a streamers, YouTubers i professionals que necessiten controlar la configuració de la seva càmera."
+      },
+      "backgroundBlur": {
+        "title": "Efecte de desenfocament de fons",
+        "description": "Proveu el desenfocament de fons basat en web sense cap aplicació ni pantalla verda. El nostre efecte de desenfocament de fons utilitza les últimes tecnologies web per eliminar el fons i separar-lo de vosaltres, útil quan heu de fer videotrucades des de casa amb un fons que no voleu que els altres vegin. Podeu ajustar el nivell de desenfocament aplicat al vostre fons. Aquesta eina us permet veure com funciona l'efecte de desenfocament de fons amb la vostra <strong>càmera web</strong> i aplicació de càmera. Això és especialment útil per a desenvolupadors web, professionals del màrqueting digital i per a tothom qui crea contingut de vídeo."
+      },
+      "motionDetection": {
+        "title": "Detecció de moviment per a proves de seguretat",
+        "description": "Si voleu comprovar com reacciona la vostra <strong>càmera web</strong> al moviment, utilitzeu la nostra detecció de moviment en temps real. Amb el mode avançat podeu veure un indicador de percentatge de moviment en directe que reflecteix el moviment al vostre vídeo. Utilitzeu-lo per a proves de moviment de càmeres de seguretat, configuració de sistemes de vigilància o proves de càmeres amb gravació activada per moviment. El detector de moviment analitza el flux de vídeo fotograma a fotograma per determinar la quantitat de moviment. Això permet comprovar com de bona és la càmera i quina sensibilitat necessiteu. Útil per a seguretat domèstica, monitors de mascotes i monitors de nadons."
+      },
+      "faceDetection": {
+        "title": "Detecció i seguiment de cares",
+        "description": "Detecteu la capacitat de la vostra càmera web per detectar cares. En mode avançat dibuixem quadres delimitadors al voltant de les cares i les comptem. La nostra eina de detecció de cares utilitza la FaceDetector API, quan està disponible al vostre navegador, per detectar múltiples cares en un fotograma. Utilitzeu aquesta eina per provar la funcionalitat de la vostra <strong>càmera</strong> per a l'enquadrament automàtic en videoconferències, o per veure com gestiona més d'una cara. Els creadors de contingut de vídeo poden veure si la seva càmera detecta correctament les cares per a l'enfocament automàtic, i els professionals poden comprovar que la seva sala de reunions per a múltiples persones funciona com s'esperava."
+      },
+      "sideBySide": {
+        "title": "Mode costat a costat: Compareu dues càmeres",
+        "description": "El mode costat a costat us permet comparar 2 càmeres web una al costat de l'altra. És útil per provar múltiples càmeres web alhora. Si teniu una càmera web integrada i una càmera web USB externa, podeu veure-les costat a costat al mateix temps. També és molt útil per triar una càmera web per comprar. Podeu comparar la qualitat d'imatge de la càmera, la precisió del color, el rendiment amb poca llum i el camp de visió en temps real. És una gran eina per a streamers i YouTubers."
+      }
+    },
+    "videoQuality": {
+      "title": "Configuració de qualitat de vídeo de la càmera web explicada",
+      "intro": "La resolució determina la nitidesa del vídeo que produeix la vostra càmera web. Així és com es comporten les configuracions a la nostra prova de resolució de càmera web:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Aquesta és la configuració de qualitat més baixa, per quan només voleu provar si el vostre flux funciona i la vostra connexió a Internet és molt dolenta. El vostre vídeo serà borrós, però és perfecte per veure si la vostra càmera està transmetent, com a mínim."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Baixa qualitat, poc ús d'ample de banda. Podríeu fer una videotrucada de baixa resolució si no us importa gaire la qualitat. Encara es podrien distingir les cares, però res més."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Definició estàndard. Això és el punt intermedi entre qualitat i ample de banda. La majoria d'aplicacions de xat de vídeo i streaming poden utilitzar-ho. Aquesta és normalment la resolució de la majoria de càmeres web antigues."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Aquesta resolució ofereix qualitat de videoconferència d'alta definició, ideal per a ús professional. Ofereix imatges nítides i una qualitat de color decent. Aquesta és la resolució més popular utilitzada en aplicacions de videoconferència com Zoom, Teams i Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Aquesta és la resolució més alta que trobareu en una càmera web estàndard, ideal per a persones que volen crear contingut d'alta qualitat, fer streaming o necessiten la millor qualitat de vídeo possible. Requereix més ample de banda i processament, però obtindreu una imatge nítida i professional."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Resolució Quad HD amb un detall i claredat excel·lents. Ideal per a creadors de contingut professionals, streamers que requereixen un alt nivell de qualitat d'imatge i aquells amb monitors 4K que desitgen una resolució nativa. Es necessiten càmeres web d'alta qualitat i una quantitat significativa d'ample de banda."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra alta definició amb quatre vegades els píxels del 1080p. Qualitat de nivell professional per a creadors de contingut, cineastes i streaming d'alta gamma. Requereix càmeres web premium, maquinari d'ordinador potent i Internet d'alta velocitat. Perfecte per a futures gravacions i maximitzar el detall per al zoom digital i retall."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "La resolució màxima possible. Té 16 vegades més píxels que el 1080p. Això s'utilitza normalment per a càmeres web professionals de molt alta gamma, o per a persones que utilitzen càmeres DSLR/mirrorless com a càmera web. Necessitareu una càmera web o DSLR/mirrorless d'altíssima gamma, un ordinador extremadament potent i una connexió extremadament ràpida. Només s'ha d'utilitzar quan necessiteu qualitat de nivell cinematogràfic, o quan tingueu un monitor extremadament gran, o si voleu fer zoom digital molt ampli."
+        }
+      },
+      "tip": "Si esteu fent una prova de càmera web, proveu primer amb 720p per assegurar-vos que la vostra càmera funciona en alta definició, i després proveu amb qualsevol altra resolució que necessiteu."
+    },
+    "frameRate": {
+      "title": "Velocitat de fotogrames i rendiment de vídeo fluid.",
+      "intro": "La velocitat de fotogrames és la freqüència (taxa) a la qual un dispositiu d'imatge produeix imatges consecutives úniques anomenades fotogrames. La velocitat de fotogrames s'expressa en fotogrames per segon (FPS). Com més alta sigui la velocitat de fotogrames, més fluid es veurà el vídeo, especialment en moviment. La nostra eina de prova de càmera web en línia comprova els FPS reals de la vostra càmera web, per mostrar si la vostra càmera web té algun problema.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Acceptable per a videoconferències. El moviment es veu una mica entretallat. Pot ser degut a una càmera de gamma baixa, poca il·luminació o un coll d'ampolla de la CPU."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Aquesta és la velocitat de fotogrames típica per a càmeres web i la majoria d'aplicacions de videoconferència. El moviment és fluid i real. Aquesta és també la velocitat de fotogrames ideal per a una videoconferència professional."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Una velocitat de fotogrames alta que permet una fluïdesa de moviment encara més gran. Ideal per a streamers i YouTubers on la fluïdesa del moviment és clau. Tingueu en compte que no totes les càmeres web admeten 60 FPS, i consumirà més ample de banda."
+        }
+      },
+      "tip": "Si el resultat de la prova de la vostra càmera web mostra una velocitat de fotogrames baixa, podríeu considerar utilitzar una resolució inferior o millorar la il·luminació. La llum pot ser un problema amb les càmeres web, ja que poden reduir la velocitat de fotogrames per poder augmentar el temps d'exposició."
+    },
+    "lighting": {
+      "title": "Consells per a un millor vídeo de càmera web",
+      "intro": "La il·luminació és la variable més significant quan es tracta de la qualitat del vídeo de la càmera web. Una càmera web de baixa qualitat amb bona il·luminació es veurà millor que una càmera web d'alta qualitat amb mala il·luminació.",
+      "tips": {
+        "position": {
+          "title": "Llum davant vostre",
+          "description": "La font de llum ha d'estar davant vostre, no darrere. La contrallum (com posicionar-se davant d'una finestra) farà que la vostra cara es vegi fosca i amb ombres."
+        },
+        "soft": {
+          "title": "Suavitzeu la llum",
+          "description": "Eviteu la il·luminació directa que causa ombres fortes i punts brillants. Múltiples fonts de llum, o llum que entra per finestres grans, sempre és suau i produeix imatges de qualitat més professional."
+        },
+        "flicker": {
+          "title": "Eviteu les bombetes que parpellegen",
+          "description": "Algunes bombetes LED i llums fluorescents parpellegen a una freqüència que la vostra càmera pot captar, i obtindreu parpelleig al vostre vídeo. Proveu d'utilitzar bombetes incandescents o bombetes LED d'alta qualitat per a vídeo."
+        },
+        "color": {
+          "title": "La temperatura de color és un altre factor a considerar.",
+          "description": "Assegureu-vos que totes les fonts de llum tinguin la mateixa temperatura de color. La barreja de llum càlida i freda no queda bé. Les càmeres web generalment es veuen millor sota llum equilibrada amb llum natural (5000-6500K)."
+        }
+      },
+      "tip": "Proveu la nostra eina de prova de càmera web amb múltiples fonts de llum per determinar si la imatge de la vostra càmera web millora. Podeu provar diferents configuracions de llum gràcies a la vista en directe per veure què funciona millor per a vosaltres."
+    },
+    "types": {
+      "title": "Tipus de càmeres web i què esperar",
+      "builtIn": {
+        "title": "Càmeres web integrades al portàtil",
+        "description": "Els portàtils gairebé sempre tenen una càmera web integrada a la part superior de la pantalla. En general, són càmeres de 720p i funcionen bé per a les videotrucades ocasionals. No obstant això, la qualitat pot variar àmpliament segons el portàtil que tingueu. Generalment, els portàtils de gamma alta tindran millors càmeres web."
+      },
+      "usb": {
+        "title": "Càmeres web USB",
+        "description": "També hi ha càmeres web externes que es connecten per USB. Si busqueu alguna cosa millor que la càmera integrada, un model bàsic us donarà 1080p a 30 FPS, però els models de gamma alta arriben fins a 4K, 60 FPS, amb enfocament automàtic, compensació de poca llum, etc."
+      },
+      "streaming": {
+        "title": "Càmeres de streaming:",
+        "description": "Càmeres dissenyades per a streamers, centrades en la qualitat d'imatge amb sensors més grans, millor sensibilitat en poca llum i millor ciència del color. L'HDR i els ajustaments de camp de visió són habituals."
+      },
+      "dslr": {
+        "title": "Opció 1: DSLR/Mirrorless com a càmera web",
+        "description": "Moltes càmeres noves es poden utilitzar com a càmera web per USB, o amb una capturadora. Això us donarà la imatge de més alta qualitat, però també requerirà la major quantitat d'equip i configuració."
+      },
+      "tip": "Si no esteu segurs de si la vostra càmera funciona amb la nostra eina, la nostra prova de càmera web completa és compatible amb tots els tipus de càmeres. No dubteu a utilitzar-la per comparar diferents càmeres web, o simplement per comprovar que la vostra nova càmera web funciona després de connectar-la."
+    },
+    "troubleshooting": {
+      "title": "Necessiteu ajuda per arreglar la vostra càmera web?",
+      "intro": "Si heu fet una prova i heu descobert un problema, seguiu aquests passos per identificar i solucionar els problemes més comuns:",
+      "blackScreen": {
+        "title": "La càmera web mostra pantalla negra",
+        "issues": [
+          "Comproveu si teniu una cobertura física (com una tapa de privacitat, una tireta o un tros de cinta) sobre la lent de la càmera",
+          "Comproveu si una altra aplicació (Skype, Zoom, Teams, etc.) està utilitzant la càmera en segon pla. Tanqueu aquestes aplicacions i torneu a provar la càmera web.",
+          "Si encara teniu problemes, proveu de reiniciar el navegador i tornar a fer la prova de càmera web.",
+          "Si utilitzeu una càmera web USB externa, proveu de connectar-la a un port USB diferent.",
+          "Actualitzeu o reinstal·leu els controladors de la càmera."
+        ]
+      },
+      "blurry": {
+        "title": "El vídeo de la càmera web és borrós",
+        "issues": [
+          "Netegeu la lent de la càmera web amb un drap de microfibra.",
+          "Si la vostra càmera web té un anell d'enfocament, proveu d'ajustar l'enfocament manualment.",
+          "Assegureu-vos que hi hagi prou llum per ajudar la vostra càmera a enfocar automàticament.",
+          "Acosteu-vos o allunyeu-vos una mica de la càmera web i veieu si millora."
+        ]
+      },
+      "colors": {
+        "title": "Els colors de la càmera web es veuen malament",
+        "issues": [
+          "Esteu sota condicions d'il·luminació diferents? La il·luminació natural i artificial poden tenir tons de color diferents.",
+          "Proveu d'ajustar el balanç de blancs a la configuració de la càmera web, si està disponible.",
+          "Porteu alguna cosa o teniu alguna cosa al vostre voltant amb un color dominant que pugui causar un dominat de color? Proveu de treure-ho."
+        ]
+      },
+      "choppy": {
+        "title": "El vídeo és entretallat o amb retard",
+        "issues": [
+          "Reduïu la qualitat del vídeo a la configuració d'aquesta eina de prova de càmera web.",
+          "Proveu de tancar totes les altres aplicacions que consumeixin recursos de CPU o GPU.",
+          "Milloreu les condicions d'il·luminació per reduir l'esforç de la vostra càmera.",
+          "Si utilitzeu una càmera web USB externa, connecteu-la directament al vostre ordinador en lloc d'un concentrador USB."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Prova de la càmera web per a plataformes específiques",
+      "zoom": {
+        "title": "Videoconferència Zoom",
+        "description": "Utilitzeu aquesta prova de càmera web per assegurar-vos que la vostra càmera funciona bé abans de començar una reunió important de Zoom. Assegureu-vos que la qualitat del vídeo sigui prou bona a 720p (que és la qualitat per defecte per a la majoria de reunions de Zoom). Assegureu-vos que la il·luminació sigui suficient i la vostra posició a la vista de la càmera web sigui bona abans d'unir-vos a una trucada de Zoom."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "El vídeo HD de 1080p està disponible a les reunions. Proveu la càmera a diferents resolucions per confirmar que la vostra càmera pot admetre la resolució de vídeo de Teams. Proveu el fons per a una qualitat professional per al mode Junts i el fons virtual."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet ajusta automàticament la qualitat del vídeo segons les condicions de la xarxa. Proveu a un mínim de 720p per assegurar-vos que la vostra càmera compleix els requisits mínims de Google Meet per a la transmissió de vídeo d'alta qualitat."
+      },
+      "streaming": {
+        "title": "Streaming (Twitch/YouTube)",
+        "description": "Proveu a la resolució màxima que la vostra càmera web pugui gestionar (preferiblement 1080p60). Assegureu-vos que la velocitat de fotogrames sigui estable i veieu com de bé la vostra càmera gestiona moviments ràpids i múltiples condicions d'il·luminació."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Si utilitzeu Discord per fer videotrucades, és necessari tenir una càmera web capaç de funcionar a 720p. Voleu assegurar-vos que la càmera que teniu és adequada per al vostre ordinador i per a les sessions de joc i trucades de comunitat. Això també assegura que la vostra càmera no consumeixi massa ample de banda i no perjudiqui el vostre rendiment als jocs."
+      }
+    },
+    "relatedTools": {
+      "title": "Eines i recursos relacionats",
+      "alsoTry": "Proveu també:",
+      "alsoTryLinks": ["Prova de càmera web i micròfon", "Provar micròfon", "Prova de micròfon", "Prova de gravació d'àudio", "Comprovar micròfon en línia"],
+      "onThisPage": "En aquesta pàgina:",
+      "onThisPageLinks": ["Com provar la vostra càmera web", "Configuració de qualitat de vídeo", "Resolució de problemes de la càmera", "Solució per a càmera web que no funciona", "Millor configuració de càmera web"]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Ha funcionat el vostre micròfon? Utilitzeu la nostra <strong>prova de micròfon</strong> ràpida i senzilla per assegurar-vos que el vostre <strong>micròfon funciona</strong> correctament. Aquesta <strong>prova de micròfon en línia</strong> també mostrarà els nivells del vostre micròfon, l'espectre de freqüències i gravarà el vostre àudio. No cal cap programari ni complement per <strong>provar el vostre micròfon</strong>. <strong>Proveu el vostre micròfon</strong> ara abans d'anar en directe, iniciar una videotrucada o gravar un podcast.",
+      "p2": "Premeu el botó \"Iniciar micròfon i gravar\" de dalt per comprovar el vostre micròfon. Els nivells d'àudio es mostren en temps real, de manera que podeu veure si el vostre micròfon capta el so com s'esperava. El gràfic de freqüència d'àudio de 32 bandes us permet veure com de bé el vostre micròfon capta les freqüències del so. Això és especialment útil si sou podcaster o músic, ja que us permetrà utilitzar equips que puguin captar totes les freqüències amb claredat."
+    },
+    "howToTest": {
+      "title": "Com provar el vostre micròfon",
+      "intro": "Seguiu aquests passos per a una <strong>prova de micròfon</strong> completa:",
+      "steps": [
+        "<strong>Permeteu l'accés al vostre micròfon:</strong> Permeteu l'accés del navegador per utilitzar el vostre micròfon. Feu clic a permetre si apareix un quadre de diàleg amb una sol·licitud per concedir accés al vostre micròfon. Si utilitzeu el navegador per primera vegada, potser haureu de fer clic a una icona d'escut a la barra d'adreces i després seleccionar el micròfon per permetre l'accés del lloc.",
+        "<strong>Trieu el vostre micròfon (si cal):</strong> Trieu el micròfon desitjat de les opcions desplegables (el micròfon del vostre ordinador, un micròfon extern, etc.). La <strong>prova de micròfon en línia</strong> només es pot fer amb un micròfon alhora.",
+        "<strong>Configureu la freqüència de mostreig i els canals:</strong> Trieu la freqüència de mostreig per al vostre micròfon (44,1 kHz per a qualitat estàndard i 48 kHz per a qualitat superior). Seleccioneu canal mono o estèreo segons el que vulgueu aconseguir.",
+        "<strong>Graveu una prova de micròfon:</strong> Feu clic al botó de gravar per iniciar una <strong>prova de micròfon</strong>. Començarà a gravar automàticament perquè pugueu escoltar la reproducció més tard i sentir com sona el vostre micròfon.",
+        "<strong>Observeu el mesurador de nivell del micròfon:</strong> Mentre feu la <strong>prova de micròfon</strong>, observeu el mesurador de nivell del micròfon mentre parleu al micròfon. Si grava correctament, el mesurador hauria de moure's segons el volum de la vostra veu. El color verd indica el nivell de volum ideal, el groc un nivell de volum més alt, i el vermell volums massa forts que podrien causar distorsió.",
+        "<strong>Proveu de parlar a diferents volums:</strong> Feu una <strong>prova de micròfon</strong> parlant en veu normal, després en veu molt suau i en veu alta. Us ajudarà a veure com de sensible és el vostre micròfon a diferents volums.",
+        "<strong>Reproduïu la gravació:</strong> Després de fer la <strong>prova de micròfon en línia</strong>, reproduïu la gravació per sentir com sona el micròfon. Us ajudarà a identificar qualsevol problema que no notaríeu amb el mesurador de nivell del micròfon."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Funcionalitats avançades",
+      "intro": "Tant si esteu resolent per què el vostre micròfon no funciona com si busqueu el millor rendiment per a una reunió important o un streaming en directe, hi ha diverses funcions avançades que podeu provar en aquest lloc:",
+      "inputGain": {
+        "title": "Guany d'entrada òptim",
+        "description": "Configureu el guany del vostre micròfon entre el 50% i el 150% amb les nostres opcions preconfigurades o sobre la marxa amb el nostre control lliscant. El control del guany d'entrada és especialment important per a aquells que graven àudio per a podcasts on es desitja un nivell consistent entre episodis, per a músics (tant veu com instruments) i per a streamers que són sensibles a la distorsió i el retall. Seleccioneu el preset Baix (50%) per a entorns massa sorollosos o si teniu un micròfon de condensador sensible, Normal (100%) per a la majoria d'usos, i Augmentar (150%) per a fonts més silencioses que necessiten més amplificació. El nostre control de guany sobre la marxa utilitza el GainNode de la Web Audio API per amplificar sense introduir soroll ni latència."
+      },
+      "noiseSuppression": {
+        "title": "Apliqueu supressió de soroll per a gravacions netes",
+        "description": "Si voleu eliminar sons de tecleig, clics de ratolí, ventiladors, aire condicionat i sons similars de la gravació, activeu la supressió de soroll i torneu-ho a provar. Funciona al vostre navegador i es pot utilitzar per netejar gravacions sorolloses de treball remot, podcasts, gravacions domèstiques, vídeos, etc., i no necessiteu cap porta de soroll ni complement de reducció de soroll. La supressió de soroll utilitza la Web Audio API per suprimir el soroll directament al micròfon, de manera que no augmenta la càrrega de la CPU ni afegeix latència. Podeu provar amb i sense supressió de soroll per veure què funciona millor per al vostre micròfon."
+      },
+      "echoCancellation": {
+        "title": "Per què és útil: Cancel·lació d'eco",
+        "description": "Elimina la retroalimentació acústica i l'eco del vostre micròfon abans de la prova. Això és important per a videotrucades, entrevistes de podcast i streaming en directe quan l'àudio dels vostres altaveus també pot ser captat pel vostre micròfon. Utilitzeu el menú de preconfiguració per activar la cancel·lació d'eco i provar el vostre micròfon amb ella activada. Això us ajudarà a decidir si necessiteu tractar acústicament el vostre espai de gravació, o si podeu confiar en la cancel·lació d'eco del navegador. Útil per a: treballadors remots, entrevistadors de podcasts i qualsevol persona que gravi en una habitació amb moltes superfícies dures (que poden fer eco)."
+      },
+      "autoGainControl": {
+        "title": "Mantingueu un volum consistent amb l'AGC",
+        "description": "L'AGC fa que el nivell del vostre micròfon soni més fort i consistent. Si parleu fluix, us farà sonar més fort. Si parleu fort, us farà sonar més fluix. És ideal per a streamers, perquè si esteu en un moment sorollós, no us heu de preocupar per ser massa forts. També és bo per a podcasters, si us allunyeu del micròfon. I és perfecte per a videoconferències, si voleu sonar com un professional. Marqueu aquesta casella i veieu si l'AGC funciona bé amb el vostre navegador i micròfon. Si us agrada gravar música o ASMR, potser voleu mantenir-lo desactivat."
+      },
+      "realtimeMeter": {
+        "title": "Monitoreu els vostres nivells d'àudio en temps real.",
+        "description": "El mesurador de nivell mostra el RMS (arrel quadrada mitjana) del senyal d'àudio, mostrant el nivell real de l'àudio. També es mostra el pic, on el nivell començarà a distorsionar. El mesurador de nivell té tres seccions: verd, groc i vermell. La zona verda és el nivell òptim, entre -12 i -6 dB. La zona groga és entre -6 i -3 dB i la zona vermella és qualsevol cosa per sobre de -3 dB, quan el vostre àudio distorsionarà. Utilitzeu aquest mesurador per assegurar-vos que el vostre micròfon està ben posicionat. Utilitzeu-lo per ajustar el nivell de la vostra veu. Utilitzeu-lo per monitorar el nivell del vostre àudio abans de gravar, per saber que els vostres nivells no distorsionaran. Els podcasters l'utilitzen per igualar nivells entre episodis. Els músics l'utilitzen per ajustar el guany dels seus micròfons. Els treballadors remots l'utilitzen per assegurar-se que se'ls sent, però que no són massa forts."
+      },
+      "frequencySpectrum": {
+        "title": "Anàlisi de l'espectre de freqüències",
+        "description": "Anàlisi de l'espectre de freqüències en temps real de la resposta de freqüència del vostre micròfon. Utilitzeu l'espectre de 32 bandes per determinar quines freqüències capta el vostre micròfon. Excés de ressonància greu (20-250Hz)? Mitjans emfangats (250Hz-2kHz)? Sibilància agressiva (6kHz-8kHz)? Això és utilitzat per enginyers d'àudio per avaluar micròfons i sales, podcasters per trobar freqüències problemàtiques que necessiten ser equalitzades, i músics per determinar quin micròfon funciona millor per a la seva veu o instrument. Les actualitzacions en temps real us permeten analitzar la vostra posició, proximitat i entorn."
+      },
+      "sideBySide": {
+        "title": "Comparació costat a costat de dos micròfons",
+        "description": "Trieu l'opció de comparació costat a costat per utilitzar dos micròfons alhora. Això és especialment útil si teniu dos micròfons connectats (per exemple, el micròfon integrat del vostre portàtil i un micròfon USB), i voleu veure'ls costat a costat per comparar la qualitat d'àudio, el soroll de fons, la resposta de freqüència i la sensibilitat de cadascun. Això és útil per triar quin micròfon comprar, provar diferents posicions del micròfon, o decidir quin micròfon utilitzar per al vostre podcast o stream. L'utilitzo per demostrar-me a mi mateix que val la pena comprar un micròfon nou, els dissenyadors de so l'utilitzen per trobar una coincidència amb un altre micròfon per a gravació estèreo, i el departament de TI d'una empresa podria utilitzar-lo per provar micròfons abans de desplegar-los per tota l'empresa. Per utilitzar-lo, trieu la configuració de comparació als presets, seleccioneu un segon micròfon, i tots dos es mostraran costat a costat amb resultats en temps real."
+      },
+      "snrMeasurement": {
+        "title": "Mesurament de la relació senyal-soroll (SNR)",
+        "description": "El nombre verd mostra la vostra SNR actual. 60 dB és el mínim recomanat per a gravació professional, 50-60 dB és el mínim per a difusió i podcasting, i 40-50 dB és suficient per a videotrucades i tutorials. Una bona SNR us indicarà si el vostre micròfon és prou bo per al que voleu fer, si la vostra habitació és massa sorollosa, o si necessiteu afegir panells acústics. Feu clic al botó \"Avançat\" a la part superior dreta de la pantalla per mostrar la SNR, el soroll de fons i el rang dinàmic mentre mesureu. Aquesta és una mesura útil per a podcasters que volen assegurar-se que la seva difusió compleix els estàndards de difusió, músics que volen avaluar la configuració del seu estudi domèstic, i per a qualsevol persona que es preocupi per la qualitat del so."
+      }
+    },
+    "audioLevels": {
+      "title": "Nivells d'àudio explicats",
+      "intro": "El mesurador de nivell d'àudio de la prova de micròfon de dalt ofereix una representació visual del nivell de volum de l'entrada del vostre micròfon. És important saber què significa cada nivell per oferir un so excel·lent:",
+      "green": {
+        "title": "Zona verda (0-50%)",
+        "description": "Nivells d'àudio acceptables per a la majoria de casos. Soneu fort i clar, i teniu molt marge per augmentar el volum sense distorsionar. Intenteu mantenir-vos en aquest rang per a videotrucades i altres comunicacions."
+      },
+      "yellow": {
+        "title": "Zona groga (50-80%)",
+        "description": ": Nivells d'àudio alts que encara són acceptables. Bo per a gravar quan voleu un àudio fort i present. No obstant això, sons forts sobtats podrien causar distorsió."
+      },
+      "red": {
+        "title": "Zona vermella (80-100%)",
+        "description": ": Aquesta és la zona de perill, on el vostre àudio probablement estarà distorsionat (retallat). Si esteu freqüentment en vermell, hauríeu de baixar el volum del micròfon al vostre panell de control, o allunyar-vos del micròfon."
+      },
+      "peak": {
+        "title": "Nivell de pic:",
+        "description": "El nivell més alt assolit durant la vostra sessió. Això és útil per comprovar si hi ha events forts curts que causen distorsió, quan els nivells mitjans estan bé."
+      },
+      "rms": {
+        "title": "Nivell RMS",
+        "description": "- Volum mitjà al llarg del temps. Molt més important que el pic quan es tracta de la percepció de volum. Voleu que els vostres nivells RMS estiguin en verd per a un àudio consistentment fort però agradable."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Anàlisi de l'espectre de freqüències",
+      "intro": "La nostra prova de micròfon conté un analitzador d'espectre de freqüència de 32 bandes que mostra la distribució del senyal d'àudio a través de les diferents freqüències. Aquesta és una eina professional que us permet analitzar la resposta de freqüència del vostre micròfon i diagnosticar diversos problemes:",
+      "low": {
+        "title": "Freqüències baixes (20-250 Hz)",
+        "description": "Aquestes són les freqüències greus que afegeixen cos i calidesa a la vostra veu. Un excés d'energia a les freqüències baixes pot fer que la vostra gravació soni fangosa o retronant. Això sovint pot ser el resultat d'estar massa a prop del micròfon. (Efecte de proximitat.)"
+      },
+      "mid": {
+        "title": "Freqüències mitjanes (250-4000 Hz)",
+        "description": "La major part de la claredat de la vostra veu rau aquí. Aquesta àrea hauria de ser prominent i definida. Si aquest rang és deficient, la vostra veu sonarà feble o llunyana."
+      },
+      "high": {
+        "title": "Freqüències altes (4000-20000 Hz)",
+        "description": "Brillantor i claredat. Una freqüència alta ben equilibrada reprodueix la parla de manera nítida i intel·ligible. Un excés de freqüència alta sona estrident o sibilant (so de tzz)."
+      },
+      "tip": "Observeu el mesurador de freqüència mentre parleu. Si mostra una distribució equilibrada de freqüències, llavors el micròfon està en una bona posició i probablement capta un so natural. Si mostra massa activitat a la part greu, potser necessiteu fer un pas enrere."
+    },
+    "sampleRates": {
+      "title": "Configuració de la freqüència de mostreig",
+      "intro": "La freqüència de mostreig és el nombre de mostres d'àudio preses per segon. Com més alta sigui la freqüència de mostreig, més detall tindrà l'àudio, però també consumirà més recursos per al processament i l'emmagatzematge:",
+      "rates": {
+        "22khz": {
+          "title": "22,05 kHz",
+          "description": "Baixa qualitat. Només per a veu. Ús d'ample de banda molt baix, però resposta de freqüència deficient. Generalment s'hauria d'evitar."
+        },
+        "44khz": {
+          "title": "44,1 kHz (qualitat de CD)",
+          "description": "– Adequat per a ús general. Grava totes les freqüències que pot sentir l'oïda humana (20 Hz – 20 kHz). Ideal per a videoconferències, podcasting i música."
+        },
+        "48khz": {
+          "title": "48 kHz (estàndard professional):",
+          "description": "Molt similar a 44,1 kHz però amb una qualitat lleugerament superior. Aquest és l'estàndard per a vídeo/cinema i difusió. Utilitzeu-lo si aneu a sincronitzar àudio amb vídeo."
+        }
+      },
+      "tip": "En general, 44,1 kHz és suficient per a la majoria de proves de micròfon. Si sou un professional d'àudio seriós i voleu la màxima qualitat (o necessiteu que coincideixi amb material de vídeo), podeu utilitzar 48 kHz."
+    },
+    "types": {
+      "title": "Tipus de micròfons",
+      "builtIn": {
+        "title": "Micròfons integrats del portàtil:",
+        "description": "Aquests són els micròfons integrats al vostre portàtil. Són convenients, però tendeixen a ser de qualitat inferior. Podeu sentir el tecleig i el ventilador del vostre ordinador. Encara podeu utilitzar-lo, només col·loqueu el portàtil de manera que el micròfon us quedi de cara. Això és suficient per a una videotrucada amb amics o familiars, però probablement no voleu gravar una veu en off amb ell."
+      },
+      "usb": {
+        "title": "Micròfons USB:",
+        "description": "Aquí teniu les meves recomanacions principals de micròfons USB tant per a Mac com per a PC. Un micròfon USB decent farà una gran diferència en comparació amb el micròfon intern del vostre ordinador. El Blue Yeti i l'Audio-Technica AT2020 USB són dos dels micròfons USB més populars i sonen fantàstic. Perfectes per a podcasting, streaming a Twitch o fer videotrucades."
+      },
+      "headset": {
+        "title": "Auriculars de gaming i auriculars de botó:",
+        "description": "Si voleu uns auriculars per a gaming, també podeu considerar-los com una opció. Són més convenients d'utilitzar i la posició del micròfon es manté igual cada vegada. Evidentment, com millors (i més cars) siguin els auriculars, millor serà la qualitat. Són ideals per a gaming i per fer trucades ocasionals."
+      },
+      "condenser": {
+        "title": "Micròfons de condensador",
+        "description": "Micròfons sensibles que capturen àudio ric i detallat. Requereixen un posicionament acurat i tractament acústic. Ideals per a gravació professional, veu en off i producció musical."
+      },
+      "dynamic": {
+        "title": "Micròfons dinàmics:",
+        "description": "Robusts i excel·lents per rebutjar el soroll de fons. Sovint utilitzats per a podcasting i streaming gràcies a la seva tolerància als entorns domèstics. No són tan sensibles com els de condensador, però són més convenients."
+      },
+      "tip": "La nostra prova de micròfon és compatible amb tots els tipus de micròfons. Podeu utilitzar-la per provar múltiples micròfons, provar maquinari nou o resoldre problemes."
+    },
+    "bestPractices": {
+      "title": "Bones pràctiques de gravació amb micròfon.",
+      "distance": {
+        "title": "Distància.",
+        "description": "De 15 a 30 cm de la boca. Més a prop: So més greu (efecte de proximitat) i capta la respiració. Més lluny: So més prim i capta el soroll de l'habitació."
+      },
+      "popFilter": {
+        "title": "Invertiu en un filtre antipop:",
+        "description": "Les plosives (P, B, T) creen bufades d'aire que provoquen distorsió. Col·loqueu un filtre antipop entre vosaltres i el micròfon i desapareixeran. Si penseu fer podcasting o veu en off, és imprescindible."
+      },
+      "background": {
+        "title": "Minimitzeu el soroll de fons",
+        "description": "— Apagueu el ventilador, tanqueu la finestra, silencieu el telèfon. Feu la prova de micròfon a l'entorn on gravareu. Hi ha molt soroll del qual ni som conscients."
+      },
+      "acoustics": {
+        "title": "No oblideu l'acústica de l'habitació",
+        "description": "No voleu gravar en un espai amb moltes superfícies dures i planes — crearà eco i reverberació. Voleu superfícies toves que absorbeixin les reflexions del so (cortines, catifes, panells acústics). Fins i tot podeu gravar en un armari ple de roba, que pot fer una gran diferència."
+      },
+      "positioning": {
+        "title": "La consistència és clau!",
+        "description": "Si trobeu que el micròfon sona bé en un lloc, manteniu-lo allà durant tota la sessió de gravació. Podeu invertir en un braç articulat o un suport de micròfon si voleu evitar que el micròfon es mogui. Fins i tot podeu dibuixar un cercle a l'escriptori per indicar on ha d'estar el micròfon per aconseguir aquell bon so de nou."
+      }
+    },
+    "troubleshooting": {
+      "title": "Resolució de problemes del micròfon",
+      "noAudio": {
+        "title": "No es detecta àudio:",
+        "issues": [
+          "Verifiqueu que els permisos del micròfon estiguin concedits a la configuració del navegador",
+          "Comproveu que el dispositiu d'entrada correcte estigui seleccionat al menú desplegable",
+          "Assegureu-vos que el micròfon no estigui silenciat a la configuració del maquinari o del sistema",
+          "Per a micròfons USB, proveu un port diferent",
+          "Tanqueu altres aplicacions que puguin estar utilitzant el micròfon"
+        ]
+      },
+      "quiet": {
+        "title": "L'àudio és massa fluix:",
+        "issues": [
+          "Augmenteu el nivell d'entrada del micròfon a la configuració del sistema",
+          "Acosteu-vos al micròfon",
+          "Comproveu si hi ha controls de guany al propi micròfon",
+          "Assegureu-vos que esteu parlant cap al patró de captació del micròfon"
+        ]
+      },
+      "distorted": {
+        "title": "L'àudio està distorsionat o retallat:",
+        "issues": [
+          "Reduïu el nivell d'entrada del micròfon a la configuració del sistema",
+          "Allunyeu-vos lleugerament del micròfon",
+          "Comproveu si hi ha obstruccions físiques o residus al micròfon"
+        ]
+      },
+      "echo": {
+        "title": "Eco o reverberació:",
+        "issues": [
+          "Utilitzeu auriculars per evitar que els altaveus retroalimentin el micròfon",
+          "Afegiu materials suaus a l'habitació per absorbir les reflexions del so",
+          "Acosteu-vos al micròfon per augmentar el so directe respecte a les reflexions de l'habitació"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Eines i recursos relacionats",
+      "alsoTry": "Proveu també:",
+      "alsoTryLinks": ["Prova de càmera web i micròfon", "Provar càmera web", "Prova de càmera", "Prova de gravació de vídeo", "Comprovar càmera en línia"],
+      "onThisPage": "En aquesta pàgina:",
+      "onThisPageLinks": ["Com provar el vostre micròfon", "Guia de nivells d'àudio", "Resolució de problemes del micròfon", "Solució per a micròfon que no funciona", "Millor configuració de micròfon"]
+    }
+  }
+}

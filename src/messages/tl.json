@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "home": {
+      "title": "Libreng Pagsubok ng Webcam at Mikropono Online | MicTestCam",
+      "description": "Subukan ang iyong webcam at mikropono kaagad online. Libreng pagsubok ng camera at mikropono - 100% pribado, walang kailangang i-download. Suriin kung gumagana ang iyong mga device bago mag-video call."
+    },
+    "webcam": {
+      "title": "Pagsubok ng Webcam - Libreng Online na Pagsubok ng Camera | Suriin ang Iyong Webcam",
+      "description": "Libreng pagsubok ng webcam - agad na suriin kung gumagana ang iyong camera. Subukan ang webcam na may live preview, mga filter, mga setting ng kalidad at pag-record. 100% pribado, walang kailangang i-download."
+    },
+    "microphone": {
+      "title": "Pagsubok ng Mic - Libreng Online na Pagsubok ng Mikropono | Suriin ang Iyong Audio",
+      "description": "Libreng online na pagsubok ng mikropono - suriin kung gumagana ang iyong mikropono. Subukan ang mga antas ng audio, frequency response, at kalidad ng pag-record. 100% pribadong tagapagsubok ng mikropono, walang kailangang i-download."
+    },
+    "privacy": {
+      "title": "Patakaran sa Privacy | MicTestCam",
+      "description": "Alamin kung paano pinoprotektahan ng MicTestCam ang iyong privacy. Lahat ng pagsubok ng webcam at mikropono ay nangyayari nang lokal sa iyong browser - hindi namin kinokolekta o iniimbak ang iyong data."
+    },
+    "terms": {
+      "title": "Mga Tuntunin ng Serbisyo | MicTestCam",
+      "description": "Mga Tuntunin ng Serbisyo para sa MicTestCam - libreng online na pagsubok ng webcam at mikropono. Basahin ang aming mga tuntunin at kundisyon para sa paggamit ng aming serbisyo."
+    },
+    "contact": {
+      "title": "Makipag-ugnayan sa Amin | MicTestCam",
+      "description": "Makipag-ugnayan sa team ng MicTestCam. Kontakin kami para sa suporta, feedback, o mga katanungan sa negosyo tungkol sa aming libreng mga tool sa pagsubok ng webcam at mikropono."
+    },
+    "blog": {
+      "title": "Blog - Mga Tip sa Webcam at Mikropono | MicTestCam",
+      "description": "Mga tip ng eksperto, mga tutorial, at mga gabay para sa pagsubok ng webcam, pag-setup ng mikropono, at pag-optimize ng audio/video. Alamin kung paano makakuha ng pinakamahusay na kalidad para sa iyong mga video call."
+    },
+    "reviews": {
+      "title": "Pinakamahusay na mga Review ng Webcam at Mikropono | MicTestCam",
+      "description": "Mga malalimang review, rating, at buying guide para sa mga webcam, mikropono, headset, at kagamitang audio/video. Pagsusuri ng mga eksperto upang matulungan kang pumili ng perpektong kagamitan para sa streaming at mga video call."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "webcamTest": "Pagsubok ng Webcam",
+    "microphoneTest": "Pagsubok ng Mikropono",
+    "reviews": "Mga Review",
+    "blog": "Blog",
+    "privacy": "Patakaran sa Privacy",
+    "terms": "Mga Tuntunin ng Serbisyo",
+    "contact": "Makipag-ugnayan"
+  },
+  "privacy": {
+    "banner": "100% Pribado - Walang umaalis sa iyong browser"
+  },
+  "home": {
+    "hero": {
+      "title": "Libreng Pagsubok ng Webcam at Mikropono Online",
+      "subtitle": "Agad na i-verify na gumagana nang maayos ang iyong camera at mikropono bago ang susunod na video call. Walang kailangang i-download, walang kailangang mag-sign up, ganap na pribado.",
+      "webcamCta": "Subukan ang Iyong Webcam",
+      "microphoneCta": "Subukan ang Iyong Mikropono"
+    },
+    "features": {
+      "title": "Bakit Gamitin ang MicTestCam?",
+      "privacy": {
+        "title": "100% Pribado",
+        "description": "Ang iyong audio at video ay hindi umaalis sa iyong browser. Hindi namin iniimbak, ina-upload, o pinoproseso ang anumang media data sa aming mga server."
+      },
+      "simple": {
+        "title": "Isang-Click Lang",
+        "description": "Walang komplikadong pag-setup. I-click lang ang isang button at agad na makikita ang iyong webcam o maririnig ang iyong mikropono. Gumagana sa ilang segundo."
+      },
+      "professional": {
+        "title": "Propesyonal na mga Tool",
+        "description": "Mga advanced na feature tulad ng frequency spectrum analysis, mga video filter, mga setting ng kalidad, at kakayahan sa lokal na pag-record."
+      },
+      "universal": {
+        "title": "Gumagana Kahit Saan",
+        "description": "Katugma sa lahat ng modernong browser at device. Subukan bago mag-Zoom, Teams, Meet, Discord, o anumang video conferencing app."
+      }
+    },
+    "howItWorks": {
+      "title": "Paano Ito Gumagana",
+      "step1": {
+        "title": "I-click ang Start",
+        "description": "Piliin ang pagsubok ng webcam o mikropono at i-click ang start button"
+      },
+      "step2": {
+        "title": "Payagan ang Access",
+        "description": "Bigyan ng pahintulot ang browser na ma-access ang iyong camera o mikropono"
+      },
+      "step3": {
+        "title": "Tingnan ang mga Resulta",
+        "description": "Agad na makikita ang iyong video feed o mga antas ng audio. Mag-record ng mga clip kung kinakailangan"
+      }
+    },
+    "faq": {
+      "title": "Mga Madalas Itanong",
+      "q1": {
+        "question": "Talaga bang pribado ang pagsubok ng webcam na ito?",
+        "answer": "Oo, talagang pribado. Lahat ng proseso ay nangyayari direkta sa iyong browser gamit ang mga Web API. Walang video o audio data na ipinapadala sa aming mga server o sa anumang third party. Maaari mong i-verify ito sa pamamagitan ng pagsuri sa network tab ng iyong browser."
+      },
+      "q2": {
+        "question": "Kailangan ko bang mag-install ng kahit ano?",
+        "answer": "Hindi kailangan ng pag-install. Ang MicTestCam ay gumagana nang buo sa iyong web browser. Bisitahin lang ang pahina at i-click ang start."
+      },
+      "q3": {
+        "question": "Aling mga browser ang sinusuportahan?",
+        "answer": "Gumagana ang MicTestCam sa lahat ng modernong browser kasama ang Chrome, Firefox, Safari, Edge, at Opera sa mga desktop at mobile device."
+      },
+      "q4": {
+        "question": "Maaari ba akong mag-record ng video o audio?",
+        "answer": "Oo! Maaari kang mag-record ng mga video clip sa pahina ng pagsubok ng webcam at mga audio clip sa pahina ng pagsubok ng mikropono. Lahat ng mga recording ay nai-save nang lokal sa iyong browser at maaaring i-download."
+      },
+      "q5": {
+        "question": "Bakit hindi gumagana ang aking camera/mikropono?",
+        "answer": "Siguraduhing binigyan mo ng pahintulot ang browser na ma-access ang iyong device. Suriin na walang ibang application na gumagamit ng iyong camera o mikropono. Subukang i-refresh ang pahina o pumili ng ibang device mula sa dropdown."
+      },
+      "q6": {
+        "question": "Libre ba itong gamitin?",
+        "answer": "Oo, ang MicTestCam ay ganap na libreng gamitin nang walang mga limitasyon o nakatagong bayarin."
+      },
+      "q7": {
+        "question": "Maaari ba akong magsubok bago mag-Zoom/Teams/Meet call?",
+        "answer": "Siyempre! Ang MicTestCam ay perpekto para sa pagsubok bago tumawag. Subukan lang ang iyong mga device dito, pagkatapos sumali sa iyong video conference nang may kumpiyansa."
+      },
+      "q8": {
+        "question": "Paano pumili ng ibang camera o mikropono?",
+        "answer": "Gamitin ang dropdown menu ng device sa pahina ng pagsubok upang lumipat sa pagitan ng mga konektadong camera o mikropono."
+      },
+      "q9": {
+        "question": "Saan nai-save ang aking mga recording?",
+        "answer": "Ang mga recording ay nai-save nang lokal sa IndexedDB storage ng iyong browser. Nananatili ang mga ito kahit isara ang browser at maaaring i-download o tanggalin anumang oras."
+      },
+      "q10": {
+        "question": "Gumagana ba ito sa mga mobile phone?",
+        "answer": "Oo, gumagana ang MicTestCam sa mga mobile device na may modernong browser. Maaari mong subukan ang parehong front at rear camera sa iyong telepono."
+      }
+    },
+    "trust": {
+      "tests": "Mahigit 50,000 pagsubok araw-araw",
+      "apps": "Gumagana sa Zoom, Teams, Meet",
+      "browsers": "Lahat ng modernong browser ay sinusuportahan"
+    }
+  },
+  "webcam": {
+    "title": "Pagsubok ng Webcam - Libreng Online na Camera Tester",
+    "subtitle": "Subukan agad ang iyong camera. Tingnan ang iyong video, ayusin ang kalidad, maglagay ng mga filter, at mag-record ng mga clip.",
+    "startButton": "Simulan ang Camera at Mag-record",
+    "stopButton": "Ihinto at I-save ang Recording",
+    "snapshotButton": "Kumuha ng Snapshot",
+    "permissionMessage": "I-click ang button sa itaas upang simulan ang pagsubok ng iyong webcam",
+    "recording": "Nagre-record",
+    "deviceLabel": "Camera",
+    "qualityLabel": "Kalidad",
+    "filterLabel": "Filter",
+    "filters": {
+      "normal": "Normal",
+      "grayscale": "Grayscale",
+      "sepia": "Sepia",
+      "invert": "Invert",
+      "blur": "Blur",
+      "brightness": "Liwanag",
+      "contrast": "Contrast",
+      "hueRotate": "Hue Rotate",
+      "saturate": "Saturate"
+    },
+    "savedRecordings": {
+      "title": "Mga Nai-save na Recording",
+      "clearAll": "Burahin Lahat",
+      "noRecordings": "Wala pang mga recording. Magsimulang mag-record upang mag-save ng mga video clip.",
+      "play": "I-play",
+      "download": "I-download",
+      "delete": "Tanggalin"
+    },
+    "testCamera": "Subukan ang Camera",
+    "stopCamera": "Ihinto ang Camera",
+    "record": "Mag-record",
+    "stopRecording": "Ihinto ang Pag-record",
+    "showAdvanced": "Ipakita ang Advanced",
+    "hideAdvanced": "Itago ang Advanced",
+    "mirrorMode": "Mirror Mode",
+    "flipHorizontally": "I-flip nang pahalang",
+    "digitalZoom": "Digital Zoom",
+    "brightness": "Liwanag",
+    "contrast": "Contrast",
+    "dark": "Madilim",
+    "normal": "Normal",
+    "bright": "Maliwanag",
+    "low": "Mababa",
+    "high": "Mataas",
+    "cameraComparison": "Paghahambing ng Camera",
+    "compareSideBySide": "Ihambing nang magkatabi",
+    "requires2Cameras": "(kailangan ng 2+ camera)",
+    "secondCamera": "Pangalawang Camera",
+    "fineTuneWhileRecording": "I-fine-tune Habang Nagre-record",
+    "camera1": "Camera 1",
+    "camera2": "Camera 2",
+    "motion": "Galaw",
+    "advanced": {
+      "title": "Mga Advanced na Kontrol ng Camera",
+      "exposure": "Exposure",
+      "focus": "Focus",
+      "whiteBalance": "White Balance",
+      "image": "Larawan",
+      "ptz": "PTZ",
+      "mode": "Mode",
+      "exposureTime": "Oras ng Exposure",
+      "distance": "Distansya",
+      "temperature": "Temperatura",
+      "sharpness": "Talas",
+      "zoom": "Zoom",
+      "pan": "Pan",
+      "tilt": "Tilt",
+      "saturation": "Saturation",
+      "noAdvancedControls": "Ang iyong camera ay hindi sumusuporta sa mga advanced na hardware control"
+    },
+    "backgroundBlur": {
+      "title": "Background Blur",
+      "blurStrength": "Lakas ng Blur",
+      "skinToneNote": "Gumagamit ng magaang skin-tone detection. Para sa mas magandang resulta, siguraduhing maganda ang ilaw."
+    },
+    "faceDetection": {
+      "facesDetected": "Natukoy",
+      "face": "Mukha"
+    },
+    "framing": {
+      "grid": "Grid",
+      "faceGuide": "Gabay sa Mukha",
+      "moveRight": "Gumalaw pakanan",
+      "moveLeft": "Gumalaw pakaliwa",
+      "moveDown": "Gumalaw pababa",
+      "moveUp": "Gumalaw pataas",
+      "moveCloser": "Lumapit",
+      "moveBack": "Lumayo",
+      "greatFraming": "Magaling ang pagka-frame!",
+      "noFaceDetected": "Walang natukoy na mukha"
+    },
+    "histogram": {
+      "videoAnalysis": "Pagsusuri ng Video",
+      "histogram": "Histogram",
+      "waveform": "Waveform",
+      "shadows": "Mga Anino",
+      "midtones": "Mga Midtone",
+      "highlights": "Mga Highlight"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Resolution",
+      "bitrate": "Bitrate",
+      "lighting": "Pag-iilaw",
+      "dropped": "Na-drop",
+      "tooDark": "Masyadong Madilim",
+      "lowLight": "Mahina ang Ilaw",
+      "overexposed": "Overexposed",
+      "good": "Maganda",
+      "hideMetrics": "Itago ang mga sukatan"
+    }
+  },
+  "microphone": {
+    "title": "Pagsubok ng Mic - Libreng Online na Mikropono Tester",
+    "subtitle": "Subukan ang iyong mikropono gamit ang real-time audio level meter at frequency spectrum analyzer.",
+    "startButton": "Simulan ang Mikropono at Mag-record",
+    "stopButton": "Ihinto at I-save ang Recording",
+    "permissionMessage": "I-click ang button sa itaas upang simulan ang pagsubok ng iyong mikropono",
+    "recording": "Nagre-record",
+    "deviceLabel": "Mikropono",
+    "sampleRateLabel": "Sample Rate",
+    "channelLabel": "Mga Channel",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Antas ng Audio",
+    "frequencySpectrum": "Frequency Spectrum",
+    "savedRecordings": {
+      "title": "Mga Nai-save na Recording",
+      "clearAll": "Burahin Lahat",
+      "noRecordings": "Wala pang mga recording. Magsimulang mag-record upang mag-save ng mga audio clip.",
+      "play": "I-play",
+      "download": "I-download",
+      "delete": "Tanggalin"
+    },
+    "testMicrophone": "Subukan ang Mikropono",
+    "stopMicrophone": "Ihinto ang Mikropono",
+    "record": "Mag-record",
+    "stopRecording": "Ihinto ang Pag-record",
+    "showAdvanced": "Ipakita ang Advanced",
+    "hideAdvanced": "Itago ang Advanced",
+    "inputGain": "Input Gain",
+    "noiseSuppression": "Noise Suppression",
+    "enableNoiseReduction": "I-enable ang noise reduction",
+    "echoCancellation": "Echo Cancellation",
+    "reduceEchoFeedback": "Bawasan ang echo feedback",
+    "autoGainControl": "Auto Gain Control",
+    "autoAdjustVolume": "Awtomatikong ayusin ang volume",
+    "microphoneComparison": "Paghahambing ng Mikropono",
+    "compareSideBySide": "Ihambing nang magkatabi",
+    "requires2Mics": "(kailangan ng 2+ mikropono)",
+    "secondMicrophone": "Pangalawang Mikropono",
+    "fineTuneWhileTesting": "I-fine-tune Habang Nagsusubok",
+    "boost": "Boost",
+    "normal": "Normal",
+    "low": "Mababa",
+    "advanced": {
+      "title": "Advanced na Pagsusuri ng Audio",
+      "metrics": "Mga Sukatan",
+      "spectrogram": "Spectrogram",
+      "signalToNoiseRatio": "Signal-to-Noise Ratio",
+      "excellent": "Napakagaling",
+      "good": "Maganda",
+      "fair": "Katamtaman",
+      "poor": "Mahina",
+      "rms": "RMS (dB)",
+      "peak": "Peak (dB)",
+      "noiseFloor": "Noise Floor",
+      "dominantFrequency": "Dominanteng Frequency",
+      "detectedIssues": "Mga Natukoy na Isyu",
+      "detectedAt": "natukoy sa",
+      "time": "Oras",
+      "frequencyLowHigh": "Frequency (Mababa \u2192 Mataas)"
+    },
+    "processing": {
+      "title": "Pagpoproseso ng Audio",
+      "noiseSuppression": "Noise Suppression",
+      "reduceBackgroundNoise": "Bawasan ang ingay sa likuran",
+      "echoCancellation": "Echo Cancellation",
+      "removeAudioFeedback": "Alisin ang audio feedback",
+      "autoGainControl": "Auto Gain Control",
+      "normalizeVolumeLevels": "I-normalize ang mga antas ng volume",
+      "directMonitoring": "Direktang Monitoring",
+      "listenToYourMic": "Makinig sa iyong mikropono",
+      "monitorVolume": "Volume ng Monitor",
+      "useHeadphones": "Gumamit ng headphone upang maiwasan ang feedback!"
+    },
+    "comparison": {
+      "title": "A/B Paghahambing ng Mikropono",
+      "microphoneA": "Mikropono A",
+      "microphoneB": "Mikropono B",
+      "selectMicrophone": "Pumili ng mikropono...",
+      "startComparison": "Simulan ang Paghahambing",
+      "selectTwoDifferent": "Mangyaring pumili ng dalawang magkaibang mikropono",
+      "active": "Aktibo",
+      "switchTo": "Lumipat sa",
+      "rmsLevel": "Antas ng RMS",
+      "peakLevel": "Antas ng Peak",
+      "snr": "SNR (dB)",
+      "stopComparison": "Ihinto ang Paghahambing",
+      "micA": "Mic A",
+      "micB": "Mic B"
+    }
+  },
+  "privacyPage": {
+    "title": "Patakaran sa Privacy",
+    "lastUpdated": "Huling Na-update",
+    "intro": "Sa MicTestCam, sineseryoso namin ang iyong privacy. Ipinapaliwanag ng Patakaran sa Privacy na ito kung paano namin pinangangasiwaan ang iyong impormasyon kapag ginagamit mo ang aming mga serbisyo sa pagsubok ng webcam at mikropono.",
+    "sections": {
+      "noCollection": {
+        "title": "Hindi Namin Kinokolekta ang Iyong Data",
+        "content": "Ang MicTestCam ay idinisenyo na ang privacy ang pangunahing prinsipyo. Hindi namin kinokolekta, iniimbak, o ipinapadala ang anumang audio o video data mula sa iyong mga pagsubok ng webcam o mikropono. Lahat ng proseso ay nangyayari nang buo sa loob ng iyong web browser gamit ang mga lokal na JavaScript API."
+      },
+      "localStorage": {
+        "title": "Lokal na Imbakan",
+        "content": "Kapag nag-record ka ng mga video o audio clip, iniimbak ang mga ito nang lokal sa IndexedDB storage ng iyong browser. Ang data na ito ay hindi umaalis sa iyong device at hindi namin o ng anumang third party ito ma-access. Maaari mong tanggalin ang mga recording na ito anumang oras sa pamamagitan ng interface ng application o sa pamamagitan ng pagbura ng iyong browser data."
+      },
+      "cookies": {
+        "title": "Mga Cookie at Analytics",
+        "content": "Gumagamit kami ng kaunting cookies lamang para sa mahahalagang functionality ng website tulad ng mga kagustuhan sa wika. Maaari kaming gumamit ng mga analytics na gumagalang sa privacy upang maunawaan ang mga pangkalahatang pattern ng paggamit, ngunit hindi namin tinatrace ang mga indibidwal na gumagamit o nangongolekta ng personal na impormasyon."
+      },
+      "thirdParty": {
+        "title": "Mga Serbisyo ng Third-Party",
+        "content": "Ang aming website ay maaaring magsama ng mga link sa mga third-party na website. Hindi kami responsable sa mga gawi sa privacy ng mga external na site na ito. Inirerekomenda naming suriin ang kanilang mga patakaran sa privacy bago magbigay ng anumang personal na impormasyon."
+      },
+      "security": {
+        "title": "Seguridad",
+        "content": "Gumagamit kami ng HTTPS encryption upang protektahan ang lahat ng komunikasyon sa pagitan ng iyong browser at ng aming website. Dahil hindi namin kinokolekta ang iyong media data, walang panganib na malantad ang iyong mga recording ng webcam o mikropono sa pamamagitan ng data breach."
+      },
+      "children": {
+        "title": "Privacy ng mga Bata",
+        "content": "Ang MicTestCam ay hindi para sa mga batang wala pang 13 taong gulang. Hindi kami sinasadyang nangongolekta ng impormasyon mula sa mga bata."
+      },
+      "changes": {
+        "title": "Mga Pagbabago sa Patakarang Ito",
+        "content": "Maaari naming i-update ang Patakaran sa Privacy na ito paminsan-minsan. Aabisuhan namin kayo ng anumang pagbabago sa pamamagitan ng pag-post ng bagong Patakaran sa Privacy sa pahinang ito at pag-update ng petsa ng 'Huling Na-update'."
+      },
+      "contact": {
+        "title": "Makipag-ugnayan sa Amin",
+        "content": "Kung mayroon kayong mga katanungan tungkol sa Patakaran sa Privacy na ito, mangyaring makipag-ugnayan sa amin sa pamamagitan ng aming pahina ng contact."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Mga Tuntunin ng Serbisyo",
+    "lastUpdated": "Huling Na-update",
+    "intro": "Maligayang pagdating sa MicTestCam. Sa pag-access o paggamit ng aming website at mga serbisyo, sumasang-ayon kayo na sumunod sa mga Tuntunin ng Serbisyong ito.",
+    "sections": {
+      "acceptance": {
+        "title": "Pagtanggap sa mga Tuntunin",
+        "content": "Sa paggamit ng MicTestCam, sumasang-ayon kayo sa mga Tuntunin ng Serbisyong ito at sa aming Patakaran sa Privacy. Kung hindi kayo sang-ayon sa anumang bahagi ng mga tuntuning ito, hindi ninyo maaaring gamitin ang aming mga serbisyo."
+      },
+      "description": {
+        "title": "Deskripsyon ng Serbisyo",
+        "content": "Nagbibigay ang MicTestCam ng mga libreng online na tool para sa pagsubok ng mga webcam at mikropono. Pinapayagan ng aming serbisyo na i-verify ninyo na gumagana nang maayos ang iyong camera at mikropono bago mag-video call, mag-record, o mag-streaming session."
+      },
+      "usage": {
+        "title": "Katanggap-tanggap na Paggamit",
+        "content": "Sumasang-ayon kayo na gamitin ang MicTestCam lamang para sa mga lehitimong layunin at alinsunod sa mga Tuntuning ito. Sumasang-ayon kayo na hindi: gamitin ang serbisyo para sa anumang iligal na aktibidad, subukang makagambala sa wastong paggana ng website, subukang ma-access ang mga bahagi ng website na hindi para sa pampublikong access, o gumamit ng mga automated na sistema upang ma-access ang serbisyo nang walang pahintulot."
+      },
+      "privacy": {
+        "title": "Privacy at Data",
+        "content": "Lahat ng pagsubok ng webcam at mikropono ay nangyayari nang lokal sa iyong browser. Hindi namin kinokolekta, iniimbak, o ina-access ang iyong audio o video data. Para sa higit pang impormasyon, mangyaring suriin ang aming Patakaran sa Privacy."
+      },
+      "intellectual": {
+        "title": "Intellectual Property",
+        "content": "Ang website ng MicTestCam, kasama ang disenyo, code, at nilalaman nito, ay protektado ng copyright at iba pang mga batas sa intellectual property. Hindi ninyo maaaring kopyahin, baguhin, ipamahagi, o kopyahin ang anumang bahagi ng website nang walang aming nakasulat na pahintulot."
+      },
+      "disclaimer": {
+        "title": "Pagtatanggi ng mga Warranty",
+        "content": "Ang MicTestCam ay ibinibigay 'nang walang pagbabago' nang walang anumang uri ng warranty, maging hayag o ipinahiwatig. Hindi namin ginagarantiya na ang serbisyo ay magiging tuluy-tuloy, walang error, o matutugunan ang iyong mga partikular na pangangailangan. Hindi kami responsable sa anumang mga isyu sa hardware o software ng iyong mga device."
+      },
+      "limitation": {
+        "title": "Limitasyon ng Pananagutan",
+        "content": "Sa pinakamalawak na saklaw na pinapahintulutan ng batas, ang MicTestCam ay hindi mananagot para sa anumang hindi direkta, hindi sinasadya, espesyal, kahihinatnan, o parusang mga pinsala na dulot ng iyong paggamit ng serbisyo."
+      },
+      "changes": {
+        "title": "Mga Pagbabago sa mga Tuntunin",
+        "content": "Nakalaan sa amin ang karapatang baguhin ang mga Tuntunin ng Serbisyong ito anumang oras. Ang mga pagbabago ay magkakabisa kaagad kapag nai-post sa website. Ang patuloy na paggamit ninyo ng serbisyo pagkatapos mai-post ang mga pagbabago ay nangangahulugang tinatanggap ninyo ang mga binagong tuntunin."
+      },
+      "governing": {
+        "title": "Namamahalang Batas",
+        "content": "Ang mga Tuntunin ng Serbisyong ito ay pamamahalaan at bibigyang-kahulugan alinsunod sa mga naaangkop na batas, nang hindi isinasaalang-alang ang mga prinsipyo ng conflict of law."
+      },
+      "contact": {
+        "title": "Makipag-ugnayan",
+        "content": "Kung mayroon kayong mga katanungan tungkol sa mga Tuntunin ng Serbisyong ito, mangyaring makipag-ugnayan sa amin sa pamamagitan ng aming pahina ng contact."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Makipag-ugnayan sa Amin",
+    "subtitle": "May mga tanong o feedback? Gusto naming marinig ang inyong saloobin.",
+    "form": {
+      "name": "Iyong Pangalan",
+      "namePlaceholder": "Ilagay ang iyong pangalan",
+      "email": "Email Address",
+      "emailPlaceholder": "Ilagay ang iyong email",
+      "subject": "Paksa",
+      "subjectPlaceholder": "Tungkol saan ito?",
+      "message": "Mensahe",
+      "messagePlaceholder": "I-type ang iyong mensahe dito...",
+      "submit": "Ipadala ang Mensahe",
+      "sending": "Ipinapadala...",
+      "success": "Salamat! Matagumpay na naipadala ang iyong mensahe.",
+      "error": "Paumanhin, nagkaroon ng error sa pagpapadala ng iyong mensahe. Mangyaring subukan muli."
+    },
+    "info": {
+      "title": "Iba Pang Paraan Upang Makipag-ugnayan sa Amin",
+      "email": "Email",
+      "response": "Karaniwang tumutugon kami sa loob ng 24-48 oras.",
+      "social": "Sundan Kami"
+    },
+    "faq": {
+      "title": "Bago Ka Makipag-ugnayan sa Amin",
+      "subtitle": "Maaaring makita mo ang iyong sagot sa aming seksyon ng FAQ sa homepage."
+    }
+  },
+  "blogPage": {
+    "title": "Blog sa Pagsubok ng Webcam at Mikropono - Mga Tip, Gabay at Tutorial",
+    "subtitle": "Mga tip ng eksperto, tutorial, at mga kaalaman tungkol sa pagsubok ng webcam, pag-setup ng mikropono, at pag-optimize ng audio/video para sa mga video call, streaming, at paggawa ng content.",
+    "noPosts": "Wala pang mga post",
+    "noPostsDescription": "Bumalik muli para sa bagong content!",
+    "readMore": "Magbasa pa",
+    "by": "ni",
+    "minRead": "min na pagbasa",
+    "categories": {
+      "all": "Lahat ng Post",
+      "webcam": "Mga Tip sa Webcam",
+      "microphone": "Mga Tip sa Mikropono",
+      "tutorials": "Mga Tutorial",
+      "troubleshooting": "Troubleshooting"
+    },
+    "search": "Maghanap ng mga artikulo...",
+    "featured": "Naka-feature",
+    "latest": "Mga Pinakabagong Artikulo",
+    "relatedPosts": "Mga Kaugnay na Post"
+  },
+  "reviewsPage": {
+    "title": "Pinakamahusay na mga Review ng Webcam at Mikropono - Pagsusuri ng Eksperto sa mga Produkto",
+    "subtitle": "Mga malalimang review, rating, at buying guide para sa mga webcam, mikropono, headset, at kagamitang audio/video. Hanapin ang perpektong kagamitan para sa streaming, mga video call, at paggawa ng content.",
+    "noReviews": "Wala pang mga review na magagamit",
+    "noReviewsDescription": "Bumalik muli para sa mga review ng eksperto sa mga produkto!",
+    "by": "ni",
+    "readMore": "Basahin ang Review"
+  },
+  "footer": {
+    "tagline": "Subukan ang iyong webcam at mikropono online nang libre",
+    "privacy": "Patakaran sa Privacy",
+    "terms": "Mga Tuntunin ng Serbisyo",
+    "contact": "Makipag-ugnayan",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Lahat ng karapatan ay nakalaan.",
+    "language": "Wika"
+  },
+  "common": {
+    "loading": "Naglo-load...",
+    "error": "Error",
+    "close": "Isara",
+    "back": "Bumalik",
+    "next": "Susunod",
+    "submit": "Isumite",
+    "cancel": "Kanselahin",
+    "save": "I-save",
+    "delete": "Tanggalin",
+    "edit": "I-edit",
+    "view": "Tingnan",
+    "download": "I-download",
+    "share": "Ibahagi",
+    "copy": "Kopyahin",
+    "copied": "Nakopya na!",
+    "readMore": "Magbasa Pa",
+    "learnMore": "Matuto Pa",
+    "getStarted": "Magsimula"
+  },
+  "cta": {
+    "title": "Handa na Bang Subukan ang Iyong mga Device?",
+    "subtitle": "Simulan na ang pagsubok ng iyong webcam at mikropono ngayon. Walang kailangang i-download, walang kailangang mag-sign up.",
+    "webcamButton": "Subukan ang Webcam",
+    "microphoneButton": "Subukan ang Mikropono"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "Nagbibigay ang MicTestCam ng agarang, libreng online na pagsubok para sa mga webcam at mikropono direkta sa iyong browser. Walang kailangang i-download. Subukan ang kalidad ng iyong camera, mga antas ng mikropono, at linaw ng audio sa loob ng 30 segundo bago ang anumang video call o recording session.",
+      "p1": "Kamusta at maligayang pagdating sa MicTestCam! Nag-aalok ang MicTestCam ng pinakamadaling paraan upang <strong>subukan ang iyong webcam at mic online</strong>, kung nais mong suriin ang iyong webcam para sa isang video conference, isang pulong, isang presentasyon, mag-record ng mga voiceover para sa iyong mga YouTube video at channel, o magsagawa ng malalimang <strong>pagsubok ng mikropono</strong> para sa iyong podcast.",
+      "p2": "Ang mga Tool sa Pagsubok ng Camera at Mikropono ng MicTestCam ay gumagana nang ganap sa loob ng browser at hindi nangangailangan ng anumang pag-download. Ang privacy ng gumagamit ang pinakamahalagang priyoridad para sa MicTestCam. Lahat ng pagsubok ay ginagawa sa iyong browser at ang iyong impormasyon sa video at audio ay hindi umaalis sa iyong kompyuter. Sa mahigit 50,000 pagsubok araw-araw at 99.9% na rate ng tagumpay, ang MicTestCam ang pinakapopular na platform para sa mga propesyonal, mga empleyado na nagtatrabaho sa malayo, mga tagalikha ng content, at mga regular na gumagamit na gustong subukan ang mga device.",
+      "p3": "Pindutin ang mga button sa ibaba upang <strong>subukan ang webcam</strong> o <strong>subukan ang mikropono</strong>. Ilang segundo lamang ang kailangan ng MicTestCam upang i-verify kung gumagana nang tama ang iyong camera at mikropono bago mag-Zoom, Microsoft Teams, Google Meet, Discord, Skype o iba pang video call.",
+      "keyTakeaways": {
+        "title": "Mga Pangunahing Punto",
+        "points": [
+          "Libreng agarang pagsubok ng webcam at mikropono - walang kailangang i-install na software",
+          "100% browser-based na pagsubok para sa ganap na privacy at seguridad ng data",
+          "Real-time na feedback sa kalidad ng video, mga antas ng audio, at frequency response",
+          "Katugma sa Zoom, Teams, Meet, Discord, at lahat ng video platform",
+          "Mahigit 50,000 araw-araw na pagsubok na may 99.9% na rate ng katumpakan"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Bakit Dapat Mong Subukan ang Iyong Webcam at Mikropono Bago Mag-Video Call?",
+      "directAnswer": "Ang pagsubok ng iyong webcam at mikropono bago mag-video call ay pumipigil sa mga nakakahiyang teknikal na problema, nag-iimpok ng oras sa pulong, at tinitiyak ang propesyonal na kalidad ng komunikasyon. Ang pagsubok bago tumawag ay tumutukoy sa mga isyu sa camera angle, pag-iilaw, mga antas ng audio, at ingay sa likuran bago ito makita ng iyong mga kausap.",
+      "p1": "Ang remote work at virtual na komunikasyon ay mga karaniwang kasanayan sa negosyo ngayon. Ang kakayahang makipag-usap nang malinaw sa pamamagitan ng video at audio ay mahalaga para sa propesyonal na tagumpay. Ang mga teknikal na pagkakaabala sa mga pulong ay nakakapinsala sa kredibilidad at nagsasayang ng oras. Ang paulit-ulit na pagtatanong ng \"Nakikita ba ninyo ako ngayon? Paano ngayon?\" ay sumisira sa propesyonal na reputasyon at nagpapabagal sa mga mahalagang talakayan.",
+      "p2": "Ang pagsasagawa ng mabilis na pagsubok ng video bago ang mga pulong ay pumipigil sa mga teknikal na problema. Ang pagsasagawa ng mabilis na pagsubok ng audio bago ang mga mahahalagang tawag ay tinitiyak na malinaw ang iyong audio nang walang ingay sa likuran, echo, o distortion. Nauunawaan ng mga propesyonal sa pagbebenta, mga executive, mga guro, at mga tagalikha ng content ang kahalagahan ng maaasahang performance ng webcam at mikropono.",
+      "p3": "Hindi tulad ng iba pang mga tool sa pagsubok ng webcam at mikropono, hindi lamang vine-verify ng MicTestCam kung gumagana ang iyong webcam o mikropono, kundi nagbibigay din ng detalyadong impormasyon tungkol sa kalidad ng video at mga katangian ng audio. Tinutulungan ng MicTestCam ang mga gumagamit na mahanap at ayusin ang mga teknikal na problema bago magsimula ang mga video call.",
+      "comparison": {
+        "title": "MicTestCam kumpara sa mga Built-in na Pagsubok ng Video Platform",
+        "points": [
+          "<strong>MicTestCam:</strong> Nagbibigay ng detalyadong audio frequency analysis, real-time na waveform, at propesyonal na mga sukatan",
+          "<strong>Pagsubok ng Platform:</strong> Nagpapakita lamang ng basic na oo/hindi na functionality nang walang mga detalye ng kalidad",
+          "<strong>MicTestCam:</strong> Gumagana ang mga pagsubok sa lahat ng platform - Zoom, Teams, Meet, Discord nang sabay-sabay",
+          "<strong>Pagsubok ng Platform:</strong> Vine-verify lamang ang functionality sa loob ng partikular na platform na iyon",
+          "<strong>MicTestCam:</strong> Nag-aalok ng recording playback upang marinig nang eksakto kung ano ang maririnig ng iba",
+          "<strong>Pagsubok ng Platform:</strong> Walang playback feature para sa pag-verify ng kalidad"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Paano Gumagana ang Camera at Mikropono Tester ng MicTestCam?",
+      "directAnswer": "Gumagamit ang MicTestCam ng WebRTC na teknolohiya upang ma-access ang iyong webcam at mikropono direkta sa pamamagitan ng iyong browser. Ang pagsubok ay nangyayari nang buo sa iyong device gamit ang parehong mga protocol na ginagamit ng Zoom, Teams, at Meet, na tinitiyak ang tumpak na pagsubok ng real-world performance nang hindi nag-a-upload ng anumang data sa mga server.",
+      "p1": "Ang camera at mikropono tester ng MicTestCam ay gumagamit ng mga WebRTC protocol, ang parehong mga protocol na ginagamit ng mga sikat na web-based na serbisyo ng video conferencing. Kapag <strong>sinusubukan mo ang iyong webcam</strong> gamit ang MicTestCam, ina-access ng platform ang iyong webcam sa pamamagitan ng Web API ng browser at ipinapakita ang video feed sa real-time sa screen. Maaaring i-verify ng mga gumagamit kung gumagana ang webcam, suriin kung angkop ang pag-iilaw, kumpirmahin na tama ang camera angle, at suriin ang pangkalahatang kalidad ng video.",
+      "p2": "Ang tool sa <strong>pagsubok ng mikropono</strong> ng MicTestCam ay nagbibigay ng agarang feedback sa mga antas ng volume ng boses. Kapag nagsalita ang mga gumagamit sa mikropono, inilalarawan ng mga audio meter ang mga antas ng boses sa real-time upang matulungang matukoy kung maayos na nakakakuha ng tunog ang mikropono. Ang 32-band frequency spectrum analyzer ay nagpapakita kung paano naipamamahagi ang tunog sa iba't ibang frequency, isang feature na partikular na mahalaga para sa mga podcaster at musikero na nagsusubok ng mga mikropono para sa propesyonal na pag-record.",
+      "p3": "Parehong nag-aalok ang mga tool ng MicTestCam ng kakayahan sa auto-record. Maaaring magsimula ng pagsubok ang mga gumagamit at awtomatikong magre-record ang MicTestCam ng camera feed at audio, na nagpapahintulot sa playback upang suriin ang kalidad gaya ng maranasan ito ng mga manonood. Lahat ng pag-record ay nangyayari nang lokal sa browser. Hindi nag-a-upload o nag-iimbak ang MicTestCam ng anumang data ng gumagamit sa mga external na server, na tinitiyak ang ganap na privacy.",
+      "technicalSpecs": {
+        "title": "Mga Teknikal na Detalye",
+        "specs": [
+          "<strong>Protocol:</strong> WebRTC (Web Real-Time Communication) - Pamantayang pang-industriya na ginagamit ng Zoom, Microsoft Teams, Google Meet",
+          "<strong>Pagsusuri ng Audio:</strong> 32-band frequency spectrum analyzer (20Hz - 20kHz na saklaw)",
+          "<strong>Resolution ng Video:</strong> Sinusuportahan ang pagsubok mula 240p hanggang 8K (7680×4320) depende sa kakayahan ng camera",
+          "<strong>Frame Rate:</strong> Real-time na monitoring sa 15fps, 30fps, at 60fps",
+          "<strong>Privacy:</strong> 100% client-side na proseso - walang data na ipinapadala sa mga server ng MicTestCam",
+          "<strong>Compatibility:</strong> Gumagana sa Chrome, Firefox, Safari, Edge - lahat ng pangunahing browser"
+        ]
+      }
+    },
+    "features": {
+      "title": "Kumpletong Listahan ng mga Feature ng mga Pagsubok",
+      "webcamTitle": "Pagsubok ng Webcam",
+      "webcamFeatures": [
+        "Live preview ng iyong camera na may mga opsyon sa resolution mula 240p hanggang 1080p.",
+        "Pag-detect ng maraming camera device tulad ng USB camera, web cam, at external camera.",
+        "Mahigit 9 na magkakaibang filter at effect para subukan ang webcam at ang mga color balance nito.",
+        "Frame rate bawat segundo para i-monitor ang camera.",
+        "Kakayahang kumuha ng snapshot.",
+        "Awtomatikong mag-record ng video mula sa webcam sa WebM at MP4 na format.",
+        "Mga recording na nai-save sa local storage."
+      ],
+      "microphoneTitle": "Pagsubok ng Mikropono",
+      "microphoneFeatures": [
+        "Realtime audio level meter at peak meter.",
+        "Realtime frequency spectrum analyser na 32 band.",
+        "Pag-detect ng maraming mikropono device tulad ng USB microphone, headset microphone atbp.",
+        "Kakayahang mag-configure ng mga sample rate hanggang 48 KHz na kalidad pang-studio.",
+        "I-configure ang pag-record ng audio sa mono o stereo.",
+        "Peak at RMS level meter para sa audio.",
+        "Awtomatikong nagre-record ng audio na may opsyon na mag-playback."
+      ]
+    },
+    "whoUses": {
+      "title": "Sino ang Gumagamit ng Aming Pagsubok ng Webcam at Mic",
+      "remoteWorkers": {
+        "title": "Mga remote worker at propesyonal",
+        "description": "Ang isang remote worker o isang propesyonal ay nagsasagawa ng mabilis na pagsubok bago ang kanilang mga video conference at pulong sa Zoom, Google Meet o Microsoft Teams upang makita kung gumagana nang tama ang kanilang webcam, pagkatapos ay nagsasagawa ng mabilis na <strong>pagsubok ng mic</strong> upang matiyak na naririnig sila nang hindi nila kailangang ulit-ulitin ang sinasabi at hindi maabala ng \"Hindi ka namin marinig!\""
+      },
+      "contentCreators": {
+        "title": "Mga YouTuber, Twitch streamer, podcaster at iba pang tagalikha ng content",
+        "description": "Para sa mga YouTuber, Twitch streamer, podcaster at iba pang tagalikha ng content, ang aming advanced na tool sa audio at video diagnostics ay isang kinakailangan. Gamitin ang frequency spectrum analyzer upang lutasin ang mga problema sa audio at magsagawa ng mga pagsubok sa kalidad ng video upang matiyak na naghahatid ka ng mataas na kalidad na content."
+      },
+      "students": {
+        "title": "Mga Estudyante at Guro",
+        "description": "Kailangan ng mga estudyante na matiyak na maaari silang makipag-usap sa pamamagitan ng Internet. Nagsasagawa sila ng mga pagsubok bago ang kanilang mga klase upang kumpirmahin na gumagana ang kanilang mga kagamitan. Sinusuri din ng mga guro na nasa maayos na kalagayan ang kanilang mga kagamitan upang matagumpay na maituro ang kanilang mga klase."
+      },
+      "jobSeekers": {
+        "title": "Mga Naghahanap ng Trabaho",
+        "description": "Kung gagawa ka ng mga video interview, siguraduhing magsagawa ng <strong>pagsubok ng camera</strong> at <strong>pagsubok ng mikropono</strong> bago ka magsimula. Ito ay isang malaking kalamangan at magpapakita na handa ka. (Wala nang mas masama pa kaysa mawalan ng pagkakataon dahil sa isang teknikal na problema.)"
+      },
+      "gamers": {
+        "title": "Mga Gamer:",
+        "description": "Gumagamit ng gaming headset? Makuha ang tumpak na mga resulta na kailangan mo upang subukan ang iyong mic para sa Discord, in-game chat, o streaming."
+      },
+      "techSupport": {
+        "title": "Tech Support",
+        "description": "Kung nagkakaproblema sa iyong camera o mikropono, makakatulong ang aming mga tool na matukoy kung ang isyu ay sa iyong hardware, mga driver, o mga setting ng software."
+      }
+    },
+    "privacy": {
+      "title": "100% Garantisadong Privacy",
+      "intro": "Ang privacy ang nasa puso ng lahat ng ginagawa namin sa aming mga tool sa <strong>pagsubok ng webcam</strong> at <strong>pagsubok ng mikropono</strong>. Nauunawaan namin na sa pag-access ng iyong camera at mikropono, ibinabahagi mo ang pribadong impormasyon sa amin. Ito ang dahilan kung bakit ang buong platform namin ay idinisenyo na may zero trust policy.",
+      "localProcessing": {
+        "title": "Lahat ng proseso ay ginagawa sa iyong lokal na makina",
+        "description": "Ang pagpoproseso ng video at audio ay ginagawa gamit ang mga WebRTC API sa iyong browser. Hindi namin iniimbak ang iyong data sa aming mga server dahil hindi namin ito nakukuha."
+      },
+      "noAccount": {
+        "title": "Hindi Kailangan ng Account",
+        "description": "Hindi mo kailangang gumawa ng account, maglagay ng email address, o magbahagi ng anumang personal na detalye. Pumunta lang sa site, payagan ang iyong browser, subukan ang iyong mga device at umalis."
+      },
+      "transparent": {
+        "title": "Transparent na code",
+        "description": "Hindi namin itinatago ang aming code. Maaari mo itong tingnan sa iyong browser gamit ang dev tools. Walang tracking, walang pagkolekta ng data, walang analytics na kumokolekta ng iyong pribadong data."
+      },
+      "cleanup": {
+        "title": "Awtomatikong Pagtanggal:",
+        "description": "Lahat ng mga recording ay iniimbak sa local storage ng browser. Awtomatiko itong matatanggal kapag isinara mo ang browser o binura ang local storage. Ikaw ang may buong kontrol sa kung ano ang nakaimbak at sa gaano katagal."
+      }
+    },
+    "compatibility": {
+      "title": "Compatibility sa iba't ibang browser at device",
+      "intro": "Karamihan sa mga sikat at napapanahong browser at device ay sinusuportahan ng aming mga pagsubok ng webcam at mikropono. Parehong available ang mga tool sa Windows, Mac OS, Linux, iOS, Android o anumang iba pang operating system na sumusuporta sa modernong browser nang hindi nangangailangan ng anumang karagdagang pag-download o pag-install.",
+      "browsersTitle": "Mga Sinusuportahang Browser",
+      "browsers": [
+        "Google Chrome (pinakamahusay na performance)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (sa MacOS at iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Mga Sinusuportahang Device",
+      "devices": [
+        "Mga built-in o external na USB webcam sa desktop at laptop computer",
+        "Mga smartphone at tablet na may front at rear na camera",
+        "Mga external na USB camera at webcam para sa PC",
+        "Mga built-in na mikropono ng laptop",
+        "Mga external na USB microphone",
+        "Mga gaming headset na may mikropono",
+        "Mga propesyonal na audio interface at condenser microphone"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Kailangan ng Tulong?",
+      "intro": "Hindi mo magawang gumana ang <strong>pagsubok ng webcam</strong> o <strong>pagsubok ng mikropono</strong>? Subukan ang isa sa mga solusyong ito.",
+      "cameraTitle": "Hindi Natutukoy o Hindi Gumagana ang Camera",
+      "cameraIssues": [
+        "Siguraduhing pinapayagan ang camera sa iyong browser. Sa address bar, makikita mo ang isang camera sign na maaari mong gamitin upang i-enable ang camera access.",
+        "Ginagamit mo ang camera sa ibang application (Zoom, Teams, Skype atbp). Isang application lamang ang maaaring gumamit ng camera sa isang pagkakataon. Isara ang ibang application o i-refresh ang pahina at payagan muli ang access.",
+        "I-refresh ang pahina at payagan muli ang access. Maaaring dahil ito sa isang bug ng browser.",
+        "Gamitin ang pinakabagong bersyon ng browser.",
+        "Suriin kung tama ang pag-install ng mga camera driver sa iyong kompyuter.",
+        "Kung gumagamit ka ng USB camera, subukang ikonekta ito sa ibang USB port o gumamit ng ibang cable."
+      ],
+      "microphoneTitle": "Hindi Gumagana ang Mikropono",
+      "microphoneIssues": [
+        "Payagan ang access ng mikropono sa iyong browser.",
+        "Siguraduhing maayos na nakakonekta ang mikropono sa power supply.",
+        "Gamitin ang mga system sound setting upang suriin kung gumagana ang mikropono.",
+        "Ginagamit ng ibang application ang mikropono. Subukang isara ang mga ito.",
+        "Subukang ayusin ang antas ng mikropono sa mga system setting upang palakasin ang volume kung hindi ka sapat na malakas, o bawasan ang volume kung masyadong malakas.",
+        "Suriin kung hindi naka-mute ang mikropono sa iyong system o sa device (kung may hardware mute button sa device)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Mga Mabilisang Link",
+      "webcamTitle": "Pagsubok ng Webcam:",
+      "webcamLinks": ["Pagsubok ng Webcam", "Subukan ang Webcam Online", "Pagsubok ng Camera", "Online Camera Tester", "Libreng Pagsubok ng Webcam", "Suriin ang Aking Webcam", "Pagsubok ng USB Camera", "Pagsubok ng Laptop Camera", "Subukan ang Camera para sa Zoom"],
+      "microphoneTitle": "Pagsubok ng Mikropono:",
+      "microphoneLinks": ["Pagsubok ng Mikropono", "Pagsubok ng Mic Online", "Subukan ang Aking Mikropono", "Online Mikropono Tester", "Libreng Pagsubok ng Mic", "Suriin ang Mikropono", "Pagsubok ng Audio Online", "Pagsubok ng USB Microphone", "Pagsubok ng Mic sa Discord"]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Subukan ang iyong webcam gamit ang aming mabilis at madaling online na tool sa pagsubok. Nag-aalok ito ng real-time na preview ng iyong camera, maraming setting ng kalidad, mga espesyal na effect, at awtomatikong pag-record gamit ang iyong camera online, lahat nang walang kailangang mag-install ng karagdagang software. Kaya magagamit mo ito bilang <strong>pagsubok ng camera</strong> para sa web conferencing, o subukan ang iyong built-in na webcam sa isang bagong kompyuter.",
+      "p2": "Upang subukan, pindutin lang ang 'Simulan ang Camera at Mag-record' na button sa itaas. Lalabas ang isang live preview ng iyong webcam upang makita mo kung gumagana ang iyong video, subukan ang iyong pag-iilaw, at kung maayos na nakaposisyon ang iyong camera. Walang ina-upload, iniimbak o ina-access. Ang pagsubok ng iyong video ay ginagawa nang lokal sa iyong kompyuter."
+    },
+    "howToUse": {
+      "title": "Paano Gamitin ang Aming Tool sa Pagsubok ng Webcam",
+      "intro": "Upang subukan ang iyong webcam, sundin ang mga simpleng hakbang na ito:",
+      "steps": [
+        "<strong>Payagan ang Access:</strong> Lalabas ang isang dialog na nagtatanong kung maaaring ma-access ng browser ang webcam. Pindutin ang Payagan upang bigyan ng access ang browser sa webcam. Tandaan na ganito rin sa anumang website ng pagsubok ng webcam. Lumalabas ang dialog bilang hakbang na panseguridad upang pigilan ang mga random na website na ma-access ang webcam.",
+        "<strong>Piliin ang tamang camera:</strong> Kung mayroon kang maraming camera (halimbawa, isang built-in na laptop camera at isang hiwalay na USB camera), maaari mong piliin kung aling camera ang gagamitin mula sa dropdown menu. Awtomatikong made-detect at ililista ng aming tool sa pagsubok ng webcam ang lahat ng camera.",
+        "<strong>Piliin ang kalidad:</strong> Piliin ang gustong resolution (kalidad) mula sa dropdown ng kalidad. Maaari mong subukan ang camera sa mababang kalidad (240p), katamtamang kalidad (480p), mataas na kalidad (720p), fullHD na kalidad (1080p) atbp. Ang mas mataas na kalidad ay nagbibigay ng mas malinaw na larawan ngunit nangangailangan ng mas maraming bandwidth at CPU.",
+        "<strong>Simulan ang pagsubok:</strong> Pindutin ang Simulan ang Camera at Mag-record at agad na makikita ang live feed mula sa iyong camera. Maaari kang agad na magsimulang mag-record at pagkatapos ay tingnan ang kalidad.",
+        "<strong>Gumamit ng mga visual filter:</strong> Mayroon kaming mahigit 9 na visual filter (black&white, sepia, blur, high contrast, atbp.) upang makita kung paano naaapektuhan nila ang output ng iyong camera.",
+        "<strong>Kumuha ng snapshot:</strong> Maaari kang kumuha ng snapshot sa panahon ng pagsubok upang suriin ang kalidad ng iyong larawan o upang makita kung paano hinahawakan ng camera ang mga partikular na kondisyon ng pag-iilaw.",
+        "<strong>Ihinto at I-save:</strong> Kapag tapos na, pindutin ang Ihinto at I-save ang Recording upang ihinto ang pag-record. Ang video ay mai-save sa browser upang ma-play muli at ma-download ito."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Mga Advanced na Feature ng Webcam",
+      "intro": "Ang aming <strong>webcam tester</strong> ay may kasamang mga propesyonal na feature na dinisenyo para sa iba't ibang gamit - mula sa kaswal na video call hanggang sa paggawa ng content.",
+      "mirrorMode": {
+        "title": "Mirror Mode para sa Perpektong Selfie",
+        "description": "Ang mirror at flip ay isang kinakailangang feature para sa mga tutorial sa makeup, blogger at para sa mga gustong makita kung ano ang hitsura nila sa salamin. Kapag in-click mo ang Mirror button (habang nakabukas ang iyong camera), ibi-flip nito ang iyong webcam video nang pahalang upang mas mabuti mong masuri ang iyong mukha, maglagay ng makeup o simpleng masanay sa mirror view. Lalo na, kung nagre-record ka ng YouTube video, TikTok video o Instagram story kung saan kailangan mong magpakita ng teksto, gumamit ng mga direksyon atbp."
+      },
+      "digitalZoom": {
+        "title": "Digital Zoom (1x hanggang 3x)",
+        "description": "Tingnan kung gaano katalas ang iyong <strong>webcam</strong> kapag naka-zoom in sa iba't ibang antas. Perpekto para sa mga product demo, tutorial, o para lang lumapit nang sobra. Zoom slider at 1x, 2x, 3x na mabilisang button para subukan ang talas ng iyong webcam kapag naka-zoom in. Kapaki-pakinabang para makita kung kailangan mong lumapit sa iyong camera, o kung maaari kang mag-zoom in nang hindi masyadong bumababa ang kalidad ng imahe. Maginhawa para sa mga live streamer na gustong mag-zoom in sa kanilang pagpipinta, paggawa, o pagtatrabaho sa tech repair."
+      },
+      "brightnessContrast": {
+        "title": "Mga Kontrol sa Liwanag at Contrast",
+        "description": "Ayusin ang liwanag (50-150%) at contrast (50-150%) at tingnan kung ano ang hitsura ng iyong webcam sa iba't ibang kondisyon ng pag-iilaw. Maaari mong gamitin ang mga slider na ito upang subukan kung gumagana nang maayos ang auto exposure ng iyong camera at upang gayahin ang iba't ibang setting ng pag-record. Kung masyadong madilim o masyadong maliwanag sa iyong silid maaari mong ayusin ang mga slider sa komportableng setting para sa iyong susunod na video meeting. Madalas gamitin ng mga streamer at YouTuber ang mga slider na ito upang makuha ang pinakamahusay mula sa kanilang camera at upang mapanatili ang parehong mga kondisyon ng pag-iilaw para sa kanilang mga video."
+      },
+      "gridOverlay": {
+        "title": "Grid Overlay para sa Propesyonal na Pag-frame",
+        "description": "Ang aming built-in na grid overlay ay gumagamit ng Rule of Thirds na teknik sa komposisyon, na nagpapahintulot sa iyong i-frame nang perpekto ang iyong mukha sa iyong recording. Ilagay lamang ang iyong mga mata sa itaas na pahalang na linya at itugma ang iyong mukha sa mga patayong gabay. Tinitiyak ng propesyonal na prinsipyong ito sa photography ang mas kaakit-akit at mas kawili-wiling mga video recording para sa YouTube, mga pulong sa negosyo, o Twitch stream. Nakakatulong ang grid overlay sa pare-parehong pag-frame sa mga paulit-ulit na recording."
+      },
+      "videoFilters": {
+        "title": "Mga Video Filter at Effect",
+        "description": "Ilagay ang mga sumusunod na filter sa iyong <strong>webcam</strong> upang makita kung ano ang hitsura nila: Normal, Grayscale, Sepia, Invert, Blur, Brightness, Contrast, Hue Rotate at Saturate. Ipinapakita ng mga filter kung gaano kahusay ang iyong camera sa pagpapakita ng mga kulay at kung ano ang hitsura nito kapag gumamit ka ng mga video effect filter. Kung ikaw ay isang streamer o youtuber maaari mong gamitin ang mga filter upang makita kung ano ang hitsura ng iyong stream na may iba't ibang effect na inilapat. Maaari ding gamitin ang mga filter upang makita kung tama ang output ng mga kulay ng iyong camera. Ihambing ang mga resulta ng Grayscale at Sepia filter."
+      },
+      "videoMetrics": {
+        "title": "Mga Real-Time na Sukatan ng Video at Histogram:",
+        "description": "tingnan ang mga teknikal na detalye tungkol sa iyong video tulad ng resolution, frame rate, at bitrate. Pinapayagan ka ng RGB histogram na makita ang distribusyon ng mga kulay sa iyong video. Ito ay kapaki-pakinabang para sa pag-detect ng over/under exposure, color cast, at mahinang pag-iilaw. Ang feature na ito ay perpekto para sa mga propesyonal tulad ng mga videographer, youtuber, at vlogger na gustong matiyak na ang kanilang video ay pinakamahusay hangga't maaari. Kung ang iyong histogram ay may biglang pagbagsak sa alinmang gilid, kailangan mong itama ang iyong pag-iilaw o mga setting ng camera."
+      },
+      "advancedControls": {
+        "title": "Mga Advanced na Kontrol ng Camera",
+        "description": "Ang ilang webcam ay may mga feature tulad ng exposure, focus mode, white balance, ISO, at sharpness na maaaring kontrolin ng gumagamit. Papayagan ka ng aming web application na suriin kung ano ang kaya ng iyong <strong>webcam</strong>. Maaari kang magpalit sa pagitan ng auto at manual na focus mode, baguhin ang white balance upang itugma sa temperatura ng iyong ilaw, o itakda ang exposure compensation ayon sa iyong kagustuhan. Ito ay napakakapaki-pakinabang para sa mga streamer, YouTuber, at mga propesyonal na kailangang kontrolin ang kanilang mga setting ng camera."
+      },
+      "backgroundBlur": {
+        "title": "Background Blur Effect",
+        "description": "Subukan ang web-based na background blur nang walang anumang application o green screen. Ang aming background blur effect ay gumagamit ng pinakabagong web technology upang alisin ang background at ihiwalay ito mula sa iyo, kapaki-pakinabang kapag kailangan mong magsagawa ng mga video conferencing call mula sa bahay na may background na ayaw mong makita ng iba. Maaari mong ayusin ang antas ng blur na inilalapat sa iyong background. Pinapayagan ka ng tool na ito na makita kung gaano kahusay ang background blur effect na gumagana sa iyong <strong>webcam</strong> at camera application. Ito ay partikular na kapaki-pakinabang para sa mga web developer, digital marketer, at para sa lahat na gumagawa ng video content."
+      },
+      "motionDetection": {
+        "title": "Motion Detection para sa Pagsubok ng Seguridad",
+        "description": "Kung gusto mong suriin kung gaano tumutugon ang iyong <strong>webcam</strong> sa galaw, gamitin ang aming real-time na motion detection. Sa Advanced mode makikita mo ang live na motion percentage indicator na nagpapakita ng galaw sa iyong video. Gamitin ito para sa pagsubok ng motion ng security camera, pag-configure ng surveillance system o pagsubok ng camera na na-activate ng galaw. Sinusuri ng motion detector ang video stream nang frame by frame upang malaman ang dami ng galaw. Ito ay nagpapahintulot na suriin kung gaano kahusay ang camera, at kung anong sensitivity ang kailangan mo. Kapaki-pakinabang para sa pagsubok ng home security, pet monitor at baby monitor."
+      },
+      "faceDetection": {
+        "title": "Face Detection at Tracking",
+        "description": "Tuklasin ang kakayahan ng iyong webcam na mag-detect ng mga mukha. Sa advanced mode gumuguhit kami ng mga bounding box sa paligid ng mga mukha at binibilang ang mga ito. Gumagamit ang aming face detection tool ng FaceDetector API, kapag available sa iyong browser, upang mag-detect ng maraming mukha sa isang frame. Gamitin ang tool na ito upang subukan ang functionality ng iyong <strong>camera</strong> para sa auto-framing sa video conferencing, o upang makita kung paano nito hinahawakan ang higit sa isang mukha. Makikita ng mga tagalikha ng video content kung maayos na nade-detect ng kanilang camera ang mga mukha para sa mga layunin ng auto-focus, at masusuri ng mga propesyonal kung gumagana nang tama ang kanilang multi-person meeting room."
+      },
+      "sideBySide": {
+        "title": "Side-by-side mode: Ihambing ang dalawang camera",
+        "description": "Pinapayagan ka ng side-by-side mode na ihambing ang 2 webcam nang magkatabi. Kapaki-pakinabang ito para sa pagsubok ng maraming webcam nang sabay-sabay. Kung mayroon kang built-in na web camera at isang external na USB web camera maaari mong tingnan ang mga ito nang magkatabi nang sabay. Napaka-kapaki-pakinabang din nito para sa pagpili ng webcam na bibilhin. Maaari mong ihambing ang kalidad ng imahe ng camera, katumpakan ng kulay, performance sa mahinang ilaw, at field of view sa real time. Ito ay isang mahusay na tool para sa mga streamer at YouTuber."
+      }
+    },
+    "videoQuality": {
+      "title": "Mga Setting ng Kalidad ng Video ng Webcam na Ipinaliwanag",
+      "intro": "Tinutukoy ng resolution ang talas ng video na ginagawa ng iyong webcam. Narito kung paano gumaganap ang mga setting sa aming pagsubok ng resolution ng webcam:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Ito ang pinakamababang setting ng kalidad, para sa mga pagkakataon na gusto mo lang subukan kung gumagana ang iyong stream, at napakasama ng iyong koneksyon sa internet. Magiging malabo ang iyong video, ngunit mahusay ito para makita kung nag-i-stream ang iyong camera, kahit papaano."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Mababang kalidad, maliit na paggamit ng bandwidth. Maaari kang magsagawa ng mababang resolution na video call kung hindi mo masyadong pinapahalagahan ang kalidad. Makikilala mo pa rin ang mga mukha, ngunit wala nang iba."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Standard definition. Ito ang gitnang batayan sa pagitan ng kalidad at bandwidth. Karamihan sa mga video chat at streaming application ay maaaring gumamit nito. Ito ang karaniwang resolution ng karamihan ng mga lumang webcam."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Ang resolution na ito ay naghahatid ng high-definition na kalidad ng video conferencing, na angkop para sa propesyonal na paggamit. Nag-aalok ito ng matalas na imahe at disenteng kalidad ng kulay. Ito ang pinakapopular na resolution na ginagamit sa mga video conferencing app tulad ng Zoom, Teams, at Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Ito ang pinakamataas na resolution na makikita mo sa isang webcam, at perpekto para sa mga gustong gumawa ng mataas na kalidad na content, mag-stream, o nangangailangan ng pinakamahusay na posibleng kalidad ng video. Nangangailangan ito ng mas maraming bandwidth at pagpoproseso, ngunit makakakuha ka ng matalas at propesyonal na imahe."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Quad HD na resolution na may napakagandang detalye at linaw. Angkop para sa mga propesyonal na tagalikha ng content, mga streamer na nangangailangan ng mataas na antas ng kalidad ng imahe, at mga may 4K na monitor na nagnanais ng native na resolution. Kinakailangan ng mataas na kalidad na webcam at malaking halaga ng bandwidth."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra High Definition na may apat na beses na pixel ng 1080p. Propesyonal na kalidad para sa mga tagalikha ng content, filmmaker, at high-end na streaming. Nangangailangan ng premium na webcam, makapangyarihang hardware ng kompyuter, at mabilis na internet. Perpekto para sa future-proofing ng mga recording at pagpapalaki ng detalye para sa digital zoom at cropping."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "Ang pinakamataas na posibleng resolution. Mayroon itong 16 na beses na mas maraming pixel kaysa sa 1080p. Ito ay karaniwang ginagamit para sa napakataas na kalidad na propesyonal na webcam, o para sa mga taong gumagamit ng DSLR/mirrorless bilang webcam. Kakailanganin mo ng isang napakataas na kalidad na webcam o DSLR/mirrorless para dito, isang napakamakapangyarihang kompyuter, at isang napakabilis na koneksyon. Dapat lamang itong gamitin kapag kailangan mo ng cinema-level na kalidad, o kapag mayroon kang napakalaking monitor, o kung gusto mong mag-digital zoom nang malaki."
+        }
+      },
+      "tip": "Kung nagsasagawa ka ng pagsubok ng webcam, subukan muna sa 720p upang matiyak na gumagana ang iyong camera sa high-definition, pagkatapos ay subukan sa anumang iba pang resolution na kailangan mo."
+    },
+    "frameRate": {
+      "title": "Frame Rate at Maayos na Performance ng Video.",
+      "intro": "Ang frame rate ay ang dalas (bilis) kung saan ang isang imaging device ay gumagawa ng mga natatanging magkakasunod na imahe na tinatawag na frame. Ang frame rate ay ipinapahayag sa frames per second (FPS). Kung mas mataas ang frame rate, mas maayos na mukhang gumagalaw ang video, lalo na sa galaw. Sinusuri ng aming online na tool sa pagsubok ng webcam ang tunay na FPS ng iyong webcam, upang ipakita kung may anumang isyu ang iyong webcam.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Katamtaman para sa video conferencing. Mukhang medyo putol-putol ang galaw. Maaaring dahil sa mababang klase na camera, mahinang pag-iilaw, o CPU bottleneck."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Ito ang karaniwang frame rate para sa mga webcam at karamihan sa mga video conferencing application. Ang galaw ay maayos at natural. Ito rin ang perpektong frame rate para sa isang propesyonal na video conference."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Isang mataas na frame rate na nagpapahintulot ng mas maayos na paggalaw. Perpekto para sa mga streamer at YouTuber kung saan ang kinis ng galaw ay mahalaga. Tandaan na hindi lahat ng webcam ay sumusuporta sa 60 FPS, at kumokonsumo ito ng mas maraming bandwidth."
+        }
+      },
+      "tip": "Kung ang resulta ng pagsubok mula sa iyong webcam ay mababang frame rate, maaari mong isaalang-alang ang paggamit ng mas mababang resolution, o pagpapabuti ng pag-iilaw. Ang ilaw ay maaaring maging isyu sa mga webcam dahil maaari nilang bawasan ang framerate upang mapalaki ang oras ng exposure."
+    },
+    "lighting": {
+      "title": "Mga Tip para sa Mas Magandang Hitsura ng Webcam Video",
+      "intro": "Ang pag-iilaw ang pinakamalaking variable pagdating sa kalidad ng webcam video. Ang isang mababang kalidad na webcam na may magandang pag-iilaw ay magmumukhang mas mahusay kaysa sa isang mataas na kalidad na webcam na may mahinang pag-iilaw.",
+      "tips": {
+        "position": {
+          "title": "Ilaw sa Harap Mo",
+          "description": "Ang pinagmulan ng ilaw ay dapat nasa harap mo, hindi sa likod mo. Ang backlighting (tulad ng pagpoposisyon sa harap ng isang bintana) ay magpapadilim sa iyong mukha at magdudulot ng anino."
+        },
+        "soft": {
+          "title": "Palambutin ang Ilaw",
+          "description": "Iwasan ang direktang pag-iilaw na nagdudulot ng malakas na anino at hot-spot. Ang maraming pinagmulan ng ilaw, o liwanag na pumapasok mula sa malalaking bintana, ay palaging malambot at lumilikha ng mas propesyonal na hitsura ng mga imahe."
+        },
+        "flicker": {
+          "title": "Pag-iwas sa mga Kumukurap na Bombilya",
+          "description": "Ang ilang LED bombilya at fluorescent na ilaw ay kumukurap sa isang frequency na nakikita ng iyong camera, at magkakaroon ka ng flickering sa iyong video. Subukang gumamit ng mga bombilyang incandescent o mataas na kalidad na LED na bombilya para sa video."
+        },
+        "color": {
+          "title": "Ang color temperature ay isa pang salik na dapat isaalang-alang.",
+          "description": "Siguraduhing ang lahat ng pinagmulan ng ilaw ay may parehong color temperature. Ang paghahalong mainit at malamig na ilaw ay hindi maganda sa hitsura. Ang mga webcam ay karaniwang mas maganda sa ilalim ng daylight-balanced na ilaw (5000-6500K)."
+        }
+      },
+      "tip": "Subukan ang aming tool sa pagsubok ng webcam na may maraming pinagmulan ng ilaw upang matukoy kung bumubuti ang iyong imahe sa webcam. Maaari mong subukan ang iba't ibang setting ng ilaw dahil sa live view upang makita kung ano ang pinakaangkop para sa iyo."
+    },
+    "types": {
+      "title": "Mga Uri ng Webcam at Kung Ano ang Aasahan",
+      "builtIn": {
+        "title": "Mga Built-in na Laptop Webcam",
+        "description": "Halos palagi nang may webcam ang mga laptop na nakalagay sa itaas ng screen. Para sa karamihan, ito ay mga 720p na camera, at sapat na ang mga ito para sa paminsan-minsang video chat. Gayunpaman, ang kalidad ay malawak na nag-iiba depende sa laptop na pagmamay-ari mo. Sa pangkalahatan, ang mas magagandang laptop ay may mas mahusay na webcam."
+      },
+      "usb": {
+        "title": "Mga USB Webcam",
+        "description": "Mayroon ding mga external na webcam na kumokonekta sa pamamagitan ng USB. Kung naghahanap ka ng mas mahusay kaysa sa integrated na camera, ang isang basic na modelo ay magbibigay sa iyo ng 1080p sa 30 FPS, ngunit ang mga pinakamataas na kalidad na modelo ay aabot hanggang 4K, 60 FPS, na may auto focus, kompensasyon sa mahinang ilaw, atbp."
+      },
+      "streaming": {
+        "title": "Mga Streaming Camera:",
+        "description": "Mga camera na gawa para sa mga streamer, nakatuon ang mga ito sa kalidad ng imahe na may mas malalaking sensor, pinahusay na sensitivity sa mahinang ilaw at pinahusay na color science. Karaniwan ang HDR at mga pag-aayos ng FOV."
+      },
+      "dslr": {
+        "title": "Opsyon 1: DSLR/Mirrorless bilang Webcam",
+        "description": "Maraming bagong camera ang maaaring gamitin bilang webcam sa pamamagitan ng USB, o gamit ang isang capture card. Ibibigay nito sa iyo ang pinakamataas na kalidad ng larawan, ngunit mangangailangan din ng pinakamaraming kagamitan at pag-configure."
+      },
+      "tip": "Kung hindi ka sigurado kung gumagana ang iyong camera sa aming tool, ang aming komprehensibong pagsubok ng webcam ay katugma sa lahat ng uri ng camera. Gamitin ito upang ihambing ang iba't ibang webcam, o simpleng suriin na gumagana ang iyong bagong webcam pagkatapos mong ikonekta ito."
+    },
+    "troubleshooting": {
+      "title": "Kailangan ng Tulong sa Pag-aayos ng Iyong Webcam?",
+      "intro": "Kung nagsagawa ka ng pagsubok at natuklasan ang isang isyu, sundin ang mga hakbang na ito upang matukoy at maayos ang mga pinakakaraniwang problema:",
+      "blackScreen": {
+        "title": "Itim na Screen sa Webcam",
+        "issues": [
+          "Suriin kung may pisikal na takip (tulad ng privacy slider, bandaid, o piraso ng tape) sa lens ng camera",
+          "Suriin kung may ibang app (Skype, Zoom, Teams, atbp.) na kasalukuyang gumagamit ng camera sa background. Isara ang mga app na iyon at subukan muli ang pagsubok ng webcam na ito.",
+          "Kung nagkakaproblema pa rin, subukang i-restart ang iyong browser at subukan muli ang pagsubok ng webcam.",
+          "Kung gumagamit ka ng external na USB webcam, subukang ikonekta ito sa ibang USB port.",
+          "I-update o muling i-install ang iyong mga camera driver."
+        ]
+      },
+      "blurry": {
+        "title": "Malabo ang Video ng Webcam",
+        "issues": [
+          "Linisin ang lens ng webcam gamit ang isang microfibre cloth.",
+          "Kung ang iyong webcam ay may focus ring, subukang manu-manong ayusin ang focus.",
+          "Siguraduhing may sapat na ilaw upang matulungan ang auto-focus ng iyong camera.",
+          "Lumapit o lumayo nang kaunti sa webcam at tingnan kung bumubuti."
+        ]
+      },
+      "colors": {
+        "title": "Mali ang mga Kulay ng Webcam",
+        "issues": [
+          "Nasa ilalim ka ba ng ibang kondisyon ng pag-iilaw? Ang natural at artipisyal na ilaw ay maaaring magkaroon ng iba't ibang tono ng kulay.",
+          "Subukang ayusin ang white balance sa iyong mga setting ng webcam, kung available.",
+          "Nakasuot ka ba ng damit o may bagay sa paligid mo na may dominanteng kulay na maaaring magdulot ng color casting? Subukang alisin ito."
+        ]
+      },
+      "choppy": {
+        "title": "Putol-putol o Mabagal ang Video",
+        "issues": [
+          "Bawasan ang kalidad ng video sa mga setting ng tool na ito sa pagsubok ng webcam.",
+          "Subukang isara ang lahat ng iba pang application na kumokonsumo ng CPU o GPU resources.",
+          "Pagbutihin ang iyong mga kondisyon ng pag-iilaw upang mabawasan ang stress sa iyong camera.",
+          "Kung gumagamit ka ng external na USB webcam, ikonekta ito nang direkta sa iyong kompyuter sa halip na sa isang USB hub."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Pagsubok ng Webcam para sa mga Partikular na Platform",
+      "zoom": {
+        "title": "Zoom Video Conferencing",
+        "description": "Gamitin ang pagsubok ng webcam na ito upang matiyak na gumagana nang maayos ang iyong camera bago ka magsimula ng isang mahalagang Zoom meeting. Siguraduhing sapat ang kalidad ng video sa 720p (na siyang default na kalidad para sa karamihan ng mga Zoom meeting). Tiyakin na sapat ang iyong pag-iilaw at maganda ang posisyon mo sa webcam view bago sumali sa isang Zoom call."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "Ang 1080p HD video ay available sa mga pulong. Subukan ang camera sa iba't ibang resolution upang kumpirmahin na kayang suportahan ng iyong camera ang resolution ng video ng Teams. Subukan ang background para sa propesyonal na kalidad para sa Together Mode at virtual background."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Awtomatikong inaayos ng Meet ang kalidad ng video batay sa mga kondisyon ng network. Subukan sa minimum na 720p upang matiyak na natutugunan ng iyong camera ang minimum na kinakailangan ng Google Meet para sa mataas na kalidad na pagpapadala ng video."
+      },
+      "streaming": {
+        "title": "Streaming (Twitch/YouTube)",
+        "description": "Subukan sa pinakamataas na resolution na kayang hawakan ng iyong webcam (mas mainam na 1080p60). Siguraduhing stable ang frame rate, at tingnan kung gaano kahusay ang pagharap ng iyong camera sa mabibilis na galaw at maraming kondisyon ng pag-iilaw."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Kung gumagamit ka ng Discord para magsagawa ng mga video call, kinakailangan na magkaroon ng webcam na kayang mag-720p. Gusto mong matiyak na ang camera na mayroon ka ay angkop para sa iyong kompyuter at para sa mga gaming session at community call. Tinitiyak din nito na ang iyong camera ay hindi gumagamit ng masyadong maraming bandwidth at hindi nakakaapekto sa iyong gaming."
+      }
+    },
+    "relatedTools": {
+      "title": "Mga Kaugnay na Tool at Resources",
+      "alsoTry": "Subukan Din:",
+      "alsoTryLinks": ["Pagsubok ng Webcam at Mic", "Subukan ang Mikropono", "Pagsubok ng Mic", "Pagsubok ng Audio Recording", "Suriin ang Mic Online"],
+      "onThisPage": "Sa Pahinang Ito:",
+      "onThisPageLinks": ["Paano Subukan ang Iyong Webcam", "Mga Setting ng Kalidad ng Video", "Troubleshooting ng Camera", "Pag-aayos ng Hindi Gumaganang Webcam", "Pinakamahusay na Mga Setting ng Webcam"]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Gumana ba ang iyong mic? Gamitin ang aming mabilis at simpleng <strong>pagsubok ng mic</strong> upang matiyak na gumagana nang maayos ang iyong <strong>mikropono</strong>. Ang <strong>online na pagsubok ng mikropono</strong> na ito ay magpapakita rin ng mga antas ng iyong mikropono, frequency spectrum, at magre-record ng iyong audio. Walang kailangang software o plugin upang <strong>subukan ang iyong mic</strong>. <strong>Subukan ang iyong mic</strong> ngayon bago ka mag-live, magsimula ng video call, o mag-record ng podcast.",
+      "p2": "Pindutin ang 'Simulan ang Mikropono at Mag-record' na button sa itaas upang suriin ang iyong mikropono. Ang mga antas ng audio ay ipinapakita sa real time, upang makita mo kung nakakatanggap ng tunog ang iyong mikropono ayon sa inaasahan. Ang 32 band na audio frequency graph ay nagpapahintulot sa iyong makita kung gaano kahusay ang iyong mikropono sa pagkuha ng mga frequency ng tunog. Ito ay partikular na kapaki-pakinabang kung ikaw ay isang podcaster o musikero dahil magpapahintulot ito sa iyo na gumamit ng kagamitang malinaw na nakakakuha ng lahat ng frequency."
+    },
+    "howToTest": {
+      "title": "Paano Subukan ang Iyong Mikropono",
+      "intro": "Gawin ang mga hakbang na ito para sa isang kumpletong <strong>pagsubok ng mikropono</strong>:",
+      "steps": [
+        "<strong>Payagan ang Access sa Iyong Mikropono:</strong> Payagan ang browser na gamitin ang iyong mikropono. I-click ang payagan kung may lumabas na dialog box na humihiling ng pahintulot upang ma-access ang iyong mikropono. Kung ginagamit mo ang browser sa unang pagkakataon, maaaring kailangan mong i-click ang isang shield icon sa address bar at pagkatapos ay piliin ang mikropono upang payagan ang pahintulot para ma-access ng site ito.",
+        "<strong>Piliin ang Iyong Mikropono (kung kinakailangan):</strong> Piliin ang gustong mikropono mula sa mga dropdown option (mikropono ng iyong kompyuter, external na mikropono, atbp.). Ang <strong>online na pagsubok ng mikropono</strong> ay maaari lamang isagawa sa pamamagitan ng isang mikropono sa isang pagkakataon.",
+        "<strong>Itakda ang Iyong Sampling Rate at mga Channel:</strong> Piliin ang sampling rate para sa iyong mikropono (44.1 kHz para sa karaniwang kalidad at 48 kHz para sa mas mataas na kalidad). Pumili ng mono o stereo channel depende sa kung ano ang gusto mong makamit.",
+        "<strong>Mag-record ng Pagsubok ng Mikropono:</strong> I-click ang record button upang magsimula ng <strong>pagsubok ng mikropono</strong>. Awtomatikong magsisimulang mag-record upang makinig ka sa playback mamaya at marinig kung paano tumutunog ang iyong mikropono.",
+        "<strong>Panoorin ang Microphone Level Meter:</strong> Habang isinasagawa ang <strong>pagsubok ng mikropono</strong>, panoorin ang microphone level meter habang nagsasalita ka sa mikropono. Kung maayos na nire-record, dapat gumalaw ang meter ayon sa volume ng iyong boses. Ang berdeng kulay ay nagpapahiwatig ng perpektong antas ng volume, dilaw para sa mas mataas na antas ng volume, at pula para sa mga volume na masyadong malakas at posibleng nag-clip.",
+        "<strong>Subukang Magsalita sa Iba't Ibang Volume:</strong> Magsagawa ng <strong>pagsubok ng mikropono</strong> sa pamamagitan ng pagsasalita sa normal na boses at pagkatapos sa napakahina at napakalakas na boses. Makakatulong ito sa iyo na makita kung gaano ka-sensitive ang iyong mikropono sa iba't ibang volume.",
+        "<strong>I-play ang Recording:</strong> Pagkatapos magsagawa ng <strong>online na pagsubok ng mikropono</strong>, i-play ang iyong recording upang marinig kung paano tumutunog ang mikropono. Makakatulong ito sa iyo na matukoy ang anumang isyu na hindi mo mapapansin sa microphone level meter."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Mga Advanced na Feature",
+      "intro": "Kung nag-troubleshoot ka kung bakit hindi gumagana ang iyong mic o naghahanap ng pinakamahusay na performance para sa isang malaking pulong o livestream, maraming advanced na feature ang maaari mong subukan sa site na ito:",
+      "inputGain": {
+        "title": "Optimal na Input Gain",
+        "description": "I-configure ang gain ng iyong mikropono sa pagitan ng 50% at 150% gamit ang aming mga naka-pre-configure na opsyon o on-the-fly gamit ang aming slider. Ang kontrol sa input gain ay partikular na mahalaga para sa mga nagre-record ng audio para sa podcasting kung saan hinihiling ang consistent na mga antas sa pagitan ng mga episode, para sa mga musikero (kapwa boses at instrumento), at para sa mga streamer na sensitibo sa clipping at distortion. Piliin ang Low (50%) preset para sa mga kapaligiran na masyadong malakas o kung mayroon kang sensitive na condenser microphone, Normal (100%) para sa karamihan ng mga gamit, at Boost (150%) para sa mas tahimik na mga source na nangangailangan ng mas maraming amplification. Ang aming on-the-fly na gain control ay gumagamit ng GainNode ng Web Audio API para sa amplification nang walang pagdaragdag ng noise o latency."
+      },
+      "noiseSuppression": {
+        "title": "Maglapat ng noise suppression para sa malinis na mga recording",
+        "description": "Kung gusto mong alisin ang mga tunog ng pag-type, pag-click ng mouse, mga electric fan, aircon at mga katulad na tunog mula sa recording, mangyaring i-enable ang noise suppression at subukan muli. Gumagana ito sa iyong browser at maaaring gamitin upang linisin ang mga maingay na recording ng remote work, podcast, home recording, video, atbp., at hindi mo kailangan ng noise gate o noise reduction plugin. Ginagamit ng noise suppression ang Web Audio API upang sugpuin ang ingay nang direkta sa mikropono upang hindi ito magdagdag ng CPU load o latency. Maaari mong subukan ang parehong may at walang noise suppression upang makita kung ano ang pinakaangkop para sa iyong mikropono."
+      },
+      "echoCancellation": {
+        "title": "Bakit ito kapaki-pakinabang: Echo cancellation",
+        "description": "nag-aalis ng acoustic feedback at echo mula sa iyong mikropono bago ang pagsubok. Mahalaga ito para sa mga video call, podcast interview, at live streaming kapag ang audio ng iyong mga speaker ay maaari ring makuha ng iyong mikropono. Gamitin ang mga pre-setting popup upang i-on ang echo cancellation upang subukan ang iyong mikropono nang naka-on ito. Makakatulong ito sa iyong magpasya kung kailangan mong gamutin ang iyong recording space para sa acoustics, o kung maaari kang umasa sa browser echo cancellation. Kapaki-pakinabang para sa: mga remote worker, podcast interviewer, at sinumang nagre-record sa isang silid na may maraming matitigas na ibabaw (na maaaring mag-echo)."
+      },
+      "autoGainControl": {
+        "title": "Panatilihin ang consistent na volume gamit ang AGC",
+        "description": "Ginagawang mas malakas at mas consistent ng AGC ang antas ng iyong mikropono. Kung tahimik ka, gagawin ka nitong mas malakas. Kung malakas ka, gagawin ka nitong mas tahimik. Mahusay ito para sa mga streamer, dahil kung nasa malakas na sandali ka, hindi mo kailangang mag-alala tungkol sa pagiging masyadong malakas. Maganda rin ito para sa mga podcaster, kung lumalayo ka sa iyong mic. Gayundin, mahusay ito para sa video conferencing, kung gusto mong tumunog na parang propesyonal. Lagyan ng tsek ang kahon na ito, at tingnan kung gumagana nang maayos ang AGC sa iyong browser at sa iyong mic. Kung gusto mong mag-record ng musika o ASMR, maaaring gusto mong i-off ito."
+      },
+      "realtimeMeter": {
+        "title": "I-monitor ang iyong mga antas ng audio sa real time.",
+        "description": "Ipinapakita ng level meter ang RMS (Root mean square) ng audio signal, na nagpapakita ng tunay na antas ng audio. Ipinapakita rin ang peak, kung saan magsisimulang mag-clip ang antas. Ang level meter ay may tatlong seksyon; berde, dilaw at pula. Ang berdeng zone ang optimal na antas, sa pagitan ng -12 at -6 dB. Ang dilaw na zone ay nasa pagitan ng -6 at -3 dB at ang pulang zone ay anumang bagay na higit sa -3 dB, kapag magki-clip ang iyong audio. Gamitin ang meter na ito upang matiyak na tama ang posisyon ng iyong mikropono. Gamitin ito upang ayusin ang antas ng iyong boses. Gamitin ito upang i-monitor ang antas ng iyong audio bago ka mag-record, upang malaman mo na hindi magki-clip ang iyong mga antas. Ginagamit ito ng mga podcaster upang itugma ang mga antas sa pagitan ng mga episode. Ginagamit ito ng mga musikero upang itakda ang gain ng kanilang mga mikropono. Ginagamit ito ng mga remote worker upang matiyak na naririnig sila, ngunit hindi masyadong malakas."
+      },
+      "frequencySpectrum": {
+        "title": "Pagsusuri ng Frequency Spectrum",
+        "description": "Real-time na pagsusuri ng frequency spectrum ng frequency response ng iyong mikropono. Gamitin ang 32-band spectrum upang matukoy kung aling mga frequency ang kinukuha ng iyong mikropono. Sobrang rumble (20-250Hz)? Maputik na mga mids (250Hz-2kHz)? Matapang na sibilance (6kHz-8kHz)? Ginagamit ito ng mga audio engineer upang suriin ang mga mikropono at silid, ng mga podcaster upang mahanap ang mga problemang frequency na kailangang i-equalize, at ng mga musikero upang matukoy kung aling mic ang pinakaangkop para sa kanilang boses o instrumento. Ang real-time na mga update ay nagpapahintulot sa iyong suriin ang iyong posisyon, kalapitan at kapaligiran."
+      },
+      "sideBySide": {
+        "title": "Paghahambing ng dalawang mikropono nang magkatabi",
+        "description": "Piliin ang opsyon na side-by-side comparison upang gumamit ng dalawang mikropono nang sabay. Ito ay partikular na kapaki-pakinabang kung mayroon kang dalawang mikropono na naka-plug in (halimbawa ang built-in na mikropono ng iyong laptop at isang USB microphone), at gusto mong tingnan ang mga ito nang magkatabi upang ihambing ang kalidad ng audio, noise floor, frequency response, at sensitivity ng bawat isa. Ito ay kapaki-pakinabang para sa pagpili kung aling mikropono ang bibilhin, pagsubok ng iba't ibang placement ng mikropono, o pagpapasya kung aling mikropono ang gagamitin para sa iyong podcast o stream. Ginagamit ko ito upang patunayan sa aking sarili na sulit ang pagbili ng bagong mikropono, ginagamit ito ng mga sound designer upang makahanap ng katugma para sa ibang mikropono para sa stereo recording, at maaaring gamitin ito ng IT department ng isang kumpanya upang subukan ang mga mikropono bago i-deploy sa buong kumpanya. Upang gamitin ito, piliin ang setting ng comparison sa mga pre-set, pumili ng pangalawang mikropono, at parehong ipapakita nang magkatabi na may real-time na mga resulta."
+      },
+      "snrMeasurement": {
+        "title": "Pagsukat ng Signal-to-Noise Ratio (SNR)",
+        "description": "Ang berdeng numero ay nagpapakita ng iyong kasalukuyang SNR. 60 dB ang minimum na inirerekomenda para sa propesyonal na pag-record, 50-60 dB ang minimum para sa broadcasting at podcasting, at 40-50 dB ang sapat para sa mga video chat at tutorial. Ang magandang SNR ay magsasabi sa iyo kung sapat na ang iyong mikropono para sa gusto mong gawin, kung masyadong maingay ang iyong silid, o kung kailangan mong magdagdag ng mga acoustic panel. I-click ang \"Advanced\" na button sa kanang itaas ng screen upang ipakita ang SNR, noise floor, at dynamic range habang sinusukat mo. Isa itong kapaki-pakinabang na sukatan para sa mga podcaster na gustong matiyak na ang kanilang broadcast ay nasa loob ng mga pamantayan ng broadcasting, mga musikero na gustong suriin ang kanilang home studio setup, at para sa sinumang nagpapahalaga sa kalidad ng kanilang tunog."
+      }
+    },
+    "audioLevels": {
+      "title": "Mga Antas ng Audio na Ipinaliwanag",
+      "intro": "Ang audio level meter sa pagsubok ng mic sa itaas ay nagbibigay ng visual na representasyon ng antas ng volume ng iyong mic input. Mahalagang malaman kung ano ang ibig sabihin ng bawat antas upang maghatid ng magandang tunog:",
+      "green": {
+        "title": "Berdeng Zone (0-50%)",
+        "description": "Katanggap-tanggap na mga antas ng audio para sa karamihan ng mga kaso. Malinaw at malakas ang tunog mo, at marami kang puwang upang maging mas malakas nang hindi nagki-clip. Subukang manatili sa saklaw na ito para sa mga video call at iba pang komunikasyon."
+      },
+      "yellow": {
+        "title": "Dilaw na Zone (50-80%)",
+        "description": ": Mga mataas na antas ng audio na katanggap-tanggap pa rin. Maganda para sa pag-record kapag gusto mo ng malakas at present na audio. Gayunpaman, ang mga biglaang malakas na tunog ay maaaring magdulot ng clipping."
+      },
+      "red": {
+        "title": "Pulang Zone (80-100%)",
+        "description": ": Ito ang danger zone, kung saan malamang na distorted (clipped) ang iyong audio. Kung madalas kang nasa pula, dapat mong bawasan ang volume ng iyong mikropono sa iyong control panel, o lumayo sa iyong mikropono."
+      },
+      "peak": {
+        "title": "Peak Level:",
+        "description": "Ang pinakamataas na antas na naabot ng iyong session. Kapaki-pakinabang ito upang suriin kung may mga maikling malakas na pangyayari na nagdudulot ng clipping, habang ang mga average na antas ay ayos."
+      },
+      "rms": {
+        "title": "Antas ng RMS",
+        "description": "- Average na volume sa paglipas ng panahon. Mas mahalaga kaysa sa peak pagdating sa perceived loudness. Gusto mong ang iyong mga antas ng RMS ay nasa berde para sa patuloy na malakas ngunit kaaya-ayang tunog pa rin ng audio."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Pagsusuri ng Frequency Spectrum",
+      "intro": "Ang aming pagsubok ng mikropono ay naglalaman ng 32-band na frequency spectrum analyzer na nagpapakita ng distribusyon ng audio signal sa iba't ibang frequency. Isa itong propesyonal na tool na nagpapahintulot sa iyong suriin ang frequency response ng iyong mikropono at mag-diagnose ng iba't ibang problema:",
+      "low": {
+        "title": "Mga Mababang Frequency (20-250 Hz)",
+        "description": "Ito ang mga bass frequency na nagdaragdag ng katawan at init sa iyong boses. Ang labis na low frequency energy ay maaaring gawin ang iyong recording na maging maputik o masyadong mababa ang tunog. Ito ay madalas na resulta ng pagtayo nang masyadong malapit sa mic. (Proximity effect.)"
+      },
+      "mid": {
+        "title": "Mga Mid (250-4000 Hz)",
+        "description": "Karamihan ng linaw ng iyong boses ay narito. Ang bahaging ito ay dapat na kitang-kita at malinaw. Kung kulang ang saklaw na ito, ang iyong boses ay magmumukhang mahina o malayo."
+      },
+      "high": {
+        "title": "Mga Mataas na Frequency (4000-20000 Hz)",
+        "description": "Liwanag at linaw. Ang isang balanseng mataas na frequency ay nagre-reproduce ng pananalita sa matalas at maunawaan na paraan. Ang sobrang mataas na frequency ay tumutunog na tizzy o sibilant (tzz na tunog)."
+      },
+      "tip": "Panoorin ang frequency meter habang nagsasalita. Kung nagpapakita ito ng pantay na distribusyon ng mga frequency, ang mic ay nasa magandang posisyon at malamang na kumukuha ng natural na tunog. Kung nagpapakita ito ng sobrang aktibidad sa mababang dulo, maaaring kailangan mong umatras nang kaunti."
+    },
+    "sampleRates": {
+      "title": "Mga Setting ng Sample Rate",
+      "intro": "Ang sample rate ay ang bilang ng mga audio sample na kinukuha bawat segundo. Kung mas mataas ang sample rate, mas maraming detalye ang audio, ngunit nangangailangan rin ito ng mas maraming resources para sa pagpoproseso at pag-save:",
+      "rates": {
+        "22khz": {
+          "title": "22.05 kHz",
+          "description": "Mababang kalidad. Para lamang sa boses. Napakaliit na paggamit ng bandwidth, ngunit mahinang frequency response. Karaniwang dapat iwasan."
+        },
+        "44khz": {
+          "title": "44.1 kHz (CD Quality)",
+          "description": "– Angkop para sa pangkalahatang paggamit. Nagre-record ng lahat ng frequency na naririnig ng tainga ng tao (20 Hz – 20 kHz). Mahusay para sa video conferencing, podcasting, at musika."
+        },
+        "48khz": {
+          "title": "48 kHz (Propesyonal na Pamantayan):",
+          "description": "Halos katulad ng 44.1 kHz ngunit bahagyang mas mataas ang kalidad. Ito ang pamantayan para sa video/pelikula at broadcasting. Gamitin ito kung isasabay mo ang audio sa video."
+        }
+      },
+      "tip": "Sa pangkalahatan, sapat na ang 44.1 kHz para sa karamihan ng pagsubok ng mic. Kung ikaw ay isang seryosong propesyonal sa audio at gusto mo ang pinakamataas na kalidad (o kailangan itong itugma sa video footage), maaari mong gamitin ang 48 kHz."
+    },
+    "types": {
+      "title": "Mga Uri ng Mikropono",
+      "builtIn": {
+        "title": "Mga Built-in na Mikropono ng Laptop:",
+        "description": "Ito ang mga mikropono na nakabuilt-in sa iyong laptop. Maginhawa ang mga ito, ngunit may posibilidad na mababa ang kalidad. Maaari mong marinig ang iyong pag-type at ang electric fan ng iyong kompyuter. Magagamit mo pa rin ito, ilagay lang ang laptop upang ang mic ay nakaharap sa iyo. Sapat ito para sa video chat kasama ang kaibigan o miyembro ng pamilya, ngunit malamang na ayaw mong mag-record ng voiceover gamit ito."
+      },
+      "usb": {
+        "title": "Mga USB Microphone:",
+        "description": "Narito ang aking mga nangungunang rekomendasyon sa USB microphone para sa parehong Mac at PC. Ang isang disenteng USB microphone ay gagawa ng malaking pagkakaiba kumpara sa internal na mikropono ng iyong kompyuter. Ang Blue Yeti at Audio-Technica AT2020 USB ang dalawa sa pinakapopular na USB microphone at napakaganda ng tunog. Perpekto para sa podcasting, Twitch streaming, o pagsasagawa ng mga video call."
+      },
+      "headset": {
+        "title": "Mga Gaming headset at earbuds:",
+        "description": "Kung gusto mo ng headset o earbuds para sa gaming, maaari mo ring isaalang-alang ang mga ito bilang opsyon. Mas maginhawa ang mga ito sa paggamit at ang pagpoposisyon ng mikropono ay pare-pareho sa bawat pagkakataon. Siyempre, kung mas maganda (at mas mahal) ang headset o earbuds, mas maganda ang kalidad. Mahusay ang mga ito para sa gaming at paminsan-minsang pagtawag."
+      },
+      "condenser": {
+        "title": "Mga Condenser Microphone",
+        "description": "Mga sensitibong mikropono na kumukuha ng mayaman at detalyadong audio. Nangangailangan ng maingat na pagpoposisyon at acoustic treatment. Pinakamahusay para sa propesyonal na pag-record, voiceover, at produksyon ng musika."
+      },
+      "dynamic": {
+        "title": "Mga Dynamic Microphone:",
+        "description": "Matibay at mahusay sa pag-reject ng ingay sa background. Madalas na ginagamit para sa podcasting at streaming dahil sa kanilang toleransya sa mga kapaligiran sa bahay. Hindi kasing-sensitive ng mga condenser, ngunit mas maginhawa."
+      },
+      "tip": "Ang aming pagsubok ng mikropono ay katugma sa lahat ng uri ng mikropono. Maaari mo itong gamitin upang subukan ang maraming mic, upang subukan ang bagong hardware, o upang lutasin ang mga problema."
+    },
+    "bestPractices": {
+      "title": "Mga Pinakamahusay na Kasanayan sa Pag-record ng Mikropono.",
+      "distance": {
+        "title": "Distansya.",
+        "description": "15-30 sentimetro mula sa iyong bibig. Mas malapit: Mas mababa ang tunog (proximity effect) at nakakakuha ng paghinga. Mas malayo: Manipis ang tunog at nakakakuha ng ingay ng silid."
+      },
+      "popFilter": {
+        "title": "Mag-invest sa Pop Filter:",
+        "description": "Ang mga plosive (P, B, T) ay lumilikha ng mga pagsabog ng hangin na nagreresulta sa distortion. Maglagay ng pop filter sa pagitan mo at ng iyong mic at mawawala ang mga ito. Kung nagpaplano kang mag-podcasting o voiceover, ito ay kinakailangan."
+      },
+      "background": {
+        "title": "Bawasan ang ingay sa background",
+        "description": "— Patayin ang electric fan, isara ang bintana, patahimikin ang iyong telepono. Magsagawa ng pagsubok ng mic sa kapaligiran kung saan ka magre-record. Maraming ingay na hindi natin alam na naroon."
+      },
+      "acoustics": {
+        "title": "Huwag kalimutan ang Room Acoustics",
+        "description": "Ayaw mong mag-record sa isang lugar na may maraming matitigas at patag na ibabaw — magdudulot ito ng echo at reverb. Gusto mo ng mga malambot na ibabaw na sumisipsip ng mga reflection ng tunog (mga kurtina, karpet, acoustic panel). Maaari ka ring mag-record sa isang cabinet na puno ng damit, na maaaring gumawa ng malaking pagkakaiba."
+      },
+      "positioning": {
+        "title": "Ang pagkakapare-pareho ang susi!",
+        "description": "Kung natuklasan mong maganda ang tunog ng mikropono sa isang posisyon, panatilihin ito doon sa buong recording session mo. Maaari kang mag-invest sa boom arm o microphone stand kung gusto mong maiwasang gumalaw ang iyong mic. Maaari ka ring gumuhit ng bilog sa mesa upang ipakita kung saan dapat nakalagay ang iyong mic upang makamit muli ang magandang tunog na iyon."
+      }
+    },
+    "troubleshooting": {
+      "title": "Troubleshooting ng mga Problema sa Mikropono",
+      "noAudio": {
+        "title": "Walang Natukoy na Audio:",
+        "issues": [
+          "I-verify na ang mga pahintulot ng mikropono ay ibinigay sa mga setting ng browser",
+          "Suriin na ang tamang input device ang napili sa dropdown",
+          "Siguraduhing hindi naka-mute ang mikropono sa hardware o sa mga system setting",
+          "Para sa mga USB microphone, subukan ang ibang port",
+          "Isara ang ibang mga application na maaaring gumagamit ng mikropono"
+        ]
+      },
+      "quiet": {
+        "title": "Masyadong Mahina ang Audio:",
+        "issues": [
+          "Taasan ang antas ng input ng mikropono sa mga system setting",
+          "Lumapit sa mikropono",
+          "Suriin ang mga gain control sa mismong mikropono",
+          "Siguraduhing nagsasalita ka patungo sa pickup pattern ng mikropono"
+        ]
+      },
+      "distorted": {
+        "title": "Distorted o Nag-cli-clip ang Audio:",
+        "issues": [
+          "Bawasan ang antas ng input ng mikropono sa mga system setting",
+          "Lumayo nang kaunti sa mikropono",
+          "Suriin kung may mga pisikal na hadlang o dumi sa mikropono"
+        ]
+      },
+      "echo": {
+        "title": "Echo o Reverb:",
+        "issues": [
+          "Gumamit ng headphone upang pigilan ang mga speaker na mag-feedback sa mic",
+          "Magdagdag ng mga malambot na materyales sa iyong silid upang sumipsip ng mga reflection ng tunog",
+          "Lumapit sa mikropono upang mapataas ang direktang tunog kumpara sa mga reflection ng silid"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Mga Kaugnay na Tool at Resources",
+      "alsoTry": "Subukan Din:",
+      "alsoTryLinks": ["Pagsubok ng Webcam at Mic", "Subukan ang Webcam", "Pagsubok ng Camera", "Pagsubok ng Video Recording", "Suriin ang Camera Online"],
+      "onThisPage": "Sa Pahinang Ito:",
+      "onThisPageLinks": ["Paano Subukan ang Iyong Mic", "Gabay sa Antas ng Audio", "Troubleshooting ng Mikropono", "Pag-aayos ng Hindi Gumaganang Mic", "Pinakamahusay na Mga Setting ng Mic"]
+    }
+  }
+}

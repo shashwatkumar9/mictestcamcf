@@ -1,0 +1,1186 @@
+{
+  "meta": {
+    "home": {
+      "title": "Ücretsiz Web Kamerası Testi ve Mikrofon Testi | MicTestCam",
+      "description": "Web kameranızı ve mikrofonunuzu anında çevrimiçi test edin. Ücretsiz kamera testi ve mikrofon testi aracı - %100 gizli, indirme gerektirmez. Görüntülü görüşmeler öncesinde cihazlarınızın çalışıp çalışmadığını kontrol edin."
+    },
+    "webcam": {
+      "title": "Web Kamerası Testi - Ücretsiz Çevrimiçi Kamera Test Aracı | MicTestCam",
+      "description": "Ücretsiz web kamerası test aracı - kameranızın çalışıp çalışmadığını anında kontrol edin. Canlı önizleme, filtreler, kalite ayarları ve kayıt ile web kameranızı test edin. %100 gizli, indirme gerektirmez."
+    },
+    "microphone": {
+      "title": "Mikrofon Testi - Ücretsiz Çevrimiçi Mikrofon Testi | MicTestCam",
+      "description": "Ücretsiz çevrimiçi mikrofon testi - mikrofonunuzun çalışıp çalışmadığını kontrol edin. Ses seviyelerini, frekans yanıtını ve kayıt kalitesini test edin. %100 gizli mikrofon test aracı, indirme gerektirmez."
+    },
+    "privacy": {
+      "title": "Gizlilik Politikası | MicTestCam",
+      "description": "MicTestCam'in gizliliğinizi nasıl koruduğunu öğrenin. Tüm web kamerası ve mikrofon testleri tarayıcınızda yerel olarak gerçekleşir - verilerinizi asla toplamaz veya saklamayız."
+    },
+    "terms": {
+      "title": "Kullanım Koşulları | MicTestCam",
+      "description": "MicTestCam Kullanım Koşulları - ücretsiz çevrimiçi web kamerası ve mikrofon test aracı. Hizmetimizi kullanma şartlarını ve koşullarını okuyun."
+    },
+    "contact": {
+      "title": "Bize Ulaşın | MicTestCam",
+      "description": "MicTestCam ekibiyle iletişime geçin. Ücretsiz web kamerası ve mikrofon test araçlarımız hakkında destek, geri bildirim veya iş birliği talepleri için bize ulaşın."
+    },
+    "blog": {
+      "title": "Blog - Web Kamerası ve Mikrofon İpuçları | MicTestCam",
+      "description": "Web kamerası testi, mikrofon kurulumu ve ses/görüntü optimizasyonu için uzman ipuçları, eğitimler ve kılavuzlar. Görüntülü görüşmeleriniz için en iyi kaliteyi nasıl elde edeceğinizi öğrenin."
+    },
+    "reviews": {
+      "title": "En İyi Web Kamerası ve Mikrofon İncelemeleri | MicTestCam",
+      "description": "Web kameraları, mikrofonlar, kulaklıklar ve ses/görüntü ekipmanları için kapsamlı incelemeler, puanlar ve satın alma kılavuzları. Yayın ve görüntülü görüşmeler için mükemmel ekipmanı seçmenize yardımcı olacak uzman analizleri."
+    }
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "webcamTest": "Web Kamerası Testi",
+    "microphoneTest": "Mikrofon Testi",
+    "reviews": "İncelemeler",
+    "blog": "Blog",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "contact": "İletişim"
+  },
+  "privacy": {
+    "banner": "%100 Gizli - Hiçbir şey tarayıcınızdan çıkmaz"
+  },
+  "home": {
+    "hero": {
+      "title": "Ücretsiz Çevrimiçi Web Kamerası ve Mikrofon Testi",
+      "subtitle": "Bir sonraki görüntülü görüşmenizden önce kameranızın ve mikrofonunuzun mükemmel çalıştığını anında doğrulayın. İndirme yok, kayıt yok, tamamen gizli.",
+      "webcamCta": "Web Kameranızı Test Edin",
+      "microphoneCta": "Mikrofonunuzu Test Edin"
+    },
+    "features": {
+      "title": "Neden MicTestCam Kullanmalısınız?",
+      "privacy": {
+        "title": "%100 Gizli",
+        "description": "Ses ve görüntünüz asla tarayıcınızdan çıkmaz. Medya verilerinizi sunucularımızda saklamaz, yüklemez veya işlemeyiz."
+      },
+      "simple": {
+        "title": "Tek Tıkla Basit",
+        "description": "Karmaşık kurulum yok. Sadece bir düğmeye tıklayın ve web kameranızı anında görün veya mikrofonunuzu dinleyin. Saniyeler içinde çalışır."
+      },
+      "professional": {
+        "title": "Profesyonel Araçlar",
+        "description": "Frekans spektrum analizi, video filtreleri, kalite ayarları ve yerel kayıt özellikleri gibi gelişmiş özellikler."
+      },
+      "universal": {
+        "title": "Her Yerde Çalışır",
+        "description": "Tüm modern tarayıcılar ve cihazlarla uyumludur. Zoom, Teams, Meet, Discord veya herhangi bir görüntülü konferans uygulamasından önce test edin."
+      }
+    },
+    "howItWorks": {
+      "title": "Nasıl Çalışır",
+      "step1": {
+        "title": "Başlat'a Tıklayın",
+        "description": "Web kamerası veya mikrofon testini seçin ve başlat düğmesine tıklayın"
+      },
+      "step2": {
+        "title": "Erişime İzin Verin",
+        "description": "Tarayıcınıza kameranıza veya mikrofonunuza erişim izni verin"
+      },
+      "step3": {
+        "title": "Sonuçları Görün",
+        "description": "Video akışınızı veya ses seviyelerinizi anında görün. Gerekirse klip kaydedin"
+      }
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "q1": {
+        "question": "Bu web kamerası testi gerçekten gizli mi?",
+        "answer": "Evet, kesinlikle. Tüm işlemler Web API'leri kullanılarak doğrudan tarayıcınızda gerçekleşir. Hiçbir video veya ses verisi sunucularımıza veya herhangi bir üçüncü tarafa gönderilmez. Bunu tarayıcınızın ağ sekmesini kontrol ederek doğrulayabilirsiniz."
+      },
+      "q2": {
+        "question": "Herhangi bir şey yüklemem gerekiyor mu?",
+        "answer": "Kurulum gerekmez. MicTestCam tamamen web tarayıcınızda çalışır. Sayfayı ziyaret edin ve başlat düğmesine tıklayın."
+      },
+      "q3": {
+        "question": "Hangi tarayıcılar destekleniyor?",
+        "answer": "MicTestCam, masaüstü ve mobil cihazlarda Chrome, Firefox, Safari, Edge ve Opera dahil tüm modern tarayıcılarda çalışır."
+      },
+      "q4": {
+        "question": "Video veya ses kaydedebilir miyim?",
+        "answer": "Evet! Web kamerası test sayfasında video klipleri ve mikrofon test sayfasında ses klipleri kaydedebilirsiniz. Tüm kayıtlar tarayıcınızda yerel olarak kaydedilir ve indirilebilir."
+      },
+      "q5": {
+        "question": "Kameram/mikrofonum neden çalışmıyor?",
+        "answer": "Tarayıcınıza cihazınıza erişim izni verdiğinizden emin olun. Başka bir uygulamanın kameranızı veya mikrofonunuzu kullanmadığını kontrol edin. Sayfayı yenilemeyi veya açılır menüden farklı bir cihaz seçmeyi deneyin."
+      },
+      "q6": {
+        "question": "Bu ücretsiz mi?",
+        "answer": "Evet, MicTestCam hiçbir sınırlama veya gizli ücret olmaksızın tamamen ücretsizdir."
+      },
+      "q7": {
+        "question": "Zoom/Teams/Meet görüşmesinden önce test yapabilir miyim?",
+        "answer": "Kesinlikle! MicTestCam, görüşme öncesi test için mükemmeldir. Cihazlarınızı burada test edin, ardından görüntülü konferansınıza güvenle katılın."
+      },
+      "q8": {
+        "question": "Farklı bir kamera veya mikrofon nasıl seçerim?",
+        "answer": "Bağlı kameralar veya mikrofonlar arasında geçiş yapmak için test sayfasındaki cihaz açılır menüsünü kullanın."
+      },
+      "q9": {
+        "question": "Kayıtlarım nereye kaydediliyor?",
+        "answer": "Kayıtlar tarayıcınızın IndexedDB depolamasında yerel olarak saklanır. Tarayıcıyı kapattıktan sonra bile kalırlar ve istedikleri zaman indirilebilir veya silinebilir."
+      },
+      "q10": {
+        "question": "Bu cep telefonlarında çalışır mı?",
+        "answer": "Evet, MicTestCam modern tarayıcılara sahip mobil cihazlarda çalışır. Telefonunuzdaki hem ön hem de arka kameraları test edebilirsiniz."
+      }
+    },
+    "trust": {
+      "tests": "Günlük 50.000'den fazla test",
+      "apps": "Zoom, Teams, Meet ile çalışır",
+      "browsers": "Tüm modern tarayıcılar desteklenir"
+    }
+  },
+  "webcam": {
+    "title": "Web Kamerası Testi - Ücretsiz Çevrimiçi Kamera Test Aracı",
+    "subtitle": "Kameranızı anında test edin. Videonuzu görün, kaliteyi ayarlayın, filtre uygulayın ve klip kaydedin.",
+    "startButton": "Kamerayı Başlat ve Kaydet",
+    "stopButton": "Durdur ve Kaydı Kaydet",
+    "snapshotButton": "Anlık Görüntü Al",
+    "permissionMessage": "Web kamerası testinizi başlatmak için yukarıdaki düğmeye tıklayın",
+    "recording": "Kayıt Yapılıyor",
+    "deviceLabel": "Kamera",
+    "qualityLabel": "Kalite",
+    "filterLabel": "Filtre",
+    "filters": {
+      "normal": "Normal",
+      "grayscale": "Gri Tonlama",
+      "sepia": "Sepya",
+      "invert": "Negatif",
+      "blur": "Bulanık",
+      "brightness": "Parlaklık",
+      "contrast": "Kontrast",
+      "hueRotate": "Renk Döndürme",
+      "saturate": "Doygunluk"
+    },
+    "savedRecordings": {
+      "title": "Kaydedilen Kayıtlar",
+      "clearAll": "Tümünü Temizle",
+      "noRecordings": "Henüz kayıt yok. Video klipleri kaydetmek için kayda başlayın.",
+      "play": "Oynat",
+      "download": "İndir",
+      "delete": "Sil"
+    },
+    "testCamera": "Kamerayı Test Et",
+    "stopCamera": "Kamerayı Durdur",
+    "record": "Kaydet",
+    "stopRecording": "Kaydı Durdur",
+    "showAdvanced": "Gelişmiş Ayarları Göster",
+    "hideAdvanced": "Gelişmiş Ayarları Gizle",
+    "mirrorMode": "Ayna Modu",
+    "flipHorizontally": "Yatay çevir",
+    "digitalZoom": "Dijital Yakınlaştırma",
+    "brightness": "Parlaklık",
+    "contrast": "Kontrast",
+    "dark": "Karanlık",
+    "normal": "Normal",
+    "bright": "Parlak",
+    "low": "Düşük",
+    "high": "Yüksek",
+    "cameraComparison": "Kamera Karşılaştırması",
+    "compareSideBySide": "Yan yana karşılaştır",
+    "requires2Cameras": "(2 veya daha fazla kamera gerektirir)",
+    "secondCamera": "İkinci Kamera",
+    "fineTuneWhileRecording": "Kayıt Sırasında İnce Ayar Yapın",
+    "camera1": "Kamera 1",
+    "camera2": "Kamera 2",
+    "motion": "Hareket",
+    "advanced": {
+      "title": "Gelişmiş Kamera Kontrolleri",
+      "exposure": "Pozlama",
+      "focus": "Odaklama",
+      "whiteBalance": "Beyaz Dengesi",
+      "image": "Görüntü",
+      "ptz": "PTZ",
+      "mode": "Mod",
+      "exposureTime": "Pozlama Süresi",
+      "distance": "Mesafe",
+      "temperature": "Renk Sıcaklığı",
+      "sharpness": "Keskinlik",
+      "zoom": "Yakınlaştırma",
+      "pan": "Yatay Kaydırma",
+      "tilt": "Dikey Kaydırma",
+      "saturation": "Doygunluk",
+      "noAdvancedControls": "Kameranız gelişmiş donanım kontrollerini desteklemiyor"
+    },
+    "backgroundBlur": {
+      "title": "Arka Plan Bulanıklaştırma",
+      "blurStrength": "Bulanıklık Seviyesi",
+      "skinToneNote": "Hafif cilt tonu algılama kullanılıyor. Daha iyi sonuçlar için iyi aydınlatma sağlayın."
+    },
+    "faceDetection": {
+      "facesDetected": "Algılandı",
+      "face": "Yüz"
+    },
+    "framing": {
+      "grid": "Izgara",
+      "faceGuide": "Yüz Kılavuzu",
+      "moveRight": "Sağa hareket edin",
+      "moveLeft": "Sola hareket edin",
+      "moveDown": "Aşağı hareket edin",
+      "moveUp": "Yukarı hareket edin",
+      "moveCloser": "Daha yakına gelin",
+      "moveBack": "Geri çekilin",
+      "greatFraming": "Harika kadraj!",
+      "noFaceDetected": "Yüz algılanmadı"
+    },
+    "histogram": {
+      "videoAnalysis": "Video Analizi",
+      "histogram": "Histogram",
+      "waveform": "Dalga Formu",
+      "shadows": "Gölgeler",
+      "midtones": "Orta Tonlar",
+      "highlights": "Parlak Alanlar"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Çözünürlük",
+      "bitrate": "Bit Hızı",
+      "lighting": "Aydınlatma",
+      "dropped": "Düşürülen",
+      "tooDark": "Çok Karanlık",
+      "lowLight": "Düşük Işık",
+      "overexposed": "Aşırı Pozlanmış",
+      "good": "İyi",
+      "hideMetrics": "Metrikleri gizle"
+    }
+  },
+  "microphone": {
+    "title": "Mikrofon Testi - Ücretsiz Çevrimiçi Mikrofon Test Aracı",
+    "subtitle": "Mikrofonunuzu gerçek zamanlı ses seviyesi ölçer ve frekans spektrum analizörü ile test edin.",
+    "startButton": "Mikrofonu Başlat ve Kaydet",
+    "stopButton": "Durdur ve Kaydı Kaydet",
+    "permissionMessage": "Mikrofon testinizi başlatmak için yukarıdaki düğmeye tıklayın",
+    "recording": "Kayıt Yapılıyor",
+    "deviceLabel": "Mikrofon",
+    "sampleRateLabel": "Örnekleme Hızı",
+    "channelLabel": "Kanallar",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Ses Seviyesi",
+    "frequencySpectrum": "Frekans Spektrumu",
+    "savedRecordings": {
+      "title": "Kaydedilen Kayıtlar",
+      "clearAll": "Tümünü Temizle",
+      "noRecordings": "Henüz kayıt yok. Ses klipleri kaydetmek için kayda başlayın.",
+      "play": "Oynat",
+      "download": "İndir",
+      "delete": "Sil"
+    },
+    "testMicrophone": "Mikrofonu Test Et",
+    "stopMicrophone": "Mikrofonu Durdur",
+    "record": "Kaydet",
+    "stopRecording": "Kaydı Durdur",
+    "showAdvanced": "Gelişmiş Ayarları Göster",
+    "hideAdvanced": "Gelişmiş Ayarları Gizle",
+    "inputGain": "Giriş Kazancı",
+    "noiseSuppression": "Gürültü Bastırma",
+    "enableNoiseReduction": "Gürültü azaltmayı etkinleştir",
+    "echoCancellation": "Yankı Giderme",
+    "reduceEchoFeedback": "Yankı geri bildirimini azalt",
+    "autoGainControl": "Otomatik Kazanç Kontrolü",
+    "autoAdjustVolume": "Ses seviyesini otomatik ayarla",
+    "microphoneComparison": "Mikrofon Karşılaştırması",
+    "compareSideBySide": "Yan yana karşılaştır",
+    "requires2Mics": "(2 veya daha fazla mikrofon gerektirir)",
+    "secondMicrophone": "İkinci Mikrofon",
+    "fineTuneWhileTesting": "Test Sırasında İnce Ayar Yapın",
+    "boost": "Güçlendirme",
+    "normal": "Normal",
+    "low": "Düşük",
+    "advanced": {
+      "title": "Gelişmiş Ses Analizi",
+      "metrics": "Metrikler",
+      "spectrogram": "Spektrogram",
+      "signalToNoiseRatio": "Sinyal-Gürültü Oranı",
+      "excellent": "Mükemmel",
+      "good": "İyi",
+      "fair": "Orta",
+      "poor": "Zayıf",
+      "rms": "RMS (dB)",
+      "peak": "Tepe (dB)",
+      "noiseFloor": "Gürültü Tabanı",
+      "dominantFrequency": "Baskın Frekans",
+      "detectedIssues": "Algılanan Sorunlar",
+      "detectedAt": "algılama zamanı",
+      "time": "Zaman",
+      "frequencyLowHigh": "Frekans (Düşük → Yüksek)"
+    },
+    "processing": {
+      "title": "Ses İşleme",
+      "noiseSuppression": "Gürültü Bastırma",
+      "reduceBackgroundNoise": "Arka plan gürültüsünü azalt",
+      "echoCancellation": "Yankı Giderme",
+      "removeAudioFeedback": "Ses geri bildirimini kaldır",
+      "autoGainControl": "Otomatik Kazanç Kontrolü",
+      "normalizeVolumeLevels": "Ses seviyelerini normalleştir",
+      "directMonitoring": "Doğrudan İzleme",
+      "listenToYourMic": "Mikrofonunuzu dinleyin",
+      "monitorVolume": "İzleme Ses Seviyesi",
+      "useHeadphones": "Geri bildirimden kaçınmak için kulaklık kullanın!"
+    },
+    "comparison": {
+      "title": "A/B Mikrofon Karşılaştırması",
+      "microphoneA": "Mikrofon A",
+      "microphoneB": "Mikrofon B",
+      "selectMicrophone": "Mikrofon seçin...",
+      "startComparison": "Karşılaştırmayı Başlat",
+      "selectTwoDifferent": "Lütfen iki farklı mikrofon seçin",
+      "active": "Aktif",
+      "switchTo": "Geçiş yap",
+      "rmsLevel": "RMS Seviyesi",
+      "peakLevel": "Tepe Seviyesi",
+      "snr": "SNR (dB)",
+      "stopComparison": "Karşılaştırmayı Durdur",
+      "micA": "Mik A",
+      "micB": "Mik B"
+    }
+  },
+  "privacyPage": {
+    "title": "Gizlilik Politikası",
+    "lastUpdated": "Son Güncelleme",
+    "intro": "MicTestCam olarak gizliliğinizi ciddiye alıyoruz. Bu Gizlilik Politikası, web kamerası ve mikrofon test hizmetlerimizi kullandığınızda bilgilerinizi nasıl ele aldığımızı açıklar.",
+    "sections": {
+      "noCollection": {
+        "title": "Verilerinizi Toplamıyoruz",
+        "content": "MicTestCam, gizliliği temel ilke olarak benimseyerek tasarlanmıştır. Web kamerası veya mikrofon testlerinizden hiçbir ses veya video verisini toplamaz, saklamaz veya iletmeyiz. Tüm işlemler, yerel JavaScript API'leri kullanılarak tamamen web tarayıcınızda gerçekleşir."
+      },
+      "localStorage": {
+        "title": "Yerel Depolama",
+        "content": "Video veya ses klipleri kaydettiğinizde, bunlar tarayıcınızın IndexedDB depolamasında yerel olarak saklanır. Bu veriler cihazınızdan asla çıkmaz ve bize veya herhangi bir üçüncü tarafa erişilebilir değildir. Bu kayıtları istediğiniz zaman uygulama arayüzü üzerinden veya tarayıcı verilerinizi temizleyerek silebilirsiniz."
+      },
+      "cookies": {
+        "title": "Çerezler ve Analitik",
+        "content": "Yalnızca dil tercihleri gibi temel web sitesi işlevselliği için minimum düzeyde çerez kullanıyoruz. Genel kullanım kalıplarını anlamak için gizliliğe saygılı analitik kullanabiliriz, ancak bireysel kullanıcıları izlemez veya kişisel bilgi toplamayız."
+      },
+      "thirdParty": {
+        "title": "Üçüncü Taraf Hizmetler",
+        "content": "Web sitemiz üçüncü taraf web sitelerine bağlantılar içerebilir. Bu harici sitelerin gizlilik uygulamalarından sorumlu değiliz. Herhangi bir kişisel bilgi vermeden önce gizlilik politikalarını incelemenizi öneririz."
+      },
+      "security": {
+        "title": "Güvenlik",
+        "content": "Tarayıcınız ile web sitemiz arasındaki tüm iletişimleri korumak için HTTPS şifrelemesi kullanıyoruz. Medya verilerinizi toplamadığımız için, web kamerası veya mikrofon kayıtlarınızın bir veri ihlali yoluyla açığa çıkma riski yoktur."
+      },
+      "children": {
+        "title": "Çocukların Gizliliği",
+        "content": "MicTestCam, 13 yaşın altındaki çocuklar için tasarlanmamıştır. Çocuklardan bilerek bilgi toplamayız."
+      },
+      "changes": {
+        "title": "Bu Politikadaki Değişiklikler",
+        "content": "Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Herhangi bir değişikliği, yeni Gizlilik Politikasını bu sayfada yayınlayarak ve 'Son Güncelleme' tarihini güncelleyerek size bildireceğiz."
+      },
+      "contact": {
+        "title": "Bize Ulaşın",
+        "content": "Bu Gizlilik Politikası hakkında sorularınız varsa, lütfen iletişim sayfamız aracılığıyla bize ulaşın."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Kullanım Koşulları",
+    "lastUpdated": "Son Güncelleme",
+    "intro": "MicTestCam'e hoş geldiniz. Web sitemize ve hizmetlerimize erişerek veya bunları kullanarak bu Kullanım Koşullarına bağlı olmayı kabul etmiş olursunuz.",
+    "sections": {
+      "acceptance": {
+        "title": "Koşulların Kabulü",
+        "content": "MicTestCam'i kullanarak bu Kullanım Koşullarını ve Gizlilik Politikamızı kabul etmiş olursunuz. Bu koşulların herhangi bir bölümünü kabul etmiyorsanız, hizmetlerimizi kullanamazsınız."
+      },
+      "description": {
+        "title": "Hizmet Tanımı",
+        "content": "MicTestCam, web kameralarını ve mikrofonları test etmek için ücretsiz çevrimiçi araçlar sunar. Hizmetimiz, görüntülü görüşmeler, kayıtlar veya yayın oturumlarından önce kameranızın ve mikrofonunuzun düzgün çalıştığını doğrulamanıza olanak tanır."
+      },
+      "usage": {
+        "title": "Kabul Edilebilir Kullanım",
+        "content": "MicTestCam'i yalnızca yasal amaçlarla ve bu Koşullara uygun olarak kullanmayı kabul edersiniz. Şunları yapmamayı kabul edersiniz: hizmeti herhangi bir yasadışı faaliyet için kullanmak, web sitesinin düzgün işleyişine müdahale etmeye çalışmak, kamuya açık olmayan web sitesi alanlarına erişmeye çalışmak veya izinsiz otomatik sistemlerle hizmete erişmek."
+      },
+      "privacy": {
+        "title": "Gizlilik ve Veri",
+        "content": "Tüm web kamerası ve mikrofon testleri tarayıcınızda yerel olarak gerçekleşir. Ses veya video verilerinizi toplamaz, saklamaz veya erişmeyiz. Daha fazla bilgi için lütfen Gizlilik Politikamızı inceleyin."
+      },
+      "intellectual": {
+        "title": "Fikri Mülkiyet",
+        "content": "MicTestCam web sitesi, tasarımı, kodu ve içeriği dahil olmak üzere telif hakkı ve diğer fikri mülkiyet yasaları ile korunmaktadır. Önceden yazılı iznimiz olmadan web sitesinin herhangi bir bölümünü kopyalayamaz, değiştiremez, dağıtamaz veya çoğaltamazsınız."
+      },
+      "disclaimer": {
+        "title": "Garanti Feragatnamesi",
+        "content": "MicTestCam, açık veya zımni herhangi bir garanti olmaksızın 'olduğu gibi' sağlanmaktadır. Hizmetin kesintisiz, hatasız olacağını veya belirli gereksinimlerinizi karşılayacağını garanti etmiyoruz. Cihazlarınızla ilgili herhangi bir donanım veya yazılım sorunundan sorumlu değiliz."
+      },
+      "limitation": {
+        "title": "Sorumluluk Sınırlaması",
+        "content": "Yasaların izin verdiği en geniş ölçüde, MicTestCam hizmeti kullanımınızdan kaynaklanan dolaylı, arızi, özel, sonuçsal veya cezai zararlardan sorumlu tutulamaz."
+      },
+      "changes": {
+        "title": "Koşullardaki Değişiklikler",
+        "content": "Bu Kullanım Koşullarını herhangi bir zamanda değiştirme hakkımızı saklı tutarız. Değişiklikler, web sitesinde yayınlandıktan sonra derhal yürürlüğe girer. Değişiklikler yayınlandıktan sonra hizmeti kullanmaya devam etmeniz, değiştirilmiş koşulları kabul ettiğiniz anlamına gelir."
+      },
+      "governing": {
+        "title": "Yürürlükteki Hukuk",
+        "content": "Bu Kullanım Koşulları, hukuk çatışması ilkelerine bakılmaksızın, yürürlükteki yasalara göre yönetilecek ve yorumlanacaktır."
+      },
+      "contact": {
+        "title": "İletişim",
+        "content": "Bu Kullanım Koşulları hakkında sorularınız varsa, lütfen iletişim sayfamız aracılığıyla bize ulaşın."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Bize Ulaşın",
+    "subtitle": "Sorularınız veya geri bildiriminiz mi var? Sizden duymaktan memnuniyet duyarız.",
+    "form": {
+      "name": "Adınız",
+      "namePlaceholder": "Adınızı girin",
+      "email": "E-posta Adresi",
+      "emailPlaceholder": "E-posta adresinizi girin",
+      "subject": "Konu",
+      "subjectPlaceholder": "Ne hakkında?",
+      "message": "Mesaj",
+      "messagePlaceholder": "Mesajınızı buraya yazın...",
+      "submit": "Mesaj Gönder",
+      "sending": "Gönderiliyor...",
+      "success": "Teşekkürler! Mesajınız başarıyla gönderildi.",
+      "error": "Üzgünüz, mesajınız gönderilirken bir hata oluştu. Lütfen tekrar deneyin."
+    },
+    "info": {
+      "title": "Bize Ulaşmanın Diğer Yolları",
+      "email": "E-posta",
+      "response": "Genellikle 24-48 saat içinde yanıt veriyoruz.",
+      "social": "Bizi Takip Edin"
+    },
+    "faq": {
+      "title": "Bize Ulaşmadan Önce",
+      "subtitle": "Yanıtınızı ana sayfadaki SSS bölümünde bulabilirsiniz."
+    }
+  },
+  "blogPage": {
+    "title": "Web Kamerası ve Mikrofon Test Blogu - İpuçları, Kılavuzlar ve Eğitimler",
+    "subtitle": "Web kamerası testi, mikrofon kurulumu ve görüntülü görüşmeler, yayın ve içerik üretimi için ses/görüntü optimizasyonu hakkında uzman ipuçları, eğitimler ve içgörüler.",
+    "noPosts": "Henüz yazı yok",
+    "noPostsDescription": "Yeni içerikler için yakında tekrar kontrol edin!",
+    "readMore": "Devamını oku",
+    "by": "yazar",
+    "minRead": "dk okuma",
+    "categories": {
+      "all": "Tüm Yazılar",
+      "webcam": "Web Kamerası İpuçları",
+      "microphone": "Mikrofon İpuçları",
+      "tutorials": "Eğitimler",
+      "troubleshooting": "Sorun Giderme"
+    },
+    "search": "Makalelerde ara...",
+    "featured": "Öne Çıkan",
+    "latest": "Son Makaleler",
+    "relatedPosts": "İlgili Yazılar"
+  },
+  "reviewsPage": {
+    "title": "En İyi Web Kamerası ve Mikrofon İncelemeleri - Uzman Ürün Analizi",
+    "subtitle": "Web kameraları, mikrofonlar, kulaklıklar ve ses/görüntü ekipmanları için kapsamlı incelemeler, puanlar ve satın alma kılavuzları. Yayın, görüntülü görüşmeler ve içerik üretimi için mükemmel ekipmanı bulun.",
+    "noReviews": "Henüz inceleme yok",
+    "noReviewsDescription": "Uzman ürün incelemeleri için yakında tekrar kontrol edin!",
+    "by": "yazar",
+    "readMore": "İncelemeyi Oku"
+  },
+  "footer": {
+    "tagline": "Web kameranızı ve mikrofonunuzu ücretsiz çevrimiçi test edin",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "contact": "İletişim",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Tüm hakları saklıdır.",
+    "language": "Dil"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "close": "Kapat",
+    "back": "Geri",
+    "next": "İleri",
+    "submit": "Gönder",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "view": "Görüntüle",
+    "download": "İndir",
+    "share": "Paylaş",
+    "copy": "Kopyala",
+    "copied": "Kopyalandı!",
+    "readMore": "Devamını Oku",
+    "learnMore": "Daha Fazla Bilgi",
+    "getStarted": "Başlayın"
+  },
+  "cta": {
+    "title": "Cihazlarınızı Test Etmeye Hazır mısınız?",
+    "subtitle": "Web kameranızı ve mikrofonunuzu hemen test etmeye başlayın. İndirme yok, kayıt yok.",
+    "webcamButton": "Web Kamerasını Test Et",
+    "microphoneButton": "Mikrofonu Test Et"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam, web kameraları ve mikrofonlar için doğrudan tarayıcınızda anında ve ücretsiz çevrimiçi test imkanı sunar. İndirme gerekmez. Herhangi bir görüntülü görüşme veya kayıt oturumundan önce kamera kalitenizi, mikrofon seviyelerinizi ve ses netliğinizi 30 saniyeden kısa sürede test edin.",
+      "p1": "Merhaba ve MicTestCam'e hoş geldiniz! MicTestCam, ister bir video konferans, toplantı veya sunum için web kameranızı kontrol etmek, ister YouTube videolarınız ve kanalınız için seslendirme kaydetmek, isterse podcastiniz için kapsamlı bir <strong>mikrofon testi</strong> yapmak isteyin, <strong>web kameranızı ve mikrofonunuzu çevrimiçi test etmenin</strong> en kolay yolunu sunar.",
+      "p2": "MicTestCam'in Kamera ve Mikrofon Test Araçları tamamen tarayıcı içinde çalışır ve herhangi bir indirme gerektirmez. Kullanıcı gizliliği MicTestCam için en önemli önceliktir. Tüm testler tarayıcınızda gerçekleştirilir ve video ile ses bilgileriniz bilgisayarınızdan asla çıkmaz. Her gün 50.000'den fazla test ve %99,9 başarı oranıyla MicTestCam, cihaz testi yapmak isteyen profesyoneller, uzaktan çalışanlar, içerik üreticileri ve genel kullanıcılar için en popüler platformdur.",
+      "p3": "<strong>Web kamerasını test etmek</strong> veya <strong>mikrofonu test etmek</strong> için aşağıdaki düğmelere tıklayın. MicTestCam, bir Zoom, Microsoft Teams, Google Meet, Discord, Skype veya diğer görüntülü görüşmelerden önce kameranızın ve mikrofonunuzun doğru çalışıp çalışmadığını doğrulamak yalnızca birkaç saniye sürer.",
+      "keyTakeaways": {
+        "title": "Önemli Noktalar",
+        "points": [
+          "Ücretsiz anlık web kamerası ve mikrofon testi - yazılım kurulumu gerekmez",
+          "%100 tarayıcı tabanlı test, eksiksiz gizlilik ve veri güvenliği sağlar",
+          "Video kalitesi, ses seviyeleri ve frekans yanıtı hakkında gerçek zamanlı geri bildirim",
+          "Zoom, Teams, Meet, Discord ve tüm video platformlarıyla uyumludur",
+          "Günlük 50.000'den fazla test ve %99,9 doğruluk oranı"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Görüntülü Görüşmelerden Önce Web Kameranızı ve Mikrofonunuzu Neden Test Etmelisiniz?",
+      "directAnswer": "Görüntülü görüşmelerden önce web kameranızı ve mikrofonunuzu test etmek, utanç verici teknik arızaları önler, toplantı süresinden tasarruf sağlar ve profesyonel iletişim kalitesini garanti eder. Görüşme öncesi test, izleyicileriniz görmeden önce kamera açıları, aydınlatma, ses seviyeleri ve arka plan gürültüsü ile ilgili sorunları tespit eder.",
+      "p1": "Uzaktan çalışma ve sanal iletişim artık standart iş uygulamalarıdır. Video ve ses üzerinden net iletişim kurabilmek, profesyonel başarı için çok önemlidir. Toplantılar sırasında teknik kesintiler güvenilirliği zedeler ve zaman kaybettirir. Sürekli \"Beni görebiliyor musunuz? Şimdi?\" demek zorunda kalmak profesyonel itibarı zedeler ve önemli tartışmaları geciktirir.",
+      "p2": "Toplantılardan önce hızlı bir video testi yapmak teknik hataları önler. Kritik görüşmelerden önce hızlı bir ses testi yapmak, sesinizin arka plan gürültüsü, yankı veya bozulma olmadan net olduğunu garanti eder. Satış profesyonelleri, yöneticiler, öğretmenler ve içerik üreticileri güvenilir web kamerası ve mikrofon performansının önemini bilirler.",
+      "p3": "Diğer web kamerası ve mikrofon test araçlarının aksine, MicTestCam yalnızca web kameranızın veya mikrofonunuzun çalışıp çalışmadığını doğrulamakla kalmaz, aynı zamanda video kalitesi ve ses özellikleri hakkında ayrıntılı bilgi sağlar. MicTestCam, kullanıcıların görüntülü görüşmeler başlamadan önce teknik sorunları bulmasına ve düzeltmesine yardımcı olur.",
+      "comparison": {
+        "title": "MicTestCam ile Yerleşik Video Platform Testleri Karşılaştırması",
+        "points": [
+          "<strong>MicTestCam:</strong> Ayrıntılı ses frekans analizi, gerçek zamanlı dalga formları ve profesyonel metrikler sunar",
+          "<strong>Platform Testleri:</strong> Kalite ayrıntıları olmadan yalnızca temel evet/hayır işlevselliği gösterir",
+          "<strong>MicTestCam:</strong> Testler tüm platformlarda çalışır - Zoom, Teams, Meet, Discord aynı anda",
+          "<strong>Platform Testleri:</strong> Yalnızca o belirli platform içinde işlevselliği doğrular",
+          "<strong>MicTestCam:</strong> Başkalarının tam olarak ne duyacağını dinlemek için kayıt oynatma özelliği sunar",
+          "<strong>Platform Testleri:</strong> Kalite doğrulaması için oynatma özelliği yoktur"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "MicTestCam'in Kamera ve Mikrofon Test Aracı Nasıl Çalışır?",
+      "directAnswer": "MicTestCam, web kameranıza ve mikrofonunuza doğrudan tarayıcınız üzerinden erişmek için WebRTC teknolojisini kullanır. Test tamamen cihazınızda, Zoom, Teams ve Meet'in kullandığı aynı protokollerle gerçekleşir ve sunuculara herhangi bir veri yüklemeden doğru gerçek dünya performans testi sağlar.",
+      "p1": "MicTestCam'in kamera ve mikrofon test aracı, popüler web tabanlı video konferans hizmetlerinin güvendiği aynı protokoller olan WebRTC protokollerini kullanır. MicTestCam ile <strong>web kameranızı test ettiğinizde</strong>, platform tarayıcının Web API'si aracılığıyla web kameranıza erişir ve video akışını ekranda gerçek zamanlı olarak sunar. Kullanıcılar web kamerasının çalışıp çalışmadığını doğrulayabilir, aydınlatmanın uygun olup olmadığını kontrol edebilir, kamera açısının doğru olduğunu onaylayabilir ve genel video kalitesini değerlendirebilir.",
+      "p2": "MicTestCam <strong>mikrofon testi</strong> aracı, ses seviyesi hakkında anında geri bildirim sağlar. Kullanıcılar mikrofona konuştuğunda, ses ölçerler ses seviyelerini gerçek zamanlı olarak yansıtarak mikrofonun sesi düzgün yakalayıp yakalamadığını belirlemeye yardımcı olur. 32 bantlı frekans spektrum analizörü, sesin frekanslar arasında nasıl dağıldığını gösterir; bu özellik özellikle profesyonel kayıt için mikrofon test eden podcastçılar ve müzisyenler için değerlidir.",
+      "p3": "Her iki MicTestCam aracı da otomatik kayıt özelliği sunar. Kullanıcılar bir test başlatabilir ve MicTestCam otomatik olarak kamera görüntüsünü ve sesi kaydederek izleyicinin deneyimleyeceği kaliteyi değerlendirmek için oynatmaya olanak tanır. Tüm kayıtlar tarayıcıda yerel olarak gerçekleşir. MicTestCam herhangi bir kullanıcı verisini harici sunuculara yüklemez veya saklamaz, böylece tam gizlilik sağlanır.",
+      "technicalSpecs": {
+        "title": "Teknik Özellikler",
+        "specs": [
+          "<strong>Protokol:</strong> WebRTC (Web Gerçek Zamanlı İletişim) - Zoom, Microsoft Teams, Google Meet tarafından kullanılan endüstri standardı",
+          "<strong>Ses Analizi:</strong> 32 bantlı frekans spektrum analizörü (20Hz - 20kHz aralığı)",
+          "<strong>Video Çözünürlüğü:</strong> Kamera kapasitesine bağlı olarak 240p'den 8K'ya (7680×4320) kadar test desteği",
+          "<strong>Kare Hızı:</strong> 15fps, 30fps ve 60fps'de gerçek zamanlı izleme",
+          "<strong>Gizlilik:</strong> %100 istemci taraflı işleme - MicTestCam sunucularına sıfır veri aktarımı",
+          "<strong>Uyumluluk:</strong> Chrome, Firefox, Safari, Edge - tüm büyük tarayıcılarda çalışır"
+        ]
+      }
+    },
+    "features": {
+      "title": "Testlerin Tam Özellik Listesi",
+      "webcamTitle": "Web kamerası testi",
+      "webcamFeatures": [
+        "240p'den 1080p'ye kadar çözünürlük seçenekleriyle kameranızın canlı önizlemesi.",
+        "USB kameralar, web kameraları, harici kameralar gibi birden fazla kamera cihazının algılanması.",
+        "Web kamerasını ve renk dengelerini test etmek için 9'dan fazla farklı filtre ve efekt.",
+        "Kamerayı izlemek için saniye başına kare hızları.",
+        "Anlık görüntü alma özelliği.",
+        "WebM ve MP4 formatında web kamerasından otomatik video kaydı.",
+        "Yerel depolamaya kaydedilen kayıtlar."
+      ],
+      "microphoneTitle": "Mikrofon testi",
+      "microphoneFeatures": [
+        "Gerçek zamanlı ses seviyesi ölçer ve tepe ölçer.",
+        "32 bantlı gerçek zamanlı frekans spektrum analizörü.",
+        "USB mikrofonlar, kulaklık mikrofonları vb. birden fazla mikrofon cihazının algılanması.",
+        "48 kHz stüdyo kalitesine kadar örnekleme hızlarını yapılandırma imkanı.",
+        "Mono veya stereo ses kaydı yapılandırması.",
+        "Ses için tepe ve RMS seviye ölçer.",
+        "Oynatma seçeneğiyle otomatik ses kaydı."
+      ]
+    },
+    "whoUses": {
+      "title": "Web Kamerası Testimizi ve Mikrofon Testimizi Kimler Kullanıyor",
+      "remoteWorkers": {
+        "title": "Uzaktan çalışanlar ve profesyoneller",
+        "description": "Uzaktan çalışan veya bir profesyonel, Zoom, Google Meet veya Microsoft Teams üzerindeki video konferansları ve toplantılarından önce web kamerasının düzgün çalışıp çalışmadığını görmek için hızlı bir test yapar, ardından duyulabilir olduklarından emin olmak için hızlı bir <strong>mikrofon testi</strong> yapar; böylece kendilerini tekrar etmek zorunda kalmazlar ve \"Sizi duyamıyoruz!\" diye kesilmezler."
+      },
+      "contentCreators": {
+        "title": "YouTuberlar, Twitch yayıncıları, podcastçılar ve diğer içerik üreticileri",
+        "description": "YouTuberlar, Twitch yayıncıları, podcastçılar ve diğer içerik üreticileri için gelişmiş ses ve görüntü tanılama aracımız vazgeçilmezdir. Ses sorunlarını çözmek için frekans spektrum analizörünü kullanın ve yüksek kaliteli içerik sunduğunuzdan emin olmak için video kalite testleri yapın."
+      },
+      "students": {
+        "title": "Öğrenciler ve Öğretmenler",
+        "description": "Öğrencilerin internet üzerinden iletişim kurabildiklerinden emin olmaları gerekir. Derslerinden önce ekipmanlarının çalıştığını onaylamak için testler yaparlar. Öğretmenler de derslerini başarıyla verebilmek için ekipmanlarının çalışır durumda olduğunu kontrol ederler."
+      },
+      "jobSeekers": {
+        "title": "İş Arayanlar",
+        "description": "Video mülakatlarına girecekseniz, başlamadan önce bir <strong>kamera testi</strong> ve <strong>mikrofon testi</strong> yaptığınızdan emin olun. Bu büyük bir fark yaratır ve hazırlıklı olduğunuzu gösterir. (Teknik bir arıza yüzünden bir fırsatı kaybetmekten daha kötü bir şey yoktur.)"
+      },
+      "gamers": {
+        "title": "Oyuncular:",
+        "description": "Oyun kulaklığı mı kullanıyorsunuz? Discord, oyun içi sohbet veya yayın için mikrofonunuzu test etmek için ihtiyacınız olan hassas sonuçları alın."
+      },
+      "techSupport": {
+        "title": "Teknik Destek",
+        "description": "Kameranız veya mikrofonunuzla sorun yaşıyorsanız, araçlarımız sorunun donanımınızda mı, sürücülerinizde mi yoksa yazılım ayarlarınızda mı olduğunu belirlemenize yardımcı olabilir."
+      }
+    },
+    "privacy": {
+      "title": "%100 Gizlilik Garantisi",
+      "intro": "<strong>Web kamerası testi</strong> ve <strong>mikrofon testi</strong> araçlarımızda yaptığımız her şeyin temelinde gizlilik vardır. Kameranıza ve mikrofonunuza erişerek özel bilgilerinizi bizimle paylaştığınızın farkındayız. Bu nedenle tüm platformumuz sıfır güven politikasıyla tasarlanmıştır.",
+      "localProcessing": {
+        "title": "Tüm işlemler yerel makinenizde yapılır",
+        "description": "Video ve ses işlemleri tarayıcınızdaki WebRTC API'leri kullanılarak yapılır. Verilerinizi sunucularımızda saklamıyoruz çünkü verilerinizi hiçbir zaman almıyoruz."
+      },
+      "noAccount": {
+        "title": "Hesap Gerekmez",
+        "description": "Hesap oluşturmanız, e-posta adresi girmeniz veya herhangi bir kişisel bilgi paylaşmanız gerekmez. Siteye gidin, tarayıcı izni verin, cihazlarınızı test edin ve çıkın."
+      },
+      "transparent": {
+        "title": "Şeffaf kod",
+        "description": "Kodumuzu gizlemiyoruz. Geliştirici araçlarını kullanarak tarayıcınızda görüntüleyebilirsiniz. İzleme yok, veri toplama yok, özel verilerinizi toplamak için analitik yok."
+      },
+      "cleanup": {
+        "title": "Otomatik Silme:",
+        "description": "Tüm kayıtlar tarayıcının yerel depolamasında saklanır. Tarayıcıyı kapattığınızda veya yerel depolamayı temizlediğinizde otomatik olarak silinirler. Neyin ne kadar süre saklanacağı konusunda tam yetkiniz vardır."
+      }
+    },
+    "compatibility": {
+      "title": "Tarayıcı ve Cihaz Uyumluluğu",
+      "intro": "Web kamerası ve mikrofon testlerimiz en popüler güncel tarayıcılar ve cihazlar tarafından desteklenmektedir. Her iki araç da Windows, Mac OS, Linux, iOS, Android veya modern bir tarayıcıyı destekleyen herhangi bir işletim sisteminde ek indirme veya kurulum gerektirmeden kullanılabilir.",
+      "browsersTitle": "Desteklenen Tarayıcılar",
+      "browsers": [
+        "Google Chrome (en iyi performans)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (MacOS ve iOS'ta)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Desteklenen Cihazlar",
+      "devices": [
+        "Masaüstü ve dizüstü bilgisayarlarda dahili veya harici USB web kameraları",
+        "Ön ve arka kameralı akıllı telefonlar ve tabletler",
+        "PC için harici USB kameralar ve web kameraları",
+        "Dahili dizüstü bilgisayar mikrofonları",
+        "Harici USB mikrofonlar",
+        "Mikrofonlu oyun kulaklıkları",
+        "Profesyonel ses arayüzleri ve kondenser mikrofonlar"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Yardıma mı İhtiyacınız Var?",
+      "intro": "<strong>Web kamerası testi</strong> veya <strong>mikrofon testini</strong> çalıştıramıyor musunuz? Bu çözümlerden birini deneyin.",
+      "cameraTitle": "Kamera Algılanmıyor veya Çalışmıyor",
+      "cameraIssues": [
+        "Tarayıcınızda kameraya izin verdiğinizden emin olun. Adres çubuğunda kamera erişimini etkinleştirmek için kullanabileceğiniz bir kamera simgesi göreceksiniz.",
+        "Kamerayı başka bir uygulamada (Zoom, Teams, Skype vb.) kullanıyorsunuz. Kamerayı aynı anda yalnızca bir uygulamada kullanabilirsiniz. Diğer uygulamayı kapatın veya sayfayı yenileyin ve tekrar erişime izin verin.",
+        "Sayfayı yenileyin ve tekrar erişime izin verin. Bir tarayıcı hatası nedeniyle olabilir.",
+        "Tarayıcının en son sürümünü kullanın.",
+        "Bilgisayarınızda kamera sürücülerinin doğru kurulup kurulmadığını kontrol edin.",
+        "USB kamera kullanıyorsanız farklı bir USB portuna takmayı veya farklı bir kablo kullanmayı deneyin."
+      ],
+      "microphoneTitle": "Mikrofon Çalışmıyor",
+      "microphoneIssues": [
+        "Tarayıcınızda mikrofon erişimine izin verin.",
+        "Mikrofonun güç kaynağına düzgün bağlı olduğundan emin olun.",
+        "Mikrofonun çalışıp çalışmadığını kontrol etmek için sistem ses ayarlarını kullanın.",
+        "Diğer uygulamalar mikrofonu kullanıyor. Bunları kapatmayı deneyin.",
+        "Yeterince yüksek değilseniz ses seviyesini artırmak veya çok yüksekseniz azaltmak için sistem ayarlarında mikrofon seviyesini ayarlamayı deneyin.",
+        "Mikrofonun sisteminizde veya cihazda (donanım sessiz düğmesi varsa) sessize alınmadığını kontrol edin."
+      ]
+    },
+    "quickLinks": {
+      "title": "Hızlı Bağlantılar",
+      "webcamTitle": "Web Kamerası Testi:",
+      "webcamLinks": [
+        "Web Kamerası Testi",
+        "Çevrimiçi Web Kamerası Testi",
+        "Kamera Testi",
+        "Çevrimiçi Kamera Test Aracı",
+        "Ücretsiz Web Kamerası Testi",
+        "Web Kameramı Kontrol Et",
+        "USB Kamera Testi",
+        "Dizüstü Kamera Testi",
+        "Zoom İçin Kamera Testi"
+      ],
+      "microphoneTitle": "Mikrofon Testi:",
+      "microphoneLinks": [
+        "Mikrofon Testi",
+        "Çevrimiçi Mikrofon Testi",
+        "Mikrofonumu Test Et",
+        "Çevrimiçi Mikrofon Test Aracı",
+        "Ücretsiz Mikrofon Testi",
+        "Mikrofonu Kontrol Et",
+        "Çevrimiçi Ses Testi",
+        "USB Mikrofon Testi",
+        "Discord Mikrofon Testi"
+      ]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Hızlı ve kolay çevrimiçi test aracımızla web kameranızı test edin. Kameranızın gerçek zamanlı önizlemesini, birden fazla kalite ayarını, özel efektleri ve herhangi bir ek yazılım kurulumu gerektirmeden çevrimiçi kameranızı kullanarak otomatik kayıt sunar. Böylece web konferansı <strong>kamera testi</strong> olarak kullanabilir veya yeni bir bilgisayarda dahili web kameranızı test edebilirsiniz.",
+      "p2": "Test etmek için yukarıdaki 'Kamerayı Başlat ve Kaydet' düğmesine basmanız yeterlidir. Web kameranızın canlı önizlemesi görüntülenecek, böylece videonuzun çalışıp çalışmadığını, aydınlatmanızı ve kameranızın düzgün konumlandırılıp konumlandırılmadığını görebilirsiniz. Hiçbir şey yüklenmez, saklanmaz veya erişilmez. Video testiniz bilgisayarınızda yerel olarak yapılır."
+    },
+    "howToUse": {
+      "title": "Web Kamerası Test Aracımız Nasıl Kullanılır",
+      "intro": "Web kameranızı test etmek için şu basit adımları izleyin:",
+      "steps": [
+        "<strong>Erişime İzin Verin:</strong> Tarayıcının web kamerasına erişip erişemeyeceğini soran bir iletişim kutusu açılacaktır. Tarayıcının web kamerasına erişmesine izin vermek için İzin Ver'e basın. Bunun herhangi bir web kamerası test web sitesi için geçerli olduğunu unutmayın. İletişim kutusu, rastgele web sitelerinin web kamerasına erişmesini önlemek için bir güvenlik önlemi olarak görünür.",
+        "<strong>Doğru kamerayı seçin:</strong> Birden fazla kameranız varsa (örneğin, dahili dizüstü kamera ve ayrı bir USB kamera), açılır menüden hangi kamerayı kullanacağınızı seçebilirsiniz. Web kamerası test aracımız tüm kameraları otomatik olarak algılar ve listeler.",
+        "<strong>Kaliteyi seçin:</strong> Kalite açılır menüsünden istediğiniz çözünürlüğü (kaliteyi) seçin. Kamerayı düşük kalitede (240p), orta kalitede (480p), yüksek kalitede (720p), tam HD kalitede (1080p) vb. test edebilirsiniz. Daha yüksek kalite daha net bir görüntü sağlar ancak daha fazla bant genişliği ve CPU gerektirir.",
+        "<strong>Testi başlatın:</strong> Kamerayı Başlat ve Kaydet'e basın, kameranızdan gelen canlı görüntüyü hemen göreceksiniz. Hemen kayda başlayabilir ve ardından kaliteyi görüntüleyebilirsiniz.",
+        "<strong>Görsel filtreler kullanın:</strong> Kameranızın çıkışını nasıl etkilediklerini görmek için 9'dan fazla görsel filtremiz (siyah-beyaz, sepya, bulanık, yüksek kontrast vb.) bulunmaktadır.",
+        "<strong>Anlık görüntü alın:</strong> Resim kalitenizi kontrol etmek veya kameranın belirli aydınlatma koşullarını nasıl işlediğini görmek için test sırasında anlık görüntü alabilirsiniz.",
+        "<strong>Durdur ve Kaydet:</strong> İşiniz bittiğinde, kaydı durdurmak için Durdur ve Kaydı Kaydet'e basın. Video tarayıcıda kaydedilecek, böylece tekrar oynatabilir ve indirebilirsiniz."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Gelişmiş Web Kamerası Özellikleri",
+      "intro": "<strong>Web kamerası test aracımız</strong>, günlük görüntülü görüşmelerden içerik üretimine kadar çeşitli kullanım senaryoları için tasarlanmış profesyonel düzeyde özellikler içerir.",
+      "mirrorMode": {
+        "title": "Mükemmel Selfie'ler İçin Ayna Modu",
+        "description": "Ayna ve çevirme, makyaj eğitimleri, bloggerlar ve aynadan nasıl göründüklerini görmek isteyenler için olmazsa olmaz bir özelliktir. Ayna düğmesine tıkladığınızda (kameranız açıkken), web kamerası görüntünüz yatay olarak çevrilir, böylece yüzünüzü daha iyi kontrol edebilir, makyajınızı yapabilir veya ayna görünümüne alışabilirsiniz. Özellikle bir YouTube videosu, TikTok videosu veya yazı göstermeniz, yön kullanmanız gereken bir Instagram hikayesi kaydediyorsanız çok faydalıdır."
+      },
+      "digitalZoom": {
+        "title": "Dijital Yakınlaştırma (1x - 3x)",
+        "description": "Farklı seviyelerde yakınlaştırıldığında <strong>web kameranızın</strong> ne kadar keskin olduğunu görün. Ürün demoları, eğitimler veya yakından bakmak için idealdir. Web kameranızın yakınlaştırıldığında keskinliğini test etmek için yakınlaştırma kaydırıcısı ve 1x, 2x, 3x hızlı düğmeleri. Kameranıza daha yakın hareket etmeniz gerekip gerekmediğini veya görüntü kalitesini çok fazla bozmadan yakınlaştırıp yakınlaştıramayacağınızı görmek için kullanışlıdır. Boyama, el işi veya teknik tamir çalışmalarını yakınlaştırmak isteyen canlı yayıncılar için pratiktir."
+      },
+      "brightnessContrast": {
+        "title": "Parlaklık ve Kontrast Kontrolleri",
+        "description": "Parlaklığı (%50-%150) ve kontrastı (%50-%150) ayarlayın ve web kameranızın farklı aydınlatma koşullarında nasıl göründüğünü izleyin. Bu kaydırıcıları, kameranızın otomatik pozlama özelliğinin düzgün çalışıp çalışmadığını test etmek ve farklı kayıt ayarlarını taklit etmek için kullanabilirsiniz. Odanız çok karanlık veya çok aydınlıksa, bir sonraki video toplantınız için kaydırıcıları rahat bir ayara getirebilirsiniz. Yayıncılar ve YouTuberlar, kameralarından en iyi sonucu almak ve videolarında aynı aydınlatma koşullarını korumak için bu kaydırıcıları sık kullanırlar."
+      },
+      "gridOverlay": {
+        "title": "Profesyonel Kadrajlama İçin Izgara Katmanı",
+        "description": "Dahili ızgara katmanımız, kaydınızda yüzünüzü mükemmel şekilde kadrajlamanızı sağlayan Üçler Kuralı kompozisyon tekniğini kullanır. Gözlerinizi üst yatay çizgiye ve yüzünüzü dikey kılavuzlara hizalamanız yeterlidir. Bu profesyonel fotoğrafçılık ilkesi, YouTube, iş toplantıları veya Twitch yayınları için daha çekici ve ilgi çekici video kayıtları sağlar. Izgara katmanı, tekrarlanan kayıtlarda tutarlı kadrajlamaya yardımcı olur."
+      },
+      "videoFilters": {
+        "title": "Video Filtreleri ve Efektleri",
+        "description": "Nasıl göründüklerini görmek için <strong>web kameranıza</strong> şu filtreleri uygulayın: Normal, Gri Tonlama, Sepya, Negatif, Bulanık, Parlaklık, Kontrast, Renk Döndürme ve Doygunluk. Filtreler, kameranızın renkleri ne kadar iyi temsil edebildiğini ve video efekt filtreleri kullandığınızda nasıl görüneceğini gösterir. Yayıncı veya YouTuber iseniz, yayınınızın farklı efektlerle nasıl görüneceğini görmek için filtreleri kullanabilirsiniz. Filtreler ayrıca kameranızın doğru renkleri verip vermediğini görmek için de kullanılabilir. Gri Tonlama ve Sepya filtrelerinin sonuçlarını karşılaştırın."
+      },
+      "videoMetrics": {
+        "title": "Gerçek Zamanlı Video Metrikleri ve Histogram:",
+        "description": "Videonuz hakkında çözünürlük, kare hızı ve bit hızı gibi teknik ayrıntıları görüntüleyin. RGB histogramı, videodaki renk dağılımını görmenizi sağlar. Bu, aşırı/yetersiz pozlama, renk baskınlığı ve kötü aydınlatmayı tespit etmek için kullanışlıdır. Bu özellik, videolarının mümkün olduğunca iyi olmasını sağlamak isteyen video yapımcıları, YouTuberlar ve vloggerlar gibi profesyoneller için idealdir. Histogramınız her iki tarafta da keskin bir düşüş gösteriyorsa, aydınlatma veya kamera ayarlarınızı düzeltmeniz gerekecektir."
+      },
+      "advancedControls": {
+        "title": "Gelişmiş Kamera Kontrolleri",
+        "description": "Bazı web kameralarında pozlama, odaklama modu, beyaz dengesi, ISO ve keskinlik gibi kullanıcı tarafından kontrol edilebilen özellikler bulunur. Web uygulamamız <strong>web kameranızın</strong> neler yapabildiğini kontrol etmenizi sağlar. Otomatik ve manuel odaklama modu arasında geçiş yapabilir, beyaz dengesini ışığınızın sıcaklığına göre ayarlayabilir veya pozlama telafisini istediğiniz gibi ayarlayabilirsiniz. Bu, kamera ayarlarını kontrol etmesi gereken yayıncılar, YouTuberlar ve profesyoneller için çok kullanışlıdır."
+      },
+      "backgroundBlur": {
+        "title": "Arka Plan Bulanıklaştırma Efekti",
+        "description": "Herhangi bir uygulama veya yeşil ekran olmadan web tabanlı arka plan bulanıklaştırmayı deneyin. Arka plan bulanıklaştırma efektimiz, arka planı kaldırmak ve sizi ondan ayırmak için en son web teknolojilerini kullanır; başkalarının görmesini istemediğiniz bir arka planla evden görüntülü konferans görüşmeleri yapmanız gerektiğinde kullanışlıdır. Arka planınıza uygulanan bulanıklık seviyesini ayarlayabilirsiniz. Bu araç, arka plan bulanıklaştırma efektinin <strong>web kameranız</strong> ve kamera uygulamanızla ne kadar iyi çalıştığını görmenizi sağlar. Web geliştiriciler, dijital pazarlamacılar ve video içerik üreten herkes için özellikle kullanışlıdır."
+      },
+      "motionDetection": {
+        "title": "Güvenlik Testi İçin Hareket Algılama",
+        "description": "<strong>Web kameranızın</strong> harekete ne kadar tepki verdiğini kontrol etmek istiyorsanız, gerçek zamanlı hareket algılamamızı kullanın. Gelişmiş modda, videonuzdaki hareketi yansıtan canlı hareket yüzdesi göstergesini görebilirsiniz. Bunu güvenlik kamerası hareket testi, gözetleme sistemi yapılandırması veya hareketle tetiklenen kamera testi için kullanın. Hareket algılayıcı, hareket miktarını bulmak için video akışını kare kare analiz eder. Bu, kameranın ne kadar iyi olduğunu ve hangi hassasiyete ihtiyacınız olduğunu kontrol etmenizi sağlar. Ev güvenliği, evcil hayvan izleme ve bebek monitörü testi için kullanışlıdır."
+      },
+      "faceDetection": {
+        "title": "Yüz Algılama ve Takip",
+        "description": "Web kameranızın yüz algılama kapasitesini tespit edin. Gelişmiş modda yüzlerin etrafına sınırlayıcı kutular çizer ve sayarız. Yüz algılama aracımız, tarayıcınızda mevcut olduğunda FaceDetector API'sini kullanarak bir karede birden fazla yüzü algılar. Bu aracı, video konferansta otomatik kadrajlama için <strong>kameranızın</strong> işlevselliğini test etmek veya birden fazla yüzü nasıl işlediğini görmek için kullanın. Video içerik üreticileri kameralarının otomatik odaklama amacıyla yüzleri düzgün algılayıp algılamadığını görebilir ve profesyoneller çok kişili toplantı odalarının beklendiği gibi çalışıp çalışmadığını kontrol edebilir."
+      },
+      "sideBySide": {
+        "title": "Yan Yana Mod: İki Kamerayı Karşılaştırın",
+        "description": "Yan yana modu, 2 web kamerasını yan yana karşılaştırmanıza olanak tanır. Aynı anda birden fazla web kamerasını test etmek için kullanışlıdır. Dahili bir web kameranız ve harici bir USB web kameranız varsa, bunları aynı anda yan yana görüntüleyebilirsiniz. Satın almak için web kamerası seçerken de çok kullanışlıdır. Kamera görüntü kalitesini, renk doğruluğunu, düşük ışık performansını ve görüş alanını gerçek zamanlı olarak karşılaştırabilirsiniz. Yayıncılar ve YouTuberlar için harika bir araçtır."
+      }
+    },
+    "videoQuality": {
+      "title": "Web Kamerası Video Kalite Ayarları Açıklaması",
+      "intro": "Çözünürlük, web kameranızın ürettiği videonun netliğini belirler. Web kamerası çözünürlük testimizde ayarların nasıl performans gösterdiği:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Bu en düşük kalite ayarıdır, yayınınızın çalışıp çalışmadığını test etmek istediğinizde ve internet bağlantınız çok kötü olduğunda kullanılır. Videonuz bulanık olacak, ancak en azından kameranızın yayın yapıp yapmadığını görmek için harikadır."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Düşük kalite, düşük bant genişliği kullanımı. Kaliteyi çok fazla umursamıyorsanız düşük çözünürlüklü bir görüntülü görüşme yapabilirsiniz. Yüzleri hâlâ seçebilirsiniz, ancak başka bir şeyi değil."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Standart tanımlı. Bu, kalite ve bant genişliği arasındaki orta noktadır. Çoğu görüntülü sohbet ve yayın uygulaması bunu kullanabilir. Bu genellikle eski web kameralarının çözünürlüğüdür."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Bu çözünürlük, profesyonel kullanım için harika olan yüksek tanımlı video konferans kalitesi sunar. Net görüntüler ve iyi renk kalitesi sağlar. Zoom, Teams ve Meet gibi video konferans uygulamalarında kullanılan en popüler çözünürlüktür."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Bu, bir web kamerasında bulacağınız en yüksek yaygın çözünürlüktür ve yüksek kaliteli içerik üretmek, yayın yapmak veya mümkün olan en iyi video kalitesine ihtiyaç duyanlar için idealdir. Daha fazla bant genişliği ve işlem gücü gerektirir, ancak keskin ve profesyonel bir görüntü elde edersiniz."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Mükemmel detay ve netlikle Quad HD çözünürlük. Yüksek görüntü kalitesi gerektiren profesyonel içerik üreticileri, yayıncılar ve doğal çözünürlük isteyen 4K monitör sahipleri için harikadır. Yüksek kaliteli web kameraları ve önemli miktarda bant genişliği gereklidir."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "1080p'nin dört katı pikselle Ultra Yüksek Tanımlılık. İçerik üreticileri, film yapımcıları ve üst düzey yayın için profesyonel düzeyde kalite. Premium web kameraları, güçlü bilgisayar donanımı ve yüksek hızlı internet gerektirir. Kayıtları geleceğe hazırlamak ve dijital yakınlaştırma ve kırpma için detayı en üst düzeye çıkarmak için mükemmeldir."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "Mümkün olan maksimum çözünürlük. 1080p'den 16 kat daha fazla piksele sahiptir. Bu genellikle çok üst düzey profesyonel web kameraları veya DSLR/aynasız kameraları web kamerası olarak kullanan kişiler tarafından kullanılır. Bunun için son derece yüksek kaliteli bir web kamerası veya DSLR/aynasız kamera, son derece güçlü bir bilgisayar ve son derece hızlı bir bağlantı gerekir. Bu yalnızca sinema düzeyinde kaliteye ihtiyaç duyduğunuzda, son derece büyük bir monitörünüz olduğunda veya çok fazla dijital yakınlaştırma yapmak istediğinizde kullanılmalıdır."
+        }
+      },
+      "tip": "Web kamerası testi yapıyorsanız, önce kameranızın yüksek tanımlılıkla çalıştığından emin olmak için 720p ile test edin, ardından ihtiyacınız olan diğer çözünürlüklerle test edin."
+    },
+    "frameRate": {
+      "title": "Kare Hızı ve Akıcı Video Performansı",
+      "intro": "Kare hızı, bir görüntüleme cihazının kare adı verilen birbirini izleyen benzersiz görüntüleri üretme sıklığıdır (hızıdır). Kare hızı saniyedeki kare sayısı (FPS) olarak ifade edilir. Kare hızı ne kadar yüksek olursa, özellikle hareket halindeyken video o kadar akıcı görünür. Çevrimiçi web kamerası test aracımız, web kameranızın herhangi bir sorunu olup olmadığını göstermek için gerçek FPS'ini kontrol eder.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Video konferans için idare eder. Hareket biraz sarsıntılı görünür. Düşük kaliteli kamera, yetersiz aydınlatma veya CPU darboğazı nedeniyle olabilir."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Bu, web kameraları ve çoğu video konferans uygulaması için tipik kare hızıdır. Hareket akıcı ve gerçekçidir. Profesyonel bir video konferans için de ideal kare hızıdır."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Daha da fazla hareket akıcılığı sağlayan yüksek bir kare hızıdır. Hareket akıcılığının önemli olduğu yayıncılar ve YouTuberlar için idealdir. Tüm web kameralarının 60 FPS desteklemediğini ve daha fazla bant genişliği tüketeceğini unutmayın."
+        }
+      },
+      "tip": "Web kameranızdan gelen test sonucu düşük bir kare hızıysa, daha düşük bir çözünürlük kullanmayı veya aydınlatmayı artırmayı düşünebilirsiniz. Işık, web kameralarında sorun olabilir çünkü pozlama süresini artırabilmek için kare hızını düşürebilirler."
+    },
+    "lighting": {
+      "title": "Daha İyi Görünen Web Kamerası Videosu İçin İpuçları",
+      "intro": "Aydınlatma, web kamerası video kalitesi söz konusu olduğunda en önemli değişkendir. Harika aydınlatmaya sahip düşük kaliteli bir web kamerası, zayıf aydınlatmaya sahip yüksek kaliteli bir web kamerasından daha iyi görünecektir.",
+      "tips": {
+        "position": {
+          "title": "Işık Önünüzde Olsun",
+          "description": "Işık kaynağı arkanızda değil önünüzde olmalıdır. Arka aydınlatma (kendinizi bir pencerenin önüne konumlandırmak gibi) yüzünüzü karanlık ve gölgeli yapar."
+        },
+        "soft": {
+          "title": "Işığı Yumuşatın",
+          "description": "Güçlü gölgeler ve parlak noktalar oluşturan doğrudan aydınlatmadan kaçının. Birden fazla ışık kaynağı veya büyük pencerelerden gelen ışık her zaman yumuşaktır ve daha profesyonel görünen görüntüler oluşturur."
+        },
+        "flicker": {
+          "title": "Titreşen Ampullerden Kaçının",
+          "description": "Bazı LED ampuller ve floresan lambalar, kameranızın görebildiği bir frekansta titreyecek ve videonuzda titreşim elde edeceksiniz. Akkor veya video için yüksek kaliteli LED ampuller kullanmayı deneyin."
+        },
+        "color": {
+          "title": "Renk sıcaklığı göz önünde bulundurulması gereken başka bir faktördür.",
+          "description": "Tüm ışık kaynaklarının aynı renk sıcaklığına sahip olduğundan emin olun. Sıcak ve soğuk ışık bir arada karıştırıldığında sağlıksız görünür. Web kameraları genellikle gün ışığı dengesine sahip ışık altında (5000-6500K) daha iyi görünür."
+        }
+      },
+      "tip": "Web kamerası görüntünüzün iyileşip iyileşmediğini belirlemek için web kamerası test aracımızı birden fazla ışık kaynağıyla test edin. Canlı görünüm sayesinde farklı ışık ayarlarını test ederek sizin için en iyi olanı görebilirsiniz."
+    },
+    "types": {
+      "title": "Web Kamerası Türleri ve Beklentiler",
+      "builtIn": {
+        "title": "Dahili Dizüstü Web Kameraları",
+        "description": "Dizüstü bilgisayarlar neredeyse her zaman ekranın üstüne yerleştirilmiş bir web kamerasına sahiptir. Çoğunlukla bunlar 720p kameralardır ve ara sıra yapılan görüntülü sohbetler için gayet iyi çalışırlar. Ancak kalite, sahip olduğunuz dizüstü bilgisayara göre büyük ölçüde değişebilir. Genel olarak, daha kaliteli dizüstü bilgisayarlarda daha iyi web kameraları bulunur."
+      },
+      "usb": {
+        "title": "USB Web Kameraları",
+        "description": "USB üzerinden bağlanan harici web kameraları da mevcuttur. Dahili kameradan daha iyi bir şey arıyorsanız, temel bir model size 30 FPS'de 1080p sunarken, üst düzey modeller otomatik odaklama, düşük ışık telafisi vb. ile 4K, 60 FPS'e kadar çıkabilir."
+      },
+      "streaming": {
+        "title": "Yayın Kameraları:",
+        "description": "Yayıncılar için üretilen bu kameralar, daha büyük sensörler, geliştirilmiş düşük ışık hassasiyeti ve geliştirilmiş renk bilimi ile görüntü kalitesine odaklanır. HDR ve görüş alanı ayarları yaygındır."
+      },
+      "dslr": {
+        "title": "Seçenek 1: DSLR/Aynasız Kamerayı Web Kamerası Olarak Kullanma",
+        "description": "Birçok yeni kamera USB üzerinden veya bir yakalama kartıyla web kamerası olarak kullanılabilir. Bu size en yüksek kalite görüntüyü verecektir, ancak aynı zamanda en fazla ekipman ve yapılandırma gerektirecektir."
+      },
+      "tip": "Kameranızın aracımızla çalışıp çalışmadığından emin değilseniz, kapsamlı web kamerası testimiz her türlü kamerayla uyumludur. Farklı web kameralarını karşılaştırmak veya bağladıktan sonra yeni web kameranızın çalıştığını kontrol etmek için kullanabilirsiniz."
+    },
+    "troubleshooting": {
+      "title": "Web Kameranızı Düzeltmek İçin Yardıma mı İhtiyacınız Var?",
+      "intro": "Bir test yaptınız ve bir sorun keşfettiyseniz, en yaygın sorunları belirlemek ve düzeltmek için şu adımları izleyin:",
+      "blackScreen": {
+        "title": "Web Kamerası Siyah Ekran Gösteriyor",
+        "issues": [
+          "Kamera merceğinin üzerinde fiziksel bir kapak (gizlilik sürgüsü, bant veya yapışkan bant gibi) olup olmadığını kontrol edin",
+          "Başka bir uygulamanın (Skype, Zoom, Teams vb.) arka planda kamerayı kullanıp kullanmadığını kontrol edin. Bu uygulamaları kapatın ve bu web kamerası testini tekrar deneyin.",
+          "Hâlâ sorun yaşıyorsanız, tarayıcınızı yeniden başlatmayı ve web kamerası testini tekrar denemeyi deneyin.",
+          "Harici bir USB web kamerası kullanıyorsanız, farklı bir USB portuna takmayı deneyin.",
+          "Kamera sürücülerinizi güncelleyin veya yeniden yükleyin."
+        ]
+      },
+      "blurry": {
+        "title": "Web Kamerası Görüntüsü Bulanık",
+        "issues": [
+          "Web kamerası merceğini bir mikrofiber bezle temizleyin.",
+          "Web kameranızda bir odaklama halkası varsa, odaklamayı manuel olarak ayarlamayı deneyin.",
+          "Kameranızın otomatik odaklamasına yardımcı olmak için yeterli ışık olduğundan emin olun.",
+          "Web kamerasına biraz daha yaklaşın veya uzaklaşın ve iyileşip iyileşmediğine bakın."
+        ]
+      },
+      "colors": {
+        "title": "Web Kamerası Renkleri Yanlış Görünüyor",
+        "issues": [
+          "Farklı aydınlatma koşulları altında mısınız? Doğal ve yapay aydınlatma farklı renk tonlarına sahip olabilir.",
+          "Varsa web kamerası ayarlarında beyaz dengesini ayarlamayı deneyin.",
+          "Renk baskınlığına neden olabilecek baskın renkli bir şey giyiyor musunuz veya etrafınızda var mı? Kaldırmayı deneyin."
+        ]
+      },
+      "choppy": {
+        "title": "Video Kesik veya Gecikmeli",
+        "issues": [
+          "Bu web kamerası test aracının ayarlarında video kalitesini düşürün.",
+          "CPU veya GPU kaynaklarını tüketen diğer tüm uygulamaları kapatmayı deneyin.",
+          "Kameranız üzerindeki yükü azaltmak için aydınlatma koşullarınızı iyileştirin.",
+          "Harici bir USB web kamerası kullanıyorsanız, USB hub yerine doğrudan bilgisayarınıza bağlayın."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Belirli Platformlar İçin Web Kamerası Testi",
+      "zoom": {
+        "title": "Zoom Görüntülü Konferans",
+        "description": "Önemli bir Zoom toplantısından önce kameranızın düzgün çalıştığından emin olmak için bu web kamerası testini kullanın. Video kalitesinin 720p'de (çoğu Zoom toplantısı için varsayılan kalite) yeterince iyi olduğundan emin olun. Bir Zoom görüşmesine katılmadan önce aydınlatmanızın yeterli olduğundan ve web kamerası görünümündeki konumunuzun iyi olduğundan emin olun."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "Toplantılarda 1080p HD video kullanılabilir. Kameranızın Teams video çözünürlüğünü destekleyebildiğini onaylamak için kamerayı farklı çözünürlüklerde test edin. Birlikte Modu ve sanal arka plan için profesyonel kalite açısından arka planı test edin."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet, ağ koşullarına göre video kalitesini otomatik olarak ayarlar. Kameranızın yüksek kaliteli video iletimi için Google Meet'in minimum gereksinimlerini karşıladığından emin olmak için en az 720p'de test edin."
+      },
+      "streaming": {
+        "title": "Yayın (Twitch/YouTube)",
+        "description": "Web kameranızın desteklediği maksimum çözünürlükte test edin (tercihen 1080p60). Kare hızının stabil olduğundan emin olun ve kameranızın hızlı hareketler ve çeşitli aydınlatma koşullarıyla ne kadar iyi başa çıktığını görün."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Discord üzerinden görüntülü görüşme yapıyorsanız, 720p çalıştırabilen bir web kamerasına sahip olmanız gerekir. Sahip olduğunuz kameranın bilgisayarınız, oyun oturumları ve topluluk görüşmeleri için uygun olduğundan emin olmak istersiniz. Bu ayrıca kameranızın çok fazla bant genişliği kullanmadığından ve oyununuzu engellemediğinden emin olmanızı sağlar."
+      }
+    },
+    "relatedTools": {
+      "title": "İlgili Araçlar ve Kaynaklar",
+      "alsoTry": "Ayrıca Deneyin:",
+      "alsoTryLinks": [
+        "Web Kamerası ve Mikrofon Testi",
+        "Mikrofon Testi",
+        "Mikrofon Testi",
+        "Ses Kayıt Testi",
+        "Çevrimiçi Mikrofon Kontrolü"
+      ],
+      "onThisPage": "Bu Sayfada:",
+      "onThisPageLinks": [
+        "Web Kameranızı Nasıl Test Edersiniz",
+        "Video Kalite Ayarları",
+        "Kamera Sorun Giderme",
+        "Web Kamerası Çalışmıyor Çözümü",
+        "En İyi Web Kamerası Ayarları"
+      ]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Mikrofonunuz çalıştı mı? <strong>Mikrofonunuzun düzgün çalıştığından</strong> emin olmak için hızlı ve basit <strong>mikrofon testimizi</strong> kullanın. Bu <strong>çevrimiçi mikrofon testi</strong> ayrıca mikrofon seviyelerinizi, frekans spektrumunuzu gösterecek ve sesinizi kaydedecektir. <strong>Mikrofonunuzu test etmek</strong> için herhangi bir yazılım veya eklenti gerekmez. Canlı yayına çıkmadan, görüntülü görüşme başlatmadan veya podcast kaydetmeden önce <strong>mikrofonunuzu şimdi test edin</strong>.",
+      "p2": "Mikrofonunuzu kontrol etmek için yukarıdaki 'Mikrofonu Başlat ve Kaydet' düğmesine basın. Ses seviyeleri gerçek zamanlı olarak gösterilir, böylece mikrofonunuzun beklediğiniz gibi ses alıp almadığını görebilirsiniz. 32 bantlı ses frekans grafiği, mikrofonunuzun ses frekanslarını ne kadar iyi yakaladığını görmenizi sağlar. Bu özellikle podcastçılar veya müzisyenler için kullanışlıdır çünkü tüm frekansları net bir şekilde yakalayabilen ekipman kullanmanızı sağlar."
+    },
+    "howToTest": {
+      "title": "Mikrofonunuzu Nasıl Test Edersiniz",
+      "intro": "Tam bir <strong>mikrofon testi</strong> için şu adımları uygulayın:",
+      "steps": [
+        "<strong>Mikrofonunuza Erişime İzin Verin:</strong> Tarayıcının mikrofonunuzu kullanmasına izin verin. Mikrofonunuza erişim izni talebiyle bir iletişim kutusu görünürse izin ver'e tıklayın. Tarayıcıyı ilk kez kullanıyorsanız, adres çubuğundaki kalkan simgesine tıklamanız ve ardından sitenin mikrofona erişmesine izin vermek için mikrofonu seçmeniz gerekebilir.",
+        "<strong>Mikrofonunuzu Seçin (gerekirse):</strong> Açılır seçeneklerden istediğiniz mikrofonu seçin (bilgisayarınızın mikrofonu, harici mikrofon vb.). <strong>Çevrimiçi mikrofon testi</strong> aynı anda yalnızca bir mikrofon üzerinden yapılabilir.",
+        "<strong>Örnekleme Hızı ve Kanalları Ayarlayın:</strong> Mikrofonunuz için örnekleme hızını seçin (standart kalite için 44,1 kHz ve daha yüksek kalite için 48 kHz). Amacınıza bağlı olarak mono veya stereo kanal seçin.",
+        "<strong>Mikrofon Testi Kaydedin:</strong> <strong>Mikrofon testini</strong> başlatmak için kayıt düğmesine tıklayın. Otomatik olarak kayda başlayacak, böylece daha sonra kaydı dinleyebilir ve mikrofonunuzun nasıl duyulduğunu görebilirsiniz.",
+        "<strong>Mikrofon Seviye Ölçeri İzleyin:</strong> <strong>Mikrofon testini</strong> yaparken mikrofona konuşurken mikrofon seviye ölçerini izleyin. Sizi düzgün kaydediyorsa, ölçer sesinizin yüksekliğine göre hareket etmelidir. Yeşil renk ideal ses seviyesini, sarı daha yüksek ses seviyesini ve kırmızı çok yüksek ve potansiyel olarak kırpılan sesleri gösterir.",
+        "<strong>Farklı Ses Seviyelerinde Konuşmayı Deneyin:</strong> Normal bir sesle, ardından çok alçak ve yüksek sesle konuşarak bir <strong>mikrofon testi</strong> yapın. Bu, mikrofonunuzun farklı ses seviyelerine ne kadar duyarlı olduğunu görmenize yardımcı olacaktır.",
+        "<strong>Kaydı Oynatın:</strong> <strong>Çevrimiçi mikrofon testini</strong> yaptıktan sonra, mikrofonun nasıl duyulduğunu görmek için kaydınızı oynatın. Bu, mikrofon seviye ölçeriyle fark edemeyeceğiniz sorunları belirlemenize yardımcı olacaktır."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Gelişmiş Özellikler",
+      "intro": "İster mikrofonunuzun neden çalışmadığını araştırıyor olun, ister büyük bir toplantı veya canlı yayın için en iyi performansı elde etmek istiyor olun, bu sitede test edebileceğiniz çeşitli gelişmiş özellikler bulunmaktadır:",
+      "inputGain": {
+        "title": "Optimum Giriş Kazancı",
+        "description": "Mikrofon kazancınızı önceden yapılandırılmış seçeneklerimizle veya kaydırıcımızla anında %50 ile %150 arasında yapılandırın. Giriş kazancı kontrolü, özellikle bölümler arası tutarlı seviyeler istenen podcast kaydı yapanlar, müzisyenler (hem vokal hem de enstrüman) ve kırpma ve bozulmaya karşı hassas yayıncılar için önemlidir. Çok gürültülü ortamlar için veya hassas bir kondenser mikrofonunuz varsa Düşük (%50) ön ayarını, çoğu kullanım durumu için Normal (%100) ve daha fazla güçlendirmeye ihtiyaç duyan sessiz kaynaklar için Güçlendirme (%150) seçin. Anında kazanç kontrolümüz, gürültü veya gecikme eklemeden güçlendirme için Web Audio API'nin GainNode'unu kullanır."
+      },
+      "noiseSuppression": {
+        "title": "Temiz kayıtlar için gürültü bastırma uygulayın",
+        "description": "Kayıttan klavye sesleri, fare tıklamaları, fan, klima ve benzeri sesleri kaldırmak istiyorsanız, lütfen gürültü bastırmayı etkinleştirin ve tekrar deneyin. Tarayıcınızda çalışır ve uzaktan çalışma, podcast, ev kayıtları, videolar vb. gürültülü kayıtları temizlemek için kullanılabilir; bir gürültü kapısı veya gürültü azaltma eklentisine ihtiyacınız yoktur. Gürültü bastırma, gürültüyü doğrudan mikrofonda bastırmak için Web Audio API kullanır, böylece CPU yükünü artırmaz veya gecikme eklemez. Mikrofonunuz için hangisinin en iyi çalıştığını görmek için hem gürültü bastırma ile hem de gürültü bastırma olmadan test edebilirsiniz."
+      },
+      "echoCancellation": {
+        "title": "Neden yararlıdır: Yankı giderme",
+        "description": "testten önce mikrofonunuzdaki akustik geri bildirimi ve yankıyı kaldırır. Bu, hoparlörlerinizin sesinin de mikrofonunuz tarafından yakalanabildiği görüntülü görüşmeler, podcast röportajları ve canlı yayınlar için önemlidir. Yankı giderme açıkken mikrofonunuzu test etmek için ön ayarlar açılır penceresini kullanarak yankı gidermeyi etkinleştirin. Bu, kayıt alanınızı akustik açıdan düzenlemeniz gerekip gerekmediğine veya tarayıcı yankı gidermeye güvenip güvenemeyeceğinize karar vermenize yardımcı olacaktır. Kullanışlı olduğu durumlar: uzaktan çalışanlar, podcast röportajcıları ve çok sayıda sert yüzeyi olan (yankılanabilen) bir odada kayıt yapan herkes."
+      },
+      "autoGainControl": {
+        "title": "AGC ile tutarlı ses seviyesini koruyun",
+        "description": "AGC, mikrofon seviyenizi daha yüksek ve daha tutarlı hale getirir. Sessiz konuşursanız, sizi daha yüksek sesli yapar. Yüksek konuşursanız, sizi daha sessiz yapar. Yayıncılar için harikadır, çünkü yüksek sesli bir anda çok yüksek olma konusunda endişelenmenize gerek yoktur. Podcastçılar için de iyidir, mikrofonunuzdan uzaklaşıyorsanız. Ayrıca, profesyonel görünmek istiyorsanız video konferanslar için de harikadır. Bu kutuyu işaretleyin ve AGC'nin tarayıcınız ve mikrofonunuzla iyi çalışıp çalışmadığını görün. Müzik veya ASMR kaydediyorsanız, bunu kapalı tutmak isteyebilirsiniz."
+      },
+      "realtimeMeter": {
+        "title": "Ses seviyelerinizi gerçek zamanlı olarak izleyin.",
+        "description": "Seviye ölçer, ses sinyalinin gerçek seviyesini gösteren RMS (Karekök Ortalaması) değerini gösterir. Seviyenin kırpmaya başlayacağı tepe noktası da gösterilir. Seviye ölçerin üç bölümü vardır: yeşil, sarı ve kırmızı. Yeşil bölge, -12 ile -6 dB arasında olan optimum seviyedir. Sarı bölge -6 ile -3 dB arasındadır ve kırmızı bölge, sesinizin kırpılacağı -3 dB'nin üzerindeki her şeydir. Mikrofonunuzun doğru konumlandırıldığından emin olmak için bu ölçeri kullanın. Ses seviyenizi ayarlamak için kullanın. Kayda basmadan önce seviyelerin kırpılmayacağını bilmek için sesinizin seviyesini izlemek için kullanın. Podcastçılar bölümler arası seviyeleri eşleştirmek için kullanır. Müzisyenler mikrofonlarının kazancını ayarlamak için kullanır. Uzaktan çalışanlar duyulduklarından ama çok yüksek olmadıklarından emin olmak için kullanır."
+      },
+      "frequencySpectrum": {
+        "title": "Frekans Spektrum Analizi",
+        "description": "Mikrofonunuzun frekans yanıtının gerçek zamanlı frekans spektrum analizi. Mikrofonunuzun hangi frekansları yakaladığını belirlemek için 32 bantlı spektrumu kullanın. Aşırı uğultu mu (20-250Hz)? Çamurlu orta tonlar mı (250Hz-2kHz)? Sert sibilans mı (6kHz-8kHz)? Bu, ses mühendisleri tarafından mikrofon ve odaları değerlendirmek, podcastçılar tarafından eşitlenmesi gereken sorunlu frekansları bulmak ve müzisyenler tarafından sesleri veya enstrümanları için hangi mikrofonun en iyi çalıştığını belirlemek için kullanılır. Gerçek zamanlı güncellemeler konumunuzu, yakınlığınızı ve çevrenizi analiz etmenize olanak tanır."
+      },
+      "sideBySide": {
+        "title": "İki mikrofonun yan yana karşılaştırması",
+        "description": "Aynı anda iki mikrofon kullanmak için yan yana karşılaştırma seçeneğini seçin. Bu, özellikle iki mikrofon takılıysa (örneğin dizüstü bilgisayarınızın dahili mikrofonu ve bir USB mikrofon) ve her birinin ses kalitesini, gürültü tabanını, frekans yanıtını ve hassasiyetini karşılaştırmak için yan yana görmek istiyorsanız kullanışlıdır. Bu, hangi mikrofonu satın alacağınızı seçmek, farklı mikrofon yerleşimlerini test etmek veya podcastiniz ya da yayınınız için hangi mikrofonu kullanacağınıza karar vermek için kullanışlıdır. Yeni bir mikrofon satın almanın değerli olduğunu kendime kanıtlamak için kullanıyorum, ses tasarımcıları stereo kayıt için başka bir mikrofonla eşleşme bulmak için kullanıyor ve bir şirketin BT departmanı mikrofonları şirket genelinde dağıtmadan önce test etmek için kullanabilir. Kullanmak için ön ayarlarda karşılaştırma ayarını seçin, ikinci bir mikrofon seçin ve her ikisi de gerçek zamanlı sonuçlarla yan yana gösterilecektir."
+      },
+      "snrMeasurement": {
+        "title": "Sinyal-Gürültü Oranı (SNR) Ölçümü",
+        "description": "Yeşil sayı mevcut SNR değerinizi gösterir. 60 dB profesyonel kayıt için önerilen minimum değerdir, 50-60 dB yayıncılık ve podcast için minimum değerdir ve 40-50 dB görüntülü sohbetler ve eğitimler için yeterlidir. İyi bir SNR, mikrofonunuzun yapmak istediğiniz şey için yeterince iyi olup olmadığını, odanızın çok gürültülü olup olmadığını veya akustik paneller eklemeniz gerekip gerekmediğini söyleyecektir. SNR, gürültü tabanı ve dinamik aralığı ölçerken göstermek için ekranın sağ üst köşesindeki \"Gelişmiş\" düğmesine tıklayın. Bu, yayınlarının yayın standartları dahilinde olduğundan emin olmak isteyen podcastçılar, ev stüdyo kurulumlarını değerlendirmek isteyen müzisyenler ve ses kalitesini önemseyen herkes için yararlı bir ölçümdür."
+      }
+    },
+    "audioLevels": {
+      "title": "Ses Seviyeleri Açıklaması",
+      "intro": "Yukarıdaki mikrofon testindeki ses seviyesi ölçer, mikrofon girişinizin ses seviyesinin görsel bir temsilini verir. Harika ses sunmak için her seviyenin ne anlama geldiğini bilmek önemlidir:",
+      "green": {
+        "title": "Yeşil Bölge (%0-%50)",
+        "description": "Çoğu durum için kabul edilebilir ses seviyeleri. Yüksek ve net duyulursunuz ve kırpmadan daha yüksek sesle konuşmak için bolca yeriniz var. Görüntülü görüşmeler ve diğer iletişimler için bu aralıkta kalmaya çalışın."
+      },
+      "yellow": {
+        "title": "Sarı Bölge (%50-%80)",
+        "description": ": Hâlâ kabul edilebilir olan yüksek ses seviyeleri. Güçlü, belirgin ses istediğiniz kayıtlar için iyidir. Ancak ani yüksek sesler kırpmaya neden olabilir."
+      },
+      "red": {
+        "title": "Kırmızı Bölge (%80-%100)",
+        "description": ": Bu tehlike bölgesidir, sesiniz muhtemelen bozulacaktır (kırpılacaktır). Sık sık kırmızı bölgedeyseniz, kontrol panelinde mikrofon ses seviyenizi düşürmeniz veya mikrofondan uzaklaşmanız gerekir."
+      },
+      "peak": {
+        "title": "Tepe Seviyesi:",
+        "description": "Oturumunuzda ulaşılan en yüksek seviye. Ortalama seviyeler normal olduğunda kırpmaya neden olan kısa yüksek sesli olaylar olup olmadığını kontrol etmek için kullanışlıdır."
+      },
+      "rms": {
+        "title": "RMS Seviyesi",
+        "description": "- Zaman içindeki ortalama ses. Algılanan ses yüksekliği söz konusu olduğunda tepe seviyesinden çok daha önemlidir. Tutarlı şekilde yüksek ama yine de hoş duyulan ses için RMS seviyelerinizin yeşil bölgede olmasını istersiniz."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Frekans Spektrum Analizi",
+      "intro": "Mikrofon testimiz, ses sinyalinin farklı frekanslar arasındaki dağılımını gösteren 32 bantlı bir frekans spektrum analizörü içerir. Bu, mikrofonunuzun frekans yanıtını analiz etmenize ve çeşitli sorunları teşhis etmenize olanak tanıyan profesyonel bir araçtır:",
+      "low": {
+        "title": "Düşük Frekanslar (20-250 Hz)",
+        "description": "Bunlar sesinize dolgunluk ve sıcaklık katan bas frekanslarıdır. Aşırı düşük frekans enerjisi kaydınızın çamurlu veya gümbürtülü duyulmasına neden olabilir. Bu genellikle mikrofona çok yakın durmanın sonucu olabilir. (Yakınlık etkisi.)"
+      },
+      "mid": {
+        "title": "Orta Frekanslar (250-4000 Hz)",
+        "description": "Sesinizin netliğinin çoğu burada yer alır. Bu aralık belirgin ve tanımlı olmalıdır. Bu aralık eksikse, sesiniz zayıf veya uzak duyulacaktır."
+      },
+      "high": {
+        "title": "Yüksek Frekanslar (4000-20000 Hz)",
+        "description": "Parlaklık ve netlik. Dengeli bir yüksek frekans, konuşmayı keskin ve anlaşılır bir şekilde yeniden üretir. Çok fazla yüksek frekans tiz veya sibilant (tzz sesi) duyulmasına neden olur."
+      },
+      "tip": "Konuşurken frekans ölçeri gözlemleyin. Frekansların eşit dağılımını gösteriyorsa, mikrofon iyi konumlanmış ve muhtemelen doğal bir ses yakalıyordur. Düşük uçta çok fazla aktivite gösteriyorsa, biraz geri adım atmanız gerekebilir."
+    },
+    "sampleRates": {
+      "title": "Örnekleme Hızı Ayarları",
+      "intro": "Örnekleme hızı, saniyede alınan ses örneklerinin sayısıdır. Örnekleme hızı ne kadar yüksek olursa, ses o kadar detaylı olur, ancak işleme ve kaydetme için daha fazla kaynak da gerektirir:",
+      "rates": {
+        "22khz": {
+          "title": "22,05 kHz",
+          "description": "Düşük kalite. Yalnızca ses için. Çok düşük bant genişliği kullanımı, ancak zayıf frekans yanıtı. Genellikle kaçınılmalıdır."
+        },
+        "44khz": {
+          "title": "44,1 kHz (CD Kalitesi)",
+          "description": "– Genel kullanım için uygundur. İnsan kulağının duyabildiği tüm frekansları (20 Hz – 20 kHz) kaydeder. Görüntülü konferans, podcast ve müzik için harikadır."
+        },
+        "48khz": {
+          "title": "48 kHz (Profesyonel Standart):",
+          "description": "44,1 kHz'e çok benzer ancak biraz daha yüksek kalitedir. Bu, video/film ve yayıncılık için standarttır. Sesi videoyla senkronize edecekseniz bunu kullanın."
+        }
+      },
+      "tip": "Genel olarak, çoğu mikrofon testi için 44,1 kHz yeterlidir. Ciddi bir ses profesyoneliyseniz ve en yüksek kaliteyi istiyorsanız (veya video görüntüleriyle eşleştirmeniz gerekiyorsa), 48 kHz kullanabilirsiniz."
+    },
+    "types": {
+      "title": "Mikrofon Türleri",
+      "builtIn": {
+        "title": "Dahili Dizüstü Mikrofonlar:",
+        "description": "Bunlar dizüstü bilgisayarınıza yerleşik mikrofonlardır. Kullanışlıdırlar, ancak daha düşük kaliteli olma eğilimindedirler. Klavye ve bilgisayar fanı seslerini duyabilirsiniz. Yine de kullanabilirsiniz, sadece dizüstü bilgisayarı mikrofonun size dönük olacak şekilde yerleştirin. Bir arkadaşınız veya aile üyenizle görüntülü sohbet için uygun, ancak muhtemelen onunla seslendirme kaydetmek istemezsiniz."
+      },
+      "usb": {
+        "title": "USB Mikrofonlar:",
+        "description": "İşte hem Mac hem de PC için en iyi USB mikrofon önerilerim. İyi bir USB mikrofon, bilgisayarınızın dahili mikrofonuna kıyasla büyük bir fark yaratacaktır. Blue Yeti ve Audio-Technica AT2020 USB, en popüler USB mikrofonlardan ikisidir ve harika duyulurlar. Podcast, Twitch yayını veya görüntülü görüşmeler için mükemmeldir."
+      },
+      "headset": {
+        "title": "Oyun kulaklıkları ve kulak içi kulaklıklar:",
+        "description": "Oyun için bir kulaklık veya kulak içi kulaklık istiyorsanız, bunları da bir seçenek olarak değerlendirebilirsiniz. Kullanımları daha pratiktir ve mikrofon konumu her seferinde aynı kalır. Elbette, kulaklık veya kulak içi kulaklık ne kadar iyi (ve pahalı) olursa, kalite de o kadar iyi olur. Bunlar oyun amaçlı ve ara sıra yapılan görüşmeler için harikadır."
+      },
+      "condenser": {
+        "title": "Kondenser Mikrofonlar",
+        "description": "Zengin, ayrıntılı ses yakalayan hassas mikrofonlar. Dikkatli konumlandırma ve akustik düzenleme gerektirir. Profesyonel kayıt, seslendirme ve müzik prodüksiyonu için en iyisidir."
+      },
+      "dynamic": {
+        "title": "Dinamik Mikrofonlar:",
+        "description": "Sağlam ve arka plan gürültüsünü reddetmede harikadır. Ev ortamlarına toleransları nedeniyle genellikle podcast ve yayın için kullanılır. Kondenserler kadar hassas değildir, ancak daha pratiktir."
+      },
+      "tip": "Mikrofon testimiz her türlü mikrofonla uyumludur. Birden fazla mikrofonu test etmek, yeni donanımı denemek veya sorunları çözmek için kullanabilirsiniz."
+    },
+    "bestPractices": {
+      "title": "Mikrofon Kayıt En İyi Uygulamaları",
+      "distance": {
+        "title": "Mesafe.",
+        "description": "Ağzınızdan 15-30 cm uzaklıkta. Daha yakın: Daha baslı duyulur (yakınlık etkisi) ve nefes sesini yakalar. Daha uzak: Daha ince ses ve oda gürültüsünü yakalar."
+      },
+      "popFilter": {
+        "title": "Bir Pop Filtre Edinin:",
+        "description": "Patlayıcı sesler (P, B, T) bozulmaya neden olan hava patlamaları oluşturur. Sizinle mikrofonunuz arasına bir pop filtre yerleştirdiğinizde bunlar kaybolacaktır. Podcast veya seslendirme yapacaksanız, bu olmazsa olmazdır."
+      },
+      "background": {
+        "title": "Arka plan gürültüsünü en aza indirin",
+        "description": "— Fanı kapatın, pencereyi kapatın, telefonunuzu sessiz moda alın. Kayıt yapacağınız ortamda mikrofon testini yapın. Farkında bile olmadığımız çok fazla gürültü var."
+      },
+      "acoustics": {
+        "title": "Oda Akustiğini Unutmayın",
+        "description": "Çok sayıda sert, düz yüzeyi olan bir alanda kayıt yapmak istemezsiniz — bu yankı ve reverb oluşturacaktır. Ses yansımalarını emen yumuşak yüzeyler istersiniz (perdeler, halı, akustik paneller). Hatta kıyafetlerle dolu bir dolapta bile kayıt yapabilirsiniz, bu büyük bir fark yaratabilir."
+      },
+      "positioning": {
+        "title": "Tutarlılık esastır!",
+        "description": "Mikrofonun bir noktada iyi duyulduğunu fark ederseniz, kayıt oturumunuz boyunca orada tutun. Mikrofonunuzun hiç hareket etmemesini istiyorsanız bir boom kolu veya mikrofon standına yatırım yapabilirsiniz. İyi sesi tekrar elde etmek için mikrofonunuzun nereye konulması gerektiğini göstermek için masanın üzerine bir daire bile çizebilirsiniz."
+      }
+    },
+    "troubleshooting": {
+      "title": "Mikrofon Sorunlarını Giderme",
+      "noAudio": {
+        "title": "Ses Algılanmıyor:",
+        "issues": [
+          "Tarayıcı ayarlarında mikrofon izinlerinin verildiğini doğrulayın",
+          "Açılır menüde doğru giriş cihazının seçili olduğunu kontrol edin",
+          "Mikrofonun donanım veya sistem ayarlarında sessize alınmadığından emin olun",
+          "USB mikrofonlar için farklı bir port deneyin",
+          "Mikrofonu kullanıyor olabilecek diğer uygulamaları kapatın"
+        ]
+      },
+      "quiet": {
+        "title": "Ses Çok Sessiz:",
+        "issues": [
+          "Sistem ayarlarında mikrofon giriş seviyesini artırın",
+          "Mikrofona daha yakına geçin",
+          "Mikrofonun üzerindeki kazanç kontrollerini kontrol edin",
+          "Mikrofonun yakalama desenine doğru konuştuğunuzdan emin olun"
+        ]
+      },
+      "distorted": {
+        "title": "Ses Bozuk veya Kırpılıyor:",
+        "issues": [
+          "Sistem ayarlarında mikrofon giriş seviyesini düşürün",
+          "Mikrofondan biraz uzaklaşın",
+          "Mikrofon üzerinde fiziksel engel veya kalıntı olup olmadığını kontrol edin"
+        ]
+      },
+      "echo": {
+        "title": "Yankı veya Reverb:",
+        "issues": [
+          "Hoparlörlerin mikrofona geri besleme yapmasını önlemek için kulaklık kullanın",
+          "Ses yansımalarını emmek için odanıza yumuşak malzemeler ekleyin",
+          "Doğrudan ses ile oda yansımaları oranını artırmak için mikrofona daha yaklaşın"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "İlgili Araçlar ve Kaynaklar",
+      "alsoTry": "Ayrıca Deneyin:",
+      "alsoTryLinks": [
+        "Web Kamerası ve Mikrofon Testi",
+        "Web Kamerası Testi",
+        "Kamera Testi",
+        "Video Kayıt Testi",
+        "Çevrimiçi Kamera Kontrolü"
+      ],
+      "onThisPage": "Bu Sayfada:",
+      "onThisPageLinks": [
+        "Mikrofonunuzu Nasıl Test Edersiniz",
+        "Ses Seviyesi Kılavuzu",
+        "Mikrofon Sorun Giderme",
+        "Mikrofon Çalışmıyor Çözümü",
+        "En İyi Mikrofon Ayarları"
+      ]
+    }
+  }
+}

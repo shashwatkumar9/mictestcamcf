@@ -1,0 +1,1186 @@
+{
+  "meta": {
+    "home": {
+      "title": "Prueba de Cámara Web y Micrófono Gratis Online | MicTestCam",
+      "description": "Pruebe su cámara web y micrófono al instante en línea. Herramienta gratuita para probar cámara y micrófono: 100% privada, sin descargas. Compruebe si sus dispositivos funcionan antes de las videollamadas."
+    },
+    "webcam": {
+      "title": "Prueba de Cámara Web - Herramienta Gratuita Online | Compruebe Su Webcam",
+      "description": "Herramienta gratuita para probar su cámara web: compruebe al instante si su cámara funciona. Pruebe la webcam con vista previa en vivo, filtros, ajustes de calidad y grabación. 100% privada, sin descargas."
+    },
+    "microphone": {
+      "title": "Prueba de Micrófono - Test de Micrófono Gratis Online | Compruebe Su Audio",
+      "description": "Prueba de micrófono gratis en línea: compruebe si su micrófono funciona. Analice niveles de audio, respuesta de frecuencia y calidad de grabación. Herramienta 100% privada, sin descargas."
+    },
+    "privacy": {
+      "title": "Política de Privacidad | MicTestCam",
+      "description": "Descubra cómo MicTestCam protege su privacidad. Todas las pruebas de cámara web y micrófono se realizan localmente en su navegador; nunca recopilamos ni almacenamos sus datos."
+    },
+    "terms": {
+      "title": "Términos de Servicio | MicTestCam",
+      "description": "Términos de Servicio de MicTestCam: herramienta gratuita en línea para probar cámara web y micrófono. Lea nuestros términos y condiciones de uso."
+    },
+    "contact": {
+      "title": "Contacto | MicTestCam",
+      "description": "Póngase en contacto con el equipo de MicTestCam. Contáctenos para soporte, comentarios o consultas comerciales sobre nuestras herramientas gratuitas de prueba de cámara web y micrófono."
+    },
+    "blog": {
+      "title": "Blog - Consejos sobre Cámara Web y Micrófono | MicTestCam",
+      "description": "Consejos de expertos, tutoriales y guías para pruebas de cámara web, configuración de micrófono y optimización de audio/vídeo. Aprenda a obtener la mejor calidad en sus videollamadas."
+    },
+    "reviews": {
+      "title": "Mejores Reseñas de Cámaras Web y Micrófonos | MicTestCam",
+      "description": "Reseñas detalladas, valoraciones y guías de compra de cámaras web, micrófonos, auriculares y equipos de audio/vídeo. Análisis experto para ayudarle a elegir el equipo perfecto para streaming y videollamadas."
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "webcamTest": "Prueba de Cámara",
+    "microphoneTest": "Prueba de Micrófono",
+    "reviews": "Reseñas",
+    "blog": "Blog",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "contact": "Contacto"
+  },
+  "privacy": {
+    "banner": "100% Privado - Nada sale de su navegador"
+  },
+  "home": {
+    "hero": {
+      "title": "Prueba de Cámara Web y Micrófono Gratis Online",
+      "subtitle": "Verifique al instante que su cámara y micrófono funcionan perfectamente antes de su próxima videollamada. Sin descargas, sin registros, completamente privado.",
+      "webcamCta": "Probar Su Cámara Web",
+      "microphoneCta": "Probar Su Micrófono"
+    },
+    "features": {
+      "title": "¿Por Qué Usar MicTestCam?",
+      "privacy": {
+        "title": "100% Privado",
+        "description": "Su audio y vídeo nunca salen de su navegador. No almacenamos, subimos ni procesamos ninguno de sus datos multimedia en nuestros servidores."
+      },
+      "simple": {
+        "title": "Simple con Un Clic",
+        "description": "Sin configuración complicada. Solo haga clic en un botón y vea su cámara web o escuche su micrófono al instante. Funciona en segundos."
+      },
+      "professional": {
+        "title": "Herramientas Profesionales",
+        "description": "Funciones avanzadas como análisis de espectro de frecuencia, filtros de vídeo, ajustes de calidad y capacidades de grabación local."
+      },
+      "universal": {
+        "title": "Funciona en Todas Partes",
+        "description": "Compatible con todos los navegadores y dispositivos modernos. Pruebe antes de usar Zoom, Teams, Meet, Discord o cualquier aplicación de videoconferencia."
+      }
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "step1": {
+        "title": "Haga Clic en Iniciar",
+        "description": "Elija la prueba de cámara web o micrófono y haga clic en el botón de inicio"
+      },
+      "step2": {
+        "title": "Permita el Acceso",
+        "description": "Conceda permiso al navegador para acceder a su cámara o micrófono"
+      },
+      "step3": {
+        "title": "Vea los Resultados",
+        "description": "Vea al instante su imagen de vídeo o los niveles de audio. Grabe clips si lo necesita"
+      }
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "q1": {
+        "question": "¿Es realmente privada esta prueba de cámara web?",
+        "answer": "Sí, absolutamente. Todo el procesamiento se realiza directamente en su navegador utilizando APIs web. Ningún dato de vídeo o audio se envía jamás a nuestros servidores ni a terceros. Puede verificarlo comprobando la pestaña de red de su navegador."
+      },
+      "q2": {
+        "question": "¿Necesito instalar algo?",
+        "answer": "No se requiere ninguna instalación. MicTestCam funciona completamente en su navegador web. Solo visite la página y haga clic en iniciar."
+      },
+      "q3": {
+        "question": "¿Qué navegadores son compatibles?",
+        "answer": "MicTestCam funciona en todos los navegadores modernos, incluyendo Chrome, Firefox, Safari, Edge y Opera en dispositivos de escritorio y móviles."
+      },
+      "q4": {
+        "question": "¿Puedo grabar vídeo o audio?",
+        "answer": "¡Sí! Puede grabar clips de vídeo en la página de prueba de cámara web y clips de audio en la página de prueba de micrófono. Todas las grabaciones se guardan localmente en su navegador y se pueden descargar."
+      },
+      "q5": {
+        "question": "¿Por qué no funciona mi cámara/micrófono?",
+        "answer": "Asegúrese de haber concedido permiso al navegador para acceder a su dispositivo. Compruebe que ninguna otra aplicación esté usando su cámara o micrófono. Intente actualizar la página o seleccionar un dispositivo diferente en el menú desplegable."
+      },
+      "q6": {
+        "question": "¿Es gratuito?",
+        "answer": "Sí, MicTestCam es completamente gratuito, sin limitaciones ni costes ocultos."
+      },
+      "q7": {
+        "question": "¿Puedo probar antes de una llamada de Zoom/Teams/Meet?",
+        "answer": "¡Por supuesto! MicTestCam es perfecto para pruebas previas a las llamadas. Simplemente pruebe sus dispositivos aquí y únase a su videoconferencia con confianza."
+      },
+      "q8": {
+        "question": "¿Cómo selecciono una cámara o micrófono diferente?",
+        "answer": "Use el menú desplegable de dispositivos en la página de prueba para cambiar entre cámaras o micrófonos conectados."
+      },
+      "q9": {
+        "question": "¿Dónde se guardan mis grabaciones?",
+        "answer": "Las grabaciones se guardan localmente en el almacenamiento de su navegador. Permanecen incluso después de cerrar el navegador y se pueden descargar o eliminar en cualquier momento."
+      },
+      "q10": {
+        "question": "¿Funciona en teléfonos móviles?",
+        "answer": "Sí, MicTestCam funciona en dispositivos móviles con navegadores modernos. Puede probar tanto la cámara frontal como la trasera de su teléfono."
+      }
+    },
+    "trust": {
+      "tests": "Más de 50.000 pruebas diarias",
+      "apps": "Compatible con Zoom, Teams, Meet",
+      "browsers": "Compatible con todos los navegadores modernos"
+    }
+  },
+  "webcam": {
+    "title": "Prueba de Cámara Web - Herramienta Gratuita Online",
+    "subtitle": "Pruebe su cámara al instante. Vea su vídeo, ajuste la calidad, aplique filtros y grabe clips.",
+    "startButton": "Iniciar Cámara y Grabar",
+    "stopButton": "Detener y Guardar Grabación",
+    "snapshotButton": "Tomar Captura",
+    "permissionMessage": "Haga clic en el botón de arriba para iniciar la prueba de cámara web",
+    "recording": "Grabando",
+    "deviceLabel": "Cámara",
+    "qualityLabel": "Calidad",
+    "filterLabel": "Filtro",
+    "filters": {
+      "normal": "Normal",
+      "grayscale": "Escala de Grises",
+      "sepia": "Sepia",
+      "invert": "Invertir",
+      "blur": "Desenfoque",
+      "brightness": "Brillo",
+      "contrast": "Contraste",
+      "hueRotate": "Rotación de Tono",
+      "saturate": "Saturación"
+    },
+    "savedRecordings": {
+      "title": "Grabaciones Guardadas",
+      "clearAll": "Borrar Todo",
+      "noRecordings": "Aún no hay grabaciones. Comience a grabar para guardar clips de vídeo.",
+      "play": "Reproducir",
+      "download": "Descargar",
+      "delete": "Eliminar"
+    },
+    "testCamera": "Probar Cámara",
+    "stopCamera": "Detener Cámara",
+    "record": "Grabar",
+    "stopRecording": "Detener Grabación",
+    "showAdvanced": "Mostrar Avanzado",
+    "hideAdvanced": "Ocultar Avanzado",
+    "mirrorMode": "Modo Espejo",
+    "flipHorizontally": "Voltear horizontalmente",
+    "digitalZoom": "Zoom Digital",
+    "brightness": "Brillo",
+    "contrast": "Contraste",
+    "dark": "Oscuro",
+    "normal": "Normal",
+    "bright": "Brillante",
+    "low": "Bajo",
+    "high": "Alto",
+    "cameraComparison": "Comparación de Cámaras",
+    "compareSideBySide": "Comparar lado a lado",
+    "requires2Cameras": "(requiere 2 o más cámaras)",
+    "secondCamera": "Segunda Cámara",
+    "fineTuneWhileRecording": "Ajuste Fino Durante la Grabación",
+    "camera1": "Cámara 1",
+    "camera2": "Cámara 2",
+    "motion": "Movimiento",
+    "advanced": {
+      "title": "Controles Avanzados de Cámara",
+      "exposure": "Exposición",
+      "focus": "Enfoque",
+      "whiteBalance": "Balance de Blancos",
+      "image": "Imagen",
+      "ptz": "PTZ",
+      "mode": "Modo",
+      "exposureTime": "Tiempo de Exposición",
+      "distance": "Distancia",
+      "temperature": "Temperatura",
+      "sharpness": "Nitidez",
+      "zoom": "Zoom",
+      "pan": "Panorámica",
+      "tilt": "Inclinación",
+      "saturation": "Saturación",
+      "noAdvancedControls": "Su cámara no admite controles de hardware avanzados"
+    },
+    "backgroundBlur": {
+      "title": "Desenfoque de Fondo",
+      "blurStrength": "Intensidad del Desenfoque",
+      "skinToneNote": "Utilizando detección ligera de tono de piel. Para mejores resultados, asegure una buena iluminación."
+    },
+    "faceDetection": {
+      "facesDetected": "Detectados",
+      "face": "Rostro"
+    },
+    "framing": {
+      "grid": "Cuadrícula",
+      "faceGuide": "Guía de Rostro",
+      "moveRight": "Muévase a la derecha",
+      "moveLeft": "Muévase a la izquierda",
+      "moveDown": "Muévase hacia abajo",
+      "moveUp": "Muévase hacia arriba",
+      "moveCloser": "Acérquese",
+      "moveBack": "Aléjese",
+      "greatFraming": "¡Excelente encuadre!",
+      "noFaceDetected": "No se detectó ningún rostro"
+    },
+    "histogram": {
+      "videoAnalysis": "Análisis de Vídeo",
+      "histogram": "Histograma",
+      "waveform": "Forma de Onda",
+      "shadows": "Sombras",
+      "midtones": "Tonos Medios",
+      "highlights": "Luces"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Resolución",
+      "bitrate": "Tasa de Bits",
+      "lighting": "Iluminación",
+      "dropped": "Perdidos",
+      "tooDark": "Muy Oscuro",
+      "lowLight": "Poca Luz",
+      "overexposed": "Sobreexpuesto",
+      "good": "Bueno",
+      "hideMetrics": "Ocultar métricas"
+    }
+  },
+  "microphone": {
+    "title": "Prueba de Micrófono - Herramienta Gratuita Online",
+    "subtitle": "Pruebe su micrófono con medidor de nivel de audio en tiempo real y analizador de espectro de frecuencia.",
+    "startButton": "Iniciar Micrófono y Grabar",
+    "stopButton": "Detener y Guardar Grabación",
+    "permissionMessage": "Haga clic en el botón de arriba para iniciar la prueba de micrófono",
+    "recording": "Grabando",
+    "deviceLabel": "Micrófono",
+    "sampleRateLabel": "Frecuencia de Muestreo",
+    "channelLabel": "Canales",
+    "mono": "Mono",
+    "stereo": "Estéreo",
+    "levelMeter": "Nivel de Audio",
+    "frequencySpectrum": "Espectro de Frecuencia",
+    "savedRecordings": {
+      "title": "Grabaciones Guardadas",
+      "clearAll": "Borrar Todo",
+      "noRecordings": "Aún no hay grabaciones. Comience a grabar para guardar clips de audio.",
+      "play": "Reproducir",
+      "download": "Descargar",
+      "delete": "Eliminar"
+    },
+    "testMicrophone": "Probar Micrófono",
+    "stopMicrophone": "Detener Micrófono",
+    "record": "Grabar",
+    "stopRecording": "Detener Grabación",
+    "showAdvanced": "Mostrar Avanzado",
+    "hideAdvanced": "Ocultar Avanzado",
+    "inputGain": "Ganancia de Entrada",
+    "noiseSuppression": "Supresión de Ruido",
+    "enableNoiseReduction": "Activar reducción de ruido",
+    "echoCancellation": "Cancelación de Eco",
+    "reduceEchoFeedback": "Reducir retroalimentación de eco",
+    "autoGainControl": "Control Automático de Ganancia",
+    "autoAdjustVolume": "Ajustar volumen automáticamente",
+    "microphoneComparison": "Comparación de Micrófonos",
+    "compareSideBySide": "Comparar lado a lado",
+    "requires2Mics": "(requiere 2 o más micrófonos)",
+    "secondMicrophone": "Segundo Micrófono",
+    "fineTuneWhileTesting": "Ajuste Fino Durante la Prueba",
+    "boost": "Amplificar",
+    "normal": "Normal",
+    "low": "Bajo",
+    "advanced": {
+      "title": "Análisis de Audio Avanzado",
+      "metrics": "Métricas",
+      "spectrogram": "Espectrograma",
+      "signalToNoiseRatio": "Relación Señal-Ruido",
+      "excellent": "Excelente",
+      "good": "Bueno",
+      "fair": "Aceptable",
+      "poor": "Deficiente",
+      "rms": "RMS (dB)",
+      "peak": "Pico (dB)",
+      "noiseFloor": "Nivel de Ruido",
+      "dominantFrequency": "Frecuencia Dominante",
+      "detectedIssues": "Problemas Detectados",
+      "detectedAt": "detectado a las",
+      "time": "Tiempo",
+      "frequencyLowHigh": "Frecuencia (Baja → Alta)"
+    },
+    "processing": {
+      "title": "Procesamiento de Audio",
+      "noiseSuppression": "Supresión de Ruido",
+      "reduceBackgroundNoise": "Reducir ruido de fondo",
+      "echoCancellation": "Cancelación de Eco",
+      "removeAudioFeedback": "Eliminar retroalimentación de audio",
+      "autoGainControl": "Control Automático de Ganancia",
+      "normalizeVolumeLevels": "Normalizar niveles de volumen",
+      "directMonitoring": "Monitoreo Directo",
+      "listenToYourMic": "Escuche su micrófono",
+      "monitorVolume": "Volumen de Monitoreo",
+      "useHeadphones": "¡Use auriculares para evitar retroalimentación!"
+    },
+    "comparison": {
+      "title": "Comparación A/B de Micrófonos",
+      "microphoneA": "Micrófono A",
+      "microphoneB": "Micrófono B",
+      "selectMicrophone": "Seleccionar micrófono...",
+      "startComparison": "Iniciar Comparación",
+      "selectTwoDifferent": "Seleccione dos micrófonos diferentes",
+      "active": "Activo",
+      "switchTo": "Cambiar a",
+      "rmsLevel": "Nivel RMS",
+      "peakLevel": "Nivel de Pico",
+      "snr": "SNR (dB)",
+      "stopComparison": "Detener Comparación",
+      "micA": "Mic A",
+      "micB": "Mic B"
+    }
+  },
+  "privacyPage": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización",
+    "intro": "En MicTestCam, nos tomamos su privacidad muy en serio. Esta Política de Privacidad explica cómo gestionamos su información cuando utiliza nuestros servicios de prueba de cámara web y micrófono.",
+    "sections": {
+      "noCollection": {
+        "title": "No recopilamos sus datos",
+        "content": "MicTestCam está diseñado con la privacidad como principio fundamental. No recopilamos, almacenamos ni transmitimos ningún dato de audio o vídeo de sus pruebas de cámara web o micrófono. Todo el procesamiento se realiza íntegramente en su navegador web mediante las API locales de JavaScript."
+      },
+      "localStorage": {
+        "title": "Almacenamiento local",
+        "content": "Cuando graba clips de vídeo o audio, estos se almacenan localmente en el almacenamiento IndexedDB de su navegador. Estos datos nunca salen de su dispositivo y no son accesibles para nosotros ni para terceros. Puede eliminar estas grabaciones en cualquier momento a través de la interfaz de la aplicación o borrando los datos de su navegador."
+      },
+      "cookies": {
+        "title": "Cookies y analíticas",
+        "content": "Utilizamos un número mínimo de cookies únicamente para la funcionalidad esencial del sitio web, como las preferencias de idioma. Podemos utilizar analíticas respetuosas con la privacidad para comprender los patrones generales de uso, pero no rastreamos a usuarios individuales ni recopilamos información personal."
+      },
+      "thirdParty": {
+        "title": "Servicios de terceros",
+        "content": "Nuestro sitio web puede incluir enlaces a sitios web de terceros. No somos responsables de las prácticas de privacidad de estos sitios externos. Le recomendamos revisar sus políticas de privacidad antes de proporcionar cualquier información personal."
+      },
+      "security": {
+        "title": "Seguridad",
+        "content": "Utilizamos cifrado HTTPS para proteger todas las comunicaciones entre su navegador y nuestro sitio web. Dado que no recopilamos sus datos multimedia, no existe riesgo de que sus grabaciones de cámara web o micrófono se vean expuestas por una filtración de datos."
+      },
+      "children": {
+        "title": "Privacidad de los menores",
+        "content": "MicTestCam no está destinado a menores de 13 años. No recopilamos información de menores de forma intencionada."
+      },
+      "changes": {
+        "title": "Cambios en esta política",
+        "content": "Podemos actualizar esta Política de Privacidad de vez en cuando. Le notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página y actualizando la fecha de «Última actualización»."
+      },
+      "contact": {
+        "title": "Contáctenos",
+        "content": "Si tiene alguna pregunta sobre esta Política de Privacidad, póngase en contacto con nosotros a través de nuestra página de contacto."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización",
+    "intro": "Bienvenido a MicTestCam. Al acceder o utilizar nuestro sitio web y servicios, usted acepta quedar vinculado por estos Términos de Servicio.",
+    "sections": {
+      "acceptance": {
+        "title": "Aceptación de los términos",
+        "content": "Al utilizar MicTestCam, usted acepta estos Términos de Servicio y nuestra Política de Privacidad. Si no está de acuerdo con alguna parte de estos términos, no podrá utilizar nuestros servicios."
+      },
+      "description": {
+        "title": "Descripción del servicio",
+        "content": "MicTestCam ofrece herramientas gratuitas en línea para probar cámaras web y micrófonos. Nuestro servicio le permite verificar que su cámara y micrófono funcionan correctamente antes de videollamadas, grabaciones o sesiones de transmisión en directo."
+      },
+      "usage": {
+        "title": "Uso aceptable",
+        "content": "Usted se compromete a utilizar MicTestCam únicamente con fines lícitos y de acuerdo con estos Términos. Se compromete a no: utilizar el servicio para ninguna actividad ilegal, intentar interferir con el funcionamiento correcto del sitio web, intentar acceder a áreas del sitio web que no están destinadas al acceso público, ni utilizar sistemas automatizados para acceder al servicio sin permiso."
+      },
+      "privacy": {
+        "title": "Privacidad y datos",
+        "content": "Todas las pruebas de cámara web y micrófono se realizan localmente en su navegador. No recopilamos, almacenamos ni tenemos acceso a sus datos de audio o vídeo. Para más información, consulte nuestra Política de Privacidad."
+      },
+      "intellectual": {
+        "title": "Propiedad intelectual",
+        "content": "El sitio web de MicTestCam, incluyendo su diseño, código y contenido, está protegido por derechos de autor y otras leyes de propiedad intelectual. No puede copiar, modificar, distribuir ni reproducir ninguna parte del sitio web sin nuestro consentimiento previo por escrito."
+      },
+      "disclaimer": {
+        "title": "Exención de garantías",
+        "content": "MicTestCam se proporciona «tal cual» sin garantías de ningún tipo, ya sean expresas o implícitas. No garantizamos que el servicio sea ininterrumpido, esté libre de errores o cumpla con sus requisitos específicos. No somos responsables de ningún problema de hardware o software en sus dispositivos."
+      },
+      "limitation": {
+        "title": "Limitación de responsabilidad",
+        "content": "En la máxima medida permitida por la ley, MicTestCam no será responsable de ningún daño indirecto, incidental, especial, consecuente o punitivo derivado de su uso del servicio."
+      },
+      "changes": {
+        "title": "Cambios en los términos",
+        "content": "Nos reservamos el derecho de modificar estos Términos de Servicio en cualquier momento. Los cambios entrarán en vigor inmediatamente tras su publicación en el sitio web. El uso continuado del servicio después de la publicación de los cambios constituye su aceptación de los términos modificados."
+      },
+      "governing": {
+        "title": "Legislación aplicable",
+        "content": "Estos Términos de Servicio se regirán e interpretarán de acuerdo con la legislación aplicable, sin tener en cuenta los principios de conflicto de leyes."
+      },
+      "contact": {
+        "title": "Contacto",
+        "content": "Si tiene alguna pregunta sobre estos Términos de Servicio, póngase en contacto con nosotros a través de nuestra página de contacto."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Contáctenos",
+    "subtitle": "¿Tiene preguntas o comentarios? Nos encantaría saber de usted.",
+    "form": {
+      "name": "Su nombre",
+      "namePlaceholder": "Introduzca su nombre",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "Introduzca su correo electrónico",
+      "subject": "Asunto",
+      "subjectPlaceholder": "¿De qué se trata?",
+      "message": "Mensaje",
+      "messagePlaceholder": "Escriba su mensaje aquí...",
+      "submit": "Enviar mensaje",
+      "sending": "Enviando...",
+      "success": "¡Gracias! Su mensaje ha sido enviado con éxito.",
+      "error": "Lo sentimos, hubo un error al enviar su mensaje. Por favor, inténtelo de nuevo."
+    },
+    "info": {
+      "title": "Otras formas de contactarnos",
+      "email": "Correo electrónico",
+      "response": "Normalmente respondemos en un plazo de 24 a 48 horas.",
+      "social": "Síganos"
+    },
+    "faq": {
+      "title": "Antes de contactarnos",
+      "subtitle": "Puede que encuentre su respuesta en nuestra sección de preguntas frecuentes en la página de inicio."
+    }
+  },
+  "blogPage": {
+    "title": "Blog de pruebas de cámara web y micrófono - Consejos, guías y tutoriales",
+    "subtitle": "Consejos de expertos, tutoriales y artículos sobre pruebas de cámara web, configuración de micrófono y optimización de audio/vídeo para videollamadas, transmisiones en directo y creación de contenido.",
+    "noPosts": "Aún no hay publicaciones",
+    "noPostsDescription": "¡Vuelva pronto para ver nuevo contenido!",
+    "readMore": "Leer más",
+    "by": "por",
+    "minRead": "min de lectura",
+    "categories": {
+      "all": "Todas las publicaciones",
+      "webcam": "Consejos de cámara web",
+      "microphone": "Consejos de micrófono",
+      "tutorials": "Tutoriales",
+      "troubleshooting": "Solución de problemas"
+    },
+    "search": "Buscar artículos...",
+    "featured": "Destacado",
+    "latest": "Últimos artículos",
+    "relatedPosts": "Publicaciones relacionadas"
+  },
+  "reviewsPage": {
+    "title": "Mejores análisis de cámaras web y micrófonos - Análisis experto de productos",
+    "subtitle": "Análisis detallados, valoraciones y guías de compra de cámaras web, micrófonos, auriculares y equipos de audio/vídeo. Encuentre el equipo perfecto para transmisiones en directo, videollamadas y creación de contenido.",
+    "noReviews": "Aún no hay análisis disponibles",
+    "noReviewsDescription": "¡Vuelva pronto para ver análisis de productos realizados por expertos!",
+    "by": "por",
+    "readMore": "Leer análisis"
+  },
+  "footer": {
+    "tagline": "Pruebe su cámara web y micrófono en línea de forma gratuita",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Todos los derechos reservados.",
+    "language": "Idioma"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "download": "Descargar",
+    "share": "Compartir",
+    "copy": "Copiar",
+    "copied": "¡Copiado!",
+    "readMore": "Leer más",
+    "learnMore": "Más información",
+    "getStarted": "Comenzar"
+  },
+  "cta": {
+    "title": "¿Listo para probar sus dispositivos?",
+    "subtitle": "Comience a probar su cámara web y micrófono ahora mismo. Sin descargas, sin registros.",
+    "webcamButton": "Probar cámara web",
+    "microphoneButton": "Probar micrófono"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam ofrece pruebas instantáneas y gratuitas en línea para cámaras web y micrófonos directamente en tu navegador. No se requieren descargas. Comprueba la calidad de tu cámara, los niveles de tu micrófono y la claridad del audio en menos de 30 segundos antes de cualquier videollamada o sesión de grabación.",
+      "p1": "¡Hola y bienvenido a MicTestCam! MicTestCam ofrece la forma más fácil de <strong>probar tu cámara web y micrófono en línea</strong>, ya sea que quieras comprobar tu webcam para una videoconferencia, una reunión, una presentación, grabar locuciones para tus vídeos y canal de YouTube, o realizar una <strong>prueba de micrófono</strong> detallada para tu pódcast.",
+      "p2": "Las herramientas de prueba de cámara y micrófono de MicTestCam funcionan completamente dentro del navegador y no requieren ninguna descarga. La privacidad del usuario es la prioridad más importante para MicTestCam. Todas las pruebas se realizan en tu navegador y tu información de vídeo y audio nunca sale de tu ordenador. Con más de 50.000 pruebas diarias y una tasa de éxito del 99,9%, MicTestCam es la plataforma más popular para profesionales, empleados remotos, creadores de contenido y usuarios habituales que desean probar sus dispositivos.",
+      "p3": "Pulsa los botones de abajo para <strong>probar la webcam</strong> o <strong>probar el micrófono</strong>. MicTestCam tarda solo unos segundos en verificar si tu cámara y micrófono funcionan correctamente antes de una videollamada en Zoom, Microsoft Teams, Google Meet, Discord, Skype u otra plataforma.",
+      "keyTakeaways": {
+        "title": "Puntos clave",
+        "points": [
+          "Prueba instantánea y gratuita de cámara web y micrófono, sin necesidad de instalar software",
+          "Pruebas 100% basadas en el navegador que garantizan total privacidad y seguridad de datos",
+          "Retroalimentación en tiempo real sobre calidad de vídeo, niveles de audio y respuesta en frecuencia",
+          "Compatible con Zoom, Teams, Meet, Discord y todas las plataformas de vídeo",
+          "Más de 50.000 pruebas diarias con una tasa de precisión del 99,9%"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "¿Por qué deberías probar tu cámara web y micrófono antes de las videollamadas?",
+      "directAnswer": "Probar tu cámara web y micrófono antes de las videollamadas previene fallos técnicos embarazosos, ahorra tiempo en las reuniones y asegura una calidad de comunicación profesional. Una prueba previa a la llamada identifica problemas con los ángulos de cámara, la iluminación, los niveles de audio y el ruido de fondo antes de que tu audiencia los perciba.",
+      "p1": "El trabajo remoto y la comunicación virtual son ahora prácticas empresariales estándar. Poder comunicarse con claridad a través de vídeo y audio es crucial para el éxito profesional. Las interrupciones técnicas durante las reuniones dañan la credibilidad y desperdician tiempo. Tener que repetir constantemente \"¿Me veis ahora? ¿Y ahora?\" socava la reputación profesional y retrasa discusiones importantes.",
+      "p2": "Realizar una prueba rápida de vídeo antes de las reuniones previene errores técnicos. Hacer una prueba rápida de audio antes de llamadas importantes garantiza que tu audio sea claro, sin ruido de fondo, eco ni distorsión. Profesionales de ventas, ejecutivos, profesores y creadores de contenido comprenden la importancia de un rendimiento fiable de la cámara web y el micrófono.",
+      "p3": "A diferencia de otras herramientas de prueba de cámara web y micrófono, MicTestCam no solo verifica si tu cámara web o micrófono están funcionando, sino que también proporciona información detallada sobre la calidad del vídeo y las características del audio. MicTestCam ayuda a los usuarios a encontrar y solucionar problemas técnicos antes de que comiencen las videollamadas.",
+      "comparison": {
+        "title": "MicTestCam vs. Pruebas integradas de las plataformas de vídeo",
+        "points": [
+          "<strong>MicTestCam:</strong> Proporciona análisis detallado de frecuencias de audio, formas de onda en tiempo real y métricas profesionales",
+          "<strong>Pruebas de plataformas:</strong> Solo muestran funcionalidad básica de sí/no sin detalles de calidad",
+          "<strong>MicTestCam:</strong> Las pruebas funcionan en todas las plataformas: Zoom, Teams, Meet, Discord simultáneamente",
+          "<strong>Pruebas de plataformas:</strong> Solo verifican la funcionalidad dentro de esa plataforma específica",
+          "<strong>MicTestCam:</strong> Ofrece reproducción de grabaciones para escuchar exactamente lo que otros escucharán",
+          "<strong>Pruebas de plataformas:</strong> Sin función de reproducción para verificación de calidad"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "¿Cómo funciona el probador de cámara y micrófono de MicTestCam?",
+      "directAnswer": "MicTestCam utiliza tecnología WebRTC para acceder a tu cámara web y micrófono directamente a través de tu navegador. Las pruebas se realizan completamente en tu dispositivo utilizando los mismos protocolos que usan Zoom, Teams y Meet, garantizando pruebas de rendimiento precisas en condiciones reales sin subir ningún dato a los servidores.",
+      "p1": "El probador de cámara y micrófono de MicTestCam utiliza protocolos WebRTC, los mismos protocolos en los que se basan los servicios populares de videoconferencia basados en web. Cuando <strong>pruebas tu cámara web</strong> usando MicTestCam, la plataforma accede a tu cámara web a través de la API web del navegador y presenta la señal de vídeo en tiempo real en la pantalla. Los usuarios pueden verificar si la cámara web funciona, comprobar si la iluminación es adecuada, confirmar que el ángulo de cámara es correcto y evaluar la calidad general del vídeo.",
+      "p2": "La herramienta de <strong>prueba de micrófono</strong> de MicTestCam proporciona retroalimentación inmediata sobre los niveles de volumen de la voz. Cuando los usuarios hablan al micrófono, los medidores de audio reflejan los niveles de voz en tiempo real para ayudar a determinar si el micrófono está capturando el sonido correctamente. El analizador de espectro de frecuencias de 32 bandas muestra cómo se distribuye el sonido a través de las frecuencias, una característica particularmente valiosa para podcasters y músicos que prueban micrófonos para grabación profesional.",
+      "p3": "Ambas herramientas de MicTestCam ofrecen capacidad de grabación automática. Los usuarios pueden iniciar una prueba y MicTestCam grabará automáticamente la señal de la cámara y el audio, permitiendo la reproducción para evaluar la calidad tal como la experimentaría la audiencia. Toda la grabación se realiza localmente en el navegador. MicTestCam no sube ni almacena ningún dato del usuario en servidores externos, garantizando total privacidad.",
+      "technicalSpecs": {
+        "title": "Especificaciones técnicas",
+        "specs": [
+          "<strong>Protocolo:</strong> WebRTC (Web Real-Time Communication) - Estándar de la industria utilizado por Zoom, Microsoft Teams, Google Meet",
+          "<strong>Análisis de audio:</strong> Analizador de espectro de frecuencias de 32 bandas (rango de 20Hz - 20kHz)",
+          "<strong>Resolución de vídeo:</strong> Admite pruebas desde 240p hasta 8K (7680×4320) según la capacidad de la cámara",
+          "<strong>Velocidad de fotogramas:</strong> Monitoreo en tiempo real a 15fps, 30fps y 60fps",
+          "<strong>Privacidad:</strong> Procesamiento 100% del lado del cliente - cero transmisión de datos a los servidores de MicTestCam",
+          "<strong>Compatibilidad:</strong> Funciona en Chrome, Firefox, Safari, Edge - todos los navegadores principales"
+        ]
+      }
+    },
+    "features": {
+      "title": "Lista completa de características de las pruebas",
+      "webcamTitle": "Prueba de cámara web",
+      "webcamFeatures": [
+        "Vista previa en directo de tu cámara con opciones de resolución desde 240p hasta 1080p.",
+        "Detección de múltiples dispositivos de cámara como cámaras USB, cámaras web y cámaras externas.",
+        "Más de 9 filtros y efectos diferentes para probar la webcam y sus balances de color.",
+        "Fotogramas por segundo para monitorizar la cámara.",
+        "Posibilidad de capturar una instantánea.",
+        "Grabación automática de vídeo desde la webcam en formato WebM y MP4.",
+        "Grabaciones guardadas en el almacenamiento local."
+      ],
+      "microphoneTitle": "Prueba de micrófono",
+      "microphoneFeatures": [
+        "Medidor de nivel de audio y medidor de picos en tiempo real.",
+        "Analizador de espectro de frecuencias en tiempo real de 32 bandas.",
+        "Detección de múltiples dispositivos de micrófono como micrófonos USB, micrófonos de auriculares, etc.",
+        "Posibilidad de configurar tasas de muestreo de hasta 48 kHz con calidad de estudio.",
+        "Configuración para grabar audio en mono o estéreo.",
+        "Medidor de nivel de picos y RMS para audio.",
+        "Grabación automática de audio con opción de reproducción."
+      ]
+    },
+    "whoUses": {
+      "title": "Quiénes usan nuestra prueba de cámara web y prueba de micrófono",
+      "remoteWorkers": {
+        "title": "Trabajadores remotos y profesionales",
+        "description": "Un trabajador remoto o un profesional realiza una prueba rápida antes de sus videoconferencias y reuniones en Zoom, Google Meet o Microsoft Teams para ver si su cámara web funciona correctamente, y luego realiza una <strong>prueba de micrófono</strong> rápida para asegurarse de que se les escucha bien, evitando tener que repetirse o ser interrumpidos con un \"¡No te oímos!\""
+      },
+      "contentCreators": {
+        "title": "YouTubers, streamers de Twitch, podcasters y otros creadores de contenido",
+        "description": "Para YouTubers, streamers de Twitch, podcasters y otros creadores de contenido, nuestra herramienta avanzada de diagnóstico de audio y vídeo es imprescindible. Utiliza el analizador de espectro de frecuencias para resolver problemas de audio y ejecuta pruebas de calidad de vídeo para asegurarte de que estás ofreciendo contenido de alta calidad."
+      },
+      "students": {
+        "title": "Estudiantes y profesores",
+        "description": "Los estudiantes necesitan asegurarse de que pueden comunicarse por Internet. Realizan pruebas antes de sus clases para confirmar que su equipo funciona correctamente. Los profesores también comprueban que su equipo está en buen estado para impartir sus clases con éxito."
+      },
+      "jobSeekers": {
+        "title": "Personas en búsqueda de empleo",
+        "description": "Si vas a realizar entrevistas por vídeo, asegúrate de hacer una <strong>prueba de cámara</strong> y una <strong>prueba de micrófono</strong> antes de comenzar. Esto marca una gran diferencia y demostrará que estás preparado. (No hay nada peor que perder una oportunidad por un fallo técnico.)"
+      },
+      "gamers": {
+        "title": "Gamers:",
+        "description": "¿Usas unos auriculares gaming? Obtén los resultados precisos que necesitas para probar tu micrófono para Discord, chat en el juego o streaming."
+      },
+      "techSupport": {
+        "title": "Soporte técnico",
+        "description": "Si tienes problemas con tu cámara o micrófono, nuestras herramientas pueden ayudar a determinar si el problema está en tu hardware, controladores o configuración de software."
+      }
+    },
+    "privacy": {
+      "title": "Privacidad 100% garantizada",
+      "intro": "La privacidad está en el centro de todo lo que hacemos en nuestras herramientas de <strong>prueba de cámara web</strong> y <strong>prueba de micrófono</strong>. Somos conscientes de que al acceder a tu cámara y micrófono, estás compartiendo información privada con nosotros. Por eso toda nuestra plataforma está diseñada con una política de confianza cero.",
+      "localProcessing": {
+        "title": "Todo el procesamiento se realiza en tu equipo local",
+        "description": "El procesamiento de vídeo y audio se realiza utilizando las APIs de WebRTC en tu navegador. No almacenamos tus datos en nuestros servidores porque ni siquiera los recibimos."
+      },
+      "noAccount": {
+        "title": "No se requiere cuenta",
+        "description": "No tienes que crear una cuenta, introducir una dirección de correo electrónico ni compartir ningún dato personal. Simplemente accede al sitio, permite el acceso en tu navegador, prueba tus dispositivos y listo."
+      },
+      "transparent": {
+        "title": "Código transparente",
+        "description": "No ofuscamos nuestro código. Puedes verlo en tu navegador usando las herramientas de desarrollo. Sin rastreo, sin recopilación de datos, sin analíticas que recopilen tus datos privados."
+      },
+      "cleanup": {
+        "title": "Eliminación automática:",
+        "description": "Todas las grabaciones se almacenan en el almacenamiento local del navegador. Se eliminarán automáticamente cuando cierres el navegador o borres el almacenamiento local. Tienes control total sobre lo que se almacena y durante cuánto tiempo."
+      }
+    },
+    "compatibility": {
+      "title": "Compatibilidad entre navegadores y dispositivos",
+      "intro": "Nuestras pruebas de cámara web y micrófono son compatibles con los navegadores y dispositivos actualizados más populares. Ambas herramientas están disponibles en Windows, Mac OS, Linux, iOS, Android o cualquier otro sistema operativo que admita un navegador moderno, sin requerir descargas ni instalaciones adicionales.",
+      "browsersTitle": "Navegadores compatibles",
+      "browsers": [
+        "Google Chrome (mejor rendimiento)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (en MacOS e iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Dispositivos compatibles",
+      "devices": [
+        "Cámaras web integradas o externas USB en ordenadores de escritorio y portátiles",
+        "Teléfonos inteligentes y tabletas con cámaras frontal y trasera",
+        "Cámaras USB externas y cámaras web para PC",
+        "Micrófonos integrados de portátiles",
+        "Micrófonos USB externos",
+        "Auriculares gaming con micrófono",
+        "Interfaces de audio profesionales y micrófonos de condensador"
+      ]
+    },
+    "troubleshooting": {
+      "title": "¿Necesitas ayuda?",
+      "intro": "¿No consigues que la <strong>prueba de cámara web</strong> o la <strong>prueba de micrófono</strong> funcione? Prueba una de estas soluciones.",
+      "cameraTitle": "Cámara no detectada o no funciona",
+      "cameraIssues": [
+        "Asegúrate de haber permitido el acceso a la cámara en tu navegador. En la barra de direcciones verás un icono de cámara que puedes usar para habilitar el acceso a la cámara.",
+        "Estás usando la cámara en otra aplicación (Zoom, Teams, Skype, etc.). Solo puedes usar la cámara en una aplicación a la vez. Cierra la otra aplicación o actualiza la página y permite el acceso de nuevo.",
+        "Actualiza la página y permite el acceso de nuevo. Puede deberse a un error del navegador.",
+        "Usa la última versión del navegador.",
+        "Comprueba si los controladores de la cámara están correctamente instalados en tu ordenador.",
+        "Si estás usando una cámara USB externa, intenta conectarla a otro puerto USB o usa un cable diferente."
+      ],
+      "microphoneTitle": "El micrófono no funciona",
+      "microphoneIssues": [
+        "Permite el acceso al micrófono en tu navegador.",
+        "Asegúrate de que el micrófono está correctamente conectado a la alimentación.",
+        "Usa la configuración de sonido del sistema para comprobar si el micrófono funciona.",
+        "Otras aplicaciones están usando el micrófono. Intenta cerrarlas.",
+        "Intenta ajustar el nivel del micrófono en la configuración del sistema para aumentar el volumen si no eres lo suficientemente fuerte, o para reducirlo si eres demasiado fuerte.",
+        "Comprueba si el micrófono no está silenciado en tu sistema o en el dispositivo (si tiene un botón físico de silencio en el dispositivo)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Enlaces rápidos",
+      "webcamTitle": "Pruebas de cámara web:",
+      "webcamLinks": [
+        "Prueba de cámara web",
+        "Probar webcam en línea",
+        "Prueba de cámara",
+        "Probador de cámara en línea",
+        "Prueba de webcam gratuita",
+        "Comprobar mi webcam",
+        "Prueba de cámara USB",
+        "Prueba de cámara de portátil",
+        "Probar cámara para Zoom"
+      ],
+      "microphoneTitle": "Pruebas de micrófono:",
+      "microphoneLinks": [
+        "Prueba de micrófono",
+        "Prueba de micro en línea",
+        "Probar mi micrófono",
+        "Probador de micrófono en línea",
+        "Prueba de micro gratuita",
+        "Comprobar micrófono",
+        "Prueba de audio en línea",
+        "Prueba de micrófono USB",
+        "Prueba de micro para Discord"
+      ]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Prueba tu cámara web con nuestra herramienta de prueba en línea rápida y sencilla. Ofrece una vista previa en tiempo real de tu cámara, múltiples ajustes de calidad, efectos especiales y grabación automática usando tu cámara en línea, todo sin necesidad de instalar software adicional. Así puedes usarla como <strong>prueba de cámara</strong> para videoconferencias, o probar la cámara web integrada de un ordenador nuevo.",
+      "p2": "Para probar, simplemente pulsa el botón 'Iniciar cámara y grabar' de arriba. Aparecerá una vista previa en directo de tu cámara web para que puedas ver si tu vídeo funciona, probar tu iluminación y comprobar si tu cámara está bien posicionada. Nada se sube, almacena ni se accede desde fuera. Tu prueba de vídeo se realiza localmente en tu ordenador."
+    },
+    "howToUse": {
+      "title": "Cómo usar nuestra herramienta de prueba de cámara web",
+      "intro": "Para probar tu cámara web, sigue estos sencillos pasos:",
+      "steps": [
+        "<strong>Permitir acceso:</strong> Aparecerá un diálogo preguntando si el navegador puede acceder a la cámara web. Pulsa Permitir para que el navegador acceda a la cámara web. Ten en cuenta que esto ocurre en cualquier sitio web de prueba de cámara. El diálogo aparece como medida de seguridad para evitar que sitios web aleatorios accedan a la webcam.",
+        "<strong>Selecciona la cámara correcta:</strong> Si tienes varias cámaras (por ejemplo, una cámara de portátil integrada y una cámara USB independiente), puedes seleccionar cuál usar desde el menú desplegable. Nuestra herramienta de prueba de cámara web detectará y listará automáticamente todas las cámaras.",
+        "<strong>Selecciona la calidad:</strong> Elige la resolución (calidad) deseada desde el menú desplegable de calidad. Puedes probar la cámara en calidad baja (240p), calidad media (480p), calidad alta (720p), calidad Full HD (1080p), etc. Una calidad más alta proporciona una imagen más nítida pero requiere más ancho de banda y CPU.",
+        "<strong>Inicia la prueba:</strong> Pulsa Iniciar cámara y grabar y verás inmediatamente la señal en directo de tu cámara. Puedes comenzar a grabar de inmediato y luego ver la calidad.",
+        "<strong>Usa filtros visuales:</strong> Tenemos más de 9 filtros visuales (blanco y negro, sepia, desenfoque, alto contraste, etc.) para ver cómo afectan a la salida de tu cámara.",
+        "<strong>Toma una instantánea:</strong> Puedes tomar una instantánea durante una prueba para comprobar la calidad de la imagen o para ver cómo la cámara maneja condiciones de iluminación específicas.",
+        "<strong>Detener y guardar:</strong> Cuando termines, pulsa Detener y guardar grabación para parar la grabación. El vídeo se guardará en el navegador para que puedas reproducirlo y descargarlo."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Características avanzadas de la cámara web",
+      "intro": "Nuestro <strong>probador de cámara web</strong> incluye funciones de nivel profesional diseñadas para diversos casos de uso, desde videollamadas casuales hasta creación de contenido.",
+      "mirrorMode": {
+        "title": "Modo espejo para selfies perfectos",
+        "description": "El espejo y volteo es una función imprescindible para tutoriales de maquillaje, bloggers y para quienes quieren verse como en un espejo. Cuando haces clic en el botón Espejo (con la cámara encendida), voltea el vídeo de tu cámara web horizontalmente para que puedas revisar mejor tu rostro, maquillarte o simplemente acostumbrarte a la vista de espejo. Especialmente si estás grabando un vídeo para YouTube, un vídeo para TikTok o una historia de Instagram donde necesitas mostrar texto, usar indicaciones de dirección, etc."
+      },
+      "digitalZoom": {
+        "title": "Zoom digital (1x a 3x)",
+        "description": "Comprueba la nitidez de tu <strong>cámara web</strong> al hacer zoom a diferentes niveles. Ideal para demostraciones de productos, tutoriales o simplemente para acercarte mucho. Deslizador de zoom y botones rápidos de 1x, 2x, 3x para probar la nitidez de tu cámara web al hacer zoom. Útil para ver si necesitas acercarte más a tu cámara, o si puedes hacer zoom sin degradar demasiado la calidad de imagen. Práctico para streamers que quieren hacer zoom en sus trabajos de pintura, manualidades o reparación de tecnología."
+      },
+      "brightnessContrast": {
+        "title": "Controles de brillo y contraste",
+        "description": "Ajusta el brillo (50-150%) y el contraste (50-150%) y observa cómo se ve tu cámara web en diferentes condiciones de iluminación. Puedes usar estos deslizadores para probar si la exposición automática de tu cámara funciona correctamente y para simular diferentes configuraciones de grabación. Si tu habitación es demasiado oscura o demasiado brillante, puedes ajustar los deslizadores a una configuración cómoda para tu próxima videollamada. Los streamers y YouTubers suelen usar estos deslizadores para obtener lo mejor de su cámara y mantener las mismas condiciones de iluminación en sus vídeos."
+      },
+      "gridOverlay": {
+        "title": "Cuadrícula superpuesta para encuadre profesional",
+        "description": "Nuestra cuadrícula integrada utiliza la técnica de composición de la Regla de los Tercios, permitiéndote encuadrar perfectamente tu rostro en la grabación. Simplemente coloca tus ojos en la línea horizontal superior y alinea tu rostro con las guías verticales. Este principio de fotografía profesional asegura grabaciones de vídeo más atractivas e interesantes para YouTube, reuniones de negocios o streams en Twitch. La cuadrícula superpuesta ayuda a mantener un encuadre consistente en grabaciones repetidas."
+      },
+      "videoFilters": {
+        "title": "Filtros y efectos de vídeo",
+        "description": "Aplica los siguientes filtros a tu <strong>cámara web</strong> para ver cómo quedan: Normal, Escala de grises, Sepia, Invertir, Desenfoque, Brillo, Contraste, Rotación de tono y Saturar. Los filtros te muestran qué tan bien tu cámara puede representar los colores y cómo se verá cuando uses filtros de efectos de vídeo. Si eres streamer o YouTuber, puedes usar los filtros para ver cómo se vería tu stream con diferentes efectos aplicados. Los filtros también se pueden usar para ver si tu cámara emite los colores correctos. Compara los resultados de los filtros de Escala de grises y Sepia."
+      },
+      "videoMetrics": {
+        "title": "Métricas de vídeo en tiempo real e histograma:",
+        "description": "Visualiza detalles técnicos sobre tu vídeo como resolución, velocidad de fotogramas y tasa de bits. El histograma RGB te permite ver la distribución de colores en tu vídeo. Esto es útil para detectar sobreexposición/subexposición, dominantes de color e iluminación deficiente. Esta función es ideal para profesionales como videógrafos, YouTubers y vloggers que quieren asegurarse de que su vídeo sea lo mejor posible. Si tu histograma tiene un corte abrupto en cualquiera de los extremos, necesitarás corregir tu iluminación o la configuración de la cámara."
+      },
+      "advancedControls": {
+        "title": "Controles avanzados de cámara",
+        "description": "Algunas cámaras web tienen funciones como exposición, modo de enfoque, balance de blancos, ISO y nitidez que pueden ser controladas por el usuario. Nuestra aplicación web te permitirá comprobar qué puede hacer tu <strong>cámara web</strong>. Puedes cambiar entre modo de enfoque automático y manual, cambiar el balance de blancos para que coincida con la temperatura de tu luz, o ajustar la compensación de exposición a tu gusto. Esto es muy útil para streamers, YouTubers y profesionales que necesitan controlar la configuración de su cámara."
+      },
+      "backgroundBlur": {
+        "title": "Efecto de desenfoque de fondo",
+        "description": "Prueba el desenfoque de fondo basado en web sin ninguna aplicación ni pantalla verde. Nuestro efecto de desenfoque de fondo utiliza las últimas tecnologías web para eliminar el fondo y separarlo de ti, útil cuando tienes que hacer videollamadas desde casa con un fondo que no quieres que otros vean. Puedes ajustar el nivel de desenfoque aplicado a tu fondo. Esta herramienta te permite ver qué tan bien funciona el efecto de desenfoque de fondo con tu <strong>cámara web</strong> y aplicación de cámara. Esto es particularmente útil para desarrolladores web, especialistas en marketing digital y para todos los que crean contenido en vídeo."
+      },
+      "motionDetection": {
+        "title": "Detección de movimiento para pruebas de seguridad",
+        "description": "Si quieres comprobar cuánto reacciona tu <strong>cámara web</strong> al movimiento, usa nuestra detección de movimiento en tiempo real. Con el modo Avanzado puedes ver un indicador de porcentaje de movimiento en directo reflejando el movimiento en tu vídeo. Úsalo para pruebas de cámaras de seguridad, configuración de sistemas de vigilancia o pruebas de grabación activada por movimiento. El detector de movimiento analiza la señal de vídeo fotograma a fotograma para determinar la cantidad de movimiento. Esto permite comprobar la calidad de la cámara y qué sensibilidad necesitas. Útil para pruebas de seguridad del hogar, monitores de mascotas y monitores de bebés."
+      },
+      "faceDetection": {
+        "title": "Detección y seguimiento facial",
+        "description": "Comprueba la capacidad de tu cámara web para detectar rostros. En el modo avanzado dibujamos cuadros delimitadores alrededor de los rostros y los contamos. Nuestra herramienta de detección facial utiliza la API FaceDetector, cuando está disponible en tu navegador, para detectar múltiples rostros en un fotograma. Usa esta herramienta para probar la funcionalidad de tu <strong>cámara</strong> para el encuadre automático en videoconferencias, o para ver cómo maneja más de un rostro. Los creadores de contenido en vídeo pueden ver si su cámara detecta correctamente los rostros para enfoque automático, y los profesionales pueden comprobar que su sala de reuniones multipersona funciona como se espera."
+      },
+      "sideBySide": {
+        "title": "Modo lado a lado: compara dos cámaras",
+        "description": "El modo lado a lado te permite comparar 2 cámaras web una junto a otra. Es útil para probar varias cámaras web al mismo tiempo. Si tienes una cámara web integrada y una cámara web USB externa, puedes verlas lado a lado simultáneamente. También es muy útil para elegir qué cámara web comprar. Puedes comparar la calidad de imagen, la precisión de color, el rendimiento con poca luz y el campo de visión en tiempo real. Es una herramienta excelente para streamers y YouTubers."
+      }
+    },
+    "videoQuality": {
+      "title": "Configuraciones de calidad de vídeo de la cámara web explicadas",
+      "intro": "La resolución determina la nitidez del vídeo que produce tu cámara web. Así es como rinden las configuraciones en nuestra prueba de resolución de cámara web:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Esta es la configuración de calidad más baja, para cuando solo quieres probar si tu transmisión funciona y tu conexión a Internet es terrible. Tu vídeo será borroso, pero es ideal para ver si tu cámara está transmitiendo, como mínimo."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Calidad baja, poco uso de ancho de banda. Podrías hacer una videollamada de baja resolución si no te importa demasiado la calidad. Todavía podrías distinguir los rostros, pero nada más."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Definición estándar. Este es el punto medio entre calidad y ancho de banda. La mayoría de las aplicaciones de videochat y streaming pueden usar esta resolución. Esta es típicamente la resolución de la mayoría de las cámaras web antiguas."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Esta resolución ofrece calidad de videoconferencia en alta definición, lo cual es excelente para uso profesional. Ofrece imágenes nítidas y una calidad de color decente. Esta es la resolución más popular utilizada en aplicaciones de videoconferencia como Zoom, Teams y Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Esta es la resolución más alta que encontrarás en una cámara web, y es ideal para personas que quieren crear contenido de alta calidad, hacer streaming o necesitan la mejor calidad de vídeo posible. Requiere más ancho de banda y procesamiento, pero obtendrás una imagen nítida y profesional."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Resolución Quad HD con excelente detalle y claridad. Ideal para creadores de contenido profesionales, streamers que requieren un alto nivel de calidad de imagen y aquellos con monitores 4K que desean una resolución nativa. Se necesitan cámaras web de alta calidad y una cantidad significativa de ancho de banda."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra Alta Definición con cuatro veces los píxeles de 1080p. Calidad de nivel profesional para creadores de contenido, cineastas y streaming de alta gama. Requiere cámaras web premium, hardware informático potente e Internet de alta velocidad. Perfecto para preparar tus grabaciones para el futuro y maximizar el detalle para zoom digital y recortes."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "La resolución máxima posible. Tiene 16 veces más píxeles que 1080p. Esto se usa típicamente para cámaras web profesionales de muy alta gama, o para personas que usan DSLR/sin espejo como cámaras web. Necesitarás una cámara web de gama extremadamente alta o una DSLR/sin espejo, un ordenador extremadamente potente y una conexión extremadamente rápida. Solo debería usarse cuando necesitas calidad de nivel cinematográfico, cuando tienes un monitor extremadamente grande, o si quieres hacer mucho zoom digital."
+        }
+      },
+      "tip": "Si estás haciendo una prueba de cámara web, primero prueba con 720p para asegurarte de que tu cámara funciona en alta definición, y luego prueba con cualquier otra resolución que necesites."
+    },
+    "frameRate": {
+      "title": "Velocidad de fotogramas y rendimiento de vídeo fluido",
+      "intro": "La velocidad de fotogramas es la frecuencia a la que un dispositivo de imagen produce imágenes consecutivas únicas llamadas fotogramas. La velocidad de fotogramas se expresa en fotogramas por segundo (FPS). Cuanto mayor sea la velocidad de fotogramas, más fluido se verá el vídeo, especialmente en movimiento. Nuestra herramienta de prueba de cámara web en línea comprueba los FPS reales de tu cámara web, para mostrar si tu cámara web tiene algún problema.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Aceptable para videoconferencias. El movimiento se ve algo entrecortado. Podría deberse a una cámara de gama baja, mala iluminación o un cuello de botella en la CPU."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Esta es la velocidad de fotogramas típica para cámaras web y la mayoría de las aplicaciones de videoconferencia. El movimiento es fluido y natural. Esta es también la velocidad de fotogramas ideal para una videoconferencia profesional."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Una velocidad de fotogramas alta que permite una fluidez de movimiento aún mayor. Ideal para streamers y YouTubers donde la fluidez del movimiento es clave. Ten en cuenta que no todas las cámaras web admiten 60 FPS, y consumirá más ancho de banda."
+        }
+      },
+      "tip": "Si el resultado de la prueba de tu cámara web muestra una velocidad de fotogramas baja, podrías considerar usar una resolución más baja o aumentar la iluminación. La luz puede ser un problema con las cámaras web, ya que pueden reducir la velocidad de fotogramas para poder aumentar el tiempo de exposición."
+    },
+    "lighting": {
+      "title": "Consejos para un vídeo de cámara web con mejor aspecto",
+      "intro": "La iluminación es la variable más significativa cuando se trata de la calidad del vídeo de la cámara web. Una cámara web de baja calidad con buena iluminación se verá mejor que una cámara web de alta calidad con mala iluminación.",
+      "tips": {
+        "position": {
+          "title": "Luz delante de ti",
+          "description": "La fuente de luz debe estar delante de ti, no detrás. La iluminación trasera (como posicionarte delante de una ventana) hará que tu rostro se vea oscuro y con sombras."
+        },
+        "soft": {
+          "title": "Suaviza la luz",
+          "description": "Evita la iluminación directa frontal que causa sombras fuertes y puntos brillantes. Múltiples fuentes de luz, o luz que entra por ventanas grandes, siempre es suave y produce imágenes de aspecto más profesional."
+        },
+        "flicker": {
+          "title": "Evita las bombillas con parpadeo",
+          "description": "Algunas bombillas LED y luces fluorescentes parpadean a una frecuencia que tu cámara puede captar, y obtendrás parpadeo en tu vídeo. Intenta usar bombillas incandescentes o bombillas LED de alta calidad para vídeo."
+        },
+        "color": {
+          "title": "La temperatura de color es otro factor a considerar.",
+          "description": "Asegúrate de que todas las fuentes de luz tengan la misma temperatura de color. La mezcla de luz cálida y fría se ve poco natural. Las cámaras web generalmente se ven mejor bajo luz equilibrada con la luz del día (5000-6500K)."
+        }
+      },
+      "tip": "Prueba nuestra herramienta de prueba de cámara web con múltiples fuentes de luz para determinar si la imagen de tu cámara web mejora. Puedes probar diferentes configuraciones de luz gracias a la vista en directo para ver qué funciona mejor para ti."
+    },
+    "types": {
+      "title": "Tipos de cámaras web y qué esperar",
+      "builtIn": {
+        "title": "Cámaras web integradas en portátiles",
+        "description": "Los portátiles casi siempre tienen una cámara web integrada en la parte superior de la pantalla. En su mayoría, son cámaras de 720p y funcionan bien para videollamadas ocasionales. Sin embargo, la calidad puede variar mucho según el portátil que tengas. Generalmente, los portátiles de gama alta tendrán mejores cámaras web."
+      },
+      "usb": {
+        "title": "Cámaras web USB",
+        "description": "También existen cámaras web externas que se conectan por USB. Si buscas algo mejor que la cámara integrada, un modelo básico te dará 1080p a 30 FPS, pero los modelos de gama alta llegan hasta 4K, 60 FPS, con enfoque automático, compensación de poca luz, etc."
+      },
+      "streaming": {
+        "title": "Cámaras para streaming:",
+        "description": "Cámaras diseñadas para streamers, se centran en la calidad de imagen con sensores más grandes, mejor sensibilidad en condiciones de poca luz y ciencia de color mejorada. Los ajustes de HDR y FOV son comunes."
+      },
+      "dslr": {
+        "title": "Opción 1: DSLR/sin espejo como cámara web",
+        "description": "Muchas cámaras nuevas pueden usarse como cámara web por USB, o con una capturadora de vídeo. Esto te dará la imagen de mayor calidad, pero también requerirá la mayor cantidad de equipo y configuración."
+      },
+      "tip": "Si no estás seguro de si tu cámara funciona con nuestra herramienta, nuestra prueba de cámara web completa es compatible con todo tipo de cámaras. No dudes en usarla para comparar diferentes cámaras web, o simplemente para comprobar que tu nueva cámara web funciona después de haberla conectado."
+    },
+    "troubleshooting": {
+      "title": "¿Necesitas ayuda para arreglar tu cámara web?",
+      "intro": "Si has realizado una prueba y has descubierto un problema, sigue estos pasos para identificar y solucionar los problemas más comunes:",
+      "blackScreen": {
+        "title": "La cámara web muestra pantalla negra",
+        "issues": [
+          "Comprueba si tienes una cubierta física (como un deslizador de privacidad, una tirita o un trozo de cinta) sobre el objetivo de la cámara",
+          "Comprueba si otra aplicación (Skype, Zoom, Teams, etc.) está usando la cámara en segundo plano. Cierra esas aplicaciones e intenta esta prueba de cámara web de nuevo.",
+          "Si sigues teniendo problemas, intenta reiniciar tu navegador y realizar la prueba de cámara web de nuevo.",
+          "Si estás usando una cámara web USB externa, intenta conectarla a un puerto USB diferente.",
+          "Actualiza o reinstala los controladores de tu cámara."
+        ]
+      },
+      "blurry": {
+        "title": "El vídeo de la cámara web está borroso",
+        "issues": [
+          "Limpia el objetivo de la cámara web con un paño de microfibra.",
+          "Si tu cámara web tiene un anillo de enfoque, intenta ajustar el enfoque manualmente.",
+          "Asegúrate de que haya suficiente luz para ayudar al enfoque automático de tu cámara.",
+          "Acércate o aléjate un poco de la cámara web y comprueba si mejora."
+        ]
+      },
+      "colors": {
+        "title": "Los colores de la cámara web se ven mal",
+        "issues": [
+          "¿Estás en condiciones de iluminación diferentes? La luz natural y artificial pueden tener tonos de color distintos.",
+          "Intenta ajustar el balance de blancos en la configuración de tu cámara web, si está disponible.",
+          "¿Llevas puesto algo o tienes algo cerca con un color dominante que pueda causar una dominante de color? Intenta retirarlo."
+        ]
+      },
+      "choppy": {
+        "title": "El vídeo va entrecortado o con retraso",
+        "issues": [
+          "Reduce la calidad del vídeo en los ajustes de esta herramienta de prueba de cámara web.",
+          "Intenta cerrar todas las demás aplicaciones que estén consumiendo recursos de CPU o GPU.",
+          "Mejora las condiciones de iluminación para reducir la exigencia sobre tu cámara.",
+          "Si estás usando una cámara web USB externa, conéctala directamente a tu ordenador en lugar de a un concentrador USB."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Prueba de cámara web para plataformas específicas",
+      "zoom": {
+        "title": "Videoconferencia con Zoom",
+        "description": "Usa esta prueba de cámara web para asegurarte de que tu cámara funciona bien antes de iniciar una reunión importante en Zoom. Asegúrate de que la calidad del vídeo sea suficiente a 720p (que es la calidad predeterminada para la mayoría de las reuniones de Zoom). Verifica que tu iluminación sea suficiente y que tu posición en la vista de la cámara web sea buena antes de unirte a una llamada de Zoom."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "El vídeo HD de 1080p está disponible en las reuniones. Prueba la cámara a diferentes resoluciones para confirmar que tu cámara puede soportar la resolución de vídeo de Teams. Prueba el fondo para obtener calidad profesional para el Modo Juntos y el fondo virtual."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet ajusta automáticamente la calidad del vídeo según las condiciones de la red. Prueba a un mínimo de 720p para asegurarte de que tu cámara cumple con los requisitos mínimos de Google Meet para la transmisión de vídeo de alta calidad."
+      },
+      "streaming": {
+        "title": "Streaming (Twitch/YouTube)",
+        "description": "Prueba a la resolución máxima que tu cámara web pueda manejar (preferiblemente 1080p60). Asegúrate de que la velocidad de fotogramas sea estable y observa cómo tu cámara maneja los movimientos rápidos y múltiples condiciones de iluminación."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Si usas Discord para realizar videollamadas, es necesario tener una cámara web capaz de funcionar a 720p. Debes asegurarte de que la cámara que tienes es adecuada para tu ordenador y para las sesiones de juego y llamadas comunitarias. Esto también garantiza que tu cámara no esté consumiendo demasiado ancho de banda y perjudicando tu experiencia de juego."
+      }
+    },
+    "relatedTools": {
+      "title": "Herramientas y recursos relacionados",
+      "alsoTry": "También prueba:",
+      "alsoTryLinks": [
+        "Prueba de cámara web y micrófono",
+        "Probar micrófono",
+        "Prueba de micro",
+        "Prueba de grabación de audio",
+        "Comprobar micrófono en línea"
+      ],
+      "onThisPage": "En esta página:",
+      "onThisPageLinks": [
+        "Cómo probar tu cámara web",
+        "Configuraciones de calidad de vídeo",
+        "Solución de problemas de cámara",
+        "Arreglar cámara web que no funciona",
+        "Mejores configuraciones de cámara web"
+      ]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "¿Funcionó tu micrófono? Usa nuestra <strong>prueba de micro</strong> rápida y sencilla para asegurarte de que tu <strong>micrófono funciona</strong> correctamente. Esta <strong>prueba de micrófono en línea</strong> también mostrará tus niveles de micrófono, espectro de frecuencias y grabará tu audio. No se necesita software ni complementos para <strong>probar tu micro</strong>. <strong>Prueba tu micrófono</strong> ahora antes de salir en directo, iniciar una videollamada o grabar un pódcast.",
+      "p2": "Pulsa el botón 'Iniciar micrófono y grabar' de arriba para comprobar tu micrófono. Los niveles de audio se muestran en tiempo real, para que puedas ver si tu micrófono está captando sonido como se espera. El gráfico de frecuencia de audio de 32 bandas te permite ver qué tan bien tu micrófono capta las frecuencias de sonido. Esto es particularmente útil si eres podcaster o músico, ya que te permitirá usar equipos que puedan captar todas las frecuencias con claridad."
+    },
+    "howToTest": {
+      "title": "Cómo probar tu micrófono",
+      "intro": "Sigue estos pasos para una <strong>prueba de micrófono</strong> completa:",
+      "steps": [
+        "<strong>Permitir acceso a tu micrófono:</strong> Permite al navegador usar tu micrófono. Haz clic en permitir si aparece un cuadro de diálogo solicitando acceso a tu micrófono. Si estás usando el navegador por primera vez, es posible que necesites hacer clic en un icono de escudo en la barra de direcciones y luego seleccionar el micrófono para permitir el acceso del sitio.",
+        "<strong>Elige tu micrófono (si es necesario):</strong> Selecciona el micrófono deseado en las opciones del menú desplegable (el micrófono de tu ordenador, micrófono externo, etc.). La <strong>prueba de micrófono en línea</strong> solo puede realizarse con un micrófono a la vez.",
+        "<strong>Configura la tasa de muestreo y los canales:</strong> Selecciona la tasa de muestreo para tu micrófono (44.1 kHz para calidad estándar y 48 kHz para mayor calidad). Selecciona un canal mono o estéreo según lo que quieras conseguir.",
+        "<strong>Graba una prueba de micrófono:</strong> Haz clic en el botón de grabar para iniciar una <strong>prueba de micrófono</strong>. Comenzará a grabar automáticamente para que puedas escuchar la reproducción después y ver cómo suena tu micrófono.",
+        "<strong>Observa el medidor de nivel del micrófono:</strong> Mientras realizas la <strong>prueba de micrófono</strong>, observa el medidor de nivel del micrófono mientras hablas al micrófono. Si está grabando correctamente, el medidor debería moverse según el volumen de tu voz. El color verde indica el nivel de volumen ideal, el amarillo un nivel de volumen más alto, y el rojo indica volúmenes demasiado altos que podrían causar recorte.",
+        "<strong>Prueba hablar a diferentes volúmenes:</strong> Realiza una <strong>prueba de micrófono</strong> hablando con voz normal y luego con voz muy suave y voz alta. Te ayudará a ver qué tan sensible es tu micrófono a diferentes volúmenes.",
+        "<strong>Reproduce la grabación:</strong> Después de realizar la <strong>prueba de micrófono en línea</strong>, reproduce tu grabación para ver cómo suena el micrófono. Te ayudará a identificar problemas que no notarías solo con el medidor de nivel del micrófono."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Características avanzadas",
+      "intro": "Ya sea que estés solucionando por qué tu micrófono no funciona o buscando obtener el mejor rendimiento para una reunión importante o una transmisión en directo, hay varias características avanzadas que puedes probar en este sitio:",
+      "inputGain": {
+        "title": "Ganancia de entrada óptima",
+        "description": "Configura la ganancia de tu micrófono entre 50% y 150% con nuestras opciones preconfiguradas o al instante con nuestro deslizador. El control de la ganancia de entrada es particularmente importante para quienes graban audio para pódcasts donde se desean niveles consistentes entre episodios, para músicos (tanto voz como instrumentos) y para streamers que son sensibles al recorte y la distorsión. Selecciona el ajuste Bajo (50%) para entornos demasiado ruidosos o si tienes un micrófono de condensador sensible, Normal (100%) para la mayoría de los casos, y Amplificado (150%) para fuentes más silenciosas que necesitan más amplificación. Nuestro control de ganancia al instante aprovecha el GainNode de la Web Audio API para amplificación sin introducir ruido ni latencia."
+      },
+      "noiseSuppression": {
+        "title": "Aplica supresión de ruido para grabaciones limpias",
+        "description": "Si quieres eliminar sonidos de teclado, clics de ratón, ventiladores, aire acondicionado y sonidos similares de la grabación, activa la supresión de ruido e inténtalo de nuevo. Funciona en tu navegador y se puede usar para limpiar grabaciones ruidosas de trabajo remoto, pódcasts, grabaciones caseras, vídeos, etc., y no necesitas una puerta de ruido ni un complemento de reducción de ruido. La supresión de ruido utiliza la Web Audio API para suprimir el ruido directamente en el micrófono, por lo que no aumenta la carga de CPU ni añade latencia. Puedes probar tanto con como sin supresión de ruido para ver qué funciona mejor con tu micrófono."
+      },
+      "echoCancellation": {
+        "title": "Por qué es útil: Cancelación de eco",
+        "description": "Elimina la retroalimentación acústica y el eco de tu micrófono antes de la prueba. Esto es importante para videollamadas, entrevistas de pódcast y transmisiones en directo cuando el audio de tus altavoces también puede ser captado por tu micrófono. Usa la ventana emergente de preajustes para activar la cancelación de eco y probar tu micrófono con ella activada. Esto te ayudará a decidir si necesitas tratar tu espacio de grabación acústicamente, o si puedes confiar en la cancelación de eco del navegador. Útil para: trabajadores remotos, entrevistadores de pódcasts y cualquiera que grabe en una habitación con muchas superficies duras (que pueden generar eco)."
+      },
+      "autoGainControl": {
+        "title": "Mantén un volumen consistente con AGC",
+        "description": "El AGC hace que el nivel de tu micrófono suene más fuerte y más consistente. Si hablas bajo, te hará sonar más fuerte. Si hablas alto, te hará sonar más bajo. Es genial para streamers, porque si estás en un momento ruidoso, no tienes que preocuparte por sonar demasiado fuerte. También es bueno para podcasters, si te alejas de tu micrófono. Además, es ideal para videoconferencias, si quieres sonar como un profesional. Activa esta opción y comprueba si el AGC funciona bien con tu navegador y tu micrófono. Si te gusta grabar música o ASMR, quizás prefieras mantenerlo desactivado."
+      },
+      "realtimeMeter": {
+        "title": "Monitoriza tus niveles de audio en tiempo real.",
+        "description": "El medidor de nivel muestra el RMS (raíz cuadrática media) de la señal de audio, mostrando el nivel real del audio. También se muestra el pico, donde el nivel comenzará a recortarse. El medidor de nivel tiene tres secciones: verde, amarillo y rojo. La zona verde es el nivel óptimo, entre -12 y -6 dB. La zona amarilla está entre -6 y -3 dB y la zona roja es cualquier valor por encima de -3 dB, cuando tu audio se recortará. Usa este medidor para asegurarte de que tu micrófono está posicionado correctamente. Úsalo para ajustar el nivel de tu voz. Úsalo para monitorizar el nivel de tu audio antes de empezar a grabar, para saber que tus niveles no se recortarán. Los podcasters lo usan para igualar niveles entre episodios. Los músicos lo usan para ajustar la ganancia de sus micrófonos. Los trabajadores remotos lo usan para asegurarse de que se les escucha, pero sin sonar demasiado fuerte."
+      },
+      "frequencySpectrum": {
+        "title": "Análisis de espectro de frecuencias",
+        "description": "Análisis del espectro de frecuencias en tiempo real de la respuesta en frecuencia de tu micrófono. Usa el espectro de 32 bandas para determinar qué frecuencias está captando tu micrófono. ¿Exceso de retumbo (20-250Hz)? ¿Medios turbios (250Hz-2kHz)? ¿Sibilancias fuertes (6kHz-8kHz)? Lo usan ingenieros de audio para evaluar micrófonos y salas, podcasters para encontrar frecuencias problemáticas que necesitan ecualización, y músicos para determinar qué micrófono funciona mejor para su voz o instrumento. Las actualizaciones en tiempo real te permiten analizar tu posición, proximidad y entorno."
+      },
+      "sideBySide": {
+        "title": "Comparación lado a lado de dos micrófonos",
+        "description": "Elige la opción de comparación lado a lado para usar dos micrófonos a la vez. Esto es particularmente útil si tienes dos micrófonos conectados (por ejemplo, el micrófono integrado de tu portátil y un micrófono USB), y quieres verlos lado a lado para comparar la calidad de audio, el ruido de fondo, la respuesta en frecuencia y la sensibilidad de cada uno. Es útil para elegir qué micrófono comprar, probar diferentes colocaciones del micrófono, o decidir qué micrófono usar para tu pódcast o stream. Lo uso para demostrarme a mí mismo que merece la pena comprar un nuevo micrófono, los diseñadores de sonido lo usan para encontrar una pareja para otro micrófono para grabación estéreo, y el departamento de informática de una empresa podría usarlo para probar micrófonos antes de desplegarlos en toda su empresa. Para usarlo, elige la configuración de comparación en los preajustes, selecciona un segundo micrófono y ambos se mostrarán lado a lado con resultados en tiempo real."
+      },
+      "snrMeasurement": {
+        "title": "Medición de relación señal-ruido (SNR)",
+        "description": "El número verde muestra tu SNR actual. 60 dB es el mínimo recomendado para grabación profesional, 50-60 dB es el mínimo para radiodifusión y pódcasts, y 40-50 dB es suficiente para videochats y tutoriales. Un buen SNR te dirá si tu micrófono es suficientemente bueno para lo que quieres hacer, si tu habitación es demasiado ruidosa o si necesitas añadir paneles acústicos. Haz clic en el botón \"Avanzado\" en la esquina superior derecha de la pantalla para mostrar el SNR, el ruido de fondo y el rango dinámico mientras mides. Esta es una medición útil para podcasters que quieren asegurarse de que su emisión cumple con los estándares de radiodifusión, músicos que quieren evaluar la configuración de su estudio casero, y para cualquiera que se preocupe por la calidad de su sonido."
+      }
+    },
+    "audioLevels": {
+      "title": "Niveles de audio explicados",
+      "intro": "El medidor de nivel de audio en la prueba de micrófono de arriba ofrece una representación visual del nivel de volumen de la entrada de tu micrófono. Es importante saber qué significa cada nivel para ofrecer un sonido excelente:",
+      "green": {
+        "title": "Zona verde (0-50%)",
+        "description": "Niveles de audio aceptables para la mayoría de los casos. Suenas fuerte y claro, y tienes mucho margen para subir el volumen sin recorte. Intenta mantenerte en este rango para videollamadas y otras comunicaciones."
+      },
+      "yellow": {
+        "title": "Zona amarilla (50-80%)",
+        "description": ": Niveles de audio altos que siguen siendo aceptables. Buenos para grabar cuando quieres un audio fuerte y con presencia. Sin embargo, los sonidos fuertes repentinos podrían causar recorte."
+      },
+      "red": {
+        "title": "Zona roja (80-100%)",
+        "description": ": Esta es la zona de peligro, donde tu audio probablemente estará distorsionado (recortado). Si estás frecuentemente en el rojo, deberías bajar el volumen del micrófono en tu panel de control, o alejarte del micrófono."
+      },
+      "peak": {
+        "title": "Nivel de pico:",
+        "description": "El nivel más alto alcanzado durante tu sesión. Esto es útil para comprobar si hay eventos cortos y fuertes que están causando recorte, cuando los niveles promedio están bien."
+      },
+      "rms": {
+        "title": "Nivel RMS",
+        "description": "- Volumen promedio a lo largo del tiempo. Mucho más importante que el pico cuando se trata de la sonoridad percibida. Quieres que tus niveles RMS estén en el verde para un audio consistentemente fuerte pero agradable al oído."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Análisis de espectro de frecuencias",
+      "intro": "Nuestra prueba de micrófono contiene un analizador de espectro de frecuencias de 32 bandas que muestra la distribución de la señal de audio a través de diferentes frecuencias. Esta es una herramienta profesional que te permite analizar la respuesta en frecuencia de tu micrófono y diagnosticar diversos problemas:",
+      "low": {
+        "title": "Frecuencias bajas (20-250 Hz)",
+        "description": "Estas son las frecuencias graves que añaden cuerpo y calidez a tu voz. Un exceso de energía en frecuencias bajas puede hacer que tu grabación suene turbia o retumbante. Esto suele ser el resultado de estar demasiado cerca del micrófono. (Efecto de proximidad.)"
+      },
+      "mid": {
+        "title": "Frecuencias medias (250-4000 Hz)",
+        "description": "La mayor parte de la claridad de tu voz está aquí. Esta zona debería ser prominente y definida. Si esta zona es deficiente, tu voz sonará débil o lejana."
+      },
+      "high": {
+        "title": "Frecuencias altas (4000-20000 Hz)",
+        "description": "Brillo y claridad. Una alta frecuencia bien equilibrada reproduce el habla de manera nítida e inteligible. Demasiada frecuencia alta suena estridente o sibilante (sonido de tzz)."
+      },
+      "tip": "Observa el medidor de frecuencias mientras hablas. Si muestra una distribución uniforme de frecuencias, entonces el micrófono está en buena posición y probablemente esté capturando un sonido natural. Si muestra demasiada actividad en la zona baja, quizás necesites alejarte un poco."
+    },
+    "sampleRates": {
+      "title": "Configuraciones de tasa de muestreo",
+      "intro": "La tasa de muestreo es el número de muestras de audio tomadas por segundo. Cuanto mayor sea la tasa de muestreo, más detalle tendrá el audio, pero también requerirá más recursos para el procesamiento y el almacenamiento:",
+      "rates": {
+        "22khz": {
+          "title": "22.05 kHz",
+          "description": "Calidad baja. Solo para voz. Uso de ancho de banda muy bajo, pero respuesta en frecuencia deficiente. Generalmente debería evitarse."
+        },
+        "44khz": {
+          "title": "44.1 kHz (calidad CD)",
+          "description": "– Adecuado para uso general. Graba todas las frecuencias que puede escuchar el oído humano (20 Hz – 20 kHz). Ideal para videoconferencias, pódcasts y música."
+        },
+        "48khz": {
+          "title": "48 kHz (estándar profesional):",
+          "description": "Muy similar a 44.1 kHz pero con una calidad ligeramente superior. Este es el estándar para vídeo/cine y radiodifusión. Úsalo si vas a sincronizar audio con vídeo."
+        }
+      },
+      "tip": "En general, 44.1 kHz es suficiente para la mayoría de las pruebas de micrófono. Si eres un profesional de audio serio y quieres la mayor calidad (o necesitas que coincida con material de vídeo), puedes usar 48 kHz."
+    },
+    "types": {
+      "title": "Tipos de micrófonos",
+      "builtIn": {
+        "title": "Micrófonos integrados de portátil:",
+        "description": "Estos son los micrófonos que vienen integrados en tu portátil. Son cómodos, pero tienden a ser de menor calidad. Puede que escuches tu tecleo y el ventilador de tu ordenador. Aún puedes usarlo, solo coloca el portátil de manera que el micrófono apunte hacia ti. Esto está bien para una videollamada con un amigo o familiar, pero probablemente no querrás grabar una locución con él."
+      },
+      "usb": {
+        "title": "Micrófonos USB:",
+        "description": "Aquí están mis principales recomendaciones de micrófonos USB tanto para Mac como para PC. Un micrófono USB decente marcará una gran diferencia comparado con el micrófono interno de tu ordenador. El Blue Yeti y el Audio-Technica AT2020 USB son dos de los micrófonos USB más populares y suenan fantásticos. Perfectos para pódcasts, streaming en Twitch o hacer videollamadas."
+      },
+      "headset": {
+        "title": "Auriculares gaming y auriculares de botón:",
+        "description": "Si quieres unos auriculares para gaming, también puedes considerarlos como opción. Son más cómodos de usar y la posición del micrófono permanece igual cada vez. Obviamente, cuanto mejores (y más caros) sean los auriculares, mejor será la calidad. Son ideales para gaming y para hacer llamadas ocasionales."
+      },
+      "condenser": {
+        "title": "Micrófonos de condensador",
+        "description": "Micrófonos sensibles que capturan audio rico y detallado. Requieren un posicionamiento cuidadoso y tratamiento acústico. Ideales para grabación profesional, locución y producción musical."
+      },
+      "dynamic": {
+        "title": "Micrófonos dinámicos:",
+        "description": "Robustos y excelentes para rechazar el ruido de fondo. Se usan frecuentemente para pódcasts y streaming debido a su tolerancia a entornos domésticos. No son tan sensibles como los de condensador, pero son más prácticos."
+      },
+      "tip": "Nuestra prueba de micrófono es compatible con todos los tipos de micrófonos. Puedes usarla para probar varios micrófonos, para probar hardware nuevo o para resolver problemas."
+    },
+    "bestPractices": {
+      "title": "Mejores prácticas para grabación con micrófono",
+      "distance": {
+        "title": "Distancia.",
+        "description": "De 15 a 30 cm de tu boca. Más cerca: suena más grave (efecto de proximidad) y capta la respiración. Más lejos: sonido más delgado y capta el ruido de la habitación."
+      },
+      "popFilter": {
+        "title": "Invierte en un filtro antipop:",
+        "description": "Las consonantes oclusivas (P, B, T) crean ráfagas de aire que producen distorsión. Coloca un filtro antipop entre tú y tu micrófono y desaparecerán. Si planeas hacer pódcasts o locución, es imprescindible."
+      },
+      "background": {
+        "title": "Minimiza el ruido de fondo",
+        "description": "— Apaga el ventilador, cierra la ventana, silencia tu teléfono. Haz la prueba de micrófono en el entorno donde vayas a grabar. Hay mucho ruido del que ni siquiera somos conscientes."
+      },
+      "acoustics": {
+        "title": "No olvides la acústica de la habitación",
+        "description": "No querrás grabar en un espacio con muchas superficies duras y planas, ya que crearán eco y reverberación. Necesitas superficies blandas que absorban las reflexiones de sonido (cortinas, alfombras, paneles acústicos). Incluso puedes grabar en un armario lleno de ropa, lo cual puede marcar una gran diferencia."
+      },
+      "positioning": {
+        "title": "¡La consistencia es clave!",
+        "description": "Si descubres que el micrófono suena bien en un lugar, mantenlo ahí durante toda tu sesión de grabación. Puedes invertir en un brazo articulado o soporte de micrófono si quieres evitar que tu micrófono se mueva. Incluso puedes dibujar un círculo en el escritorio para indicar dónde debe estar tu micrófono para conseguir ese buen sonido de nuevo."
+      }
+    },
+    "troubleshooting": {
+      "title": "Solución de problemas del micrófono",
+      "noAudio": {
+        "title": "No se detecta audio:",
+        "issues": [
+          "Verifica que los permisos del micrófono estén concedidos en la configuración del navegador",
+          "Comprueba que el dispositivo de entrada correcto esté seleccionado en el menú desplegable",
+          "Asegúrate de que el micrófono no esté silenciado en el hardware o en la configuración del sistema",
+          "Para micrófonos USB, prueba un puerto diferente",
+          "Cierra otras aplicaciones que puedan estar usando el micrófono"
+        ]
+      },
+      "quiet": {
+        "title": "Audio demasiado bajo:",
+        "issues": [
+          "Aumenta el nivel de entrada del micrófono en la configuración del sistema",
+          "Acércate al micrófono",
+          "Comprueba si hay controles de ganancia en el propio micrófono",
+          "Asegúrate de que estás hablando hacia el patrón de captación del micrófono"
+        ]
+      },
+      "distorted": {
+        "title": "Audio distorsionado o con recorte:",
+        "issues": [
+          "Reduce el nivel de entrada del micrófono en la configuración del sistema",
+          "Aléjate ligeramente del micrófono",
+          "Comprueba si hay obstrucciones físicas o suciedad en el micrófono"
+        ]
+      },
+      "echo": {
+        "title": "Eco o reverberación:",
+        "issues": [
+          "Usa auriculares para evitar que los altavoces retroalimenten el micrófono",
+          "Añade materiales blandos a tu habitación para absorber las reflexiones de sonido",
+          "Acércate al micrófono para aumentar el sonido directo frente a las reflexiones de la habitación"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Herramientas y recursos relacionados",
+      "alsoTry": "También prueba:",
+      "alsoTryLinks": [
+        "Prueba de cámara web y micrófono",
+        "Probar cámara web",
+        "Prueba de cámara",
+        "Prueba de grabación de vídeo",
+        "Comprobar cámara en línea"
+      ],
+      "onThisPage": "En esta página:",
+      "onThisPageLinks": [
+        "Cómo probar tu micrófono",
+        "Guía de niveles de audio",
+        "Solución de problemas del micrófono",
+        "Arreglar micrófono que no funciona",
+        "Mejores configuraciones de micrófono"
+      ]
+    }
+  }
+}

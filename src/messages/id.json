@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "home": {
+      "title": "Tes Webcam & Tes Mikrofon Online Gratis | MicTestCam",
+      "description": "Tes webcam dan mikrofon Anda secara instan secara online. Alat tes kamera dan tes mikrofon gratis - 100% privat, tanpa unduhan. Periksa apakah perangkat Anda berfungsi sebelum panggilan video."
+    },
+    "webcam": {
+      "title": "Tes Webcam - Alat Tes Kamera Online Gratis | Periksa Webcam Anda",
+      "description": "Alat tes webcam gratis - periksa secara instan apakah kamera Anda berfungsi. Tes webcam dengan pratinjau langsung, filter, pengaturan kualitas & perekaman. 100% privat, tanpa unduhan."
+    },
+    "microphone": {
+      "title": "Tes Mikrofon - Tes Mikrofon Online Gratis | Periksa Audio Anda",
+      "description": "Tes mikrofon online gratis - periksa apakah mikrofon Anda berfungsi. Tes level audio, respons frekuensi, dan kualitas rekaman. 100% privat, tanpa unduhan."
+    },
+    "privacy": {
+      "title": "Kebijakan Privasi | MicTestCam",
+      "description": "Pelajari bagaimana MicTestCam melindungi privasi Anda. Semua pengujian webcam dan mikrofon dilakukan secara lokal di browser Anda - kami tidak pernah mengumpulkan atau menyimpan data Anda."
+    },
+    "terms": {
+      "title": "Ketentuan Layanan | MicTestCam",
+      "description": "Ketentuan Layanan untuk MicTestCam - alat pengujian webcam dan mikrofon online gratis. Baca syarat dan ketentuan kami untuk menggunakan layanan kami."
+    },
+    "contact": {
+      "title": "Hubungi Kami | MicTestCam",
+      "description": "Hubungi tim MicTestCam. Hubungi kami untuk dukungan, umpan balik, atau pertanyaan bisnis tentang alat pengujian webcam dan mikrofon gratis kami."
+    },
+    "blog": {
+      "title": "Blog - Tips Webcam & Mikrofon | MicTestCam",
+      "description": "Tips ahli, tutorial, dan panduan untuk pengujian webcam, pengaturan mikrofon, dan optimalisasi audio/video. Pelajari cara mendapatkan kualitas terbaik untuk panggilan video Anda."
+    },
+    "reviews": {
+      "title": "Ulasan Webcam & Mikrofon Terbaik | MicTestCam",
+      "description": "Ulasan mendalam, penilaian, dan panduan pembelian untuk webcam, mikrofon, headset, dan peralatan audio/video. Analisis ahli untuk membantu Anda memilih peralatan sempurna untuk streaming dan panggilan video."
+    }
+  },
+  "nav": {
+    "home": "Beranda",
+    "webcamTest": "Tes Webcam",
+    "microphoneTest": "Tes Mikrofon",
+    "reviews": "Ulasan",
+    "blog": "Blog",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "contact": "Kontak"
+  },
+  "privacy": {
+    "banner": "100% Privat - Tidak ada yang keluar dari browser Anda"
+  },
+  "home": {
+    "hero": {
+      "title": "Tes Webcam & Tes Mikrofon Online Gratis",
+      "subtitle": "Verifikasi secara instan bahwa kamera dan mikrofon Anda berfungsi sempurna sebelum panggilan video berikutnya. Tanpa unduhan, tanpa pendaftaran, sepenuhnya privat.",
+      "webcamCta": "Tes Webcam Anda",
+      "microphoneCta": "Tes Mikrofon Anda"
+    },
+    "features": {
+      "title": "Mengapa Menggunakan MicTestCam?",
+      "privacy": {
+        "title": "100% Privat",
+        "description": "Audio dan video Anda tidak pernah keluar dari browser Anda. Kami tidak menyimpan, mengunggah, atau memproses data media Anda di server kami."
+      },
+      "simple": {
+        "title": "Mudah Sekali Klik",
+        "description": "Tanpa pengaturan rumit. Cukup klik tombol dan langsung lihat webcam Anda atau dengar mikrofon Anda. Berfungsi dalam hitungan detik."
+      },
+      "professional": {
+        "title": "Alat Profesional",
+        "description": "Fitur canggih seperti analisis spektrum frekuensi, filter video, pengaturan kualitas, dan kemampuan perekaman lokal."
+      },
+      "universal": {
+        "title": "Berfungsi di Mana Saja",
+        "description": "Kompatibel dengan semua browser dan perangkat modern. Tes sebelum Zoom, Teams, Meet, Discord, atau aplikasi konferensi video apa pun."
+      }
+    },
+    "howItWorks": {
+      "title": "Cara Kerjanya",
+      "step1": {
+        "title": "Klik Mulai",
+        "description": "Pilih tes webcam atau mikrofon dan klik tombol mulai"
+      },
+      "step2": {
+        "title": "Izinkan Akses",
+        "description": "Berikan izin browser untuk mengakses kamera atau mikrofon Anda"
+      },
+      "step3": {
+        "title": "Lihat Hasil",
+        "description": "Langsung lihat tayangan video atau level audio Anda. Rekam klip jika diperlukan"
+      }
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "q1": {
+        "question": "Apakah tes webcam ini benar-benar privat?",
+        "answer": "Ya, tentu saja. Semua pemrosesan dilakukan langsung di browser Anda menggunakan Web API. Tidak ada data video atau audio yang dikirim ke server kami atau pihak ketiga mana pun. Anda dapat memverifikasi ini dengan memeriksa tab jaringan browser Anda."
+      },
+      "q2": {
+        "question": "Apakah saya perlu menginstal sesuatu?",
+        "answer": "Tidak perlu instalasi. MicTestCam bekerja sepenuhnya di browser web Anda. Cukup kunjungi halaman dan klik mulai."
+      },
+      "q3": {
+        "question": "Browser apa saja yang didukung?",
+        "answer": "MicTestCam berfungsi di semua browser modern termasuk Chrome, Firefox, Safari, Edge, dan Opera di perangkat desktop dan seluler."
+      },
+      "q4": {
+        "question": "Bisakah saya merekam video atau audio?",
+        "answer": "Ya! Anda dapat merekam klip video di halaman tes webcam dan klip audio di halaman tes mikrofon. Semua rekaman disimpan secara lokal di browser Anda dan dapat diunduh."
+      },
+      "q5": {
+        "question": "Mengapa kamera/mikrofon saya tidak berfungsi?",
+        "answer": "Pastikan Anda telah memberikan izin browser untuk mengakses perangkat Anda. Periksa bahwa tidak ada aplikasi lain yang menggunakan kamera atau mikrofon Anda. Coba segarkan halaman atau pilih perangkat lain dari menu dropdown."
+      },
+      "q6": {
+        "question": "Apakah ini gratis untuk digunakan?",
+        "answer": "Ya, MicTestCam sepenuhnya gratis untuk digunakan tanpa batasan atau biaya tersembunyi."
+      },
+      "q7": {
+        "question": "Bisakah saya tes sebelum panggilan Zoom/Teams/Meet?",
+        "answer": "Tentu saja! MicTestCam sempurna untuk pengujian sebelum panggilan. Cukup tes perangkat Anda di sini, lalu bergabung dengan konferensi video Anda dengan percaya diri."
+      },
+      "q8": {
+        "question": "Bagaimana cara memilih kamera atau mikrofon yang berbeda?",
+        "answer": "Gunakan menu dropdown perangkat di halaman tes untuk beralih antara kamera atau mikrofon yang terhubung."
+      },
+      "q9": {
+        "question": "Di mana rekaman saya disimpan?",
+        "answer": "Rekaman disimpan secara lokal di penyimpanan browser Anda. Rekaman tetap ada bahkan setelah menutup browser dan dapat diunduh atau dihapus kapan saja."
+      },
+      "q10": {
+        "question": "Apakah ini berfungsi di ponsel?",
+        "answer": "Ya, MicTestCam berfungsi di perangkat seluler dengan browser modern. Anda dapat menguji kamera depan dan belakang di ponsel Anda."
+      }
+    },
+    "trust": {
+      "tests": "50.000+ tes setiap hari",
+      "apps": "Berfungsi dengan Zoom, Teams, Meet",
+      "browsers": "Semua browser modern didukung"
+    }
+  },
+  "webcam": {
+    "title": "Tes Webcam - Penguji Kamera Online Gratis",
+    "subtitle": "Tes kamera Anda secara instan. Lihat video Anda, sesuaikan kualitas, terapkan filter, dan rekam klip.",
+    "startButton": "Mulai Kamera & Rekam",
+    "stopButton": "Berhenti & Simpan Rekaman",
+    "snapshotButton": "Ambil Foto",
+    "permissionMessage": "Klik tombol di atas untuk memulai tes webcam Anda",
+    "recording": "Merekam",
+    "deviceLabel": "Kamera",
+    "qualityLabel": "Kualitas",
+    "filterLabel": "Filter",
+    "filters": {
+      "normal": "Normal",
+      "grayscale": "Skala Abu-abu",
+      "sepia": "Sepia",
+      "invert": "Inversi",
+      "blur": "Buram",
+      "brightness": "Kecerahan",
+      "contrast": "Kontras",
+      "hueRotate": "Rotasi Warna",
+      "saturate": "Saturasi"
+    },
+    "savedRecordings": {
+      "title": "Rekaman Tersimpan",
+      "clearAll": "Hapus Semua",
+      "noRecordings": "Belum ada rekaman. Mulai merekam untuk menyimpan klip video.",
+      "play": "Putar",
+      "download": "Unduh",
+      "delete": "Hapus"
+    },
+    "testCamera": "Tes Kamera",
+    "stopCamera": "Hentikan Kamera",
+    "record": "Rekam",
+    "stopRecording": "Hentikan Rekaman",
+    "showAdvanced": "Tampilkan Lanjutan",
+    "hideAdvanced": "Sembunyikan Lanjutan",
+    "mirrorMode": "Mode Cermin",
+    "flipHorizontally": "Balik secara horizontal",
+    "digitalZoom": "Zoom Digital",
+    "brightness": "Kecerahan",
+    "contrast": "Kontras",
+    "dark": "Gelap",
+    "normal": "Normal",
+    "bright": "Terang",
+    "low": "Rendah",
+    "high": "Tinggi",
+    "cameraComparison": "Perbandingan Kamera",
+    "compareSideBySide": "Bandingkan berdampingan",
+    "requires2Cameras": "(membutuhkan 2+ kamera)",
+    "secondCamera": "Kamera Kedua",
+    "fineTuneWhileRecording": "Penyesuaian Halus Saat Merekam",
+    "camera1": "Kamera 1",
+    "camera2": "Kamera 2",
+    "motion": "Gerakan",
+    "advanced": {
+      "title": "Kontrol Kamera Lanjutan",
+      "exposure": "Eksposur",
+      "focus": "Fokus",
+      "whiteBalance": "Keseimbangan Putih",
+      "image": "Gambar",
+      "ptz": "PTZ",
+      "mode": "Mode",
+      "exposureTime": "Waktu Eksposur",
+      "distance": "Jarak",
+      "temperature": "Temperatur",
+      "sharpness": "Ketajaman",
+      "zoom": "Zoom",
+      "pan": "Pan",
+      "tilt": "Tilt",
+      "saturation": "Saturasi",
+      "noAdvancedControls": "Kamera Anda tidak mendukung kontrol perangkat keras lanjutan"
+    },
+    "backgroundBlur": {
+      "title": "Blur Latar Belakang",
+      "blurStrength": "Kekuatan Blur",
+      "skinToneNote": "Menggunakan deteksi warna kulit ringan. Untuk hasil lebih baik, pastikan pencahayaan yang baik."
+    },
+    "faceDetection": {
+      "facesDetected": "Terdeteksi",
+      "face": "Wajah"
+    },
+    "framing": {
+      "grid": "Grid",
+      "faceGuide": "Panduan Wajah",
+      "moveRight": "Geser ke kanan",
+      "moveLeft": "Geser ke kiri",
+      "moveDown": "Geser ke bawah",
+      "moveUp": "Geser ke atas",
+      "moveCloser": "Mendekat",
+      "moveBack": "Mundur",
+      "greatFraming": "Framing yang bagus!",
+      "noFaceDetected": "Tidak ada wajah terdeteksi"
+    },
+    "histogram": {
+      "videoAnalysis": "Analisis Video",
+      "histogram": "Histogram",
+      "waveform": "Bentuk Gelombang",
+      "shadows": "Bayangan",
+      "midtones": "Nada Tengah",
+      "highlights": "Sorotan"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Resolusi",
+      "bitrate": "Bitrate",
+      "lighting": "Pencahayaan",
+      "dropped": "Terbuang",
+      "tooDark": "Terlalu Gelap",
+      "lowLight": "Cahaya Rendah",
+      "overexposed": "Terlalu Terang",
+      "good": "Bagus",
+      "hideMetrics": "Sembunyikan metrik"
+    }
+  },
+  "microphone": {
+    "title": "Tes Mikrofon - Penguji Mikrofon Online Gratis",
+    "subtitle": "Tes mikrofon Anda dengan pengukur level audio waktu nyata dan penganalisis spektrum frekuensi.",
+    "startButton": "Mulai Mikrofon & Rekam",
+    "stopButton": "Berhenti & Simpan Rekaman",
+    "permissionMessage": "Klik tombol di atas untuk memulai tes mikrofon Anda",
+    "recording": "Merekam",
+    "deviceLabel": "Mikrofon",
+    "sampleRateLabel": "Laju Sampel",
+    "channelLabel": "Saluran",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Level Audio",
+    "frequencySpectrum": "Spektrum Frekuensi",
+    "savedRecordings": {
+      "title": "Rekaman Tersimpan",
+      "clearAll": "Hapus Semua",
+      "noRecordings": "Belum ada rekaman. Mulai merekam untuk menyimpan klip audio.",
+      "play": "Putar",
+      "download": "Unduh",
+      "delete": "Hapus"
+    },
+    "testMicrophone": "Tes Mikrofon",
+    "stopMicrophone": "Hentikan Mikrofon",
+    "record": "Rekam",
+    "stopRecording": "Hentikan Rekaman",
+    "showAdvanced": "Tampilkan Lanjutan",
+    "hideAdvanced": "Sembunyikan Lanjutan",
+    "inputGain": "Gain Input",
+    "noiseSuppression": "Peredam Kebisingan",
+    "enableNoiseReduction": "Aktifkan peredam kebisingan",
+    "echoCancellation": "Pembatalan Gema",
+    "reduceEchoFeedback": "Kurangi umpan balik gema",
+    "autoGainControl": "Kontrol Gain Otomatis",
+    "autoAdjustVolume": "Sesuaikan volume otomatis",
+    "microphoneComparison": "Perbandingan Mikrofon",
+    "compareSideBySide": "Bandingkan berdampingan",
+    "requires2Mics": "(membutuhkan 2+ mikrofon)",
+    "secondMicrophone": "Mikrofon Kedua",
+    "fineTuneWhileTesting": "Penyesuaian Halus Saat Pengujian",
+    "boost": "Tingkatkan",
+    "normal": "Normal",
+    "low": "Rendah",
+    "advanced": {
+      "title": "Analisis Audio Lanjutan",
+      "metrics": "Metrik",
+      "spectrogram": "Spektrogram",
+      "signalToNoiseRatio": "Rasio Sinyal terhadap Kebisingan",
+      "excellent": "Sangat Baik",
+      "good": "Baik",
+      "fair": "Cukup",
+      "poor": "Buruk",
+      "rms": "RMS (dB)",
+      "peak": "Puncak (dB)",
+      "noiseFloor": "Lantai Kebisingan",
+      "dominantFrequency": "Frekuensi Dominan",
+      "detectedIssues": "Masalah Terdeteksi",
+      "detectedAt": "terdeteksi pada",
+      "time": "Waktu",
+      "frequencyLowHigh": "Frekuensi (Rendah \u2192 Tinggi)"
+    },
+    "processing": {
+      "title": "Pemrosesan Audio",
+      "noiseSuppression": "Peredam Kebisingan",
+      "reduceBackgroundNoise": "Kurangi kebisingan latar belakang",
+      "echoCancellation": "Pembatalan Gema",
+      "removeAudioFeedback": "Hapus umpan balik audio",
+      "autoGainControl": "Kontrol Gain Otomatis",
+      "normalizeVolumeLevels": "Normalkan level volume",
+      "directMonitoring": "Pemantauan Langsung",
+      "listenToYourMic": "Dengarkan mikrofon Anda",
+      "monitorVolume": "Volume Pemantauan",
+      "useHeadphones": "Gunakan headphone untuk menghindari umpan balik!"
+    },
+    "comparison": {
+      "title": "Perbandingan Mikrofon A/B",
+      "microphoneA": "Mikrofon A",
+      "microphoneB": "Mikrofon B",
+      "selectMicrophone": "Pilih mikrofon...",
+      "startComparison": "Mulai Perbandingan",
+      "selectTwoDifferent": "Silakan pilih dua mikrofon yang berbeda",
+      "active": "Aktif",
+      "switchTo": "Beralih ke",
+      "rmsLevel": "Level RMS",
+      "peakLevel": "Level Puncak",
+      "snr": "SNR (dB)",
+      "stopComparison": "Hentikan Perbandingan",
+      "micA": "Mik A",
+      "micB": "Mik B"
+    }
+  },
+  "privacyPage": {
+    "title": "Kebijakan Privasi",
+    "lastUpdated": "Terakhir Diperbarui",
+    "intro": "Di MicTestCam, kami menganggap privasi Anda dengan serius. Kebijakan Privasi ini menjelaskan bagaimana kami menangani informasi Anda saat Anda menggunakan layanan pengujian webcam dan mikrofon kami.",
+    "sections": {
+      "noCollection": {
+        "title": "Kami Tidak Mengumpulkan Data Anda",
+        "content": "MicTestCam dirancang dengan privasi sebagai prinsip utama. Kami tidak mengumpulkan, menyimpan, atau mengirimkan data audio atau video apa pun dari pengujian webcam atau mikrofon Anda. Semua pemrosesan dilakukan sepenuhnya di dalam browser web Anda menggunakan API JavaScript lokal."
+      },
+      "localStorage": {
+        "title": "Penyimpanan Lokal",
+        "content": "Saat Anda merekam klip video atau audio, klip tersebut disimpan secara lokal di penyimpanan IndexedDB browser Anda. Data ini tidak pernah meninggalkan perangkat Anda dan tidak dapat diakses oleh kami atau pihak ketiga mana pun. Anda dapat menghapus rekaman ini kapan saja melalui antarmuka aplikasi atau dengan menghapus data browser Anda."
+      },
+      "cookies": {
+        "title": "Cookie dan Analitik",
+        "content": "Kami menggunakan cookie minimal hanya untuk fungsionalitas situs web yang esensial seperti preferensi bahasa. Kami mungkin menggunakan analitik yang menghormati privasi untuk memahami pola penggunaan umum, tetapi kami tidak melacak pengguna individual atau mengumpulkan informasi pribadi."
+      },
+      "thirdParty": {
+        "title": "Layanan Pihak Ketiga",
+        "content": "Situs web kami mungkin menyertakan tautan ke situs web pihak ketiga. Kami tidak bertanggung jawab atas praktik privasi situs eksternal tersebut. Kami merekomendasikan untuk meninjau kebijakan privasi mereka sebelum memberikan informasi pribadi apa pun."
+      },
+      "security": {
+        "title": "Keamanan",
+        "content": "Kami menggunakan enkripsi HTTPS untuk melindungi semua komunikasi antara browser Anda dan situs web kami. Karena kami tidak mengumpulkan data media Anda, tidak ada risiko rekaman webcam atau mikrofon Anda terekspos melalui pelanggaran data."
+      },
+      "children": {
+        "title": "Privasi Anak-anak",
+        "content": "MicTestCam tidak ditujukan untuk anak-anak di bawah usia 13 tahun. Kami tidak secara sengaja mengumpulkan informasi dari anak-anak."
+      },
+      "changes": {
+        "title": "Perubahan pada Kebijakan Ini",
+        "content": "Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Kami akan memberi tahu Anda tentang perubahan apa pun dengan memposting Kebijakan Privasi baru di halaman ini dan memperbarui tanggal 'Terakhir Diperbarui'."
+      },
+      "contact": {
+        "title": "Hubungi Kami",
+        "content": "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami melalui halaman kontak kami."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Ketentuan Layanan",
+    "lastUpdated": "Terakhir Diperbarui",
+    "intro": "Selamat datang di MicTestCam. Dengan mengakses atau menggunakan situs web dan layanan kami, Anda setuju untuk terikat oleh Ketentuan Layanan ini.",
+    "sections": {
+      "acceptance": {
+        "title": "Penerimaan Ketentuan",
+        "content": "Dengan menggunakan MicTestCam, Anda menyetujui Ketentuan Layanan ini dan Kebijakan Privasi kami. Jika Anda tidak setuju dengan bagian mana pun dari ketentuan ini, Anda tidak boleh menggunakan layanan kami."
+      },
+      "description": {
+        "title": "Deskripsi Layanan",
+        "content": "MicTestCam menyediakan alat online gratis untuk menguji webcam dan mikrofon. Layanan kami memungkinkan Anda memverifikasi bahwa kamera dan mikrofon Anda berfungsi dengan baik sebelum panggilan video, perekaman, atau sesi streaming."
+      },
+      "usage": {
+        "title": "Penggunaan yang Dapat Diterima",
+        "content": "Anda setuju untuk menggunakan MicTestCam hanya untuk tujuan yang sah dan sesuai dengan Ketentuan ini. Anda setuju untuk tidak: menggunakan layanan untuk aktivitas ilegal apa pun, mencoba mengganggu fungsi situs web yang benar, mencoba mengakses area situs web yang tidak ditujukan untuk akses publik, atau menggunakan sistem otomatis untuk mengakses layanan tanpa izin."
+      },
+      "privacy": {
+        "title": "Privasi dan Data",
+        "content": "Semua pengujian webcam dan mikrofon terjadi secara lokal di browser Anda. Kami tidak mengumpulkan, menyimpan, atau memiliki akses ke data audio atau video Anda. Untuk informasi lebih lanjut, silakan tinjau Kebijakan Privasi kami."
+      },
+      "intellectual": {
+        "title": "Kekayaan Intelektual",
+        "content": "Situs web MicTestCam, termasuk desain, kode, dan kontennya, dilindungi oleh hak cipta dan undang-undang kekayaan intelektual lainnya. Anda tidak boleh menyalin, memodifikasi, mendistribusikan, atau mereproduksi bagian mana pun dari situs web tanpa persetujuan tertulis sebelumnya dari kami."
+      },
+      "disclaimer": {
+        "title": "Penafian Jaminan",
+        "content": "MicTestCam disediakan 'apa adanya' tanpa jaminan apa pun, baik tersurat maupun tersirat. Kami tidak menjamin bahwa layanan ini akan tanpa gangguan, bebas kesalahan, atau memenuhi kebutuhan spesifik Anda. Kami tidak bertanggung jawab atas masalah perangkat keras atau perangkat lunak apa pun pada perangkat Anda."
+      },
+      "limitation": {
+        "title": "Pembatasan Tanggung Jawab",
+        "content": "Sejauh diizinkan oleh hukum, MicTestCam tidak bertanggung jawab atas kerusakan tidak langsung, insidental, khusus, konsekuensial, atau hukuman yang dihasilkan dari penggunaan Anda atas layanan ini."
+      },
+      "changes": {
+        "title": "Perubahan Ketentuan",
+        "content": "Kami berhak untuk mengubah Ketentuan Layanan ini kapan saja. Perubahan akan berlaku segera setelah diposting di situs web. Penggunaan layanan Anda yang berkelanjutan setelah perubahan diposting merupakan penerimaan Anda terhadap ketentuan yang dimodifikasi."
+      },
+      "governing": {
+        "title": "Hukum yang Berlaku",
+        "content": "Ketentuan Layanan ini akan diatur oleh dan ditafsirkan sesuai dengan hukum yang berlaku, tanpa memperhatikan prinsip-prinsip konflik hukum."
+      },
+      "contact": {
+        "title": "Kontak",
+        "content": "Jika Anda memiliki pertanyaan tentang Ketentuan Layanan ini, silakan hubungi kami melalui halaman kontak kami."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Hubungi Kami",
+    "subtitle": "Punya pertanyaan atau umpan balik? Kami senang mendengar dari Anda.",
+    "form": {
+      "name": "Nama Anda",
+      "namePlaceholder": "Masukkan nama Anda",
+      "email": "Alamat Email",
+      "emailPlaceholder": "Masukkan email Anda",
+      "subject": "Subjek",
+      "subjectPlaceholder": "Tentang apa ini?",
+      "message": "Pesan",
+      "messagePlaceholder": "Ketik pesan Anda di sini...",
+      "submit": "Kirim Pesan",
+      "sending": "Mengirim...",
+      "success": "Terima kasih! Pesan Anda telah berhasil dikirim.",
+      "error": "Maaf, terjadi kesalahan saat mengirim pesan Anda. Silakan coba lagi."
+    },
+    "info": {
+      "title": "Cara Lain untuk Menghubungi Kami",
+      "email": "Email",
+      "response": "Kami biasanya merespons dalam 24-48 jam.",
+      "social": "Ikuti Kami"
+    },
+    "faq": {
+      "title": "Sebelum Anda Menghubungi Kami",
+      "subtitle": "Anda mungkin menemukan jawaban Anda di bagian FAQ di beranda."
+    }
+  },
+  "blogPage": {
+    "title": "Blog Pengujian Webcam & Mikrofon - Tips, Panduan & Tutorial",
+    "subtitle": "Tips ahli, tutorial, dan wawasan tentang pengujian webcam, pengaturan mikrofon, dan optimalisasi audio/video untuk panggilan video, streaming, dan pembuatan konten.",
+    "noPosts": "Belum ada posting",
+    "noPostsDescription": "Nantikan konten baru segera!",
+    "readMore": "Baca selengkapnya",
+    "by": "oleh",
+    "minRead": "menit baca",
+    "categories": {
+      "all": "Semua Posting",
+      "webcam": "Tips Webcam",
+      "microphone": "Tips Mikrofon",
+      "tutorials": "Tutorial",
+      "troubleshooting": "Pemecahan Masalah"
+    },
+    "search": "Cari artikel...",
+    "featured": "Unggulan",
+    "latest": "Artikel Terbaru",
+    "relatedPosts": "Posting Terkait"
+  },
+  "reviewsPage": {
+    "title": "Ulasan Webcam & Mikrofon Terbaik - Analisis Produk Ahli",
+    "subtitle": "Ulasan mendalam, penilaian, dan panduan pembelian untuk webcam, mikrofon, headset, dan peralatan audio/video. Temukan peralatan sempurna untuk streaming, panggilan video, dan pembuatan konten.",
+    "noReviews": "Belum ada ulasan tersedia",
+    "noReviewsDescription": "Nantikan ulasan produk ahli segera!",
+    "by": "oleh",
+    "readMore": "Baca Ulasan"
+  },
+  "footer": {
+    "tagline": "Tes webcam dan mikrofon Anda secara online gratis",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "contact": "Kontak",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Hak cipta dilindungi undang-undang.",
+    "language": "Bahasa"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Kesalahan",
+    "close": "Tutup",
+    "back": "Kembali",
+    "next": "Berikutnya",
+    "submit": "Kirim",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "delete": "Hapus",
+    "edit": "Edit",
+    "view": "Lihat",
+    "download": "Unduh",
+    "share": "Bagikan",
+    "copy": "Salin",
+    "copied": "Tersalin!",
+    "readMore": "Baca Selengkapnya",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "getStarted": "Mulai"
+  },
+  "cta": {
+    "title": "Siap Menguji Perangkat Anda?",
+    "subtitle": "Mulai uji webcam dan mikrofon Anda sekarang juga. Tanpa unduhan, tanpa pendaftaran.",
+    "webcamButton": "Tes Webcam",
+    "microphoneButton": "Tes Mikrofon"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam menyediakan pengujian instan dan gratis untuk webcam dan mikrofon secara online langsung di browser Anda. Tanpa unduhan. Tes kualitas kamera, level mikrofon, dan kejernihan audio Anda dalam waktu kurang dari 30 detik sebelum panggilan video atau sesi perekaman apa pun.",
+      "p1": "Halo dan selamat datang di MicTestCam! MicTestCam menawarkan cara termudah untuk <strong>menguji webcam dan mikrofon Anda secara online</strong>, baik Anda ingin memeriksa webcam untuk konferensi video, rapat, presentasi, merekam narasi untuk video dan saluran YouTube Anda, atau melakukan <strong>tes mikrofon</strong> mendalam untuk podcast Anda.",
+      "p2": "Alat Tes Kamera & Mikrofon MicTestCam beroperasi sepenuhnya di dalam browser dan tidak memerlukan unduhan apa pun. Privasi pengguna adalah prioritas utama bagi MicTestCam. Semua pengujian dilakukan di browser Anda dan informasi video serta audio Anda tidak pernah meninggalkan komputer Anda. Dengan lebih dari 50.000 pengujian setiap hari dan tingkat keberhasilan 99,9%, MicTestCam adalah platform paling populer bagi profesional, karyawan jarak jauh, pembuat konten, dan pengguna biasa yang ingin menguji perangkat.",
+      "p3": "Tekan tombol di bawah untuk <strong>tes webcam</strong> atau <strong>tes mikrofon</strong>. MicTestCam hanya membutuhkan beberapa detik untuk memverifikasi apakah kamera dan mikrofon Anda berfungsi dengan benar sebelum panggilan Zoom, Microsoft Teams, Google Meet, Discord, Skype, atau panggilan video lainnya.",
+      "keyTakeaways": {
+        "title": "Poin Penting",
+        "points": [
+          "Pengujian webcam dan mikrofon instan gratis - tanpa instalasi perangkat lunak",
+          "Pengujian berbasis browser 100% menjamin privasi dan keamanan data lengkap",
+          "Umpan balik waktu nyata tentang kualitas video, level audio, dan respons frekuensi",
+          "Kompatibel dengan Zoom, Teams, Meet, Discord, dan semua platform video",
+          "Lebih dari 50.000 pengujian harian dengan tingkat akurasi 99,9%"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Mengapa Anda Harus Menguji Webcam dan Mikrofon Sebelum Panggilan Video?",
+      "directAnswer": "Menguji webcam dan mikrofon sebelum panggilan video mencegah kegagalan teknis yang memalukan, menghemat waktu rapat, dan memastikan kualitas komunikasi profesional. Pengujian sebelum panggilan mengidentifikasi masalah sudut kamera, pencahayaan, level audio, dan kebisingan latar belakang sebelum audiens Anda melihatnya.",
+      "p1": "Kerja jarak jauh dan komunikasi virtual kini menjadi praktik bisnis standar. Mampu berkomunikasi dengan jelas melalui video dan audio sangat penting untuk kesuksesan profesional. Gangguan teknis selama rapat merusak kredibilitas dan membuang waktu. Harus berulang kali bertanya \"Bisa lihat saya? Bagaimana sekarang?\" merusak reputasi profesional dan menunda diskusi penting.",
+      "p2": "Melakukan tes video singkat sebelum rapat mencegah kesalahan teknis. Melakukan tes audio singkat sebelum panggilan penting memastikan audio Anda jernih tanpa kebisingan latar belakang, gema, atau distorsi. Profesional penjualan, eksekutif, guru, dan pembuat konten memahami pentingnya kinerja webcam dan mikrofon yang andal.",
+      "p3": "Berbeda dengan alat tes webcam dan mikrofon lainnya, MicTestCam tidak hanya memverifikasi apakah webcam atau mikrofon Anda berfungsi, tetapi juga memberikan informasi detail tentang kualitas video dan karakteristik audio. MicTestCam membantu pengguna menemukan dan memperbaiki masalah teknis sebelum panggilan video dimulai.",
+      "comparison": {
+        "title": "MicTestCam vs. Tes Bawaan Platform Video",
+        "points": [
+          "<strong>MicTestCam:</strong> Menyediakan analisis frekuensi audio detail, bentuk gelombang waktu nyata, dan metrik profesional",
+          "<strong>Tes Platform:</strong> Hanya menampilkan fungsionalitas dasar ya/tidak tanpa detail kualitas",
+          "<strong>MicTestCam:</strong> Pengujian berfungsi di semua platform - Zoom, Teams, Meet, Discord secara bersamaan",
+          "<strong>Tes Platform:</strong> Hanya memverifikasi fungsionalitas dalam platform tertentu tersebut",
+          "<strong>MicTestCam:</strong> Menawarkan pemutaran ulang rekaman untuk mendengar persis apa yang akan didengar orang lain",
+          "<strong>Tes Platform:</strong> Tidak ada fitur pemutaran ulang untuk verifikasi kualitas"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Bagaimana Cara Kerja Penguji Kamera dan Mikrofon MicTestCam?",
+      "directAnswer": "MicTestCam menggunakan teknologi WebRTC untuk mengakses webcam dan mikrofon Anda langsung melalui browser. Pengujian dilakukan sepenuhnya di perangkat Anda menggunakan protokol yang sama dengan yang digunakan Zoom, Teams, dan Meet, memastikan pengujian kinerja dunia nyata yang akurat tanpa mengunggah data apa pun ke server.",
+      "p1": "Penguji kamera dan mikrofon MicTestCam menggunakan protokol WebRTC, protokol yang sama yang diandalkan oleh layanan konferensi video berbasis web yang populer. Saat Anda <strong>menguji webcam</strong> menggunakan MicTestCam, platform mengakses webcam Anda melalui Web API browser dan menampilkan umpan video secara waktu nyata di layar. Pengguna dapat memverifikasi apakah webcam berfungsi, memeriksa apakah pencahayaan sudah sesuai, mengonfirmasi sudut kamera sudah benar, dan menilai kualitas video secara keseluruhan.",
+      "p2": "Alat <strong>tes mikrofon</strong> MicTestCam memberikan umpan balik langsung tentang level volume suara. Saat pengguna berbicara ke mikrofon, pengukur audio mencerminkan level suara secara waktu nyata untuk membantu menentukan apakah mikrofon menangkap suara dengan baik. Penganalisis spektrum frekuensi 32-band menampilkan bagaimana suara didistribusikan di seluruh frekuensi, fitur yang sangat berharga bagi podcaster dan musisi yang menguji mikrofon untuk perekaman profesional.",
+      "p3": "Kedua alat MicTestCam menawarkan kemampuan perekaman otomatis. Pengguna dapat memulai pengujian dan MicTestCam akan secara otomatis merekam umpan kamera dan audio, memungkinkan pemutaran ulang untuk mengevaluasi kualitas sebagaimana yang akan dialami audiens. Semua perekaman terjadi secara lokal di browser. MicTestCam tidak mengunggah atau menyimpan data pengguna apa pun di server eksternal, memastikan privasi lengkap.",
+      "technicalSpecs": {
+        "title": "Spesifikasi Teknis",
+        "specs": [
+          "<strong>Protokol:</strong> WebRTC (Web Real-Time Communication) - Standar industri yang digunakan oleh Zoom, Microsoft Teams, Google Meet",
+          "<strong>Analisis Audio:</strong> Penganalisis spektrum frekuensi 32-band (rentang 20Hz - 20kHz)",
+          "<strong>Resolusi Video:</strong> Mendukung pengujian dari 240p hingga 8K (7680×4320) tergantung kemampuan kamera",
+          "<strong>Laju Bingkai:</strong> Pemantauan waktu nyata pada 15fps, 30fps, dan 60fps",
+          "<strong>Privasi:</strong> 100% pemrosesan sisi klien - nol transmisi data ke server MicTestCam",
+          "<strong>Kompatibilitas:</strong> Berfungsi di Chrome, Firefox, Safari, Edge - semua browser utama"
+        ]
+      }
+    },
+    "features": {
+      "title": "Daftar Lengkap Fitur Pengujian",
+      "webcamTitle": "Tes Webcam",
+      "webcamFeatures": [
+        "Pratinjau langsung kamera Anda dengan opsi resolusi dari 240p hingga 1080p.",
+        "Deteksi beberapa perangkat kamera seperti kamera USB, webcam, kamera eksternal.",
+        "9+ filter dan efek berbeda untuk menguji webcam dan keseimbangan warnanya.",
+        "Frame rate per detik untuk memantau kamera.",
+        "Kemampuan untuk mengambil foto.",
+        "Merekam video secara otomatis dari webcam dalam format WebM dan MP4.",
+        "Rekaman disimpan di penyimpanan lokal."
+      ],
+      "microphoneTitle": "Tes Mikrofon",
+      "microphoneFeatures": [
+        "Pengukur level audio dan pengukur puncak waktu nyata.",
+        "Penganalisis spektrum frekuensi waktu nyata 32 band.",
+        "Deteksi beberapa perangkat mikrofon seperti mikrofon USB, mikrofon headset dll.",
+        "Kemampuan untuk mengonfigurasi laju sampel hingga 48 KHz kualitas studio.",
+        "Konfigurasi untuk merekam audio dalam mono atau stereo.",
+        "Pengukur level puncak dan RMS untuk audio.",
+        "Merekam audio secara otomatis dengan opsi untuk memutar ulang."
+      ]
+    },
+    "whoUses": {
+      "title": "Siapa yang Menggunakan Tes Webcam dan Tes Mikrofon Kami",
+      "remoteWorkers": {
+        "title": "Pekerja jarak jauh dan profesional",
+        "description": "Pekerja jarak jauh atau profesional melakukan tes singkat sebelum konferensi video dan rapat mereka di Zoom, Google Meet, atau Microsoft Teams untuk melihat apakah webcam mereka berfungsi dengan benar, kemudian melakukan <strong>tes mikrofon</strong> singkat untuk memastikan mereka terdengar sehingga mereka tidak perlu mengulang dan tidak terganggu dengan \"Kami tidak bisa mendengar Anda!\""
+      },
+      "contentCreators": {
+        "title": "YouTuber, streamer Twitch, podcaster, dan pembuat konten lainnya",
+        "description": "Bagi YouTuber, streamer Twitch, podcaster, dan pembuat konten lainnya, alat diagnostik audio dan video canggih kami adalah keharusan. Gunakan penganalisis spektrum frekuensi untuk mengatasi masalah audio dan jalankan tes kualitas video untuk memastikan Anda menghasilkan konten berkualitas tinggi."
+      },
+      "students": {
+        "title": "Siswa dan Guru",
+        "description": "Siswa perlu memastikan mereka dapat berkomunikasi melalui Internet. Mereka melakukan pengujian sebelum kelas untuk mengonfirmasi bahwa peralatan mereka berfungsi. Guru juga memeriksa untuk memastikan peralatan mereka dalam kondisi baik untuk mengajar kelas mereka dengan sukses."
+      },
+      "jobSeekers": {
+        "title": "Pencari Kerja",
+        "description": "Jika Anda akan melakukan wawancara video, pastikan untuk melakukan <strong>tes kamera</strong> dan <strong>tes mikrofon</strong> sebelumnya. Ini adalah pembeda besar dan akan menunjukkan bahwa Anda siap. (Tidak ada yang lebih buruk dari kehilangan kesempatan karena kegagalan teknis.)"
+      },
+      "gamers": {
+        "title": "Gamer:",
+        "description": "Menggunakan headset gaming? Dapatkan hasil presisi yang Anda butuhkan untuk menguji mikrofon Anda untuk Discord, obrolan dalam game, atau streaming."
+      },
+      "techSupport": {
+        "title": "Dukungan Teknis",
+        "description": "Jika Anda mengalami masalah dengan kamera atau mikrofon Anda, alat kami dapat membantu menentukan apakah masalahnya pada perangkat keras, driver, atau pengaturan perangkat lunak."
+      }
+    },
+    "privacy": {
+      "title": "Jaminan Privasi 100%",
+      "intro": "Privasi adalah inti dari semua yang kami lakukan di alat <strong>tes webcam</strong> dan <strong>tes mikrofon</strong> kami. Kami menyadari bahwa dengan mengakses kamera dan mikrofon Anda, Anda berbagi informasi pribadi dengan kami. Itulah mengapa seluruh platform kami dirancang dengan kebijakan nol kepercayaan.",
+      "localProcessing": {
+        "title": "Semua pemrosesan dilakukan di mesin lokal Anda",
+        "description": "Pemrosesan video dan audio dilakukan menggunakan API WebRTC di browser Anda. Kami tidak menyimpan data Anda di server kami karena kami bahkan tidak mendapatkannya."
+      },
+      "noAccount": {
+        "title": "Tidak Perlu Akun",
+        "description": "Anda tidak perlu membuat akun, memasukkan alamat email, atau membagikan detail pribadi apa pun. Cukup kunjungi situs, izinkan browser Anda, uji perangkat Anda dan selesai."
+      },
+      "transparent": {
+        "title": "Kode transparan",
+        "description": "Kami tidak mengaburkan kode kami. Anda dapat melihatnya di browser Anda menggunakan alat pengembang. Tidak ada pelacakan, tidak ada pengumpulan data, tidak ada analitik untuk mengumpulkan data pribadi Anda."
+      },
+      "cleanup": {
+        "title": "Penghapusan Otomatis:",
+        "description": "Semua rekaman disimpan di penyimpanan lokal browser. Rekaman akan dihapus secara otomatis saat Anda menutup browser atau menghapus penyimpanan lokal. Anda memiliki kendali penuh atas apa yang disimpan dan untuk jangka waktu berapa lama."
+      }
+    },
+    "compatibility": {
+      "title": "Kompatibilitas lintas browser dan perangkat",
+      "intro": "Sebagian besar browser dan perangkat modern yang populer didukung oleh pengujian webcam dan mikrofon kami. Kedua alat tersedia di Windows, Mac OS, Linux, iOS, Android atau sistem operasi lain yang mendukung browser modern tanpa memerlukan unduhan atau instalasi tambahan.",
+      "browsersTitle": "Browser yang Didukung",
+      "browsers": [
+        "Google Chrome (performa terbaik)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (di MacOS dan iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Perangkat yang Didukung",
+      "devices": [
+        "Webcam bawaan atau USB eksternal di komputer desktop dan laptop",
+        "Smartphone dan tablet dengan kamera depan dan belakang",
+        "Kamera USB eksternal dan webcam untuk PC",
+        "Mikrofon bawaan laptop",
+        "Mikrofon USB eksternal",
+        "Headset gaming dengan mikrofon",
+        "Antarmuka audio profesional dan mikrofon kondensor"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Butuh Bantuan?",
+      "intro": "Tidak bisa membuat <strong>tes webcam</strong> atau <strong>tes mikrofon</strong> berfungsi? Coba salah satu solusi berikut.",
+      "cameraTitle": "Kamera Tidak Terdeteksi atau Tidak Berfungsi",
+      "cameraIssues": [
+        "Pastikan Anda telah mengizinkan kamera di browser Anda. Di bilah alamat, Anda akan melihat ikon kamera yang dapat digunakan untuk mengaktifkan akses kamera.",
+        "Anda sedang menggunakan kamera di aplikasi lain (Zoom, Teams, Skype dll). Anda hanya dapat menggunakan kamera di satu aplikasi dalam satu waktu. Tutup aplikasi lain atau segarkan halaman dan izinkan akses lagi.",
+        "Segarkan halaman dan izinkan akses lagi. Ini mungkin disebabkan oleh bug browser.",
+        "Gunakan versi terbaru browser.",
+        "Periksa apakah driver kamera telah terinstal dengan benar di komputer Anda.",
+        "Jika Anda menggunakan kamera USB, coba hubungkan ke port USB lain atau gunakan kabel yang berbeda."
+      ],
+      "microphoneTitle": "Mikrofon Tidak Berfungsi",
+      "microphoneIssues": [
+        "Izinkan akses mikrofon di browser Anda.",
+        "Pastikan mikrofon terhubung dengan benar ke sumber daya.",
+        "Gunakan pengaturan suara sistem untuk memeriksa apakah mikrofon berfungsi.",
+        "Aplikasi lain sedang menggunakan mikrofon. Coba tutup aplikasi tersebut.",
+        "Coba sesuaikan level mikrofon di pengaturan sistem untuk menaikkan volume jika suara Anda tidak cukup keras, atau menurunkan volume jika terlalu keras.",
+        "Periksa apakah mikrofon tidak dalam keadaan bisu di sistem Anda atau pada perangkat (jika ada tombol bisu perangkat keras pada perangkat)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Tautan Cepat",
+      "webcamTitle": "Pengujian Webcam:",
+      "webcamLinks": ["Tes Webcam", "Tes Webcam Online", "Tes Kamera", "Penguji Kamera Online", "Tes Webcam Gratis", "Periksa Webcam Saya", "Tes Kamera USB", "Tes Kamera Laptop", "Tes Kamera untuk Zoom"],
+      "microphoneTitle": "Pengujian Mikrofon:",
+      "microphoneLinks": ["Tes Mikrofon", "Tes Mikrofon Online", "Tes Mikrofon Saya", "Penguji Mikrofon Online", "Tes Mikrofon Gratis", "Periksa Mikrofon", "Tes Audio Online", "Tes Mikrofon USB", "Tes Mikrofon Discord"]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Tes webcam Anda dengan alat tes online kami yang cepat dan mudah. Alat ini menawarkan pratinjau waktu nyata kamera Anda, berbagai pengaturan kualitas, efek khusus, dan perekaman otomatis menggunakan kamera Anda secara online, semuanya tanpa instalasi perangkat lunak tambahan. Jadi Anda bisa menggunakannya sebagai <strong>tes kamera</strong> konferensi web, atau menguji webcam bawaan di komputer baru.",
+      "p2": "Untuk menguji, cukup tekan tombol 'Mulai Kamera & Rekam' di atas. Pratinjau langsung webcam Anda akan muncul sehingga Anda dapat melihat apakah video Anda berfungsi, menguji pencahayaan, dan apakah kamera Anda diposisikan dengan benar. Tidak ada yang diunggah, disimpan, atau diakses. Tes video Anda dilakukan secara lokal di komputer Anda."
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Alat Tes Webcam Kami",
+      "intro": "Untuk menguji webcam Anda, ikuti langkah-langkah sederhana ini:",
+      "steps": [
+        "<strong>Izinkan Akses:</strong> Dialog akan muncul menanyakan apakah browser dapat mengakses webcam. Tekan Izinkan untuk mengizinkan browser mengakses webcam. Perhatikan bahwa ini berlaku untuk semua situs web tes webcam. Dialog muncul sebagai langkah keamanan untuk mencegah situs web acak mengakses webcam.",
+        "<strong>Pilih kamera yang benar:</strong> Jika Anda memiliki beberapa kamera (misalnya, kamera laptop bawaan dan kamera USB terpisah), Anda dapat memilih kamera mana yang akan digunakan dari menu dropdown. Alat tes webcam kami akan secara otomatis mendeteksi dan mencantumkan semua kamera.",
+        "<strong>Pilih kualitas:</strong> Pilih resolusi (kualitas) yang diinginkan dari dropdown kualitas. Anda dapat menguji kamera pada kualitas rendah (240p), kualitas sedang (480p), kualitas tinggi (720p), kualitas fullHD (1080p) dll. Kualitas lebih tinggi memberikan gambar yang lebih jelas tetapi memerlukan lebih banyak bandwidth dan CPU.",
+        "<strong>Mulai tes:</strong> Tekan Mulai Kamera & Rekam dan Anda akan langsung melihat umpan langsung dari kamera Anda. Anda dapat langsung mulai merekam dan kemudian melihat kualitasnya.",
+        "<strong>Gunakan filter visual:</strong> Kami memiliki lebih dari 9 filter visual (hitam&putih, sepia, buram, kontras tinggi, dll) untuk melihat bagaimana pengaruhnya terhadap output kamera Anda.",
+        "<strong>Ambil foto:</strong> Anda dapat mengambil foto selama pengujian untuk memeriksa kualitas gambar Anda atau untuk melihat bagaimana kamera menangani kondisi pencahayaan tertentu.",
+        "<strong>Berhenti & Simpan:</strong> Setelah selesai, tekan Berhenti & Simpan Rekaman untuk menghentikan perekaman. Video akan disimpan di browser sehingga Anda dapat memutarnya kembali dan mengunduhnya."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Fitur Webcam Lanjutan",
+      "intro": "Alat <strong>penguji webcam</strong> kami mencakup fitur tingkat profesional yang dirancang untuk berbagai kegunaan - dari panggilan video kasual hingga pembuatan konten.",
+      "mirrorMode": {
+        "title": "Mode Cermin untuk Selfie Sempurna",
+        "description": "Cermin dan balik adalah fitur yang wajib dimiliki untuk tutorial makeup, blogger, dan bagi mereka yang ingin melihat seperti apa mereka dari cermin. Saat Anda mengklik tombol Cermin (saat kamera Anda dinyalakan), itu akan membalik video webcam Anda secara horizontal sehingga Anda dapat lebih baik memeriksa wajah Anda, melakukan makeup, atau sekadar membiasakan diri dengan tampilan cermin. Terutama, jika Anda merekam video YouTube, video TikTok, atau cerita Instagram di mana Anda perlu menampilkan teks, menggunakan beberapa arah dll."
+      },
+      "digitalZoom": {
+        "title": "Zoom Digital (1x hingga 3x)",
+        "description": "Lihat seberapa tajam <strong>webcam</strong> Anda saat di-zoom pada level yang berbeda. Ideal untuk demo produk, tutorial, atau sekadar melihat dari jarak sangat dekat. Penggeser zoom & tombol cepat 1x, 2x, 3x untuk menguji ketajaman webcam Anda saat di-zoom. Berguna untuk melihat apakah Anda perlu mendekat ke kamera, atau apakah Anda bisa zoom tanpa menurunkan kualitas gambar terlalu banyak. Berguna bagi live streamer yang ingin zoom pada lukisan, kerajinan, atau pekerjaan perbaikan teknologi mereka."
+      },
+      "brightnessContrast": {
+        "title": "Kontrol Kecerahan & Kontras",
+        "description": "Sesuaikan kecerahan (50-150%) dan kontras (50-150%) dan lihat seperti apa webcam Anda dalam kondisi pencahayaan yang berbeda. Anda dapat menggunakan penggeser ini untuk menguji apakah eksposur otomatis kamera Anda berfungsi dengan baik dan untuk meniru pengaturan perekaman yang berbeda. Jika ruangan Anda terlalu gelap atau terlalu terang, Anda dapat menyesuaikan penggeser ke pengaturan yang nyaman untuk rapat video berikutnya. Streamer dan YouTuber sering menggunakan penggeser ini untuk mendapatkan hasil terbaik dari kamera mereka dan mempertahankan kondisi pencahayaan yang sama untuk video mereka."
+      },
+      "gridOverlay": {
+        "title": "Overlay Grid untuk Framing Profesional",
+        "description": "Overlay grid bawaan kami menggunakan teknik komposisi Rule of Thirds, memungkinkan Anda membingkai wajah Anda dengan sempurna dalam rekaman. Cukup letakkan mata Anda pada garis horizontal atas dan sejajarkan wajah Anda dengan panduan vertikal. Prinsip fotografi profesional ini memastikan rekaman video yang lebih menarik untuk YouTube, rapat bisnis, atau streaming Twitch. Overlay grid membantu framing yang konsisten dalam perekaman berulang."
+      },
+      "videoFilters": {
+        "title": "Filter & Efek Video",
+        "description": "Terapkan filter berikut ke <strong>webcam</strong> Anda untuk melihat tampilannya: Normal, Skala Abu-abu, Sepia, Inversi, Buram, Kecerahan, Kontras, Rotasi Warna, dan Saturasi. Filter menunjukkan seberapa baik kamera Anda dapat merepresentasikan warna dan bagaimana tampilannya saat Anda menggunakan filter efek video. Jika Anda seorang streamer atau YouTuber, Anda dapat menggunakan filter untuk melihat bagaimana stream Anda akan terlihat dengan efek berbeda yang diterapkan. Filter juga dapat digunakan untuk melihat apakah kamera Anda mengeluarkan warna yang benar. Bandingkan hasil filter Skala Abu-abu dan Sepia."
+      },
+      "videoMetrics": {
+        "title": "Metrik Video Waktu Nyata & Histogram:",
+        "description": "lihat detail teknis tentang video Anda seperti resolusi, laju bingkai, dan bitrate. Histogram RGB memungkinkan Anda melihat distribusi warna dalam video Anda. Ini berguna untuk mendeteksi kelebihan/kekurangan eksposur, bias warna, dan pencahayaan yang buruk. Fitur ini ideal untuk profesional seperti videografer, YouTuber, dan vlogger yang ingin memastikan video mereka sebaik mungkin. Jika histogram Anda memiliki tebing di kedua sisi, Anda perlu memperbaiki pencahayaan atau pengaturan kamera."
+      },
+      "advancedControls": {
+        "title": "Kontrol Kamera Lanjutan",
+        "description": "Beberapa webcam memiliki fitur seperti eksposur, mode fokus, keseimbangan putih, ISO, dan ketajaman yang dapat dikontrol oleh pengguna. Aplikasi web kami akan memungkinkan Anda memeriksa apa yang dapat dilakukan <strong>webcam</strong> Anda. Anda dapat beralih antara mode fokus otomatis dan manual, mengubah keseimbangan putih agar sesuai dengan temperatur cahaya Anda, atau mengatur kompensasi eksposur sesuai keinginan. Ini sangat berguna bagi streamer, YouTuber, dan profesional yang perlu mengontrol pengaturan kamera mereka."
+      },
+      "backgroundBlur": {
+        "title": "Efek Blur Latar Belakang",
+        "description": "Coba blur latar belakang berbasis web tanpa aplikasi atau green screen apa pun. Efek blur latar belakang kami menggunakan teknologi web terbaru untuk menghapus latar belakang dan memisahkannya dari Anda, berguna saat Anda harus melakukan panggilan konferensi video dari rumah dengan latar belakang yang tidak ingin dilihat orang lain. Anda dapat menyesuaikan tingkat blur yang diterapkan pada latar belakang Anda. Alat ini memungkinkan Anda melihat seberapa baik efek blur latar belakang bekerja dengan <strong>webcam</strong> dan aplikasi kamera Anda. Ini sangat berguna bagi pengembang web, pemasar digital, dan bagi semua orang yang membuat konten video."
+      },
+      "motionDetection": {
+        "title": "Deteksi Gerakan untuk Pengujian Keamanan",
+        "description": "Jika Anda ingin memeriksa seberapa responsif <strong>webcam</strong> Anda terhadap gerakan, gunakan deteksi gerakan waktu nyata kami. Dengan mode Lanjutan, Anda dapat melihat indikator persentase gerakan langsung yang mencerminkan gerakan dalam video Anda. Gunakan ini untuk pengujian gerakan kamera keamanan, konfigurasi sistem pengawasan, atau pengujian kamera perekaman yang diaktifkan gerakan. Detektor gerakan menganalisis aliran video bingkai demi bingkai untuk mengetahui jumlah gerakan. Ini memungkinkan untuk memeriksa seberapa bagus kameranya, dan sensitivitas apa yang Anda butuhkan. Berguna untuk keamanan rumah, pemantau hewan peliharaan, dan pengujian pemantau bayi."
+      },
+      "faceDetection": {
+        "title": "Deteksi & Pelacakan Wajah",
+        "description": "Deteksi kemampuan webcam Anda untuk mendeteksi wajah. Dalam mode lanjutan, kami menggambar kotak pembatas di sekitar wajah dan menghitungnya. Alat deteksi wajah kami menggunakan FaceDetector API, jika tersedia di browser Anda, untuk mendeteksi beberapa wajah dalam satu bingkai. Gunakan alat ini untuk menguji fungsionalitas <strong>kamera</strong> Anda untuk auto-framing dalam konferensi video, atau untuk melihat bagaimana kamera menangani lebih dari satu wajah. Pembuat konten video dapat melihat apakah kamera mereka mendeteksi wajah dengan benar untuk keperluan auto-focus, dan profesional dapat memeriksa apakah ruang rapat multi-orang mereka berfungsi sesuai harapan."
+      },
+      "sideBySide": {
+        "title": "Mode berdampingan: Bandingkan dua kamera",
+        "description": "Mode berdampingan memungkinkan Anda membandingkan 2 webcam secara berdampingan. Berguna untuk menguji beberapa webcam secara bersamaan. Jika Anda memiliki kamera web bawaan dan kamera web USB eksternal, Anda dapat melihatnya secara berdampingan pada waktu bersamaan. Ini juga sangat berguna untuk memilih kamera web yang akan dibeli. Anda dapat membandingkan kualitas gambar kamera, akurasi warna, performa cahaya rendah, dan bidang pandang secara waktu nyata. Ini adalah alat yang hebat bagi streamer dan YouTuber."
+      }
+    },
+    "videoQuality": {
+      "title": "Pengaturan Kualitas Video Webcam Dijelaskan",
+      "intro": "Resolusi menentukan ketajaman video yang dihasilkan webcam Anda. Berikut cara kerja pengaturan pada tes resolusi webcam kami:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Ini adalah pengaturan kualitas terendah, untuk saat Anda hanya ingin menguji apakah streaming Anda berfungsi dan koneksi internet Anda buruk. Video Anda akan buram, tetapi bagus untuk melihat apakah kamera Anda melakukan streaming, setidaknya."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Kualitas rendah, penggunaan bandwidth kecil. Anda bisa melakukan panggilan video resolusi rendah jika Anda tidak terlalu peduli dengan kualitas. Anda masih bisa mengenali wajah, tetapi tidak lebih dari itu."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Definisi standar. Ini adalah titik tengah antara kualitas dan bandwidth. Sebagian besar aplikasi obrolan video dan streaming bisa menggunakan ini. Ini biasanya resolusi dari kebanyakan webcam lama."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Resolusi ini menghasilkan kualitas konferensi video definisi tinggi, yang bagus untuk penggunaan profesional. Ini menawarkan gambar tajam dan kualitas warna yang baik. Ini adalah resolusi paling populer yang digunakan dalam aplikasi konferensi video seperti Zoom, Teams, dan Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Ini adalah resolusi tertinggi yang akan Anda temukan di webcam, dan ideal untuk orang yang ingin membuat konten berkualitas tinggi, streaming, atau membutuhkan kualitas video terbaik. Ini memerlukan lebih banyak bandwidth dan pemrosesan, tetapi Anda akan mendapatkan gambar yang tajam dan profesional."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Resolusi Quad HD dengan detail dan kejernihan yang sangat baik. Bagus untuk pembuat konten profesional, streamer yang membutuhkan kualitas gambar tingkat tinggi, dan mereka yang memiliki monitor 4K yang menginginkan resolusi native. Diperlukan webcam berkualitas tinggi dan bandwidth yang signifikan."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra High Definition dengan empat kali lipat piksel dari 1080p. Kualitas tingkat profesional untuk pembuat konten, pembuat film, dan streaming kelas atas. Memerlukan webcam premium, perangkat keras komputer yang kuat, dan internet berkecepatan tinggi. Sempurna untuk mempersiapkan rekaman masa depan dan memaksimalkan detail untuk zoom digital dan pemotongan."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "Resolusi maksimum yang mungkin. Memiliki 16 kali lebih banyak piksel dari 1080p. Ini biasanya digunakan untuk webcam profesional kelas sangat tinggi, atau untuk orang yang menggunakan DSLR/mirrorless sebagai webcam. Anda memerlukan webcam kelas atas atau DSLR/mirrorless yang sangat kuat, komputer yang sangat bertenaga, dan koneksi yang sangat cepat. Ini hanya boleh digunakan saat Anda memerlukan kualitas tingkat sinema, atau saat Anda memiliki monitor yang sangat besar, atau jika Anda ingin melakukan zoom digital banyak."
+        }
+      },
+      "tip": "Jika Anda melakukan tes webcam, uji dengan 720p terlebih dahulu untuk memastikan kamera Anda berfungsi dengan definisi tinggi, kemudian uji dengan resolusi lain yang Anda butuhkan."
+    },
+    "frameRate": {
+      "title": "Laju Bingkai dan Performa Video yang Halus.",
+      "intro": "Laju bingkai adalah frekuensi (kecepatan) di mana perangkat pencitraan menghasilkan gambar berturut-turut yang unik yang disebut bingkai. Laju bingkai dinyatakan dalam bingkai per detik (FPS). Semakin tinggi laju bingkai, semakin halus tampilan videonya, terutama dalam gerakan. Alat tes webcam online kami memeriksa FPS nyata dari webcam Anda, untuk menunjukkan apakah webcam Anda memiliki masalah.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Cukup untuk konferensi video. Gerakannya terlihat agak patah-patah. Bisa jadi kamera kelas rendah, pencahayaan buruk, atau bottleneck CPU."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Ini adalah laju bingkai khas untuk webcam dan sebagian besar aplikasi konferensi video. Gerakannya halus dan nyata. Ini juga laju bingkai ideal untuk konferensi video profesional."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Laju bingkai tinggi yang memungkinkan kehalusan gerakan yang lebih baik. Ideal untuk streamer dan YouTuber di mana kehalusan gerakan adalah kunci. Perhatikan bahwa tidak semua webcam mendukung 60 FPS, dan akan mengonsumsi lebih banyak bandwidth."
+        }
+      },
+      "tip": "Jika hasil tes dari webcam Anda menunjukkan laju bingkai rendah, Anda mungkin perlu mempertimbangkan menggunakan resolusi yang lebih rendah, atau meningkatkan pencahayaan. Cahaya bisa menjadi masalah pada webcam karena mereka mungkin mengurangi laju bingkai untuk dapat meningkatkan waktu eksposur."
+    },
+    "lighting": {
+      "title": "Tips untuk Video Webcam yang Lebih Baik",
+      "intro": "Pencahayaan adalah variabel paling signifikan dalam kualitas video webcam. Webcam berkualitas rendah dengan pencahayaan yang bagus akan terlihat lebih baik daripada webcam berkualitas tinggi dengan pencahayaan yang buruk.",
+      "tips": {
+        "position": {
+          "title": "Cahaya di Depan Anda",
+          "description": "Sumber cahaya harus di depan Anda, bukan di belakang Anda. Pencahayaan dari belakang (seperti memposisikan diri di depan jendela) akan membuat wajah Anda gelap dan berbayang."
+        },
+        "soft": {
+          "title": "Lembutkan Cahaya",
+          "description": "Hindari pencahayaan langsung yang menyebabkan bayangan kuat dan titik terang. Beberapa sumber cahaya, atau cahaya yang masuk dari jendela besar, selalu lembut dan menghasilkan gambar yang lebih profesional."
+        },
+        "flicker": {
+          "title": "Menghindari Lampu yang Berkedip",
+          "description": "Beberapa lampu LED dan lampu neon akan berkedip pada frekuensi yang dapat dilihat oleh kamera Anda, dan Anda akan mendapatkan kedipan di video Anda. Coba gunakan lampu pijar atau lampu LED berkualitas tinggi untuk video."
+        },
+        "color": {
+          "title": "Temperatur warna adalah faktor lain yang perlu dipertimbangkan.",
+          "description": "Pastikan semua sumber cahaya memiliki temperatur warna yang sama. Cahaya hangat dan dingin yang bercampur terlihat tidak natural. Webcam umumnya terlihat lebih baik di bawah cahaya seimbang siang hari (5000-6500K)."
+        }
+      },
+      "tip": "Uji alat tes webcam kami dengan beberapa sumber cahaya untuk menentukan apakah gambar webcam Anda membaik. Anda dapat menguji pengaturan cahaya yang berbeda karena tampilan langsung untuk melihat apa yang paling cocok untuk Anda."
+    },
+    "types": {
+      "title": "Jenis-jenis Webcam dan Apa yang Diharapkan",
+      "builtIn": {
+        "title": "Webcam Bawaan Laptop",
+        "description": "Laptop hampir selalu memiliki webcam bawaan di bagian atas layar. Sebagian besar, ini adalah kamera 720p, dan berfungsi dengan baik untuk obrolan video sesekali. Namun, kualitasnya bisa sangat bervariasi tergantung laptop yang Anda miliki. Umumnya, laptop yang lebih bagus akan memiliki webcam yang lebih baik."
+      },
+      "usb": {
+        "title": "Webcam USB",
+        "description": "Ada juga webcam eksternal yang terhubung melalui USB. Jika Anda mencari sesuatu yang lebih baik dari kamera terintegrasi, model dasar akan memberi Anda 1080p pada 30 FPS, tetapi model kelas atas akan mencapai hingga 4K, 60 FPS, dengan fokus otomatis, kompensasi cahaya rendah, dll."
+      },
+      "streaming": {
+        "title": "Kamera Streaming:",
+        "description": "Kamera yang dibuat untuk streamer, ini berfokus pada kualitas gambar dengan sensor yang lebih besar, sensitivitas cahaya rendah yang ditingkatkan, dan ilmu warna yang ditingkatkan. HDR dan penyesuaian FOV adalah umum."
+      },
+      "dslr": {
+        "title": "Opsi 1: DSLR/Mirrorless sebagai Webcam",
+        "description": "Banyak kamera baru yang dapat digunakan sebagai webcam melalui USB, atau dengan capture card. Ini akan memberikan kualitas gambar tertinggi, tetapi juga memerlukan peralatan dan konfigurasi paling banyak."
+      },
+      "tip": "Jika Anda tidak yakin apakah kamera Anda berfungsi dengan alat kami, tes webcam komprehensif kami kompatibel dengan semua jenis kamera. Jangan ragu untuk menggunakannya untuk membandingkan webcam yang berbeda, atau sekadar memeriksa bahwa webcam baru Anda berfungsi setelah Anda menghubungkannya."
+    },
+    "troubleshooting": {
+      "title": "Butuh Bantuan Memperbaiki Webcam Anda?",
+      "intro": "Jika Anda telah menjalankan tes dan menemukan masalah, ikuti langkah-langkah ini untuk mengidentifikasi dan memperbaiki masalah yang paling umum:",
+      "blackScreen": {
+        "title": "Webcam Menampilkan Layar Hitam",
+        "issues": [
+          "Periksa apakah Anda memiliki penutup fisik (seperti slider privasi, plester, atau selotip) di atas lensa kamera",
+          "Periksa apakah aplikasi lain (Skype, Zoom, Teams, dll.) sedang menggunakan kamera di latar belakang. Tutup aplikasi tersebut dan coba tes webcam ini lagi.",
+          "Jika Anda masih mengalami masalah, coba mulai ulang browser Anda dan coba tes webcam lagi.",
+          "Jika Anda menggunakan webcam USB eksternal, coba hubungkan ke port USB yang berbeda.",
+          "Perbarui atau instal ulang driver kamera Anda."
+        ]
+      },
+      "blurry": {
+        "title": "Video Webcam Buram",
+        "issues": [
+          "Bersihkan lensa webcam dengan kain mikrofiber.",
+          "Jika webcam Anda memiliki cincin fokus, coba sesuaikan fokus secara manual.",
+          "Pastikan ada cukup cahaya untuk membantu kamera Anda melakukan fokus otomatis.",
+          "Bergeraklah sedikit lebih dekat atau lebih jauh dari webcam dan lihat apakah ada perbaikan."
+        ]
+      },
+      "colors": {
+        "title": "Warna Webcam Terlihat Salah",
+        "issues": [
+          "Apakah Anda berada di bawah kondisi pencahayaan yang berbeda? Pencahayaan alami dan buatan dapat memiliki nada warna yang berbeda.",
+          "Coba sesuaikan keseimbangan putih di pengaturan webcam Anda, jika tersedia.",
+          "Apakah Anda mengenakan sesuatu atau memiliki sesuatu di sekitar Anda dengan warna dominan yang mungkin menyebabkan bias warna? Coba hilangkan."
+        ]
+      },
+      "choppy": {
+        "title": "Video Patah-patah atau Lambat",
+        "issues": [
+          "Kurangi kualitas video di pengaturan alat tes webcam ini.",
+          "Coba tutup semua aplikasi lain yang mengonsumsi sumber daya CPU atau GPU.",
+          "Perbaiki kondisi pencahayaan Anda untuk mengurangi beban pada kamera Anda.",
+          "Jika Anda menggunakan webcam USB eksternal, hubungkan langsung ke komputer Anda alih-alih melalui USB hub."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Menguji Webcam untuk Platform Tertentu",
+      "zoom": {
+        "title": "Konferensi Video Zoom",
+        "description": "Gunakan tes webcam ini untuk memastikan bahwa kamera Anda berfungsi dengan baik sebelum Anda memulai rapat Zoom yang penting. Pastikan kualitas video cukup baik pada 720p (yang merupakan kualitas default untuk sebagian besar rapat Zoom). Pastikan pencahayaan Anda cukup dan posisi Anda dalam tampilan webcam bagus sebelum bergabung dengan panggilan Zoom."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "Video HD 1080p tersedia dalam rapat. Uji kamera pada resolusi berbeda untuk mengonfirmasi bahwa kamera Anda dapat mendukung resolusi video Teams. Uji latar belakang untuk kualitas profesional untuk Together Mode dan latar belakang virtual."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet secara otomatis menyesuaikan kualitas video berdasarkan kondisi jaringan. Uji pada minimum 720p untuk memastikan bahwa kamera Anda memenuhi persyaratan minimum Google Meet untuk transmisi video berkualitas tinggi."
+      },
+      "streaming": {
+        "title": "Streaming (Twitch/YouTube)",
+        "description": "Uji pada resolusi maksimum yang dapat ditangani webcam Anda (sebaiknya 1080p60). Pastikan laju bingkai stabil, dan lihat seberapa baik kamera Anda mengatasi gerakan cepat dan berbagai kondisi pencahayaan."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Jika Anda menggunakan Discord untuk melakukan panggilan video, perlu memiliki webcam yang mampu menjalankan 720p. Anda ingin memastikan bahwa kamera yang Anda miliki sesuai untuk komputer Anda dan untuk sesi gaming serta panggilan komunitas. Ini juga memastikan bahwa kamera Anda tidak menghabiskan terlalu banyak bandwidth dan menghambat gaming Anda."
+      }
+    },
+    "relatedTools": {
+      "title": "Alat & Sumber Daya Terkait",
+      "alsoTry": "Coba Juga:",
+      "alsoTryLinks": ["Tes Webcam & Mikrofon", "Tes Mikrofon", "Tes Mik", "Tes Rekaman Audio", "Periksa Mikrofon Online"],
+      "onThisPage": "Di Halaman Ini:",
+      "onThisPageLinks": ["Cara Menguji Webcam Anda", "Pengaturan Kualitas Video", "Pemecahan Masalah Kamera", "Perbaikan Webcam Tidak Berfungsi", "Pengaturan Webcam Terbaik"]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Apakah mikrofon Anda berfungsi? Gunakan <strong>tes mikrofon</strong> cepat dan sederhana kami untuk memastikan <strong>mikrofon Anda berfungsi</strong> dengan benar. <strong>Tes mikrofon online</strong> ini juga akan menampilkan level mikrofon, spektrum frekuensi, dan merekam audio Anda. Tidak diperlukan perangkat lunak atau plugin untuk <strong>menguji mikrofon Anda</strong>. <strong>Tes mikrofon Anda</strong> sekarang sebelum Anda tampil live, memulai panggilan video, atau merekam podcast.",
+      "p2": "Tekan tombol 'Mulai Mikrofon & Rekam' di atas untuk memeriksa mikrofon Anda. Level audio ditampilkan secara waktu nyata, sehingga Anda dapat melihat apakah mikrofon Anda menangkap suara sesuai harapan. Grafik frekuensi audio 32 band memungkinkan Anda melihat seberapa baik mikrofon Anda menangkap frekuensi suara. Ini sangat berguna jika Anda seorang podcaster atau musisi karena akan memungkinkan Anda menggunakan peralatan yang dapat menangkap semua frekuensi dengan jelas."
+    },
+    "howToTest": {
+      "title": "Cara Menguji Mikrofon Anda",
+      "intro": "Lakukan langkah-langkah ini untuk <strong>tes mikrofon</strong> lengkap:",
+      "steps": [
+        "<strong>Izinkan Akses ke Mikrofon Anda:</strong> Izinkan browser untuk menggunakan mikrofon Anda. Klik izinkan jika muncul kotak dialog dengan permintaan untuk memberikan akses ke mikrofon Anda. Jika Anda menggunakan browser untuk pertama kalinya, Anda mungkin perlu mengklik ikon perisai di bilah alamat dan kemudian memilih mikrofon untuk mengizinkan situs mengaksesnya.",
+        "<strong>Pilih Mikrofon Anda (jika perlu):</strong> Pilih mikrofon yang diinginkan dari opsi dropdown (mikrofon komputer Anda, mikrofon eksternal, dll.). <strong>Tes mikrofon online</strong> hanya dapat dilakukan melalui satu mikrofon dalam satu waktu.",
+        "<strong>Atur Laju Sampel dan Saluran Anda:</strong> Pilih laju sampel untuk mikrofon Anda (44,1 kHz untuk kualitas standar dan 48 kHz untuk kualitas lebih tinggi). Pilih saluran mono atau stereo tergantung pada apa yang ingin Anda capai.",
+        "<strong>Rekam Tes Mikrofon:</strong> Klik tombol rekam untuk memulai <strong>tes mikrofon</strong>. Ini akan mulai merekam secara otomatis sehingga Anda dapat mendengarkan pemutaran ulang nanti dan melihat bagaimana suara mikrofon Anda.",
+        "<strong>Amati Pengukur Level Mikrofon:</strong> Saat Anda melakukan <strong>tes mikrofon</strong>, amati pengukur level mikrofon saat Anda berbicara ke mikrofon. Jika merekam dengan benar, pengukur harus bergerak sesuai dengan volume suara Anda. Warna hijau menunjukkan level volume ideal, kuning untuk level volume yang lebih tinggi, dan merah untuk volume yang terlalu keras dan berpotensi clipping.",
+        "<strong>Coba Berbicara pada Volume Berbeda:</strong> Lakukan <strong>tes mikrofon</strong> dengan berbicara dengan suara normal kemudian dengan suara sangat pelan dan keras. Ini akan membantu Anda melihat seberapa sensitif mikrofon Anda terhadap volume yang berbeda.",
+        "<strong>Putar Ulang Rekaman:</strong> Setelah melakukan <strong>tes mikrofon online</strong>, putar ulang rekaman Anda untuk melihat bagaimana suara mikrofon tersebut. Ini akan membantu Anda mengidentifikasi masalah yang tidak akan Anda sadari hanya dengan pengukur level mikrofon."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Fitur Lanjutan",
+      "intro": "Baik Anda memecahkan masalah mengapa mikrofon tidak berfungsi atau ingin mendapatkan performa terbaik untuk rapat besar atau siaran langsung, ada beberapa fitur lanjutan yang dapat Anda uji di situs ini:",
+      "inputGain": {
+        "title": "Gain Input Optimal",
+        "description": "Konfigurasi gain mikrofon Anda antara 50% dan 150% dengan opsi yang telah dikonfigurasi sebelumnya atau secara langsung dengan penggeser kami. Kontrol atas gain input sangat penting bagi mereka yang merekam audio untuk podcasting di mana level konsisten antar episode diinginkan, untuk musisi (baik vokal maupun instrumen), dan untuk streamer yang sensitif terhadap clipping dan distorsi. Pilih preset Rendah (50%) untuk lingkungan yang terlalu keras atau jika Anda memiliki mikrofon kondensor yang sensitif, Normal (100%) untuk sebagian besar penggunaan, dan Tingkatkan (150%) untuk sumber yang lebih tenang yang membutuhkan amplifikasi lebih. Kontrol gain langsung kami memanfaatkan GainNode dari Web Audio API untuk amplifikasi tanpa menambahkan noise atau latensi."
+      },
+      "noiseSuppression": {
+        "title": "Terapkan peredam kebisingan untuk rekaman yang bersih",
+        "description": "Jika Anda ingin menghilangkan suara ketikan, klik mouse, kipas, AC, dan suara serupa dari rekaman, silakan aktifkan peredam kebisingan dan coba lagi. Ini bekerja di browser Anda dan dapat digunakan untuk membersihkan rekaman berisik dari kerja jarak jauh, podcast, rekaman rumah, video, dll, dan Anda tidak memerlukan noise gate atau plugin pengurangan noise. Peredam kebisingan menggunakan Web Audio API untuk menekan noise langsung pada mikrofon sehingga tidak meningkatkan beban CPU atau menambah latensi. Anda dapat menguji dengan dan tanpa peredam kebisingan untuk melihat apa yang paling cocok untuk mikrofon Anda."
+      },
+      "echoCancellation": {
+        "title": "Mengapa berguna: Pembatalan gema",
+        "description": "menghilangkan umpan balik akustik dan gema dari mikrofon Anda sebelum pengujian. Ini penting untuk panggilan video, wawancara podcast, dan siaran langsung ketika audio speaker Anda juga dapat ditangkap oleh mikrofon Anda. Gunakan pop-up pengaturan awal untuk mengaktifkan pembatalan gema untuk menguji mikrofon Anda dengan fitur ini aktif. Ini akan membantu Anda memutuskan apakah Anda perlu menangani ruang rekaman Anda untuk akustik, atau apakah Anda bisa mengandalkan pembatalan gema browser. Berguna untuk: pekerja jarak jauh, pewawancara podcast, dan siapa saja yang merekam di ruangan dengan banyak permukaan keras (yang bisa bergema)."
+      },
+      "autoGainControl": {
+        "title": "Pertahankan volume konsisten dengan AGC",
+        "description": "AGC membuat level mikrofon Anda terdengar lebih keras dan lebih konsisten. Jika Anda berbicara pelan, AGC akan membuat Anda lebih keras. Jika Anda berbicara keras, AGC akan membuat Anda lebih pelan. Ini bagus untuk streamer, karena jika Anda berada di momen yang keras, Anda tidak perlu khawatir terlalu keras. Ini juga bagus untuk podcaster, jika Anda bergerak menjauh dari mikrofon. Juga bagus untuk konferensi video, jika Anda ingin terdengar seperti profesional. Centang kotak ini, dan lihat apakah AGC berfungsi baik dengan browser dan mikrofon Anda. Jika Anda suka merekam musik atau ASMR, Anda mungkin ingin mematikannya."
+      },
+      "realtimeMeter": {
+        "title": "Pantau level audio Anda secara waktu nyata.",
+        "description": "Pengukur level menunjukkan RMS (Root mean square) dari sinyal audio, menunjukkan level aktual dari audio. Puncak juga ditampilkan, di mana level akan mulai clipping. Pengukur level memiliki tiga bagian; hijau, kuning, dan merah. Zona hijau adalah level optimal, antara -12 dan -6 dB. Zona kuning antara -6 dan -3 dB dan zona merah adalah apa pun di atas -3 dB, ketika audio Anda akan clipping. Gunakan pengukur ini untuk memastikan mikrofon Anda diposisikan dengan benar. Gunakan untuk menyesuaikan level suara Anda. Gunakan untuk memantau level audio Anda sebelum Anda mulai merekam, sehingga Anda tahu level Anda tidak akan clipping. Podcaster menggunakan ini untuk mencocokkan level antar episode. Musisi menggunakannya untuk mengatur gain mikrofon mereka. Pekerja jarak jauh menggunakannya untuk memastikan mereka terdengar, tetapi tidak terlalu keras."
+      },
+      "frequencySpectrum": {
+        "title": "Analisis Spektrum Frekuensi",
+        "description": "Analisis spektrum frekuensi waktu nyata dari respons frekuensi mikrofon Anda. Gunakan spektrum 32-band untuk menentukan frekuensi mana yang ditangkap mikrofon Anda. Rumble berlebihan (20-250Hz)? Mid yang keruh (250Hz-2kHz)? Sibilance yang kasar (6kHz-8kHz)? Ini digunakan oleh teknisi audio untuk mengevaluasi mikrofon dan ruangan, podcaster untuk menemukan frekuensi bermasalah yang perlu di-equalize, dan musisi untuk menentukan mikrofon mana yang paling cocok untuk suara atau instrumen mereka. Pembaruan waktu nyata memungkinkan Anda menganalisis posisi, kedekatan, dan lingkungan Anda."
+      },
+      "sideBySide": {
+        "title": "Perbandingan berdampingan dua mikrofon",
+        "description": "Pilih opsi perbandingan berdampingan untuk menggunakan dua mikrofon sekaligus. Ini sangat berguna jika Anda memiliki dua mikrofon yang terhubung (misalnya mikrofon bawaan laptop Anda dan mikrofon USB), dan Anda ingin melihatnya berdampingan untuk membandingkan kualitas audio, lantai kebisingan, respons frekuensi, dan sensitivitas masing-masing. Ini berguna untuk memilih mikrofon yang akan dibeli, menguji penempatan mikrofon yang berbeda, atau memutuskan mikrofon mana yang akan digunakan untuk podcast atau streaming Anda. Saya menggunakannya untuk membuktikan bahwa membeli mikrofon baru sepadan, desainer suara menggunakannya untuk menemukan pasangan untuk mikrofon lain untuk perekaman stereo, dan departemen IT perusahaan mungkin menggunakannya untuk menguji mikrofon sebelum mendistribusikan ke seluruh perusahaan. Untuk menggunakannya, pilih pengaturan perbandingan di preset, pilih mikrofon kedua, dan keduanya akan ditampilkan berdampingan dengan hasil waktu nyata."
+      },
+      "snrMeasurement": {
+        "title": "Pengukuran Rasio Sinyal terhadap Kebisingan (SNR)",
+        "description": "Angka hijau menunjukkan SNR Anda saat ini. 60 dB adalah minimum yang direkomendasikan untuk perekaman profesional, 50-60 dB adalah minimum untuk penyiaran dan podcasting, dan 40-50 dB cukup untuk obrolan video dan tutorial. SNR yang baik akan memberi tahu Anda apakah mikrofon Anda cukup baik untuk apa yang ingin Anda lakukan, apakah ruangan Anda terlalu berisik, atau apakah Anda perlu menambahkan panel akustik. Klik tombol \"Lanjutan\" di kanan atas layar untuk menampilkan SNR, lantai kebisingan, dan rentang dinamis saat Anda mengukur. Ini adalah pengukuran yang berguna bagi podcaster yang ingin memastikan siaran mereka dalam standar siaran, musisi yang ingin mengevaluasi setup studio rumah mereka, dan bagi siapa saja yang peduli dengan kualitas suara mereka."
+      }
+    },
+    "audioLevels": {
+      "title": "Level Audio Dijelaskan",
+      "intro": "Pengukur level audio di tes mikrofon di atas memberikan representasi visual dari level volume input mikrofon Anda. Penting untuk mengetahui arti setiap level untuk menghasilkan suara yang bagus:",
+      "green": {
+        "title": "Zona Hijau (0-50%)",
+        "description": "Level audio yang dapat diterima untuk sebagian besar kasus. Suara Anda terdengar keras dan jelas, dan Anda memiliki banyak ruang untuk menjadi lebih keras tanpa clipping. Usahakan tetap di rentang ini untuk panggilan video dan komunikasi lainnya."
+      },
+      "yellow": {
+        "title": "Zona Kuning (50-80%)",
+        "description": ": Level audio tinggi yang masih dapat diterima. Bagus untuk perekaman ketika Anda menginginkan audio yang kuat dan jelas. Namun, suara keras yang tiba-tiba mungkin menyebabkan clipping."
+      },
+      "red": {
+        "title": "Zona Merah (80-100%)",
+        "description": ": Ini adalah zona bahaya, di mana audio Anda mungkin akan terdistorsi (clipping). Jika Anda sering berada di zona merah, Anda harus menurunkan volume mikrofon di panel kontrol, atau menjauh dari mikrofon Anda."
+      },
+      "peak": {
+        "title": "Level Puncak:",
+        "description": "Level tertinggi yang dicapai dalam sesi Anda. Ini berguna untuk memeriksa apakah ada kejadian keras singkat yang menyebabkan clipping, ketika level rata-rata normal."
+      },
+      "rms": {
+        "title": "Level RMS",
+        "description": "- Volume rata-rata dari waktu ke waktu. Jauh lebih penting daripada puncak dalam hal kenyaringan yang dirasakan. Anda ingin level RMS Anda berada di zona hijau untuk audio yang konsisten keras tetapi masih enak didengar."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Analisis Spektrum Frekuensi",
+      "intro": "Tes mikrofon kami berisi penganalisis spektrum frekuensi 32-band yang menampilkan distribusi sinyal audio di berbagai frekuensi. Ini adalah alat profesional yang memungkinkan Anda menganalisis respons frekuensi mikrofon Anda dan mendiagnosis berbagai masalah:",
+      "low": {
+        "title": "Frekuensi Rendah (20-250 Hz)",
+        "description": "Ini adalah frekuensi bass yang menambahkan body dan kehangatan pada suara Anda. Energi frekuensi rendah yang berlebihan dapat membuat rekaman Anda terdengar keruh atau berdengung. Ini sering kali akibat berdiri terlalu dekat dengan mikrofon. (Efek kedekatan.)"
+      },
+      "mid": {
+        "title": "Frekuensi Menengah (250-4000 Hz)",
+        "description": "Sebagian besar kejernihan suara Anda terletak di sini. Area ini harus menonjol dan terdefinisi. Jika rentang ini kurang, suara Anda akan terdengar lemah atau jauh."
+      },
+      "high": {
+        "title": "Frekuensi Tinggi (4000-20000 Hz)",
+        "description": "Kecerahan dan kejernihan. Frekuensi tinggi yang seimbang mereproduksi ucapan secara tajam dan dapat dipahami. Terlalu banyak frekuensi tinggi terdengar berdesis atau sibilant (suara tzz)."
+      },
+      "tip": "Amati pengukur frekuensi saat berbicara. Jika menunjukkan distribusi frekuensi yang merata, maka mikrofon berada di posisi yang baik dan kemungkinan menangkap suara alami. Jika menunjukkan terlalu banyak aktivitas di ujung rendah, Anda mungkin perlu mundur sedikit."
+    },
+    "sampleRates": {
+      "title": "Pengaturan Laju Sampel",
+      "intro": "Laju sampel adalah jumlah sampel audio yang diambil per detik. Semakin tinggi laju sampel, semakin detail audionya, tetapi juga memerlukan lebih banyak sumber daya untuk pemrosesan dan penyimpanan:",
+      "rates": {
+        "22khz": {
+          "title": "22,05 kHz",
+          "description": "Kualitas rendah. Hanya untuk suara. Penggunaan bandwidth sangat rendah, tetapi respons frekuensi buruk. Biasanya sebaiknya dihindari."
+        },
+        "44khz": {
+          "title": "44,1 kHz (Kualitas CD)",
+          "description": "– Cocok untuk penggunaan umum. Merekam semua frekuensi yang dapat didengar oleh telinga manusia (20 Hz – 20 kHz). Bagus untuk konferensi video, podcasting, dan musik."
+        },
+        "48khz": {
+          "title": "48 kHz (Standar Profesional):",
+          "description": "Sangat mirip dengan 44,1 kHz tetapi kualitas sedikit lebih tinggi. Ini adalah standar untuk video/film dan penyiaran. Gunakan ini jika Anda akan menyinkronkan audio dengan video."
+        }
+      },
+      "tip": "Secara umum, 44,1 kHz cukup untuk sebagian besar tes mikrofon. Jika Anda adalah profesional audio serius dan menginginkan kualitas tertinggi (atau perlu mencocokkannya dengan rekaman video), Anda bisa menggunakan 48 kHz."
+    },
+    "types": {
+      "title": "Jenis-jenis Mikrofon",
+      "builtIn": {
+        "title": "Mikrofon Bawaan Laptop:",
+        "description": "Ini adalah mikrofon yang terpasang di laptop Anda. Mereka nyaman, tetapi cenderung berkualitas rendah. Anda mungkin mendengar suara ketikan dan kipas dari komputer Anda. Anda masih bisa menggunakannya, cukup posisikan laptop sehingga mikrofon menghadap Anda. Ini cukup untuk obrolan video dengan teman atau anggota keluarga, tetapi Anda mungkin tidak ingin merekam narasi dengannya."
+      },
+      "usb": {
+        "title": "Mikrofon USB:",
+        "description": "Berikut adalah rekomendasi mikrofon USB teratas saya untuk Mac dan PC. Mikrofon USB yang bagus akan membuat perbedaan besar dibandingkan mikrofon internal komputer Anda. Blue Yeti dan Audio-Technica AT2020 USB adalah dua mikrofon USB paling populer dan terdengar fantastis. Sempurna untuk podcasting, streaming Twitch, atau melakukan panggilan video."
+      },
+      "headset": {
+        "title": "Headset gaming dan earbuds:",
+        "description": "Jika Anda menginginkan headset atau earbuds untuk gaming, Anda juga bisa mempertimbangkan ini sebagai pilihan. Mereka lebih nyaman digunakan dan posisi mikrofon tetap sama setiap kali. Tentu saja, semakin bagus (dan mahal) headset atau earbuds, semakin baik kualitasnya. Ini bagus untuk keperluan gaming dan melakukan panggilan sesekali."
+      },
+      "condenser": {
+        "title": "Mikrofon Kondensor",
+        "description": "Mikrofon sensitif yang menangkap audio yang kaya dan detail. Memerlukan penempatan yang hati-hati dan penanganan akustik. Terbaik untuk perekaman profesional, narasi, dan produksi musik."
+      },
+      "dynamic": {
+        "title": "Mikrofon Dinamis:",
+        "description": "Kuat dan bagus dalam menolak kebisingan latar belakang. Sering digunakan untuk podcasting dan streaming karena toleransinya terhadap lingkungan rumah. Tidak sesensitif kondensor, tetapi lebih praktis."
+      },
+      "tip": "Tes mikrofon kami kompatibel dengan semua jenis mikrofon. Anda bisa menggunakannya untuk menguji beberapa mikrofon, mencoba perangkat keras baru, atau memecahkan masalah."
+    },
+    "bestPractices": {
+      "title": "Praktik Terbaik Perekaman Mikrofon.",
+      "distance": {
+        "title": "Jarak.",
+        "description": "15-30 cm dari mulut Anda. Lebih dekat: Terdengar lebih bassy (efek kedekatan) dan menangkap pernapasan. Lebih jauh: Suara lebih tipis dan menangkap kebisingan ruangan."
+      },
+      "popFilter": {
+        "title": "Investasi Pop Filter:",
+        "description": "Plosif (P, B, T) menciptakan hembusan udara yang menghasilkan distorsi. Letakkan pop filter antara Anda dan mikrofon dan suara itu akan hilang. Jika Anda berencana melakukan podcasting atau narasi, ini adalah keharusan."
+      },
+      "background": {
+        "title": "Minimalkan kebisingan latar belakang",
+        "description": "— Matikan kipas, tutup jendela, diamkan ponsel Anda. Lakukan tes mikrofon di lingkungan tempat Anda akan merekam. Ada banyak kebisingan yang bahkan tidak kita sadari."
+      },
+      "acoustics": {
+        "title": "Jangan lupakan Akustik Ruangan",
+        "description": "Anda tidak ingin merekam di ruangan dengan banyak permukaan keras dan datar — itu akan menciptakan gema dan reverb. Anda menginginkan permukaan lunak yang menyerap pantulan suara (gorden, karpet, panel akustik). Anda bahkan bisa merekam di lemari penuh pakaian, yang bisa membuat perbedaan besar."
+      },
+      "positioning": {
+        "title": "Konsistensi adalah kunci!",
+        "description": "Jika Anda menemukan bahwa mikrofon terdengar bagus di satu posisi, pertahankan di sana selama sesi perekaman Anda. Anda bisa berinvestasi pada boom arm atau stand mikrofon jika Anda ingin menghindari mikrofon bergeser sama sekali. Anda bahkan bisa menggambar lingkaran di meja untuk menunjukkan di mana mikrofon harus berada untuk mencapai suara bagus itu lagi."
+      }
+    },
+    "troubleshooting": {
+      "title": "Pemecahan Masalah Mikrofon",
+      "noAudio": {
+        "title": "Tidak Ada Audio Terdeteksi:",
+        "issues": [
+          "Verifikasi izin mikrofon telah diberikan di pengaturan browser",
+          "Periksa bahwa perangkat input yang benar dipilih di dropdown",
+          "Pastikan mikrofon tidak dalam keadaan bisu di perangkat keras atau pengaturan sistem",
+          "Untuk mikrofon USB, coba port yang berbeda",
+          "Tutup aplikasi lain yang mungkin menggunakan mikrofon"
+        ]
+      },
+      "quiet": {
+        "title": "Audio Terlalu Pelan:",
+        "issues": [
+          "Tingkatkan level input mikrofon di pengaturan sistem",
+          "Bergerak lebih dekat ke mikrofon",
+          "Periksa kontrol gain pada mikrofon itu sendiri",
+          "Pastikan Anda berbicara ke arah pola tangkap mikrofon"
+        ]
+      },
+      "distorted": {
+        "title": "Audio Terdistorsi atau Clipping:",
+        "issues": [
+          "Kurangi level input mikrofon di pengaturan sistem",
+          "Bergerak sedikit menjauh dari mikrofon",
+          "Periksa apakah ada halangan fisik atau kotoran pada mikrofon"
+        ]
+      },
+      "echo": {
+        "title": "Gema atau Reverb:",
+        "issues": [
+          "Gunakan headphone untuk mencegah speaker memberikan umpan balik ke mikrofon",
+          "Tambahkan bahan lunak ke ruangan Anda untuk menyerap pantulan suara",
+          "Mendekat ke mikrofon untuk meningkatkan suara langsung vs. pantulan ruangan"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Alat & Sumber Daya Terkait",
+      "alsoTry": "Coba Juga:",
+      "alsoTryLinks": ["Tes Webcam & Mikrofon", "Tes Webcam", "Tes Kamera", "Tes Rekaman Video", "Periksa Kamera Online"],
+      "onThisPage": "Di Halaman Ini:",
+      "onThisPageLinks": ["Cara Menguji Mikrofon Anda", "Panduan Level Audio", "Pemecahan Masalah Mikrofon", "Perbaikan Mikrofon Tidak Berfungsi", "Pengaturan Mikrofon Terbaik"]
+    }
+  }
+}

@@ -1,0 +1,1186 @@
+{
+  "meta": {
+    "home": {
+      "title": "Nemokamas internetinės kameros ir mikrofono testas internetu | MicTestCam",
+      "description": "Patikrinkite savo internetinę kamerą ir mikrofoną akimirksniu internetu. Nemokamas kameros ir mikrofono testo įrankis – 100% privatus, be atsisiuntimų. Patikrinkite, ar jūsų įrenginiai veikia prieš vaizdo skambučius."
+    },
+    "webcam": {
+      "title": "Internetinės kameros testas – nemokamas internetinis kameros tikrinimo įrankis | Patikrinkite savo kamerą",
+      "description": "Nemokamas internetinės kameros testo įrankis – akimirksniu patikrinkite, ar jūsų kamera veikia. Testuokite internetinę kamerą su gyvuoju peržiūra, filtrais, kokybės nustatymais ir įrašymu. 100% privatus, nereikia atsisiuntimų."
+    },
+    "microphone": {
+      "title": "Mikrofono testas – nemokamas internetinis mikrofono patikrinimas | Patikrinkite garsą",
+      "description": "Nemokamas internetinis mikrofono testas – patikrinkite, ar jūsų mikrofonas veikia. Testuokite garso lygius, dažnių atsaką ir įrašymo kokybę. 100% privatus mikrofono tikrintuvas, be atsisiuntimų."
+    },
+    "privacy": {
+      "title": "Privatumo politika | MicTestCam",
+      "description": "Sužinokite, kaip MicTestCam saugo jūsų privatumą. Visa internetinės kameros ir mikrofono testavimo veikla vyksta vietiniame jūsų naršyklėje – mes niekada nerenkame ar nesaugome jūsų duomenų."
+    },
+    "terms": {
+      "title": "Paslaugų teikimo sąlygos | MicTestCam",
+      "description": "MicTestCam paslaugų teikimo sąlygos – nemokamas internetinės kameros ir mikrofono testavimo įrankis. Perskaitykite mūsų naudojimosi paslaugomis sąlygas."
+    },
+    "contact": {
+      "title": "Susisiekite su mumis | MicTestCam",
+      "description": "Susisiekite su MicTestCam komanda. Kreipkitės dėl palaikymo, atsiliepimų ar verslo paklausimų apie mūsų nemokamus internetinės kameros ir mikrofono testavimo įrankius."
+    },
+    "blog": {
+      "title": "Tinklaraštis – internetinės kameros ir mikrofono patarimai | MicTestCam",
+      "description": "Ekspertų patarimai, pamokos ir vadovai apie internetinės kameros testavimą, mikrofono nustatymą bei garso ir vaizdo optimizavimą. Sužinokite, kaip pasiekti geriausią kokybę vaizdo skambučiams."
+    },
+    "reviews": {
+      "title": "Geriausios internetinės kameros ir mikrofono apžvalgos | MicTestCam",
+      "description": "Išsamios apžvalgos, įvertinimai ir pirkėjų gidai internetinėms kameroms, mikrofonams, ausinėms ir garso bei vaizdo įrangai. Ekspertų analizė padės jums pasirinkti tobulą įrangą srautiniam perdavimui ir vaizdo skambučiams."
+    }
+  },
+  "nav": {
+    "home": "Pradžia",
+    "webcamTest": "Internetinės kameros testas",
+    "microphoneTest": "Mikrofono testas",
+    "reviews": "Apžvalgos",
+    "blog": "Tinklaraštis",
+    "privacy": "Privatumo politika",
+    "terms": "Paslaugų teikimo sąlygos",
+    "contact": "Kontaktai"
+  },
+  "privacy": {
+    "banner": "100% privatumas – niekas nepalieka jūsų naršyklės"
+  },
+  "home": {
+    "hero": {
+      "title": "Nemokamas internetinės kameros ir mikrofono testas internetu",
+      "subtitle": "Akimirksniu patikrinkite, ar jūsų kamera ir mikrofonas veikia puikiai prieš kitą vaizdo skambutį. Be atsisiuntimų, be registracijos, visiškai privatus.",
+      "webcamCta": "Testuoti internetinę kamerą",
+      "microphoneCta": "Testuoti mikrofoną"
+    },
+    "features": {
+      "title": "Kodėl naudoti MicTestCam?",
+      "privacy": {
+        "title": "100% privatumas",
+        "description": "Jūsų garsas ir vaizdas niekada nepalieka naršyklės. Mes nesaugome, neįkeliame ir neapdorojame jūsų medijos duomenų savo serveriuose."
+      },
+      "simple": {
+        "title": "Paprastas vienu paspaudimu",
+        "description": "Jokios sudėtingos konfigūracijos. Tiesiog paspauskite mygtuką ir akimirksniu pamatykite savo internetinę kamerą arba išgirskite savo mikrofoną. Veikia per kelias sekundes."
+      },
+      "professional": {
+        "title": "Profesionalūs įrankiai",
+        "description": "Išplėstinės funkcijos, tokios kaip dažnių spektro analizė, vaizdo filtrai, kokybės nustatymai ir vietinio įrašymo galimybės."
+      },
+      "universal": {
+        "title": "Veikia visur",
+        "description": "Suderinamas su visomis moderniosiomis naršyklėmis ir įrenginiais. Testuokite prieš Zoom, Teams, Meet, Discord ar bet kurią vaizdo konferencijų programą."
+      }
+    },
+    "howItWorks": {
+      "title": "Kaip tai veikia",
+      "step1": {
+        "title": "Spustelėkite pradėti",
+        "description": "Pasirinkite internetinės kameros ar mikrofono testą ir spustelėkite pradžios mygtuką"
+      },
+      "step2": {
+        "title": "Leisti prieigą",
+        "description": "Suteikite naršyklei leidimą pasiekti jūsų kamerą ar mikrofoną"
+      },
+      "step3": {
+        "title": "Matyti rezultatus",
+        "description": "Akimirksniu pamatykite vaizdo srautą arba garso lygius. Jei reikia, įrašykite klipus"
+      }
+    },
+    "faq": {
+      "title": "Dažnai užduodami klausimai",
+      "q1": {
+        "question": "Ar šis internetinės kameros testas tikrai privatus?",
+        "answer": "Taip, absoliučiai. Visas apdorojimas vyksta tiesiogiai jūsų naršyklėje naudojant žiniatinklio API. Jokie vaizdo ar garso duomenys niekada nesiunčiami į mūsų serverius ar trečiosioms šalims. Galite tai patikrinti peržiūrėdami naršyklės tinklo skiltį."
+      },
+      "q2": {
+        "question": "Ar reikia ką nors įdiegti?",
+        "answer": "Diegti nereikia. MicTestCam veikia visiškai jūsų žiniatinklio naršyklėje. Tiesiog apsilankykite puslapyje ir spustelėkite pradėti."
+      },
+      "q3": {
+        "question": "Kokios naršyklės palaikomos?",
+        "answer": "MicTestCam veikia visose moderniosiose naršyklėse, įskaitant Chrome, Firefox, Safari, Edge ir Opera staliniuose ir mobiliuosiuose įrenginiuose."
+      },
+      "q4": {
+        "question": "Ar galiu įrašyti vaizdo ar garso įrašus?",
+        "answer": "Taip! Galite įrašyti vaizdo klipus internetinės kameros testo puslapyje ir garso klipus mikrofono testo puslapyje. Visi įrašai išsaugomi vietoje jūsų naršyklėje ir gali būti atsisiųsti."
+      },
+      "q5": {
+        "question": "Kodėl mano kamera ar mikrofonas neveikia?",
+        "answer": "Įsitikinkite, kad suteikėte naršyklei leidimą pasiekti jūsų įrenginį. Patikrinkite, ar kita programa nenaudoja jūsų kameros ar mikrofono. Pabandykite atnaujinti puslapį arba išskleidžiamajame meniu pasirinkite kitą įrenginį."
+      },
+      "q6": {
+        "question": "Ar tai nemokama?",
+        "answer": "Taip, MicTestCam yra visiškai nemokamas naudoti be jokių apribojimų ar paslėptų mokesčių."
+      },
+      "q7": {
+        "question": "Ar galiu testuoti prieš Zoom/Teams/Meet skambutį?",
+        "answer": "Absoliučiai! MicTestCam yra puikus skambučiams prieš jungiantis. Tiesiog ištestuokite savo įrenginius čia, tada prisijunkite prie vaizdo konferencijos su pasitikėjimu."
+      },
+      "q8": {
+        "question": "Kaip pasirinkti kitą kamerą ar mikrofoną?",
+        "answer": "Naudokite įrenginio išskleidžiamąjį meniu testo puslapyje, kad perjungtumėte tarp prijungtų kamerų ar mikrofonų."
+      },
+      "q9": {
+        "question": "Kur išsaugomi mano įrašai?",
+        "answer": "Įrašai išsaugomi vietoje jūsų naršyklės saugykloje. Jie išlieka net užvėrus naršyklę ir gali būti atsisiųsti ar ištrinti bet kuriuo metu."
+      },
+      "q10": {
+        "question": "Ar tai veikia mobiliuosiuose telefonuose?",
+        "answer": "Taip, MicTestCam veikia mobiliuosiuose įrenginiuose su moderniosiomis naršyklėmis. Telefone galite testuoti tiek priekinę, tiek galinę kameras."
+      }
+    },
+    "trust": {
+      "tests": "50 000+ testų kasdien",
+      "apps": "Veikia su Zoom, Teams, Meet",
+      "browsers": "Visos moderniosios naršyklės palaikomos"
+    }
+  },
+  "webcam": {
+    "title": "Internetinės kameros testas – nemokamas internetinis kameros tikrintuvas",
+    "subtitle": "Ištestuokite savo kamerą akimirksniu. Pamatykite savo vaizdo įrašą, sureguliuokite kokybę, taikykite filtrus ir įrašykite klipus.",
+    "startButton": "Pradėti kamerą ir įrašyti",
+    "stopButton": "Sustabdyti ir išsaugoti įrašą",
+    "snapshotButton": "Padaryti momentinę nuotrauką",
+    "permissionMessage": "Spustelėkite aukščiau esantį mygtuką, kad pradėtumėte internetinės kameros testą",
+    "recording": "Įrašoma",
+    "deviceLabel": "Kamera",
+    "qualityLabel": "Kokybė",
+    "filterLabel": "Filtras",
+    "filters": {
+      "normal": "Įprastas",
+      "grayscale": "Pilki tonai",
+      "sepia": "Sepija",
+      "invert": "Invertuoti",
+      "blur": "Blur",
+      "brightness": "Ryškumas",
+      "contrast": "Kontrastas",
+      "hueRotate": "Atspalvio sukimas",
+      "saturate": "Sodrumas"
+    },
+    "savedRecordings": {
+      "title": "Išsaugoti įrašai",
+      "clearAll": "Išvalyti viską",
+      "noRecordings": "Įrašų kol kas nėra. Pradėkite įrašymą, kad išsaugotumėte vaizdo klipus.",
+      "play": "Paleisti",
+      "download": "Atsisiųsti",
+      "delete": "Ištrinti"
+    },
+    "testCamera": "Testuoti kamerą",
+    "stopCamera": "Sustabdyti kamerą",
+    "record": "Įrašyti",
+    "stopRecording": "Sustabdyti įrašymą",
+    "showAdvanced": "Rodyti išplėstinius",
+    "hideAdvanced": "Slėpti išplėstinius",
+    "mirrorMode": "Veidrodžio režimas",
+    "flipHorizontally": "Apversti horizontaliai",
+    "digitalZoom": "Skaitmeninis priartinimas",
+    "brightness": "Ryškumas",
+    "contrast": "Kontrastas",
+    "dark": "Tamsus",
+    "normal": "Įprastas",
+    "bright": "Šviesus",
+    "low": "Žemas",
+    "high": "Aukštas",
+    "cameraComparison": "Kamerų palyginimas",
+    "compareSideBySide": "Palyginti šalia",
+    "requires2Cameras": "(reikia 2+ kamerų)",
+    "secondCamera": "Antroji kamera",
+    "fineTuneWhileRecording": "Tiksliai derinti įrašymo metu",
+    "camera1": "Kamera 1",
+    "camera2": "Kamera 2",
+    "motion": "Judėjimas",
+    "advanced": {
+      "title": "Išplėstiniai kameros valdikliai",
+      "exposure": "Ekspozicija",
+      "focus": "Fokusas",
+      "whiteBalance": "Baltosios spalvos balansas",
+      "image": "Vaizdas",
+      "ptz": "PTZ",
+      "mode": "Režimas",
+      "exposureTime": "Ekspozicijos laikas",
+      "distance": "Atstumas",
+      "temperature": "Temperatūra",
+      "sharpness": "Ryškumas",
+      "zoom": "Priartinimas",
+      "pan": "Horizontalus sukimas",
+      "tilt": "Vertikalus pasvyrimas",
+      "saturation": "Sodrumas",
+      "noAdvancedControls": "Jūsų kamera nepalaiko išplėstinių aparatinės įrangos valdiklių"
+    },
+    "backgroundBlur": {
+      "title": "Fono suliejimas",
+      "blurStrength": "Suliejimo stiprumas",
+      "skinToneNote": "Naudojama lengva odos tono aptikimo technologija. Norėdami geresnių rezultatų, užtikrinkite gerą apšvietimą."
+    },
+    "faceDetection": {
+      "facesDetected": "Aptikta",
+      "face": "Veidas"
+    },
+    "framing": {
+      "grid": "Tinklelis",
+      "faceGuide": "Veido gairė",
+      "moveRight": "Judėti dešinėn",
+      "moveLeft": "Judėti kairėn",
+      "moveDown": "Judėti žemyn",
+      "moveUp": "Judėti aukštyn",
+      "moveCloser": "Artinkitės",
+      "moveBack": "Tolinkitės",
+      "greatFraming": "Puikus kadravimas!",
+      "noFaceDetected": "Veidas neaptiktas"
+    },
+    "histogram": {
+      "videoAnalysis": "Vaizdo analizė",
+      "histogram": "Histograma",
+      "waveform": "Bangos forma",
+      "shadows": "Šešėliai",
+      "midtones": "Vidutiniai tonai",
+      "highlights": "Šviesios vietos"
+    },
+    "metrics": {
+      "fps": "KPS",
+      "resolution": "Raiška",
+      "bitrate": "Duomenų perdavimo sparta",
+      "lighting": "Apšvietimas",
+      "dropped": "Prarasti",
+      "tooDark": "Per tamsu",
+      "lowLight": "Silpnas apšvietimas",
+      "overexposed": "Pereksponuota",
+      "good": "Gerai",
+      "hideMetrics": "Slėpti metrikas"
+    }
+  },
+  "microphone": {
+    "title": "Mikrofono testas – nemokamas internetinis mikrofono tikrintuvas",
+    "subtitle": "Ištestuokite savo mikrofoną naudodami realaus laiko garso lygio matuoklį ir dažnių spektro analizatorių.",
+    "startButton": "Pradėti mikrofoną ir įrašyti",
+    "stopButton": "Sustabdyti ir išsaugoti įrašą",
+    "permissionMessage": "Spustelėkite aukščiau esantį mygtuką, kad pradėtumėte mikrofono testą",
+    "recording": "Įrašoma",
+    "deviceLabel": "Mikrofonas",
+    "sampleRateLabel": "Atrankos dažnis",
+    "channelLabel": "Kanalai",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Garso lygis",
+    "frequencySpectrum": "Dažnių spektras",
+    "savedRecordings": {
+      "title": "Išsaugoti įrašai",
+      "clearAll": "Išvalyti viską",
+      "noRecordings": "Įrašų kol kas nėra. Pradėkite įrašymą, kad išsaugotumėte garso klipus.",
+      "play": "Paleisti",
+      "download": "Atsisiųsti",
+      "delete": "Ištrinti"
+    },
+    "testMicrophone": "Testuoti mikrofoną",
+    "stopMicrophone": "Sustabdyti mikrofoną",
+    "record": "Įrašyti",
+    "stopRecording": "Sustabdyti įrašymą",
+    "showAdvanced": "Rodyti išplėstinius",
+    "hideAdvanced": "Slėpti išplėstinius",
+    "inputGain": "Įvesties stiprinimas",
+    "noiseSuppression": "Triukšmo slopinimas",
+    "enableNoiseReduction": "Įjungti triukšmo mažinimą",
+    "echoCancellation": "Aido atšaukimas",
+    "reduceEchoFeedback": "Sumažinti aido atgalinį ryšį",
+    "autoGainControl": "Automatinis stiprinimo valdymas",
+    "autoAdjustVolume": "Automatiškai reguliuoti garsumą",
+    "microphoneComparison": "Mikrofonų palyginimas",
+    "compareSideBySide": "Palyginti šalia",
+    "requires2Mics": "(reikia 2+ mikrofonų)",
+    "secondMicrophone": "Antrasis mikrofonas",
+    "fineTuneWhileTesting": "Tiksliai derinti testavimo metu",
+    "boost": "Sustiprinti",
+    "normal": "Įprastas",
+    "low": "Žemas",
+    "advanced": {
+      "title": "Išplėstinė garso analizė",
+      "metrics": "Metrikos",
+      "spectrogram": "Spektrograma",
+      "signalToNoiseRatio": "Signalo ir triukšmo santykis",
+      "excellent": "Puikus",
+      "good": "Geras",
+      "fair": "Vidutinis",
+      "poor": "Prastas",
+      "rms": "RMS (dB)",
+      "peak": "Pikas (dB)",
+      "noiseFloor": "Triukšmo pagrindas",
+      "dominantFrequency": "Dominuojantis dažnis",
+      "detectedIssues": "Aptiktos problemos",
+      "detectedAt": "aptikta ties",
+      "time": "Laikas",
+      "frequencyLowHigh": "Dažnis (žemas → aukštas)"
+    },
+    "processing": {
+      "title": "Garso apdorojimas",
+      "noiseSuppression": "Triukšmo slopinimas",
+      "reduceBackgroundNoise": "Sumažinti foninį triukšmą",
+      "echoCancellation": "Aido atšaukimas",
+      "removeAudioFeedback": "Pašalinti garso atgalinį ryšį",
+      "autoGainControl": "Automatinis stiprinimo valdymas",
+      "normalizeVolumeLevels": "Normalizuoti garsumo lygius",
+      "directMonitoring": "Tiesioginis stebėjimas",
+      "listenToYourMic": "Klausytis savo mikrofono",
+      "monitorVolume": "Stebėjimo garsumas",
+      "useHeadphones": "Naudokite ausines, kad išvengtumėte atgalinio ryšio!"
+    },
+    "comparison": {
+      "title": "A/B mikrofonų palyginimas",
+      "microphoneA": "Mikrofonas A",
+      "microphoneB": "Mikrofonas B",
+      "selectMicrophone": "Pasirinkti mikrofoną...",
+      "startComparison": "Pradėti palyginimą",
+      "selectTwoDifferent": "Pasirinkite du skirtingus mikrofonus",
+      "active": "Aktyvus",
+      "switchTo": "Perjungti į",
+      "rmsLevel": "RMS lygis",
+      "peakLevel": "Piko lygis",
+      "snr": "SNR (dB)",
+      "stopComparison": "Sustabdyti palyginimą",
+      "micA": "Mikrofonas A",
+      "micB": "Mikrofonas B"
+    }
+  },
+  "privacyPage": {
+    "title": "Privatumo politika",
+    "lastUpdated": "Paskutinį kartą atnaujinta",
+    "intro": "MicTestCam rimtai žiūri į jūsų privatumą. Ši privatumo politika paaiškina, kaip mes tvarkome jūsų informaciją, kai naudojatės mūsų internetinės kameros ir mikrofono testavimo paslaugomis.",
+    "sections": {
+      "noCollection": {
+        "title": "Mes nerenkame jūsų duomenų",
+        "content": "MicTestCam sukurta privatumo kaip pagrindinio principo pagrindu. Mes nerenkame, nesaugome ir neperduodame jokių garso ar vaizdo duomenų iš jūsų internetinės kameros ar mikrofono testų. Visas apdorojimas vyksta jūsų žiniatinklio naršyklėje naudojant vietines JavaScript API."
+      },
+      "localStorage": {
+        "title": "Vietinė saugykla",
+        "content": "Kai įrašote vaizdo ar garso klipus, jie išsaugomi vietoje jūsų naršyklės IndexedDB saugykloje. Šie duomenys niekada nepalieka jūsų įrenginio ir nėra prieinami mums ar trečiosioms šalims. Šiuos įrašus galite ištrinti bet kuriuo metu per programos sąsają arba išvalydami naršyklės duomenis."
+      },
+      "cookies": {
+        "title": "Slapukai ir analizė",
+        "content": "Mes naudojame minimalius slapukus tik esminėms svetainės funkcijoms, pavyzdžiui, kalbos nuostatas. Galime naudoti privatumą gerbiančią analizę, siekdami suprasti bendrus naudojimo modelius, tačiau nesekame atskirų vartotojų ir nerenkame asmeninės informacijos."
+      },
+      "thirdParty": {
+        "title": "Trečiųjų šalių paslaugos",
+        "content": "Mūsų svetainėje gali būti nuorodų į trečiųjų šalių svetaines. Mes neesame atsakingi už šių išorinių svetainių privatumo praktiką. Prieš pateikdami bet kokią asmeninę informaciją, rekomenduojame peržiūrėti jų privatumo politikas."
+      },
+      "security": {
+        "title": "Saugumas",
+        "content": "Mes naudojame HTTPS šifravimą, kad apsaugotume visus ryšius tarp jūsų naršyklės ir mūsų svetainės. Kadangi nerenkame jūsų medijos duomenų, nėra jokios rizikos, kad jūsų internetinės kameros ar mikrofono įrašai būtų atskleisti per duomenų saugumo pažeidimą."
+      },
+      "children": {
+        "title": "Vaikų privatumas",
+        "content": "MicTestCam nėra skirtas vaikams iki 13 metų. Mes sąmoningai nerenkame informacijos iš vaikų."
+      },
+      "changes": {
+        "title": "Šios politikos pakeitimai",
+        "content": "Mes galime periodiškai atnaujinti šią privatumo politiką. Apie bet kokius pakeitimus pranešime, paskelbdami naują privatumo politiką šiame puslapyje ir atnaujindami datą „Paskutinį kartą atnaujinta\"."
+      },
+      "contact": {
+        "title": "Susisiekite su mumis",
+        "content": "Jei turite klausimų dėl šios privatumo politikos, susisiekite su mumis per mūsų kontaktų puslapį."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Paslaugų teikimo sąlygos",
+    "lastUpdated": "Paskutinį kartą atnaujinta",
+    "intro": "Sveiki atvykę į MicTestCam. Prisijungdami prie mūsų svetainės ir paslaugų arba jas naudodami, jūs sutinkate laikytis šių paslaugų teikimo sąlygų.",
+    "sections": {
+      "acceptance": {
+        "title": "Sąlygų priėmimas",
+        "content": "Naudodamiesi MicTestCam, jūs sutinkate su šiomis paslaugų teikimo sąlygomis ir mūsų privatumo politika. Jei nesutinkate su kuria nors šių sąlygų dalimi, negalite naudotis mūsų paslaugomis."
+      },
+      "description": {
+        "title": "Paslaugos aprašymas",
+        "content": "MicTestCam teikia nemokamus internetinius įrankius internetinėms kameroms ir mikrofonams testuoti. Mūsų paslauga leidžia patikrinti, ar jūsų kamera ir mikrofonas tinkamai veikia prieš vaizdo skambučius, įrašymus ar srautinio perdavimo sesijas."
+      },
+      "usage": {
+        "title": "Priimtinas naudojimas",
+        "content": "Jūs sutinkate naudoti MicTestCam tik teisėtais tikslais ir laikydamiesi šių sąlygų. Jūs sutinkate nenaudoti paslaugos jokiai neteisėtai veiklai, nebandyti trukdyti tinkamam svetainės veikimui, nebandyti pasiekti svetainės sričių, kurios nėra skirtos viešai prieigai, ir nenaudoti automatizuotų sistemų paslaugai pasiekti be leidimo."
+      },
+      "privacy": {
+        "title": "Privatumas ir duomenys",
+        "content": "Visi internetinės kameros ir mikrofono testavimai vyksta vietoje jūsų naršyklėje. Mes nerenkame, nesaugome ir neturime prieigos prie jūsų garso ar vaizdo duomenų. Daugiau informacijos rasite mūsų privatumo politikoje."
+      },
+      "intellectual": {
+        "title": "Intelektinė nuosavybė",
+        "content": "MicTestCam svetainė, įskaitant jos dizainą, kodą ir turinį, yra saugoma autorių teisių ir kitų intelektinės nuosavybės teisių aktų. Jūs negalite kopijuoti, modifikuoti, platinti ar atkurti jokios svetainės dalies be mūsų išankstinio raštiško sutikimo."
+      },
+      "disclaimer": {
+        "title": "Garantijų atsisakymas",
+        "content": "MicTestCam teikiama „tokia, kokia yra\" be jokių garantijų, tiesioginių ar numanomų. Mes negarantuojame, kad paslauga bus nepertraukiama, be klaidų ar atitiks jūsų konkrečius reikalavimus. Mes nesame atsakingi už bet kokias jūsų įrenginių aparatinės ar programinės įrangos problemas."
+      },
+      "limitation": {
+        "title": "Atsakomybės ribojimas",
+        "content": "Kiek leidžia teisė, MicTestCam nebus atsakinga už jokius netiesioginius, atsitiktinius, ypatingus, pasekminius ar baudžiamuosius nuostolius, atsirandančius dėl jūsų naudojimosi paslauga."
+      },
+      "changes": {
+        "title": "Sąlygų pakeitimai",
+        "content": "Mes pasiliekame teisę bet kuriuo metu keisti šias paslaugų teikimo sąlygas. Pakeitimai įsigalios nedelsiant juos paskelbus svetainėje. Toliau naudodamiesi paslauga po pakeitimų paskelbimo, jūs sutinkate su pakeistomis sąlygomis."
+      },
+      "governing": {
+        "title": "Taikoma teisė",
+        "content": "Šioms paslaugų teikimo sąlygoms taikoma ir jos aiškinamos pagal galiojančius teisės aktus, neatsižvelgiant į teisės normų kolizijos principus."
+      },
+      "contact": {
+        "title": "Kontaktai",
+        "content": "Jei turite klausimų dėl šių paslaugų teikimo sąlygų, susisiekite su mumis per mūsų kontaktų puslapį."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Susisiekite su mumis",
+    "subtitle": "Turite klausimų ar atsiliepimų? Mielai jus išgirstume.",
+    "form": {
+      "name": "Jūsų vardas",
+      "namePlaceholder": "Įveskite savo vardą",
+      "email": "El. pašto adresas",
+      "emailPlaceholder": "Įveskite savo el. paštą",
+      "subject": "Tema",
+      "subjectPlaceholder": "Apie ką tai?",
+      "message": "Žinutė",
+      "messagePlaceholder": "Parašykite savo žinutę čia...",
+      "submit": "Siųsti žinutę",
+      "sending": "Siunčiama...",
+      "success": "Ačiū! Jūsų žinutė sėkmingai išsiųsta.",
+      "error": "Atsiprašome, siunčiant jūsų žinutę įvyko klaida. Bandykite dar kartą."
+    },
+    "info": {
+      "title": "Kiti būdai susisiekti su mumis",
+      "email": "El. paštas",
+      "response": "Paprastai atsakome per 24–48 valandas.",
+      "social": "Sekite mus"
+    },
+    "faq": {
+      "title": "Prieš susisiekiant su mumis",
+      "subtitle": "Savo atsakymą galite rasti mūsų DUK skiltyje pagrindiniame puslapyje."
+    }
+  },
+  "blogPage": {
+    "title": "Internetinės kameros ir mikrofono testavimo tinklaraštis – patarimai, gidai ir pamokos",
+    "subtitle": "Ekspertų patarimai, pamokos ir įžvalgos apie internetinės kameros testavimą, mikrofono nustatymą ir garso bei vaizdo optimizavimą vaizdo skambučiams, srautiniam perdavimui ir turinio kūrimui.",
+    "noPosts": "Įrašų kol kas nėra",
+    "noPostsDescription": "Netrukus sugrįžkite naujam turiniui!",
+    "readMore": "Skaityti daugiau",
+    "by": "autorius",
+    "minRead": "min. skaitymas",
+    "categories": {
+      "all": "Visi įrašai",
+      "webcam": "Internetinės kameros patarimai",
+      "microphone": "Mikrofono patarimai",
+      "tutorials": "Pamokos",
+      "troubleshooting": "Problemų sprendimas"
+    },
+    "search": "Ieškoti straipsnių...",
+    "featured": "Išskirtinis",
+    "latest": "Naujausi straipsniai",
+    "relatedPosts": "Susiję įrašai"
+  },
+  "reviewsPage": {
+    "title": "Geriausios internetinės kameros ir mikrofono apžvalgos – ekspertų produktų analizė",
+    "subtitle": "Išsamios apžvalgos, įvertinimai ir pirkėjų gidai internetinėms kameroms, mikrofonams, ausinėms ir garso bei vaizdo įrangai. Raskite tobulą įrangą srautiniam perdavimui, vaizdo skambučiams ir turinio kūrimui.",
+    "noReviews": "Apžvalgų kol kas nėra",
+    "noReviewsDescription": "Netrukus sugrįžkite ekspertų produktų apžvalgoms!",
+    "by": "autorius",
+    "readMore": "Skaityti apžvalgą"
+  },
+  "footer": {
+    "tagline": "Testuokite savo internetinę kamerą ir mikrofoną internetu nemokamai",
+    "privacy": "Privatumo politika",
+    "terms": "Paslaugų teikimo sąlygos",
+    "contact": "Kontaktai",
+    "blog": "Tinklaraštis",
+    "copyright": "MicTestCam. Visos teisės saugomos.",
+    "language": "Kalba"
+  },
+  "common": {
+    "loading": "Kraunama...",
+    "error": "Klaida",
+    "close": "Uždaryti",
+    "back": "Atgal",
+    "next": "Toliau",
+    "submit": "Pateikti",
+    "cancel": "Atšaukti",
+    "save": "Išsaugoti",
+    "delete": "Ištrinti",
+    "edit": "Redaguoti",
+    "view": "Peržiūrėti",
+    "download": "Atsisiųsti",
+    "share": "Dalintis",
+    "copy": "Kopijuoti",
+    "copied": "Nukopijuota!",
+    "readMore": "Skaityti daugiau",
+    "learnMore": "Sužinoti daugiau",
+    "getStarted": "Pradėti"
+  },
+  "cta": {
+    "title": "Pasiruošę testuoti savo įrenginius?",
+    "subtitle": "Pradėkite testuoti savo internetinę kamerą ir mikrofoną dabar. Nereikia atsisiuntimų, nereikia registracijos.",
+    "webcamButton": "Testuoti internetinę kamerą",
+    "microphoneButton": "Testuoti mikrofoną"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam suteikia tiesioginį, nemokamą internetinės kameros ir mikrofono testavimą tiesiogiai jūsų naršyklėje. Nereikia atsisiuntimų. Ištestuokite kameros kokybę, mikrofono lygius ir garso aiškumą per mažiau nei 30 sekundžių prieš bet kurį vaizdo skambutį ar įrašymo sesiją.",
+      "p1": "Sveiki atvykę į MicTestCam! MicTestCam siūlo lengviausią būdą <strong>testuoti internetinę kamerą ir mikrofoną internetu</strong>, nesvarbu, ar norite patikrinti internetinę kamerą vaizdo konferencijai, susitikimui, pristatymui, įrašyti komentarus „YouTube\" vaizdo įrašams bei kanalui, ar atlikti išsamų <strong>mikrofono testą</strong> savo podkastui.",
+      "p2": "MicTestCam kameros ir mikrofono testavimo įrankiai veikia visiškai naršyklėje ir nereikalauja jokių atsisiuntimų. Vartotojo privatumas yra svarbiausia MicTestCam prioritetas. Visi testai atliekami jūsų naršyklėje ir jūsų vaizdo bei garso informacija niekada nepalieka jūsų kompiuterio. Su daugiau nei 50 000 testų kasdien ir 99,9% sėkmės rodikliu, MicTestCam yra populiariausia platforma profesionalams, nuotolinio darbo darbuotojams, turinio kūrėjams ir eiliniams vartotojams, norintiems testuoti įrenginius.",
+      "p3": "Paspauskite toliau esančius mygtukus, kad <strong>testuotumėte internetinę kamerą</strong> ar <strong>testuotumėte mikrofoną</strong>. MicTestCam per kelias sekundes patikrina, ar jūsų kamera ir mikrofonas tinkamai veikia prieš Zoom, Microsoft Teams, Google Meet, Discord, Skype ar kitą vaizdo skambutį.",
+      "keyTakeaways": {
+        "title": "Pagrindiniai dalykai",
+        "points": [
+          "Nemokamas momentinis internetinės kameros ir mikrofono testavimas – nereikia programinės įrangos diegimo",
+          "100% naršyklės pagrindu veikiantis testavimas užtikrina visišką privatumą ir duomenų saugumą",
+          "Realaus laiko grįžtamasis ryšys apie vaizdo kokybę, garso lygius ir dažnių atsaką",
+          "Suderinamas su Zoom, Teams, Meet, Discord ir visomis vaizdo platformomis",
+          "Daugiau nei 50 000 testų kasdien su 99,9% tikslumu"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Kodėl reikia testuoti internetinę kamerą ir mikrofoną prieš vaizdo skambučius?",
+      "directAnswer": "Internetinės kameros ir mikrofono testavimas prieš vaizdo skambučius išvengti gėdingų techninių gedimų, taupo susirinkimo laiką ir užtikrina profesionalų bendravimo kokybę. Skambutis prieš prisijungiant atskleidžia kameros kampo, apšvietimo, garso lygio ir fono triukšmo problemas prieš tai, kai jas pamatys auditorija.",
+      "p1": "Nuotolinis darbas ir virtualus bendravimas dabar yra standartinė verslo praktika. Gebėjimas aiškiai bendrauti vaizdu ir garsu yra labai svarbus profesinei sėkmei. Techniniai trukdžiai susirinkimų metu kenkia patikimumui ir gaišina laiką. Tekdamas nuolat klausti „Ar mane matote? Kaip dabar?\" kenkia profesinei reputacijai ir atideda svarbias diskusijas.",
+      "p2": "Atliekant greitą vaizdo testą prieš susirinkimus išvengiama techninių klaidų. Atliekant greitą garso testą prieš svarbius skambučius užtikrinama, kad jūsų garsas yra aiškus be fono triukšmo, aido ar iškraipymų. Pardavimų profesionalai, vadovai, mokytojai ir turinio kūrėjai supranta patikimos internetinės kameros ir mikrofono veikimo svarbą.",
+      "p3": "Skirtingai nuo kitų internetinės kameros ir mikrofono testavimo įrankių, MicTestCam ne tik patikrina, ar jūsų internetinė kamera ar mikrofonas veikia, bet ir suteikia išsamią informaciją apie vaizdo kokybę ir garso charakteristikas. MicTestCam padeda vartotojams rasti ir ištaisyti technines problemas prieš prasidedant vaizdo skambučiams.",
+      "comparison": {
+        "title": "MicTestCam prieš integruotus vaizdo platformų testus",
+        "points": [
+          "<strong>MicTestCam:</strong> Suteikia išsamią garso dažnių analizę, realaus laiko bangos formas ir profesionalias metrikas",
+          "<strong>Platformų testai:</strong> Rodo tik pagrindinį taip/ne veikimą be kokybės detalių",
+          "<strong>MicTestCam:</strong> Testai veikia visose platformose – Zoom, Teams, Meet, Discord vienu metu",
+          "<strong>Platformų testai:</strong> Tikrina veikimą tik toje konkrečioje platformoje",
+          "<strong>MicTestCam:</strong> Siūlo įrašų atkūrimą, kad girdėtumėte lygiai tai, ką girdės kiti",
+          "<strong>Platformų testai:</strong> Nėra atkūrimo funkcijos kokybės patikrinimui"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Kaip veikia MicTestCam kameros ir mikrofono tikrintuvas?",
+      "directAnswer": "MicTestCam naudoja WebRTC technologiją, kad pasiektų jūsų internetinę kamerą ir mikrofoną tiesiogiai per naršyklę. Testavimas vyksta visiškai jūsų įrenginyje naudojant tuos pačius protokolus, kuriuos naudoja Zoom, Teams ir Meet, užtikrinant tikslų realaus pasaulio veikimo testavimą be jokių duomenų įkėlimo į serverius.",
+      "p1": "MicTestCam kameros ir mikrofono tikrintuvas naudoja WebRTC protokolus – tuos pačius protokolus, kuriais remiasi populiarios žiniatinklio vaizdo konferencijų paslaugos. Kai <strong>testuojate internetinę kamerą</strong> naudodami MicTestCam, platforma pasiekia jūsų internetinę kamerą per naršyklės žiniatinklio API ir realiuoju laiku ekrane rodo vaizdo srautą. Vartotojai gali patikrinti, ar internetinė kamera veikia, ar apšvietimas tinkamas, ar kameros kampas teisingas ir įvertinti bendrą vaizdo kokybę.",
+      "p2": "MicTestCam <strong>mikrofono testo</strong> įrankis suteikia tiesioginį grįžtamąjį ryšį apie balso garsumo lygius. Kai vartotojai kalba į mikrofoną, garso matuokliai realiuoju laiku atspindi balso lygius, kad būtų galima nustatyti, ar mikrofonas tinkamai fiksuoja garsą. 32 juostų dažnių spektro analizatorius rodo, kaip garsas pasiskirsto dažniams – tai ypač vertinga funkcija podkastams ir muzikantams, testuojantiems mikrofonus profesionaliam įrašymui.",
+      "p3": "Abu MicTestCam įrankiai siūlo automatinio įrašymo galimybę. Vartotojai gali pradėti testą ir MicTestCam automatiškai įrašys kameros srautą ir garsą, leidžiant atkurti ir įvertinti kokybę taip, kaip ją patirtų auditorija. Visas įrašymas vyksta vietoje naršyklėje. MicTestCam neįkelia ir nesaugo jokių vartotojo duomenų išoriniuose serveriuose, užtikrinant visišką privatumą.",
+      "technicalSpecs": {
+        "title": "Techninės specifikacijos",
+        "specs": [
+          "<strong>Protokolas:</strong> WebRTC (žiniatinklio realiojo laiko ryšys) – pramonės standartas, kurį naudoja Zoom, Microsoft Teams, Google Meet",
+          "<strong>Garso analizė:</strong> 32 juostų dažnių spektro analizatorius (20 Hz – 20 kHz diapazonas)",
+          "<strong>Vaizdo raiška:</strong> Palaiko testavimą nuo 240p iki 8K (7680×4320), priklausomai nuo kameros galimybių",
+          "<strong>Kadrų dažnis:</strong> Realiojo laiko stebėjimas 15 KPS, 30 KPS ir 60 KPS",
+          "<strong>Privatumas:</strong> 100% kliento pusės apdorojimas – nulis duomenų perdavimo MicTestCam serveriams",
+          "<strong>Suderinamumas:</strong> Veikia Chrome, Firefox, Safari, Edge – visose pagrindinėse naršyklėse"
+        ]
+      }
+    },
+    "features": {
+      "title": "Pilnas testų funkcijų sąrašas",
+      "webcamTitle": "Internetinės kameros testas",
+      "webcamFeatures": [
+        "Tiesioginė kameros peržiūra su raiškos parinktimis nuo 240p iki 1080p.",
+        "Kelių kameros įrenginių aptikimas, pavyzdžiui, USB kameros, internetinės kameros, išorinės kameros.",
+        "9+ skirtingų filtrų ir efektų internetinei kamerai testuoti ir jos spalvų balansui patikrinti.",
+        "Kadrų dažnis per sekundę kamerai stebėti.",
+        "Momentinės nuotraukos darymo galimybė.",
+        "Automatinis vaizdo įrašymas iš internetinės kameros WebM ir MP4 formatais.",
+        "Įrašai išsaugomi vietinėje saugykloje."
+      ],
+      "microphoneTitle": "Mikrofono testas",
+      "microphoneFeatures": [
+        "Realiojo laiko garso lygio matuoklis ir piko matuoklis.",
+        "Realiojo laiko 32 juostų dažnių spektro analizatorius.",
+        "Kelių mikrofono įrenginių aptikimas, pavyzdžiui, USB mikrofonai, ausinių mikrofonai ir kt.",
+        "Galimybė konfigūruoti atrankos dažnius iki 48 kHz studijinės kokybės.",
+        "Konfigūruoti garso įrašymą mono arba stereo formatu.",
+        "Piko ir RMS lygio matuoklis garsui.",
+        "Automatiškai įrašo garsą su galimybe atkurti."
+      ]
+    },
+    "whoUses": {
+      "title": "Kas naudojasi mūsų internetinės kameros ir mikrofono testu",
+      "remoteWorkers": {
+        "title": "Nuotoliniai darbuotojai ir profesionalai",
+        "description": "Nuotolinis darbuotojas ar profesionalas prieš vaizdo konferencijas ir susirinkimus Zoom, Google Meet ar Microsoft Teams atlieka greitą testą, kad sužinotų, ar internetinė kamera tinkamai veikia, tada atlieka greitą <strong>mikrofono testą</strong>, kad įsitikintų, jog jie girdimi ir nereikės kartoti savęs bei nebus pertraukiami „Negirdime jūsų!\""
+      },
+      "contentCreators": {
+        "title": "YouTube kūrėjai, Twitch transliuotojai, podkastų autoriai ir kiti turinio kūrėjai",
+        "description": "YouTube kūrėjams, Twitch transliuotojams, podkastų autoriams ir kitiems turinio kūrėjams mūsų išplėstinis garso ir vaizdo diagnostikos įrankis yra būtinas. Naudokite dažnių spektro analizatorių garso problemoms spręsti ir paleiskite vaizdo kokybės testus, kad įsitikintumėte, jog teikiate aukštos kokybės turinį."
+      },
+      "students": {
+        "title": "Studentai ir mokytojai",
+        "description": "Studentai turi užtikrinti, kad galėtų bendrauti internetu. Jie atlieka testus prieš pamokas, kad patvirtintų, jog jų įranga veikia. Mokytojai taip pat tikrina, ar jų įranga tinkamai veikia, kad sėkmingai vestų pamokas."
+      },
+      "jobSeekers": {
+        "title": "Darbo ieškantys asmenys",
+        "description": "Jei ketinate dalyvauti vaizdo interviu, prieš juos atlikite <strong>kameros testą</strong> ir <strong>mikrofono testą</strong>. Tai yra didžiulis privalumas ir parodys, kad esate pasiruošę. (Nėra nieko blogesnio, kaip prarasti galimybę dėl techninio gedimo.)"
+      },
+      "gamers": {
+        "title": "Žaidėjai:",
+        "description": "Naudojate žaidimų ausines? Gaukite tikslius rezultatus, reikalingus mikrofonui testuoti Discord platformoje, žaidimo pokalbiuose ar transliacijos metu."
+      },
+      "techSupport": {
+        "title": "Techninė pagalba",
+        "description": "Jei kyla problemų su kamera ar mikrofonu, mūsų įrankiai gali padėti nustatyti, ar problema yra su aparatine įranga, tvarkyklėmis ar programinės įrangos nustatymais."
+      }
+    },
+    "privacy": {
+      "title": "100% privatumas garantuotas",
+      "intro": "Privatumas yra viso, ką darome mūsų <strong>internetinės kameros testo</strong> ir <strong>mikrofono testo</strong> įrankiuose, pagrindas. Mes suprantame, kad leisdami pasiekti jūsų kamerą ir mikrofoną, dalijatės su mumis privačia informacija. Štai kodėl visa mūsų platforma sukurta pagal nulinės prieigos politiką.",
+      "localProcessing": {
+        "title": "Visas apdorojimas vyksta jūsų vietiniame kompiuteryje",
+        "description": "Vaizdo ir garso apdorojimas atliekamas naudojant WebRTC API jūsų naršyklėje. Mes nesaugome jūsų duomenų savo serveriuose, nes jų net negauname."
+      },
+      "noAccount": {
+        "title": "Nereikia paskyros",
+        "description": "Jums nereikia kurti paskyros, įvesti el. pašto adreso ar dalintis asmeniniais duomenimis. Tiesiog apsilankykite svetainėje, suteikite naršyklei leidimą, ištestuokite savo įrenginius ir eikite."
+      },
+      "transparent": {
+        "title": "Skaidrus kodas",
+        "description": "Mes neobfuskuojame savo kodo. Galite jį peržiūrėti naršyklėje naudodami kūrėjo įrankius. Jokio sekimo, jokio duomenų rinkimo, jokios analizės jūsų privatiems duomenims rinkti."
+      },
+      "cleanup": {
+        "title": "Automatinis ištrynimas:",
+        "description": "Visi įrašai saugomi naršyklės vietinėje saugykloje. Jie bus automatiškai ištrinti uždarius naršyklę arba išvalant vietinę saugyklą. Jūs turite visišką valdžią virš to, kas saugoma ir kiek laiko."
+      }
+    },
+    "compatibility": {
+      "title": "Suderinamumas su naršyklėmis ir įrenginiais",
+      "intro": "Dauguma populiarių atnaujintų naršyklių ir įrenginių palaiko mūsų internetinės kameros ir mikrofono testus. Abu įrankiai prieinami Windows, Mac OS, Linux, iOS, Android ar bet kurioje kitoje operacinėje sistemoje, palaikančioje modernią naršyklę, nereikalaujant papildomų atsisiuntimų ar diegimo.",
+      "browsersTitle": "Palaikomos naršyklės",
+      "browsers": [
+        "Google Chrome (geriausias veikimas)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (MacOS ir iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Palaikomi įrenginiai",
+      "devices": [
+        "Integruotos ar išorinės USB internetinės kameros staliniuose ir nešiojamuosiuose kompiuteriuose",
+        "Išmanieji telefonai ir planšetiniai kompiuteriai su priekinėmis ir galinėmis kameromis",
+        "Išorinės USB kameros ir internetinės kameros asmeniniams kompiuteriams",
+        "Integruoti nešiojamojo kompiuterio mikrofonai",
+        "Išoriniai USB mikrofonai",
+        "Žaidimų ausinės su mikrofonais",
+        "Profesionalios garso sąsajos ir kondensatoriniai mikrofonai"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Reikia pagalbos?",
+      "intro": "Negalite <strong>internetinės kameros testo</strong> ar <strong>mikrofono testo</strong> pradėti? Išbandykite vieną iš šių sprendimų.",
+      "cameraTitle": "Kamera neaptikta ar neveikia",
+      "cameraIssues": [
+        "Įsitikinkite, kad naršyklėje leidote prieigą prie kameros. Adresų juostoje matysite kameros ženkliuką, kurį galite naudoti kamerai prieigai įjungti.",
+        "Kamerą naudoja kita programa (Zoom, Teams, Skype ir kt.). Kamerą galima naudoti tik vienoje programoje vienu metu. Uždarykite kitą programą arba atnaujinkite puslapį ir vėl suteikite prieigą.",
+        "Atnaujinkite puslapį ir vėl suteikite prieigą. Gali būti, kad tai naršyklės klaida.",
+        "Naudokite naujausią naršyklės versiją.",
+        "Patikrinkite, ar kompiuteryje tinkamai įdiegtos kameros tvarkyklės.",
+        "Jei naudojate USB kamerą, pabandykite prijungti ją prie kito USB prievado arba naudokite kitą kabelį."
+      ],
+      "microphoneTitle": "Mikrofonas neveikia",
+      "microphoneIssues": [
+        "Leiskite prieigą prie mikrofono savo naršyklėje.",
+        "Įsitikinkite, kad mikrofonas tinkamai prijungtas prie maitinimo šaltinio.",
+        "Naudokite sistemos garso nustatymus, kad patikrintumėte, ar mikrofonas veikia.",
+        "Kitos programos naudoja mikrofoną. Pabandykite jas uždaryti.",
+        "Pabandykite sureguliuoti mikrofono lygį sistemos nustatymuose, kad garsas būtų girdimas, jei jis per tylus, arba sumažinkite garsumą, jei per garsus.",
+        "Patikrinkite, ar mikrofonas nėra nutildytas jūsų sistemoje ar pačiame įrenginyje (jei įrenginyje yra aparatinis nutildymo mygtukas)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Greitos nuorodos",
+      "webcamTitle": "Internetinės kameros testavimas:",
+      "webcamLinks": [
+        "Internetinės kameros testas",
+        "Testuoti internetinę kamerą internetu",
+        "Kameros testas",
+        "Internetinis kameros tikrintuvas",
+        "Nemokamas internetinės kameros testas",
+        "Patikrinti mano internetinę kamerą",
+        "USB kameros testas",
+        "Nešiojamojo kompiuterio kameros testas",
+        "Testuoti kamerą Zoom programai"
+      ],
+      "microphoneTitle": "Mikrofono testavimas:",
+      "microphoneLinks": [
+        "Mikrofono testas",
+        "Mikrofono testas internetu",
+        "Testuoti mano mikrofoną",
+        "Internetinis mikrofono tikrintuvas",
+        "Nemokamas mikrofono testas",
+        "Patikrinti mikrofoną",
+        "Garso testas internetu",
+        "USB mikrofono testas",
+        "Discord mikrofono testas"
+      ]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Ištestuokite savo internetinę kamerą mūsų greitu ir paprastu internetiniu testavimo įrankiu. Jis siūlo realiojo laiko kameros peržiūrą, kelias kokybės nustatymus, specialiuosius efektus ir automatinį įrašymą naudojant kamerą internetu, visa tai be jokio papildomo programinės įrangos diegimo. Todėl galite jį naudoti kaip <strong>kameros testą</strong> vaizdo konferencijoms arba testuoti integruotą internetinę kamerą naujame kompiuteryje.",
+      "p2": "Norėdami testuoti, tiesiog paspauskite aukščiau esantį mygtuką „Pradėti kamerą ir įrašyti\". Pasirodys tiesioginė internetinės kameros peržiūra, kad galėtumėte patikrinti, ar vaizdas veikia, išbandyti apšvietimą ir ar kamera tinkamai padėta. Niekas neįkeliama, nesaugoma ar nepassiiekiama. Jūsų vaizdo testas atliekamas vietoje jūsų kompiuteryje."
+    },
+    "howToUse": {
+      "title": "Kaip naudoti mūsų internetinės kameros testo įrankį",
+      "intro": "Norėdami testuoti savo internetinę kamerą, atlikite šiuos paprastus veiksmus:",
+      "steps": [
+        "<strong>Leisti prieigą:</strong> Pasirodys dialogas, klausiantis, ar naršyklė gali pasiekti internetinę kamerą. Paspauskite Leisti, kad suteiktumėte naršyklei prieigą prie internetinės kameros. Atkreipkite dėmesį, kad tai taikoma bet kuriai internetinės kameros testo svetainei. Dialogas pasirodo kaip saugumo priemonė, siekiant apsaugoti nuo atsitiktinių svetainių prieigos prie internetinės kameros.",
+        "<strong>Pasirinkite tinkamą kamerą:</strong> Jei turite kelias kameras (pavyzdžiui, integruotą nešiojamojo kompiuterio kamerą ir atskirą USB kamerą), galite pasirinkti, kurią kamerą naudoti, išskleidžiamajame meniu. Mūsų internetinės kameros testo įrankis automatiškai aptiks ir pateiks visų kamerų sąrašą.",
+        "<strong>Pasirinkite kokybę:</strong> Pasirinkite norimą raišką (kokybę) iš kokybės išskleidžiamojo meniu. Galite testuoti kamerą žema kokybe (240p), vidutine kokybe (480p), aukšta kokybe (720p), pilno HD kokybe (1080p) ir kt. Aukštesnė kokybė suteikia aiškesnį vaizdą, bet reikalauja daugiau dažnio juostos ir procesoriaus.",
+        "<strong>Pradėkite testą:</strong> Paspauskite Pradėti kamerą ir įrašyti ir iškart pamatysite tiesioginį kameros srautą. Galite iškart pradėti įrašymą ir tada peržiūrėti kokybę.",
+        "<strong>Naudokite vaizdo filtrus:</strong> Turime daugiau nei 9 vaizdo filtrus (juodai baltas, sepija, suliejimas, didelis kontrastas ir kt.), kad pamatytumėte, kaip jie veikia jūsų kameros išvestį.",
+        "<strong>Padarykite momentinę nuotrauką:</strong> Testo metu galite padaryti momentinę nuotrauką, kad patikrintumėte paveikslėlio kokybę arba pamatytumėte, kaip kamera tvarko konkrečias apšvietimo sąlygas.",
+        "<strong>Sustabdyti ir išsaugoti:</strong> Baigę paspauskite Sustabdyti ir išsaugoti įrašą, kad sustabdytumėte įrašymą. Vaizdo įrašas bus išsaugotas naršyklėje, kad galėtumėte jį vėl paleisti ir atsisiųsti."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Išplėstinės internetinės kameros funkcijos",
+      "intro": "Mūsų <strong>internetinės kameros tikrintuvas</strong> apima profesionalaus lygio funkcijas, skirtas įvairiems naudojimo atvejams – nuo paprastų vaizdo skambučių iki turinio kūrimo.",
+      "mirrorMode": {
+        "title": "Veidrodžio režimas tobuloms asmenukėms",
+        "description": "Veidrodžio ir apvertimo funkcija yra būtina makiažo pamokoms, dienoraštininkams ir tiems, kurie nori pamatyti, kaip atrodo veidrodyje. Spustelėjus mygtuką Veidrodis (kai kamera įjungta), internetinės kameros vaizdas horizontaliai apvertimas, kad geriau galėtumėte patikrinti veidą, pasidaryti makiažą arba tiesiog priprastumėte prie veidrodžio vaizdo. Ypač jei įrašinėjate YouTube vaizdo įrašą, TikTok vaizdo įrašą ar Instagram istoriją, kur reikia rodyti tekstą, nurodyti kryptis ir pan."
+      },
+      "digitalZoom": {
+        "title": "Skaitmeninis priartinimas (1x iki 3x)",
+        "description": "Pamatykite, kaip aštri jūsų <strong>internetinė kamera</strong> priartinus skirtingais lygiais. Idealiai tinka produktų demonstracijoms, pamokoms ar tiesiog labai arti artinantis. Priartinimo slankiklis ir greiti mygtukai 1x, 2x, 3x, skirti tikrinti internetinės kameros aštrumą priartinus. Naudinga norint sužinoti, ar reikia artintis prie kameros, ar galite priartinti nesumaždindami vaizdo kokybės per daug. Patogu tiesioginiams transliuotojams, norintiems priartinti tapybos, rankdarbių ar technikos remonto darbus."
+      },
+      "brightnessContrast": {
+        "title": "Ryškumo ir kontrasto valdikliai",
+        "description": "Sureguliuokite ryškumą (50–150%) ir kontrastą (50–150%) ir pamatykite, kaip jūsų internetinė kamera atrodo skirtingomis apšvietimo sąlygomis. Šiuos slankiklius galite naudoti tikrinant, ar jūsų kameros automatinė ekspozicija tinkamai veikia, ir imituojant skirtingus įrašymo nustatymus. Jei jūsų kambaryje per tamsu arba per šviesu, galite sureguliuoti slankiklius į patogų nustatymą kitam vaizdo susirinkimui. Transliuotojai ir YouTube kūrėjai dažnai naudoja šiuos slankiklius, kad išnaudotų geriausias kameros galimybes ir išlaikytų vienodas apšvietimo sąlygas savo vaizdo įrašuose."
+      },
+      "gridOverlay": {
+        "title": "Tinklelio perdanga profesionaliam kadravimui",
+        "description": "Mūsų integruota tinklelio perdanga naudoja trečdalio taisyklės kompozicijos techniką, leidžiančią tobulai kadruoti veidą įraše. Tiesiog padėkite akis ant viršutinės horizontalios linijos ir sulygiuokite veidą su vertikaliomis gairėmis. Šis profesionalios fotografijos principas užtikrina patrauklesnius ir įdomesnius vaizdo įrašus YouTube, verslo susirinkimams ar Twitch transliacijoms. Tinklelio perdanga padeda išlaikyti nuoseklų kadravimą pakartotiniuose įrašymuose."
+      },
+      "videoFilters": {
+        "title": "Vaizdo filtrai ir efektai",
+        "description": "Taikykite šiuos filtrus savo <strong>internetinei kamerai</strong>, kad pamatytumėte, kaip jie atrodo: Įprastas, Pilki tonai, Sepija, Invertuoti, Suliejimas, Ryškumas, Kontrastas, Atspalvio sukimas ir Sodrumas. Filtrai parodo, kaip gerai jūsų kamera gali atkurti spalvas ir kaip atrodys naudojant vaizdo efektų filtrus. Jei esate transliuotojas ar YouTube kūrėjas, galite naudoti filtrus, kad pamatytumėte, kaip atrodytų jūsų transliacija su skirtingais efektais. Filtrai taip pat gali būti naudojami norint patikrinti, ar jūsų kamera išveda teisingas spalvas. Palyginkite pilkų tonų ir sepijos filtrų rezultatus."
+      },
+      "videoMetrics": {
+        "title": "Realiojo laiko vaizdo metrikos ir histograma:",
+        "description": "Peržiūrėkite technines vaizdo detales, pavyzdžiui, raišką, kadrų dažnį ir duomenų perdavimo spartą. RGB histograma leidžia peržiūrėti spalvų pasiskirstymą jūsų vaizde. Tai naudinga aptinkant per didelę ar per mažą ekspoziciją, spalvų nukrypimus ir blogą apšvietimą. Ši funkcija idealiai tinka profesionalams, pavyzdžiui, videografams, YouTube kūrėjams ir dienoraštininkams, kurie nori užtikrinti, kad jų vaizdas būtų kuo geresnis. Jei histogramoje yra atokūras kurioje nors pusėje, turėsite koreguoti apšvietimą ar kameros nustatymus."
+      },
+      "advancedControls": {
+        "title": "Išplėstiniai kameros valdikliai",
+        "description": "Kai kurios internetinės kameros turi funkcijų, tokių kaip ekspozicija, fokusavimo režimas, baltosios spalvos balansas, ISO ir aštrumas, kuriuos gali valdyti vartotojas. Mūsų žiniatinklio programa leis jums patikrinti, ką gali jūsų <strong>internetinė kamera</strong>. Galite perjungti automatinį ir rankinį fokusavimo režimą, keisti baltosios spalvos balansą, kad atitiktų jūsų šviesos temperatūrą, arba nustatyti ekspozicijos kompensaciją pagal savo pageidavimus. Tai labai naudinga transliuotojams, YouTube kūrėjams ir profesionalams, kuriems reikia valdyti kameros nustatymus."
+      },
+      "backgroundBlur": {
+        "title": "Fono suliejimo efektas",
+        "description": "Išbandykite žiniatinklio pagrindu veikiantį fono suliejimą be jokių programų ar žalios ekrano. Mūsų fono suliejimo efektas naudoja naujausias žiniatinklio technologijas, kad pašalintų foną ir atskirtuų jį nuo jūsų, tai naudinga, kai reikia atlikti vaizdo konferencijų skambučius iš namų su fonu, kurio nenorite, kad kiti matytų. Galite sureguliuoti fono suliejimo lygį. Šis įrankis leidžia pamatyti, kaip gerai fono suliejimo efektas veikia su jūsų <strong>internetine kamera</strong> ir kameros programa. Tai ypač naudinga žiniatinklio kūrėjams, skaitmeninio rinkodaros specialistams ir visiems, kurie kuria vaizdo turinį."
+      },
+      "motionDetection": {
+        "title": "Judėjimo aptikimas saugumo testavimui",
+        "description": "Jei norite patikrinti, kaip jūsų <strong>internetinė kamera</strong> reaguoja į judėjimą, naudokite mūsų realiojo laiko judėjimo aptikimą. Išplėstiniame režime galite matyti tiesioginį judėjimo procentų rodiklį, atspindintį judėjimą jūsų vaizde. Naudokite tai saugumo kameros judėjimo testavimui, stebėjimo sistemos konfigūravimui arba judėjimo aktyvuojamo įrašymo kameros testavimui. Judėjimo detektorius analizuoja vaizdo srautą kadrą po kadro, siekdamas nustatyti judėjimo kiekį. Tai leidžia patikrinti, kiek gera kamera ir kokio jautrumo reikia. Naudinga namų saugumui, gyvūnų stebėjimui ir kūdikių stebėjimui."
+      },
+      "faceDetection": {
+        "title": "Veido aptikimas ir sekimas",
+        "description": "Aptinkite savo internetinės kameros gebėjimą aptikti veidus. Išplėstiniame režime aplink veidus piešiame rėmelius ir juos skaičiuojame. Mūsų veido aptikimo įrankis naudoja FaceDetector API, kai ji prieinama jūsų naršyklėje, aptikti kelis veidus kadre. Naudokite šį įrankį savo <strong>kameros</strong> automatinio kadravimo funkcionalumui vaizdo konferencijose išbandyti arba pamatyti, kaip ji tvarko daugiau nei vieną veidą. Vaizdo turinio kūrėjai gali patikrinti, ar jų kamera tinkamai aptinka veidus automatinio fokusavimo tikslams, o profesionalai gali patikrinti, ar jų kelių asmenų susirinkimų kambarys veikia kaip tikimasi."
+      },
+      "sideBySide": {
+        "title": "Šalia esantis režimas: dviejų kamerų palyginimas",
+        "description": "Šalia esantis režimas leidžia palyginti 2 internetines kameras vienas šalia kito. Tai naudinga testuojant kelias internetines kameras vienu metu. Jei turite integruotą internetinę kamerą ir išorinę USB internetinę kamerą, galite jas peržiūrėti šalia esant tuo pačiu metu. Tai taip pat labai naudinga renkantis internetinę kamerą. Galite realiuoju laiku palyginti kameros vaizdo kokybę, spalvų tikslumą, veikimą silpno apšvietimo sąlygomis ir regėjimo lauką. Tai puikus įrankis transliuotojams ir YouTube kūrėjams."
+      }
+    },
+    "videoQuality": {
+      "title": "Internetinės kameros vaizdo kokybės nustatymų paaiškinimas",
+      "intro": "Raiška nustato vaizdo, kurį sukuria jūsų internetinė kamera, aštrumą. Štai kaip nustatymai veikia mūsų internetinės kameros raiškos teste:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Tai yra žemiausios kokybės nustatymas, skirtas tiems, kurie tiesiog nori patikrinti, ar jų srautas veikia, o interneto ryšys yra labai silpnas. Jūsų vaizdas bus neryškus, bet tai puiku norint bent jau sužinoti, ar kamera transliuoja."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "– Žema kokybė, nedidelis dažnio juostos naudojimas. Galite atlikti žemos raiškos vaizdo skambutį, jei jums nerūpi kokybė. Veidus galima atskirti, bet nieko daugiau."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "– Standartinė raiška. Tai yra pusiausvyra tarp kokybės ir dažnio juostos. Dauguma vaizdo pokalbių ir srautinio perdavimo programų gali tai naudoti. Tai paprastai yra daugelio senų internetinių kamerų raiška."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Ši raiška suteikia aukštos raiškos vaizdo konferencijų kokybę, puikiai tinkančią profesionaliam naudojimui. Ji siūlo aštrius vaizdus ir gerą spalvų kokybę. Tai populiariausia raiška naudojama vaizdo konferencijų programose, tokiose kaip Zoom, Teams ir Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Tai yra aukščiausia raiška, kurią rasite internetinėje kameroje, ir idealiai tinka tiems, kurie nori kurti aukštos kokybės turinį, transliuoti arba jiems reikalinga geriausia vaizdo kokybė. Reikia daugiau dažnio juostos ir apdorojimo, tačiau gausite aštrų ir profesionalų vaizdą."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Keturių HD raiška su puikia detale ir aiškumu. Puikiai tinka profesionaliems turinio kūrėjams, transliuotojams, kuriems reikia aukšto vaizdo kokybės lygio, ir tiems, kurie turi 4K monitorius ir nori gimtosios raiškos. Reikalingos aukštos kokybės internetinės kameros ir didelė dažnio juosta."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Itin aukšta raiška su keturis kartus daugiau pikselių nei 1080p. Profesionali kokybė turinio kūrėjams, filmų kūrėjams ir aukšto lygio srautiniam perdavimui. Reikalingos aukščiausios klasės internetinės kameros, galingas kompiuterio aparatinės įrangos ir greitas internetas. Puikiai tinka įrašams ateičiai ir detalių maksimizavimui skaitmeniniam priartinimui ir apkirpimui."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "Maksimali galima raiška. Joje yra 16 kartų daugiau pikselių nei 1080p. Paprastai naudojama labai aukštos klasės profesionalioms internetinėms kameroms arba tiems, kurie kaip internetines kameras naudoja veidrodines ir beveidroges kameras. Tam reikės itin aukštos klasės internetinės kameros ar veidrodinės/beveidroginės kameros, itin galingos kompiuterio ir itin greito ryšio. Tai turėtų būti naudojama tik tada, kai reikalinga kino lygio kokybė, labai didelio monitoriaus atveju arba norint labai daug skaitmeniškai priartinti."
+        }
+      },
+      "tip": "Jei atliekate internetinės kameros testą, pirmiausia testuokite naudodami 720p, kad įsitikintumėte, jog kamera veikia aukšta raiška, tada testuokite su kita reikalinga raiška."
+    },
+    "frameRate": {
+      "title": "Kadrų dažnis ir sklandus vaizdo veikimas.",
+      "intro": "Kadrų dažnis yra dažnis, kuriuo vaizdo gavimo įrenginys gamina unikalius nuoseklius vaizdus, vadinamus kadrais. Kadrų dažnis išreiškiamas kadrais per sekundę (KPS). Kuo didesnis kadrų dažnis, tuo sklandesnis atrodo vaizdas, ypač judėjimo metu. Mūsų internetinis internetinės kameros testo įrankis tikrina realų jūsų internetinės kameros KPS, kad parodytų, ar kamera turi problemų.",
+      "rates": {
+        "15fps": {
+          "title": "15 KPS.",
+          "description": "Tinkamas vaizdo konferencijoms. Judėjimas atrodo kiek trūkčiojantis. Gali būti žemos klasės kamera, silpnas apšvietimas arba procesoriaus trūkumas."
+        },
+        "30fps": {
+          "title": "24–30 KPS",
+          "description": "– Tai yra tipinis internetinių kamerų ir daugumos vaizdo konferencijų programų kadrų dažnis. Judėjimas yra sklandus ir natūralus. Tai taip pat yra idealus kadrų dažnis profesionalioms vaizdo konferencijoms."
+        },
+        "60fps": {
+          "title": "60 KPS:",
+          "description": "Didelis kadrų dažnis, leidžiantis dar sklandesnį judėjimą. Idealiai tinka transliuotojams ir YouTube kūrėjams, kuriems svarbiausia judėjimo sklandumas. Atkreipkite dėmesį, kad ne visos internetinės kameros palaiko 60 KPS ir tai sunaudos daugiau dažnio juostos."
+        }
+      },
+      "tip": "Jei jūsų internetinės kameros testo rezultatas yra žemas kadrų dažnis, galite apsvarstyti žemesnės raiškos naudojimą arba apšvietimo padidinimą. Apšvietimas gali būti problema su internetinėmis kameromis, nes jos gali sumažinti kadrų dažnį, kad padidintų ekspozicijos laiką."
+    },
+    "lighting": {
+      "title": "Patarimai, kaip pagerinti internetinės kameros vaizdo kokybę",
+      "intro": "Apšvietimas yra svarbiausia kintamoji, kai kalbama apie internetinės kameros vaizdo kokybę. Žemos kokybės internetinė kamera su puikiu apšvietimu atrodys geriau nei aukštos kokybės internetinė kamera su blogu apšvietimu.",
+      "tips": {
+        "position": {
+          "title": "Šviesa prieš jus",
+          "description": "Šviesos šaltinis turi būti prieš jus, o ne už jūsų. Apšvietimas iš nugaros (pavyzdžiui, atsistojus prie lango) tamsins jūsų veidą ir sukurs šešėlius."
+        },
+        "soft": {
+          "title": "Švelninkite šviesą",
+          "description": "Venkite tiesioginės šviesos, kuri sukelia stiprius šešėlius ir blyksnio vietas. Keli šviesos šaltiniai arba šviesa, patenkanti per didelius langus, visada yra minkšta ir suteikia profesionalesnio vaizdo."
+        },
+        "flicker": {
+          "title": "Mirgančių lemputių vengimas",
+          "description": "Kai kurios LED lemputės ir fluorescencinės lemputės mirksi tokiu dažniu, kurį gali matyti kamera, ir vaizde matysis mirgėjimas. Bandykite naudoti kaitrinės spiralės arba aukštos kokybės vaizdo LED lemputes."
+        },
+        "color": {
+          "title": "Spalvų temperatūra yra dar vienas veiksnys, į kurį reikia atsižvelgti.",
+          "description": "Užtikrinkite, kad visi šviesos šaltiniai turėtų vienodą spalvų temperatūrą. Šiltos ir šaltos šviesos maišymasis atrodo nesveikai. Internetinės kameros paprastai atrodo geriau dienos šviesos temperatūros šviesoje (5000–6500 K)."
+        }
+      },
+      "tip": "Išbandykite mūsų internetinės kameros testo įrankį su keliais šviesos šaltiniais, kad nustatytumėte, ar jūsų internetinės kameros vaizdas gerėja. Galite išbandyti skirtingus apšvietimo nustatymus dėl tiesioginės peržiūros, kad pamatytumėte, kas jums labiausiai tinka."
+    },
+    "types": {
+      "title": "Internetinių kamerų tipai ir ko tikėtis",
+      "builtIn": {
+        "title": "Integruotos nešiojamojo kompiuterio internetinės kameros",
+        "description": "Nešiojamieji kompiuteriai beveik visada turi integruotą internetinę kamerą ekrano viršuje. Dažniausiai tai yra 720p kameros ir jos tinka retkarčiais vaizdo pokalbiams. Tačiau kokybė gali labai skirtis priklausomai nuo jūsų turimo nešiojamojo kompiuterio. Apskritai, geresni nešiojamieji kompiuteriai turės geresnes internetines kameras."
+      },
+      "usb": {
+        "title": "USB internetinės kameros",
+        "description": "Taip pat yra išorinių internetinių kamerų, jungiamų per USB. Jei ieškote kažko geresnio nei integruota kamera, pagrindinis modelis suteiks jums 1080p 30 KPS, o aukščiausios klasės modeliai pasieks net iki 4K, 60 KPS, su automatinio fokusavimo, silpno apšvietimo kompensavimo funkcijomis ir kt."
+      },
+      "streaming": {
+        "title": "Transliacijos kameros:",
+        "description": "Kameros, skirtos transliuotojams, šios akcentuoja vaizdo kokybę su didesniais jutikliais, geresnį jautrumą silpno apšvietimo sąlygomis ir pagerintą spalvų mokslą. HDR ir regėjimo lauko reguliavimai yra įprasti."
+      },
+      "dslr": {
+        "title": "1 parinktis: Veidrodinė/beveidroginė kamera kaip internetinė kamera",
+        "description": "Daug naujų kamerų gali būti naudojamos kaip internetinė kamera per USB arba su vaizdo fiksavimo plokšte. Tai suteiks jums aukščiausios kokybės vaizdą, tačiau taip pat reikės daugiausiai įrangos ir konfigūracijos."
+      },
+      "tip": "Jei nesate tikri, ar jūsų kamera veikia su mūsų įrankiu, mūsų išsamus internetinės kameros testas suderinamas su visų rūšių kameromis. Drąsiai naudokite jį skirtingoms internetinėms kameroms palyginti arba tiesiog patikrinkite, ar jūsų nauja internetinė kamera veikia ją prijungus."
+    },
+    "troubleshooting": {
+      "title": "Reikia pagalbos taisyti internetinę kamerą?",
+      "intro": "Atlikote testą ir aptikote problemą? Atlikite šiuos veiksmus, kad nustatytumėte ir ištaisytumėte dažniausias problemas:",
+      "blackScreen": {
+        "title": "Internetinė kamera rodo juodą ekraną",
+        "issues": [
+          "Patikrinkite, ar ant kameros objektyvo nėra fizinės dangtelės (pvz., privatumo skydas, lipdukas ar juosta)",
+          "Patikrinkite, ar kita programa (Skype, Zoom, Teams ir kt.) šiuo metu nenaudoja kameros fone. Uždarykite tas programas ir bandykite šį internetinės kameros testą dar kartą.",
+          "Jei vis dar kyla problemų, pabandykite iš naujo paleisti naršyklę ir dar kartą pabandyti internetinės kameros testą.",
+          "Jei naudojate išorinę USB internetinę kamerą, pabandykite ją prijungti prie kito USB prievado.",
+          "Atnaujinkite arba iš naujo įdiekite kameros tvarkykles."
+        ]
+      },
+      "blurry": {
+        "title": "Internetinės kameros vaizdas yra neryškus",
+        "issues": [
+          "Valykite internetinės kameros objektyvą mikropluošto skudurėliu.",
+          "Jei jūsų internetinė kamera turi fokusavimo žiedą, pabandykite rankiniu būdu sureguliuoti fokusą.",
+          "Įsitikinkite, kad yra pakankamai šviesos, kad padėtų jūsų kamerai automatiškai fokusuoti.",
+          "Šiek tiek priartinkite ar nutolinkite nuo internetinės kameros ir pažiūrėkite, ar tai pagerina vaizdą."
+        ]
+      },
+      "colors": {
+        "title": "Internetinės kameros spalvos atrodo neteisingos",
+        "issues": [
+          "Ar esate skirtingomis apšvietimo sąlygomis? Natūrali ir dirbtinė šviesa gali turėti skirtingus spalvų atspalvius.",
+          "Jei galima, pabandykite sureguliuoti baltosios spalvos balansą savo internetinės kameros nustatymuose.",
+          "Ar dėvite ką nors ar turite šalia ko nors su dominuojančia spalva, kuri gali sukelti spalvų nukrypimą? Pabandykite tai pašalinti."
+        ]
+      },
+      "choppy": {
+        "title": "Vaizdas trūkčioja ar yra lėtas",
+        "issues": [
+          "Sumažinkite vaizdo kokybę šio internetinės kameros testo įrankio nustatymuose.",
+          "Pabandykite uždaryti visas kitas programas, naudojančias procesoriaus ar GPU išteklius.",
+          "Pagerinkite apšvietimo sąlygas, kad sumažintumėte apkrovą kamerai.",
+          "Jei naudojate išorinę USB internetinę kamerą, prijunkite ją tiesiogiai prie kompiuterio, o ne per USB šakotuvą."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Internetinės kameros testavimas konkrečioms platformoms",
+      "zoom": {
+        "title": "Zoom vaizdo konferencijos",
+        "description": "Naudokite šį internetinės kameros testą, kad įsitikintumėte, jog jūsų kamera tinkamai veikia prieš pradedant svarbų Zoom susirinkimą. Įsitikinkite, kad vaizdo kokybė yra pakankama 720p (tai yra numatytoji daugummos Zoom susirinkimų kokybė). Prieš prisijungiant prie Zoom skambučio, įsitikinkite, kad apšvietimas yra pakankamas ir jūsų pozicija internetinės kameros vaizde yra gera."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "Susirinkimuose galima naudoti 1080p HD vaizdo įrašą. Testuokite kamerą skirtingomis raiškomis, kad patvirtintumėte, jog jūsų kamera palaiko Teams vaizdo raišką. Testuokite foną dėl profesionalios kokybės Together Mode ir virtualaus fono."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet automatiškai reguliuoja vaizdo kokybę pagal tinklo sąlygas. Testuokite mažiausiai 720p, kad įsitikintumėte, jog jūsų kamera atitinka minimalius Google Meet reikalavimus aukštos kokybės vaizdo perdavimui."
+      },
+      "streaming": {
+        "title": "Srautinis perdavimas (Twitch/YouTube)",
+        "description": "Testuokite maksimaliai jūsų internetinės kameros palaikomai raiškai (pageidautina 1080p60). Įsitikinkite, kad kadrų dažnis yra stabilus, ir pamatykite, kaip gerai jūsų kamera susidoroja su greitais judesiais ir keliomis apšvietimo sąlygomis."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Jei naudojate Discord vaizdo skambučiams, būtina turėti internetinę kamerą, galinčią veikti 720p. Norėsite įsitikinti, kad jūsų kamera tinkama jūsų kompiuteriui ir žaidimų sesijoms bei bendruomenės skambučiams. Tai taip pat užtikrina, kad jūsų kamera nesiginčys per didelio dažnio juostos ir nekliudytų jūsų žaidimams."
+      }
+    },
+    "relatedTools": {
+      "title": "Susiję įrankiai ir ištekliai",
+      "alsoTry": "Taip pat išbandykite:",
+      "alsoTryLinks": [
+        "Internetinės kameros ir mikrofono testas",
+        "Testuoti mikrofoną",
+        "Mikrofono testas",
+        "Garso įrašymo testas",
+        "Patikrinti mikrofoną internetu"
+      ],
+      "onThisPage": "Šiame puslapyje:",
+      "onThisPageLinks": [
+        "Kaip testuoti internetinę kamerą",
+        "Vaizdo kokybės nustatymai",
+        "Kameros problemų sprendimas",
+        "Internetinės kameros neveikimo taisymas",
+        "Geriausi internetinės kameros nustatymai"
+      ]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Ar jūsų mikrofonas veikia? Naudokite mūsų greitą ir paprastą <strong>mikrofono testą</strong>, kad įsitikintumėte, jog jūsų <strong>mikrofonas tinkamai veikia</strong>. Šis <strong>internetinis mikrofono testas</strong> taip pat parodys jūsų mikrofono lygius, dažnių spektrą ir įrašys jūsų garsą. Jokios programinės įrangos ar papildinių nereikia <strong>testuoti mikrofonui</strong>. <strong>Ištestuokite mikrofoną</strong> dabar prieš transliaciją, vaizdo skambutį ar podkasto įrašymą.",
+      "p2": "Paspauskite aukščiau esantį mygtuką „Pradėti mikrofoną ir įrašyti\", kad patikrintumėte savo mikrofoną. Garso lygiai rodomi realiuoju laiku, todėl galite matyti, ar mikrofonas fiksuoja garsą kaip tikimasi. 32 juostų garso dažnių grafikas leidžia matyti, kaip gerai jūsų mikrofonas fiksuoja garso dažnius. Tai ypač naudinga, jei esate podkasto autorius ar muzikantas, nes leis jums naudoti įrangą, galinčią aiškiai fiksuoti visus dažnius."
+    },
+    "howToTest": {
+      "title": "Kaip testuoti mikrofoną",
+      "intro": "Atlikite šiuos veiksmus, kad atliktumėte visą <strong>mikrofono testą</strong>:",
+      "steps": [
+        "<strong>Leisti prieigą prie mikrofono:</strong> Leiskite naršyklei naudoti mikrofoną. Jei pasirodys dialogo langas su prašymu suteikti prieigą prie mikrofono, spustelėkite Leisti. Jei naršyklę naudojate pirmą kartą, gali tekti spustelėti skydo piktogramą adresų juostoje ir pasirinkti mikrofoną, kad suteiktumėte svetainei leidimą jį pasiekti.",
+        "<strong>Pasirinkite mikrofoną (jei reikia):</strong> Pasirinkite norimą mikrofoną iš išskleidžiamųjų parinkčių (kompiuterio mikrofonas, išorinis mikrofonas ir kt.). <strong>Internetinis mikrofono testas</strong> gali būti atliekamas tik per vieną mikrofoną vienu metu.",
+        "<strong>Nustatykite atrankos dažnį ir kanalus:</strong> Pasirinkite mikrofono atrankos dažnį (44,1 kHz standartinei kokybei ir 48 kHz aukštesnei kokybei). Pasirinkite mono arba stereo kanalą priklausomai nuo to, ko norite pasiekti.",
+        "<strong>Įrašykite mikrofono testą:</strong> Spustelėkite įrašymo mygtuką, kad pradėtumėte <strong>mikrofono testą</strong>. Jis automatiškai pradės įrašymą, kad vėliau galėtumėte klausytis atkūrimo ir sužinoti, kaip skamba jūsų mikrofonas.",
+        "<strong>Stebėkite mikrofono lygio matuoklį:</strong> Atlikdami <strong>mikrofono testą</strong>, stebėkite mikrofono lygio matuoklį kalbėdami į mikrofoną. Jei jis tinkamai jus įrašo, matuoklis turėtų judėti pagal jūsų balso garsumą. Žalia spalva rodo idealų garsumo lygį, geltona – aukštesnį garsumo lygį, o raudona – pernelyg aukštus ir potencialiai apkerpančius garsumus.",
+        "<strong>Kalbėkite įvairiais garsumais:</strong> Atlikite <strong>mikrofono testą</strong> kalbėdami įprastu balsu, o tada labai tyliai ir garsiai. Tai padės pamatyti, kaip jautrus jūsų mikrofonas skirtingiems garsumams.",
+        "<strong>Atkurkite įrašą:</strong> Atlikus <strong>internetinį mikrofono testą</strong>, atkurkite įrašą, kad pamatytumėte, kaip skamba mikrofonas. Tai padės nustatyti problemas, kurių nepastebėtumėte su mikrofono lygio matuokliu."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Išplėstinės funkcijos",
+      "intro": "Nesvarbu, ar šalinate problemas dėl mikrofono neveikimo, ar norite gauti geriausią veikimą svarbiam susirinkimui ar tiesioginei transliacijai, šioje svetainėje galite išbandyti kelias išplėstines funkcijas:",
+      "inputGain": {
+        "title": "Optimalus įvesties stiprinimas",
+        "description": "Konfigūruokite mikrofono stiprinimą nuo 50% iki 150% naudodami mūsų iš anksto sukonfigūruotas parinktis arba tiesiogiai naudodami slankiklį. Įvesties stiprinimo valdymas ypač svarbus tiems, kurie įrašo garsą podkastams, kur pageidaujamas nuoseklus lygis tarp epizodų, muzikantams (tiek balsui, tiek instrumentams) ir transliuotojams, kurie yra jautrūs apkirtimui ir iškraipymams. Pasirinkite žemą (50%) iš anksto nustatytą per garsias aplinkas arba jei turite jautrų kondensatorinį mikrofoną, normalų (100%) daugumai naudojimo atvejų ir sustiprintą (150%) tylesniems šaltiniams, kuriems reikia daugiau stiprinimo. Mūsų stiprinimo valdymas tiesiogiai naudoja žiniatinklio garso API GainNode stiprinimui be triukšmo ar vėlavimo."
+      },
+      "noiseSuppression": {
+        "title": "Taikykite triukšmo slopinimą švariam įrašymui",
+        "description": "Jei norite pašalinti klaviatūros garsus, pelės paspaudimus, ventiliatorius, oro kondicionierius ir panašius garsus iš įrašo, įjunkite triukšmo slopinimą ir bandykite dar kartą. Tai veikia jūsų naršyklėje ir gali būti naudojama triukšmingiems nuotolinio darbo, podkastų, namų įrašų, vaizdo įrašų ir kt. įrašymams valyti, nereikia triukšmo vartelių ar triukšmo mažinimo papildinių. Triukšmo slopinimas naudoja žiniatinklio garso API triukšmui tiesiogiai slopinti mikrofone, todėl nepadidina procesoriaus apkrovos ir neprideda vėlavimo. Galite išbandyti tiek su triukšmo slopinimu, tiek be jo, kad pamatytumėte, kas geriausiai tinka jūsų mikrofonui."
+      },
+      "echoCancellation": {
+        "title": "Kodėl tai naudinga: aido atšaukimas",
+        "description": "pašalina akustinį atgalinį ryšį ir aidą iš mikrofono prieš testą. Tai svarbu vaizdo skambučiams, podkastų interviu ir tiesioginei transliacijai, kai jūsų garsiakalbių garsas taip pat gali būti fiksuojamas jūsų mikrofonu. Naudokite išankstinių nustatymų iššokantįjį langą, kad įjungtumėte aido atšaukimą ir ištestuotumėte mikrofoną su juo įjungtu. Tai padės nuspręsti, ar reikia apdoroti savo įrašymo erdvę akustiškai, ar galite pasikliauti naršyklės aido atšaukimu. Naudinga: nuotolinio darbo darbuotojams, podkastų interviuotojams ir visiems, kurie įrašo kambaryje su daug kietų paviršių (kurie gali duoti aidą)."
+      },
+      "autoGainControl": {
+        "title": "Palaikykite nuoseklų garsumą su AGC",
+        "description": "AGC padaro jūsų mikrofono lygį garsesnį ir nuoseklesnį. Jei esate tylūs, jis padarys jus garsesniais. Jei esate garsūs, jis padarys jus tylesniais. Puikiai tinka transliuotojams, nes jei turite garsų momentą, nereikia jaudintis, kad bus per garsiai. Taip pat gera podkastų autoriams, jei tolstate nuo mikrofono. Be to, puikiai tinka vaizdo konferencijoms, jei norite skambėti profesionaliai. Pažymėkite šį laukelį ir sužinokite, ar AGC gerai veikia su jūsų naršykle ir mikrofonu. Jei mėgstate įrašyti muziką ar ASMR, galbūt norėsite tai išjungti."
+      },
+      "realtimeMeter": {
+        "title": "Stebėkite garso lygius realiuoju laiku.",
+        "description": "Lygio matuoklis rodo garso signalo RMS (kvadratinė vidurkio šaknis), rodančią faktinį garso lygį. Taip pat rodomas pikas, kur lygis pradės kirpti. Lygio matuoklis turi tris sekcijas: žalią, geltoną ir raudoną. Žalia zona yra optimalus lygis, nuo -12 iki -6 dB. Geltona zona yra nuo -6 iki -3 dB, o raudona zona yra viršijanti -3 dB, kai jūsų garsas bus apkirptas. Naudokite šį matuoklį, kad įsitikintumėte, jog jūsų mikrofonas yra tinkamai pastatytas. Naudokite jį savo balso lygiui reguliuoti. Naudokite jį garso lygiui stebėti prieš pradedant įrašymą, kad žinotumėte, jog lygiai nebus apkirpti. Podkastų autoriai naudoja tai lygiams tarp epizodų suderinti. Muzikantai naudoja tai mikrofono stiprinimui nustatyti. Nuotolinio darbo darbuotojai naudoja tai, kad įsitikintumėte, jog jų girdimas garsas, bet ne per garsiai."
+      },
+      "frequencySpectrum": {
+        "title": "Dažnių spektro analizė",
+        "description": "Realiojo laiko jūsų mikrofono dažnių atsako dažnių spektro analizė. Naudokite 32 juostų spektrą, kad nustatytumėte, kuriuos dažnius fiksuoja jūsų mikrofonas. Per didelis ūžimas (20–250 Hz)? Migloti vidutiniai dažniai (250 Hz–2 kHz)? Atšiaurus sibiliacinis garsas (6 kHz–8 kHz)? Garso inžinieriai tai naudoja mikrofonams ir patalpoms vertinti, podkastų autoriai – probleminių dažnių, kuriuos reikia išlyginti, nustatyti, muzikantai – norimam mikrofonui balsui ar instrumentui nustatyti. Realiojo laiko atnaujinimai leidžia analizuoti jūsų padėtį, artumą ir aplinką."
+      },
+      "sideBySide": {
+        "title": "Dviejų mikrofonų lyginamasis palyginimas",
+        "description": "Pasirinkite lyginamojo palyginimo parinktį, kad vienu metu naudotumėte du mikrofonus. Tai ypač naudinga, jei turite du prijungtus mikrofonus (tarkime, jūsų nešiojamojo kompiuterio integruotas mikrofonas ir USB mikrofonas), ir norite juos matyti šalia esant, kad palygintumėte kiekvieno garso kokybę, triukšmo pagrindą, dažnių atsaką ir jautrumą. Tai naudinga renkantis, kurį mikrofoną pirkti, testuojant skirtingą mikrofono padėtį arba nusprendžiant, kurį mikrofoną naudoti podkastui ar srautui. Tai naudoju, kad įrodytų sau, jog naujojo mikrofono pirkimas yra vertas, garso dizaineriai naudoja jį atitinkamam mikrofonui stereo įrašymui rasti, o įmonės IT skyrius galėtų jį naudoti mikrofonams testuoti prieš juos diegiant visoje įmonėje. Norėdami jį naudoti, pasirinkite palyginimo nustatymą išankstiniuose nustatymuose, pasirinkite antrą mikrofoną ir abu bus rodomi šalia esant su realiojo laiko rezultatais."
+      },
+      "snrMeasurement": {
+        "title": "Signalo ir triukšmo santykio (SNR) matavimas",
+        "description": "Žalias skaičius rodo jūsų dabartinį SNR. 60 dB yra minimalus rekomenduojamas profesionaliam įrašymui, 50–60 dB yra minimumas transliacijos ir podkastų transliacijai, o 40–50 dB tinka vaizdo pokalbiams ir pamokoms. Geras SNR pasakys, ar jūsų mikrofonas yra pakankamai geras tam, ką norite daryti, ar jūsų kambarys yra per garsus, ar reikia pridėti akustinių plokščių. Spustelėkite mygtuką „Išplėstiniai\" ekrano viršutiniame dešiniajame kampe, kad matavimo metu rodytų SNR, triukšmo pagrindą ir dinaminį diapazoną. Tai naudinga podkastų autoriams, norintiems įsitikinti, kad jų transliacija atitinka transliacijos standartus, muzikantams, norintiems įvertinti savo namų studijos sąranką, ir visiems, kurie rūpinasi savo garso kokybe."
+      }
+    },
+    "audioLevels": {
+      "title": "Garso lygių paaiškinimas",
+      "intro": "Garso lygio matuoklis mikrofono teste aukščiau pateikia vizualinį mikrofono įvesties garsumo lygio vaizdą. Svarbu žinoti, ką reiškia kiekvienas lygis, norint suteikti puikų garsą:",
+      "green": {
+        "title": "Žalia zona (0–50%)",
+        "description": "Priimtini garso lygiai daugumai atvejų. Skambate garsiai ir aiškiai, ir turite daug vietos tapti garsesniems neapkerpant. Bandykite likti šiame diapazone vaizdo skambučiams ir kitam bendravimui."
+      },
+      "yellow": {
+        "title": "Geltona zona (50–80%)",
+        "description": ": Aukšti garso lygiai, vis dar priimtini. Geri įrašymui, kai norite stipraus, ryškaus garso. Tačiau staigūs garsūs garsai gali sukelti apkirtimą."
+      },
+      "red": {
+        "title": "Raudona zona (80–100%)",
+        "description": ": Tai yra pavojaus zona, kur jūsų garsas greičiausiai bus iškraipytas (apkirptas). Jei dažnai esate raudonoje zonoje, turėtumėte sumažinti mikrofono garsumą valdymo skydelyje arba toliau nuo mikrofono."
+      },
+      "peak": {
+        "title": "Piko lygis:",
+        "description": "Aukščiausias jūsų sesijoje pasiektas lygis. Tai naudinga patikrinti, ar yra trumpi garsūs įvykiai, sukeliantys apkirtimą, kai vidutiniai lygiai yra normalūs."
+      },
+      "rms": {
+        "title": "RMS lygis",
+        "description": "– Vidutinis garsumas laikui bėgant. Daug svarbiau nei pikas, kalbant apie suvokiamą garsumą. Norėsite, kad jūsų RMS lygiai būtų žalioje zonoje, kad garsas būtų nuosekliai garsus, bet vis dar maloniai skambantis."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Dažnių spektro analizė",
+      "intro": "Mūsų mikrofono testas apima 32 juostų dažnių spektro analizatorių, rodantį garso signalo pasiskirstymą skirtinguose dažniuose. Tai yra profesionalus įrankis, leidžiantis analizuoti jūsų mikrofono dažnių atsaką ir diagnozuoti įvairias problemas:",
+      "low": {
+        "title": "Žemi dažniai (20–250 Hz)",
+        "description": "Tai yra bosų dažniai, suteikiantys jūsų balsui kūną ir šilumą. Pernelyg didelis žemo dažnio energija gali padaryti jūsų įrašymą miglotu ar bumbsinančiu. Tai dažnai gali būti per arti mikrofono stovėjimo rezultatas (artumo efektas)."
+      },
+      "mid": {
+        "title": "Vidutiniai dažniai (250–4000 Hz)",
+        "description": "Dauguma jūsų balso aiškumo yra čia. Ši sritis turėtų būti ryški ir apibrėžta. Jei šio diapazono trūksta, jūsų balsas skambės silpnai arba iš toli."
+      },
+      "high": {
+        "title": "Aukšti dažniai (4000–20 000 Hz)",
+        "description": "Ryškumas ir aiškumas. Gerai subalansuotas aukštas dažnis atkuria kalbą aiškiai ir suprantamai. Per daug aukšto dažnio skamba šnipšėjančiai ar sibiliaciniu garsu (zzz garsas)."
+      },
+      "tip": "Stebėkite dažnių matuoklį kalbėdami. Jei jis rodo tolygų dažnių pasiskirstymą, mikrofonas yra gerojoje padėtyje ir greičiausiai fiksuoja natūralų garsą. Jei rodo per daug veiklumo žemuose dažniuose, gali tekti žengti žingsnį atgal."
+    },
+    "sampleRates": {
+      "title": "Atrankos dažnio nustatymai",
+      "intro": "Atrankos dažnis yra garso pavyzdžių, imamų per sekundę, skaičius. Kuo didesnis atrankos dažnis, tuo daugiau detalių turi garsas, tačiau tai taip pat reikalauja daugiau išteklių apdorojimui ir išsaugojimui:",
+      "rates": {
+        "22khz": {
+          "title": "22,05 kHz",
+          "description": "Žema kokybė. Tik balsui. Labai mažas dažnio juostos naudojimas, bet prastas dažnių atsakas. Paprastai turėtų būti vengiama."
+        },
+        "44khz": {
+          "title": "44,1 kHz (CD kokybė)",
+          "description": "– Tinka bendram naudojimui. Įrašo visus dažnius, kuriuos gali girdėti žmogaus ausis (20 Hz–20 kHz). Puikiai tinka vaizdo konferencijoms, podkastams ir muzikai."
+        },
+        "48khz": {
+          "title": "48 kHz (profesionalus standartas):",
+          "description": "Labai panašus į 44,1 kHz, bet šiek tiek aukštesnė kokybė. Tai yra vaizdo ir filmo bei transliacijos standartas. Naudokite tai, jei ketinate sinchronizuoti garsą su vaizdo įrašu."
+        }
+      },
+      "tip": "Apskritai, 44,1 kHz yra pakankamai geras daugumai mikrofono testavimo. Jei esate rimtas garso profesionalas ir norite aukščiausios kokybės (arba jums reikia, kad ji atitiktų vaizdo įrašus), galite naudoti 48 kHz."
+    },
+    "types": {
+      "title": "Mikrofonų tipai",
+      "builtIn": {
+        "title": "Integruoti nešiojamojo kompiuterio mikrofonai:",
+        "description": "Tai yra jūsų nešiojamajame kompiuteryje integruoti mikrofonai. Jie patogūs, bet dažnai žemesnės kokybės. Galite girdėti klaviatūros garsus ir kompiuterio ventiliatorių. Vis tiek galite jį naudoti, tik padėkite nešiojamąjį kompiuterį taip, kad mikrofonas būtų nukreiptas į jus. Tai tinka vaizdo pokalbiams su draugais ar šeimos nariais, tačiau greičiausiai nenorėsite su juo įrašyti komentaro."
+      },
+      "usb": {
+        "title": "USB mikrofonai:",
+        "description": "Čia yra mano geriausi USB mikrofono pasiūlymai tiek Mac, tiek PC. Tinkamas USB mikrofonas padarys didžiulę skirtumą, palyginti su jūsų kompiuterio vidiniu mikrofonu. Blue Yeti ir Audio-Technica AT2020 USB yra du populiariausi USB mikrofonai ir puikiai skamba. Idealiai tinka podkastams, Twitch srautiniam perdavimui ar vaizdo skambučiams."
+      },
+      "headset": {
+        "title": "Žaidimų ausinės ir ausytės:",
+        "description": "Jei norite ausinių ar ausyčių žaidimams, galite jas taip pat apsvarstyti kaip parinktį. Jas patogiau naudoti ir mikrofono padėtis kiekvieną kartą išlieka ta pati. Akivaizdu, kad kuo geresnės (ir brangesnės) ausinės ar ausytės, tuo geresnė bus kokybė. Puikiai tinka žaidimams ir retkarčiais skambučiams."
+      },
+      "condenser": {
+        "title": "Kondensatoriniai mikrofonai",
+        "description": "Jautrūs mikrofonai, fiksuojantys turtingą, detalų garsą. Reikia rūpestingos padėties ir akustinio apdorojimo. Geriausia tinka profesionaliam įrašymui, komentarui ir muzikos gamybai."
+      },
+      "dynamic": {
+        "title": "Dinaminiai mikrofonai:",
+        "description": "Tvirti ir puikiai atmeta foninį triukšmą. Dažnai naudojami podkastams ir srautiniam perdavimui dėl jų tolerancijos namų aplinkoms. Ne tokie jautrūs kaip kondensatoriniai, bet patogesni."
+      },
+      "tip": "Mūsų mikrofono testas suderinamas su visų tipų mikrofonais. Galite jį naudoti keliems mikrofonams testuoti, naujai aparatinei įrangai išbandyti arba problemoms spręsti."
+    },
+    "bestPractices": {
+      "title": "Mikrofono įrašymo geriausia praktika.",
+      "distance": {
+        "title": "Atstumas.",
+        "description": "6–12 colių nuo burnos. Arčiau: skamba basiskai (artumo efektas) ir fiksuoja kvėpavimą. Toliau: plonesnis garsas ir fiksuoja kambario triukšmą."
+      },
+      "popFilter": {
+        "title": "Investuokite į pop filtrą:",
+        "description": "Sprogstamieji garsai (P, B, T) sukuria oro srautus, sukeliančius iškraipymą. Padėkite pop filtrą tarp savęs ir mikrofono ir jie išnyks. Jei planuojate daryti podkastą ar komentarą, tai yra būtina."
+      },
+      "background": {
+        "title": "Sumažinkite foninį triukšmą",
+        "description": "– Išjunkite ventiliatorių, uždarykite langą, nutildykite telefoną. Atlikite mikrofono testą aplinkoje, kurioje būsite įrašydami. Yra daug triukšmo, kurio net nežinome."
+      },
+      "acoustics": {
+        "title": "Nepamirškite apie kambario akustiką",
+        "description": "Nenorite įrašyti erdvėje su daug kietų, lygių paviršių – tai sukurs aidą ir reverberaciją. Norėsite minkštų paviršių, sugeriančių garso atspindžius (užuolaidos, kilimas, akustinės plokštės). Netgi galite įrašyti spintoje, pilnoje drabužių, kas gali padaryti didžiulę skirtumą."
+      },
+      "positioning": {
+        "title": "Nuoseklumas yra raktas!",
+        "description": "Jei pastebite, kad mikrofonas gerai skamba vienoje vietoje, palikite jį ten viso įrašymo sesijos metu. Galite investuoti į prailgintą petį ar mikrofono stotelę, jei norite, kad mikrofonas visai nejudėtų. Netgi galite nubrėžti apskritimą ant stalo, kur turi būti mikrofonas, kad vėl pasiektumėte tą gerą garsą."
+      }
+    },
+    "troubleshooting": {
+      "title": "Mikrofono problemų šalinimas",
+      "noAudio": {
+        "title": "Garsas neaptiktas:",
+        "issues": [
+          "Patikrinkite, ar naršyklės nustatymuose suteikti mikrofono leidimai",
+          "Patikrinkite, ar išskleidžiamajame meniu pasirinktas teisingas įvesties įrenginys",
+          "Įsitikinkite, kad mikrofonas nėra nutildytas aparatinės įrangos ar sistemos nustatymuose",
+          "USB mikrofonams pabandykite kitą prievadą",
+          "Uždarykite kitas programas, kurios gali naudoti mikrofoną"
+        ]
+      },
+      "quiet": {
+        "title": "Per tylus garsas:",
+        "issues": [
+          "Padidinkite mikrofono įvesties lygį sistemos nustatymuose",
+          "Artinkitės prie mikrofono",
+          "Patikrinkite stiprinimo valdiklius pačiame mikrofone",
+          "Įsitikinkite, kad kalbate į mikrofono fiksavimo modelį"
+        ]
+      },
+      "distorted": {
+        "title": "Iškraipytas ar apkirstas garsas:",
+        "issues": [
+          "Sumažinkite mikrofono įvesties lygį sistemos nustatymuose",
+          "Šiek tiek tolinkitės nuo mikrofono",
+          "Patikrinkite, ar nėra fizinių kliūčių ar nešvarumų ant mikrofono"
+        ]
+      },
+      "echo": {
+        "title": "Aidas ar reverberacija:",
+        "issues": [
+          "Naudokite ausines, kad garsiakalbiai neatspindėtų į mikrofoną",
+          "Pridėkite minkštų medžiagų į savo kambarį, kad sugertų garso atspindžius",
+          "Artinkitės prie mikrofono, kad padidintumėte tiesioginį garsą, palyginti su kambario atspindžiais"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Susiję įrankiai ir ištekliai",
+      "alsoTry": "Taip pat išbandykite:",
+      "alsoTryLinks": [
+        "Internetinės kameros ir mikrofono testas",
+        "Testuoti internetinę kamerą",
+        "Kameros testas",
+        "Vaizdo įrašymo testas",
+        "Patikrinti kamerą internetu"
+      ],
+      "onThisPage": "Šiame puslapyje:",
+      "onThisPageLinks": [
+        "Kaip testuoti mikrofoną",
+        "Garso lygio vadovas",
+        "Mikrofono problemų šalinimas",
+        "Mikrofono neveikimo taisymas",
+        "Geriausi mikrofono nustatymai"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "home": {
+      "title": "Gratis webcamtest & microfoontest online | MicTestCam",
+      "description": "Test je webcam en microfoon direct online. Gratis cameratest en microfoontest - 100% privé, geen downloads. Controleer of je apparaten werken vóór videogesprekken."
+    },
+    "webcam": {
+      "title": "Webcamtest - Gratis online cameratesttool | Controleer je webcam",
+      "description": "Gratis webcamtest - controleer direct of je camera werkt. Test je webcam met live voorbeeld, filters, kwaliteitsinstellingen & opname. 100% privé, geen downloads nodig."
+    },
+    "microphone": {
+      "title": "Microfoontest - Gratis online microfoontest | Controleer je audio",
+      "description": "Gratis online microfoontest - controleer of je microfoon werkt. Test audioniveaus, frequentierespons en opnamekwaliteit. 100% privé microfoontester, geen downloads."
+    },
+    "privacy": {
+      "title": "Privacybeleid | MicTestCam",
+      "description": "Lees hoe MicTestCam je privacy beschermt. Alle webcam- en microfoontests vinden lokaal plaats in je browser - we verzamelen of bewaren nooit je gegevens."
+    },
+    "terms": {
+      "title": "Gebruiksvoorwaarden | MicTestCam",
+      "description": "Gebruiksvoorwaarden voor MicTestCam - gratis online webcam- en microfoontesttool. Lees onze voorwaarden voor het gebruik van onze dienst."
+    },
+    "contact": {
+      "title": "Neem contact op | MicTestCam",
+      "description": "Neem contact op met het MicTestCam-team. Neem contact met ons op voor ondersteuning, feedback of zakelijke vragen over onze gratis webcam- en microfoontesttools."
+    },
+    "blog": {
+      "title": "Blog - Webcam- & microfoontips | MicTestCam",
+      "description": "Deskundige tips, handleidingen en gidsen voor webcamtesten, microfooninstelling en audio-/video-optimalisatie. Leer hoe je de beste kwaliteit krijgt voor je videogesprekken."
+    },
+    "reviews": {
+      "title": "Beste webcam- & microfoonrecensies | MicTestCam",
+      "description": "Uitgebreide recensies, beoordelingen en koopgidsen voor webcams, microfoons, headsets en audio-/videoapparatuur. Deskundige analyse om je te helpen de perfecte uitrusting te kiezen voor streaming en videogesprekken."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "webcamTest": "Webcamtest",
+    "microphoneTest": "Microfoontest",
+    "reviews": "Recensies",
+    "blog": "Blog",
+    "privacy": "Privacybeleid",
+    "terms": "Gebruiksvoorwaarden",
+    "contact": "Contact"
+  },
+  "privacy": {
+    "banner": "100% privé - Niets verlaat je browser"
+  },
+  "home": {
+    "hero": {
+      "title": "Gratis webcamtest & microfoontest online",
+      "subtitle": "Controleer direct of je camera en microfoon perfect werken vóór je volgende videogesprek. Geen downloads, geen registratie, volledig privé.",
+      "webcamCta": "Test je webcam",
+      "microphoneCta": "Test je microfoon"
+    },
+    "features": {
+      "title": "Waarom MicTestCam gebruiken?",
+      "privacy": {
+        "title": "100% privé",
+        "description": "Je audio en video verlaten nooit je browser. We slaan geen mediagegevens op, uploaden of verwerken deze niet op onze servers."
+      },
+      "simple": {
+        "title": "Eén klik, klaar",
+        "description": "Geen ingewikkelde installatie. Klik gewoon op een knop en zie direct je webcam of hoor je microfoon. Werkt in seconden."
+      },
+      "professional": {
+        "title": "Professionele tools",
+        "description": "Geavanceerde functies zoals frequentiespectrum-analyse, videofilters, kwaliteitsinstellingen en lokale opnamemogelijkheden."
+      },
+      "universal": {
+        "title": "Werkt overal",
+        "description": "Compatibel met alle moderne browsers en apparaten. Test vóór Zoom, Teams, Meet, Discord of elke andere videobel-app."
+      }
+    },
+    "howItWorks": {
+      "title": "Hoe het werkt",
+      "step1": {
+        "title": "Klik op Start",
+        "description": "Kies webcam- of microfoontest en klik op de startknop"
+      },
+      "step2": {
+        "title": "Toegang verlenen",
+        "description": "Geef je browser toestemming om toegang te krijgen tot je camera of microfoon"
+      },
+      "step3": {
+        "title": "Resultaten bekijken",
+        "description": "Zie direct je videobeeld of audioniveaus. Neem clips op indien nodig"
+      }
+    },
+    "faq": {
+      "title": "Veelgestelde vragen",
+      "q1": {
+        "question": "Is deze webcamtest echt privé?",
+        "answer": "Ja, absoluut. Alle verwerking vindt rechtstreeks plaats in je browser met behulp van Web API's. Er worden nooit video- of audiogegevens naar onze servers of derden verzonden. Je kunt dit verifiëren door het netwerktabblad van je browser te controleren."
+      },
+      "q2": {
+        "question": "Moet ik iets installeren?",
+        "answer": "Geen installatie nodig. MicTestCam werkt volledig in je webbrowser. Bezoek gewoon de pagina en klik op start."
+      },
+      "q3": {
+        "question": "Welke browsers worden ondersteund?",
+        "answer": "MicTestCam werkt op alle moderne browsers, waaronder Chrome, Firefox, Safari, Edge en Opera op desktop- en mobiele apparaten."
+      },
+      "q4": {
+        "question": "Kan ik video of audio opnemen?",
+        "answer": "Ja! Je kunt videoclips opnemen op de webcamtestpagina en audioclips op de microfoontestpagina. Alle opnames worden lokaal in je browser opgeslagen en kunnen worden gedownload."
+      },
+      "q5": {
+        "question": "Waarom werkt mijn camera/microfoon niet?",
+        "answer": "Zorg ervoor dat je browsertoestemming hebt verleend om toegang te krijgen tot je apparaat. Controleer of geen andere applicatie je camera of microfoon gebruikt. Probeer de pagina te vernieuwen of selecteer een ander apparaat uit het dropdownmenu."
+      },
+      "q6": {
+        "question": "Is dit gratis te gebruiken?",
+        "answer": "Ja, MicTestCam is volledig gratis te gebruiken zonder beperkingen of verborgen kosten."
+      },
+      "q7": {
+        "question": "Kan ik testen vóór een Zoom/Teams/Meet-gesprek?",
+        "answer": "Absoluut! MicTestCam is perfect voor het testen vóór een gesprek. Test hier simpelweg je apparaten en neem vervolgens met vertrouwen deel aan je videoconferentie."
+      },
+      "q8": {
+        "question": "Hoe selecteer ik een andere camera of microfoon?",
+        "answer": "Gebruik het dropdownmenu op de testpagina om te wisselen tussen aangesloten camera's of microfoons."
+      },
+      "q9": {
+        "question": "Waar worden mijn opnames opgeslagen?",
+        "answer": "Opnames worden lokaal opgeslagen in de IndexedDB-opslag van je browser. Ze blijven bewaard, zelfs nadat je de browser sluit, en kunnen op elk moment worden gedownload of verwijderd."
+      },
+      "q10": {
+        "question": "Werkt dit op mobiele telefoons?",
+        "answer": "Ja, MicTestCam werkt op mobiele apparaten met moderne browsers. Je kunt zowel de front- als de achtercamera op je telefoon testen."
+      }
+    },
+    "trust": {
+      "tests": "50.000+ tests per dag",
+      "apps": "Werkt met Zoom, Teams, Meet",
+      "browsers": "Alle moderne browsers ondersteund"
+    }
+  },
+  "webcam": {
+    "title": "Webcamtest - Gratis online cameratester",
+    "subtitle": "Test je camera direct. Bekijk je video, pas de kwaliteit aan, pas filters toe en neem clips op.",
+    "startButton": "Camera starten & opnemen",
+    "stopButton": "Stoppen & opname opslaan",
+    "snapshotButton": "Foto maken",
+    "permissionMessage": "Klik op de knop hierboven om je webcamtest te starten",
+    "recording": "Opname",
+    "deviceLabel": "Camera",
+    "qualityLabel": "Kwaliteit",
+    "filterLabel": "Filter",
+    "filters": {
+      "normal": "Normaal",
+      "grayscale": "Grijstinten",
+      "sepia": "Sepia",
+      "invert": "Omkeren",
+      "blur": "Vervagen",
+      "brightness": "Helderheid",
+      "contrast": "Contrast",
+      "hueRotate": "Tintrotatie",
+      "saturate": "Verzadiging"
+    },
+    "savedRecordings": {
+      "title": "Opgeslagen opnames",
+      "clearAll": "Alles wissen",
+      "noRecordings": "Nog geen opnames. Begin met opnemen om videoclips op te slaan.",
+      "play": "Afspelen",
+      "download": "Downloaden",
+      "delete": "Verwijderen"
+    },
+    "testCamera": "Camera testen",
+    "stopCamera": "Camera stoppen",
+    "record": "Opnemen",
+    "stopRecording": "Opname stoppen",
+    "showAdvanced": "Geavanceerd tonen",
+    "hideAdvanced": "Geavanceerd verbergen",
+    "mirrorMode": "Spiegelmodus",
+    "flipHorizontally": "Horizontaal spiegelen",
+    "digitalZoom": "Digitale zoom",
+    "brightness": "Helderheid",
+    "contrast": "Contrast",
+    "dark": "Donker",
+    "normal": "Normaal",
+    "bright": "Helder",
+    "low": "Laag",
+    "high": "Hoog",
+    "cameraComparison": "Cameravergelijking",
+    "compareSideBySide": "Naast elkaar vergelijken",
+    "requires2Cameras": "(vereist 2+ camera's)",
+    "secondCamera": "Tweede camera",
+    "fineTuneWhileRecording": "Fijnafstemming tijdens opname",
+    "camera1": "Camera 1",
+    "camera2": "Camera 2",
+    "motion": "Beweging",
+    "advanced": {
+      "title": "Geavanceerde camerabediening",
+      "exposure": "Belichting",
+      "focus": "Scherpstelling",
+      "whiteBalance": "Witbalans",
+      "image": "Beeld",
+      "ptz": "PTZ",
+      "mode": "Modus",
+      "exposureTime": "Belichtingstijd",
+      "distance": "Afstand",
+      "temperature": "Temperatuur",
+      "sharpness": "Scherpte",
+      "zoom": "Zoom",
+      "pan": "Pan",
+      "tilt": "Tilt",
+      "saturation": "Verzadiging",
+      "noAdvancedControls": "Je camera ondersteunt geen geavanceerde hardwarebediening"
+    },
+    "backgroundBlur": {
+      "title": "Achtergrondvervaging",
+      "blurStrength": "Vervagingssterkte",
+      "skinToneNote": "Gebruikt lichtgewicht huidtintdetectie. Voor betere resultaten, zorg voor goede verlichting."
+    },
+    "faceDetection": {
+      "facesDetected": "Gedetecteerd",
+      "face": "Gezicht"
+    },
+    "framing": {
+      "grid": "Raster",
+      "faceGuide": "Gezichtsgids",
+      "moveRight": "Naar rechts bewegen",
+      "moveLeft": "Naar links bewegen",
+      "moveDown": "Naar beneden bewegen",
+      "moveUp": "Naar boven bewegen",
+      "moveCloser": "Dichterbij komen",
+      "moveBack": "Verder weg gaan",
+      "greatFraming": "Goede kadrering!",
+      "noFaceDetected": "Geen gezicht gedetecteerd"
+    },
+    "histogram": {
+      "videoAnalysis": "Video-analyse",
+      "histogram": "Histogram",
+      "waveform": "Golfvorm",
+      "shadows": "Schaduwen",
+      "midtones": "Middentonen",
+      "highlights": "Hooglichten"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Resolutie",
+      "bitrate": "Bitrate",
+      "lighting": "Verlichting",
+      "dropped": "Verloren",
+      "tooDark": "Te donker",
+      "lowLight": "Weinig licht",
+      "overexposed": "Overbelicht",
+      "good": "Goed",
+      "hideMetrics": "Statistieken verbergen"
+    }
+  },
+  "microphone": {
+    "title": "Microfoontest - Gratis online microfoontester",
+    "subtitle": "Test je microfoon met een realtime audioniveaumeter en frequentiespectrum-analyzer.",
+    "startButton": "Microfoon starten & opnemen",
+    "stopButton": "Stoppen & opname opslaan",
+    "permissionMessage": "Klik op de knop hierboven om je microfoontest te starten",
+    "recording": "Opname",
+    "deviceLabel": "Microfoon",
+    "sampleRateLabel": "Samplefrequentie",
+    "channelLabel": "Kanalen",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Audioniveau",
+    "frequencySpectrum": "Frequentiespectrum",
+    "savedRecordings": {
+      "title": "Opgeslagen opnames",
+      "clearAll": "Alles wissen",
+      "noRecordings": "Nog geen opnames. Begin met opnemen om audioclips op te slaan.",
+      "play": "Afspelen",
+      "download": "Downloaden",
+      "delete": "Verwijderen"
+    },
+    "testMicrophone": "Microfoon testen",
+    "stopMicrophone": "Microfoon stoppen",
+    "record": "Opnemen",
+    "stopRecording": "Opname stoppen",
+    "showAdvanced": "Geavanceerd tonen",
+    "hideAdvanced": "Geavanceerd verbergen",
+    "inputGain": "Invoerversterking",
+    "noiseSuppression": "Ruisonderdrukking",
+    "enableNoiseReduction": "Ruisonderdrukking inschakelen",
+    "echoCancellation": "Echo-onderdrukking",
+    "reduceEchoFeedback": "Echofeedback verminderen",
+    "autoGainControl": "Automatische versterkingsregeling",
+    "autoAdjustVolume": "Volume automatisch aanpassen",
+    "microphoneComparison": "Microfoonvergelijking",
+    "compareSideBySide": "Naast elkaar vergelijken",
+    "requires2Mics": "(vereist 2+ microfoons)",
+    "secondMicrophone": "Tweede microfoon",
+    "fineTuneWhileTesting": "Fijnafstemming tijdens het testen",
+    "boost": "Versterken",
+    "normal": "Normaal",
+    "low": "Laag",
+    "advanced": {
+      "title": "Geavanceerde audio-analyse",
+      "metrics": "Statistieken",
+      "spectrogram": "Spectrogram",
+      "signalToNoiseRatio": "Signaal-ruisverhouding",
+      "excellent": "Uitstekend",
+      "good": "Goed",
+      "fair": "Redelijk",
+      "poor": "Slecht",
+      "rms": "RMS (dB)",
+      "peak": "Piek (dB)",
+      "noiseFloor": "Ruisvloer",
+      "dominantFrequency": "Dominante frequentie",
+      "detectedIssues": "Gedetecteerde problemen",
+      "detectedAt": "gedetecteerd bij",
+      "time": "Tijd",
+      "frequencyLowHigh": "Frequentie (Laag \u2192 Hoog)"
+    },
+    "processing": {
+      "title": "Audioverwerking",
+      "noiseSuppression": "Ruisonderdrukking",
+      "reduceBackgroundNoise": "Achtergrondgeluid verminderen",
+      "echoCancellation": "Echo-onderdrukking",
+      "removeAudioFeedback": "Audiofeedback verwijderen",
+      "autoGainControl": "Automatische versterkingsregeling",
+      "normalizeVolumeLevels": "Volumeniveaus normaliseren",
+      "directMonitoring": "Directe monitoring",
+      "listenToYourMic": "Luister naar je microfoon",
+      "monitorVolume": "Monitorvolume",
+      "useHeadphones": "Gebruik een koptelefoon om feedback te voorkomen!"
+    },
+    "comparison": {
+      "title": "A/B-microfoonvergelijking",
+      "microphoneA": "Microfoon A",
+      "microphoneB": "Microfoon B",
+      "selectMicrophone": "Selecteer microfoon...",
+      "startComparison": "Vergelijking starten",
+      "selectTwoDifferent": "Selecteer twee verschillende microfoons",
+      "active": "Actief",
+      "switchTo": "Wisselen naar",
+      "rmsLevel": "RMS-niveau",
+      "peakLevel": "Piekniveau",
+      "snr": "SNR (dB)",
+      "stopComparison": "Vergelijking stoppen",
+      "micA": "Mic A",
+      "micB": "Mic B"
+    }
+  },
+  "privacyPage": {
+    "title": "Privacybeleid",
+    "lastUpdated": "Laatst bijgewerkt",
+    "intro": "Bij MicTestCam nemen we je privacy serieus. Dit privacybeleid legt uit hoe we omgaan met je informatie wanneer je onze webcam- en microfoontestdiensten gebruikt.",
+    "sections": {
+      "noCollection": {
+        "title": "We verzamelen je gegevens niet",
+        "content": "MicTestCam is ontworpen met privacy als kernprincipe. We verzamelen, bewaren of verzenden geen audio- of videogegevens van je webcam- of microfoontests. Alle verwerking vindt volledig plaats in je webbrowser met behulp van lokale JavaScript API's."
+      },
+      "localStorage": {
+        "title": "Lokale opslag",
+        "content": "Wanneer je video- of audioclips opneemt, worden deze lokaal opgeslagen in de IndexedDB-opslag van je browser. Deze gegevens verlaten nooit je apparaat en zijn niet toegankelijk voor ons of derden. Je kunt deze opnames op elk moment verwijderen via de applicatie-interface of door je browsergegevens te wissen."
+      },
+      "cookies": {
+        "title": "Cookies en analyse",
+        "content": "We gebruiken minimale cookies alleen voor essentiële websitefunctionaliteit, zoals taalvoorkeuren. We kunnen privacyvriendelijke analyses gebruiken om algemene gebruikspatronen te begrijpen, maar we volgen geen individuele gebruikers en verzamelen geen persoonlijke informatie."
+      },
+      "thirdParty": {
+        "title": "Diensten van derden",
+        "content": "Onze website kan links bevatten naar websites van derden. Wij zijn niet verantwoordelijk voor de privacypraktijken van deze externe sites. We raden aan hun privacybeleid te lezen voordat je persoonlijke informatie verstrekt."
+      },
+      "security": {
+        "title": "Beveiliging",
+        "content": "We gebruiken HTTPS-versleuteling om alle communicatie tussen je browser en onze website te beschermen. Aangezien we je mediagegevens niet verzamelen, is er geen risico dat je webcam- of microfoonopnames worden blootgesteld door een datalek."
+      },
+      "children": {
+        "title": "Privacy van kinderen",
+        "content": "MicTestCam is niet bedoeld voor kinderen jonger dan 13 jaar. We verzamelen niet bewust informatie van kinderen."
+      },
+      "changes": {
+        "title": "Wijzigingen in dit beleid",
+        "content": "We kunnen dit privacybeleid van tijd tot tijd bijwerken. We zullen je op de hoogte stellen van eventuele wijzigingen door het nieuwe privacybeleid op deze pagina te plaatsen en de datum 'Laatst bijgewerkt' bij te werken."
+      },
+      "contact": {
+        "title": "Neem contact op",
+        "content": "Als je vragen hebt over dit privacybeleid, neem dan contact met ons op via onze contactpagina."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Gebruiksvoorwaarden",
+    "lastUpdated": "Laatst bijgewerkt",
+    "intro": "Welkom bij MicTestCam. Door onze website en diensten te bezoeken of te gebruiken, ga je akkoord met deze gebruiksvoorwaarden.",
+    "sections": {
+      "acceptance": {
+        "title": "Aanvaarding van de voorwaarden",
+        "content": "Door MicTestCam te gebruiken, ga je akkoord met deze gebruiksvoorwaarden en ons privacybeleid. Als je het niet eens bent met een deel van deze voorwaarden, mag je onze diensten niet gebruiken."
+      },
+      "description": {
+        "title": "Beschrijving van de dienst",
+        "content": "MicTestCam biedt gratis online tools voor het testen van webcams en microfoons. Onze dienst stelt je in staat om te controleren of je camera en microfoon correct werken vóór videogesprekken, opnames of streaming-sessies."
+      },
+      "usage": {
+        "title": "Aanvaardbaar gebruik",
+        "content": "Je stemt ermee in MicTestCam alleen te gebruiken voor wettige doeleinden en in overeenstemming met deze voorwaarden. Je stemt ermee in om niet: de dienst te gebruiken voor illegale activiteiten, te proberen de goede werking van de website te verstoren, te proberen toegang te krijgen tot delen van de website die niet bedoeld zijn voor openbare toegang, of geautomatiseerde systemen te gebruiken om zonder toestemming toegang te krijgen tot de dienst."
+      },
+      "privacy": {
+        "title": "Privacy en gegevens",
+        "content": "Alle webcam- en microfoontests vinden lokaal plaats in je browser. We verzamelen, bewaren of hebben geen toegang tot je audio- of videogegevens. Lees voor meer informatie ons privacybeleid."
+      },
+      "intellectual": {
+        "title": "Intellectueel eigendom",
+        "content": "De MicTestCam-website, inclusief het ontwerp, de code en de inhoud, wordt beschermd door auteursrecht en andere wetgeving inzake intellectueel eigendom. Je mag geen enkel deel van de website kopiëren, wijzigen, verspreiden of reproduceren zonder onze voorafgaande schriftelijke toestemming."
+      },
+      "disclaimer": {
+        "title": "Uitsluiting van garanties",
+        "content": "MicTestCam wordt aangeboden 'zoals het is' zonder enige garantie, expliciet of impliciet. We garanderen niet dat de dienst ononderbroken, foutloos of aan je specifieke eisen zal voldoen. We zijn niet verantwoordelijk voor hardware- of softwareproblemen met je apparaten."
+      },
+      "limitation": {
+        "title": "Beperking van aansprakelijkheid",
+        "content": "Voor zover wettelijk toegestaan, is MicTestCam niet aansprakelijk voor indirecte, incidentele, bijzondere, gevolg- of punitieve schade als gevolg van je gebruik van de dienst."
+      },
+      "changes": {
+        "title": "Wijzigingen in de voorwaarden",
+        "content": "We behouden ons het recht voor om deze gebruiksvoorwaarden op elk moment te wijzigen. Wijzigingen worden onmiddellijk van kracht na publicatie op de website. Je voortgezette gebruik van de dienst na publicatie van de wijzigingen houdt in dat je de gewijzigde voorwaarden accepteert."
+      },
+      "governing": {
+        "title": "Toepasselijk recht",
+        "content": "Deze gebruiksvoorwaarden worden beheerst door en geïnterpreteerd in overeenstemming met het toepasselijke recht, zonder rekening te houden met beginselen van conflicterend recht."
+      },
+      "contact": {
+        "title": "Contact",
+        "content": "Als je vragen hebt over deze gebruiksvoorwaarden, neem dan contact met ons op via onze contactpagina."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Neem contact op",
+    "subtitle": "Heb je vragen of feedback? We horen graag van je.",
+    "form": {
+      "name": "Je naam",
+      "namePlaceholder": "Voer je naam in",
+      "email": "E-mailadres",
+      "emailPlaceholder": "Voer je e-mailadres in",
+      "subject": "Onderwerp",
+      "subjectPlaceholder": "Waar gaat het over?",
+      "message": "Bericht",
+      "messagePlaceholder": "Typ hier je bericht...",
+      "submit": "Bericht versturen",
+      "sending": "Versturen...",
+      "success": "Bedankt! Je bericht is succesvol verzonden.",
+      "error": "Sorry, er is een fout opgetreden bij het verzenden van je bericht. Probeer het opnieuw."
+    },
+    "info": {
+      "title": "Andere manieren om ons te bereiken",
+      "email": "E-mail",
+      "response": "We reageren doorgaans binnen 24-48 uur.",
+      "social": "Volg ons"
+    },
+    "faq": {
+      "title": "Voordat je contact opneemt",
+      "subtitle": "Misschien vind je het antwoord in onze FAQ-sectie op de homepage."
+    }
+  },
+  "blogPage": {
+    "title": "Webcam- & microfoontestblog - Tips, gidsen & handleidingen",
+    "subtitle": "Deskundige tips, handleidingen en inzichten over webcamtesten, microfooninstelling en audio-/video-optimalisatie voor videogesprekken, streaming en contentcreatie.",
+    "noPosts": "Nog geen berichten",
+    "noPostsDescription": "Kijk binnenkort terug voor nieuwe inhoud!",
+    "readMore": "Lees meer",
+    "by": "door",
+    "minRead": "min. leestijd",
+    "categories": {
+      "all": "Alle berichten",
+      "webcam": "Webcamtips",
+      "microphone": "Microfoontips",
+      "tutorials": "Handleidingen",
+      "troubleshooting": "Probleemoplossing"
+    },
+    "search": "Artikelen zoeken...",
+    "featured": "Uitgelicht",
+    "latest": "Laatste artikelen",
+    "relatedPosts": "Gerelateerde berichten"
+  },
+  "reviewsPage": {
+    "title": "Beste webcam- & microfoonrecensies - Deskundige productanalyse",
+    "subtitle": "Uitgebreide recensies, beoordelingen en koopgidsen voor webcams, microfoons, headsets en audio-/videoapparatuur. Vind de perfecte uitrusting voor streaming, videogesprekken en contentcreatie.",
+    "noReviews": "Nog geen recensies beschikbaar",
+    "noReviewsDescription": "Kijk binnenkort terug voor deskundige productrecensies!",
+    "by": "door",
+    "readMore": "Recensie lezen"
+  },
+  "footer": {
+    "tagline": "Test je webcam en microfoon gratis online",
+    "privacy": "Privacybeleid",
+    "terms": "Gebruiksvoorwaarden",
+    "contact": "Contact",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Alle rechten voorbehouden.",
+    "language": "Taal"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Fout",
+    "close": "Sluiten",
+    "back": "Terug",
+    "next": "Volgende",
+    "submit": "Versturen",
+    "cancel": "Annuleren",
+    "save": "Opslaan",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "view": "Bekijken",
+    "download": "Downloaden",
+    "share": "Delen",
+    "copy": "Kopiëren",
+    "copied": "Gekopieerd!",
+    "readMore": "Lees meer",
+    "learnMore": "Meer informatie",
+    "getStarted": "Aan de slag"
+  },
+  "cta": {
+    "title": "Klaar om je apparaten te testen?",
+    "subtitle": "Begin nu met het testen van je webcam en microfoon. Geen downloads, geen registratie vereist.",
+    "webcamButton": "Webcam testen",
+    "microphoneButton": "Microfoon testen"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam biedt directe, gratis online tests voor webcams en microfoons rechtstreeks in je browser. Geen downloads vereist. Test je camerakwaliteit, microfoonniveaus en audiohelderheid in minder dan 30 seconden vóór elk videogesprek of elke opnamesessie.",
+      "p1": "Hallo en welkom bij MicTestCam! MicTestCam biedt de eenvoudigste manier om <strong>je webcam en microfoon online te testen</strong>, of je nu je webcam wilt controleren voor een videoconferentie, een vergadering, een presentatie, voice-overs wilt opnemen voor je YouTube-video's en -kanaal, of een uitgebreide <strong>microfoontest</strong> wilt uitvoeren voor je podcast.",
+      "p2": "De camera- en microfoontesttools van MicTestCam werken volledig in de browser en vereisen geen download. Gebruikersprivacy is de belangrijkste prioriteit voor MicTestCam. Alle tests worden uitgevoerd in je browser en je video- en audio-informatie verlaat nooit je computer. Met meer dan 50.000 tests per dag en een slagingspercentage van 99,9% is MicTestCam het populairste platform voor professionals, thuiswerkers, contentcreators en reguliere gebruikers die hun apparaten willen testen.",
+      "p3": "Druk op de onderstaande knoppen om <strong>je webcam te testen</strong> of <strong>je microfoon te testen</strong>. MicTestCam heeft slechts een paar seconden nodig om te controleren of je camera en microfoon correct werken vóór een Zoom-, Microsoft Teams-, Google Meet-, Discord-, Skype- of ander videogesprek.",
+      "keyTakeaways": {
+        "title": "Belangrijkste punten",
+        "points": [
+          "Gratis directe webcam- en microfoontest - geen software-installatie nodig",
+          "100% browsergebaseerd testen garandeert volledige privacy en gegevensbeveiliging",
+          "Realtime feedback over videokwaliteit, audioniveaus en frequentierespons",
+          "Compatibel met Zoom, Teams, Meet, Discord en alle videoplatforms",
+          "Meer dan 50.000 dagelijkse tests met 99,9% nauwkeurigheid"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Waarom zou je je webcam en microfoon testen vóór videogesprekken?",
+      "directAnswer": "Het testen van je webcam en microfoon vóór videogesprekken voorkomt gênante technische storingen, bespaart vergadertijd en zorgt voor professionele communicatiekwaliteit. Een test vooraf identificeert problemen met camerahoeken, verlichting, audioniveaus en achtergrondgeluid voordat je publiek ze ziet.",
+      "p1": "Thuiswerken en virtuele communicatie zijn nu standaard bedrijfspraktijken. Helder kunnen communiceren via video en audio is cruciaal voor professioneel succes. Technische onderbrekingen tijdens vergaderingen schaden de geloofwaardigheid en verspillen tijd. Herhaaldelijk moeten vragen \"Kun je me nu zien? En nu?\" ondermijnt de professionele reputatie en vertraagt belangrijke discussies.",
+      "p2": "Het uitvoeren van een snelle videotest vóór vergaderingen voorkomt technische blunders. Een snelle audiotest vóór belangrijke gesprekken zorgt ervoor dat je audio helder is zonder achtergrondgeluid, echo of vervorming. Verkoopprofessionals, directieleden, docenten en contentcreators begrijpen het belang van betrouwbare webcam- en microfoonprestaties.",
+      "p3": "In tegenstelling tot andere webcam- en microfoontesttools controleert MicTestCam niet alleen of je webcam of microfoon werkt, maar biedt het ook gedetailleerde informatie over videokwaliteit en audiokarakteristieken. MicTestCam helpt gebruikers technische problemen te vinden en op te lossen voordat videogesprekken beginnen.",
+      "comparison": {
+        "title": "MicTestCam vs. ingebouwde tests van videoplatforms",
+        "points": [
+          "<strong>MicTestCam:</strong> Biedt gedetailleerde audiofrequentie-analyse, realtime golfvormen en professionele statistieken",
+          "<strong>Platformtests:</strong> Tonen alleen basale ja/nee-functionaliteit zonder kwaliteitsdetails",
+          "<strong>MicTestCam:</strong> Tests werken op alle platforms - Zoom, Teams, Meet, Discord tegelijkertijd",
+          "<strong>Platformtests:</strong> Verifiëren alleen functionaliteit binnen dat specifieke platform",
+          "<strong>MicTestCam:</strong> Biedt opname-afspeling om precies te horen wat anderen zullen horen",
+          "<strong>Platformtests:</strong> Geen afspeelfunctie voor kwaliteitsverificatie"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Hoe werkt de camera- en microfoontester van MicTestCam?",
+      "directAnswer": "MicTestCam gebruikt WebRTC-technologie om rechtstreeks via je browser toegang te krijgen tot je webcam en microfoon. Het testen vindt volledig op je apparaat plaats met dezelfde protocollen die Zoom, Teams en Meet gebruiken, waardoor nauwkeurige prestatietests in de echte wereld worden gegarandeerd zonder gegevens naar servers te uploaden.",
+      "p1": "De camera- en microfoontester van MicTestCam gebruikt WebRTC-protocollen, dezelfde protocollen waarop populaire webgebaseerde videoconferentiediensten vertrouwen. Wanneer je <strong>je webcam test</strong> met MicTestCam, krijgt het platform via de Web API van de browser toegang tot je webcam en toont het de videofeed in realtime op het scherm. Gebruikers kunnen controleren of de webcam werkt, of de verlichting geschikt is, of de camerahoek correct is en de algehele videokwaliteit beoordelen.",
+      "p2": "De <strong>microfoontesttool</strong> van MicTestCam biedt directe feedback over stemvolumeniveaus. Wanneer gebruikers in de microfoon spreken, weerspiegelen audiometers de stemniveaus in realtime om te helpen bepalen of de microfoon geluid goed opvangt. De 32-bands frequentiespectrum-analyzer toont hoe geluid over frequenties is verdeeld, een functie die bijzonder waardevol is voor podcasters en muzikanten die microfoons testen voor professionele opnames.",
+      "p3": "Beide MicTestCam-tools bieden automatische opnamemogelijkheden. Gebruikers kunnen een test starten en MicTestCam zal automatisch de camerafeed en audio opnemen, waardoor afspeling mogelijk is om de kwaliteit te evalueren zoals het publiek deze zou ervaren. Alle opnames vinden lokaal in de browser plaats. MicTestCam uploadt of bewaart geen gebruikersgegevens op externe servers, waardoor volledige privacy wordt gegarandeerd.",
+      "technicalSpecs": {
+        "title": "Technische specificaties",
+        "specs": [
+          "<strong>Protocol:</strong> WebRTC (Web Real-Time Communication) - Industriestandaard gebruikt door Zoom, Microsoft Teams, Google Meet",
+          "<strong>Audio-analyse:</strong> 32-bands frequentiespectrum-analyzer (bereik 20Hz - 20kHz)",
+          "<strong>Videoresolutie:</strong> Ondersteunt testen van 240p tot 8K (7680×4320) afhankelijk van cameracapaciteit",
+          "<strong>Framesnelheid:</strong> Realtime monitoring op 15fps, 30fps en 60fps",
+          "<strong>Privacy:</strong> 100% verwerking aan clientzijde - nul gegevensoverdracht naar MicTestCam-servers",
+          "<strong>Compatibiliteit:</strong> Werkt op Chrome, Firefox, Safari, Edge - alle grote browsers"
+        ]
+      }
+    },
+    "features": {
+      "title": "Volledige lijst van functies van de tests",
+      "webcamTitle": "Webcamtest",
+      "webcamFeatures": [
+        "Live voorbeeld van je camera met resolutie-opties van 240p tot 1080p.",
+        "Detectie van meerdere camera-apparaten zoals USB-camera's, webcams en externe camera's.",
+        "9+ verschillende filters en effecten om de webcam en kleurbalans te testen.",
+        "Framesnelheid per seconde om de camera te monitoren.",
+        "Mogelijkheid om een foto te maken.",
+        "Automatisch video opnemen van de webcam in WebM- en MP4-formaat.",
+        "Opnames opgeslagen in lokale opslag."
+      ],
+      "microphoneTitle": "Microfoontest",
+      "microphoneFeatures": [
+        "Realtime audioniveaumeter en piekmeter.",
+        "Realtime frequentiespectrum-analyzer van 32 banden.",
+        "Detectie van meerdere microfoonapparaten zoals USB-microfoons, headsetmicrofoons enz.",
+        "Mogelijkheid om samplefrequenties tot 48 kHz studiokwaliteit in te stellen.",
+        "Instelling om audio op te nemen in mono of stereo.",
+        "Piek- en RMS-niveaumeter voor audio.",
+        "Neemt automatisch audio op met een optie om af te spelen."
+      ]
+    },
+    "whoUses": {
+      "title": "Wie gebruikt onze webcamtest en microfoontest",
+      "remoteWorkers": {
+        "title": "Thuiswerkers en professionals",
+        "description": "Een thuiswerker of professional voert een snelle test uit vóór videoconferenties en vergaderingen op Zoom, Google Meet of Microsoft Teams om te zien of hun webcam correct werkt, en voert vervolgens een snelle <strong>microfoontest</strong> uit om er zeker van te zijn dat ze hoorbaar zijn, zodat ze zichzelf niet hoeven te herhalen en niet worden onderbroken met een \"We kunnen je niet horen!\""
+      },
+      "contentCreators": {
+        "title": "YouTubers, Twitch-streamers, podcasters en andere contentcreators",
+        "description": "Voor YouTubers, Twitch-streamers, podcasters en andere contentcreators is onze geavanceerde audio- en videodiagnosetool een must. Gebruik de frequentiespectrum-analyzer om audioproblemen op te lossen en voer videokwaliteitstests uit om er zeker van te zijn dat je hoogwaardige content levert."
+      },
+      "students": {
+        "title": "Studenten en docenten",
+        "description": "Studenten moeten ervoor zorgen dat ze via internet kunnen communiceren. Ze voeren tests uit vóór hun lessen om te bevestigen dat hun apparatuur werkt. Docenten controleren ook of hun apparatuur in orde is om hun lessen succesvol te geven."
+      },
+      "jobSeekers": {
+        "title": "Werkzoekenden",
+        "description": "Als je video-interviews gaat doen, zorg er dan voor dat je vooraf een <strong>cameratest</strong> en een <strong>microfoontest</strong> uitvoert. Dit is een groot verschilpunt en toont aan dat je goed voorbereid bent. (Er is niets erger dan een kans mislopen door een technische storing.)"
+      },
+      "gamers": {
+        "title": "Gamers:",
+        "description": "Gebruik je een gamingheadset? Krijg de precieze resultaten die je nodig hebt om je microfoon te testen voor Discord, in-game chat of streaming."
+      },
+      "techSupport": {
+        "title": "Technische ondersteuning",
+        "description": "Als je problemen hebt met je camera of microfoon, kunnen onze tools helpen bepalen of het probleem bij je hardware, drivers of software-instellingen ligt."
+      }
+    },
+    "privacy": {
+      "title": "100% privacy gegarandeerd",
+      "intro": "Privacy staat centraal in alles wat we doen met onze <strong>webcamtest</strong>- en <strong>microfoontest</strong>-tools. We beseffen dat je door toegang te verlenen tot je camera en microfoon privé-informatie met ons deelt. Daarom is ons hele platform ontworpen met een zero-trust-beleid.",
+      "localProcessing": {
+        "title": "Alle verwerking vindt plaats op je lokale apparaat",
+        "description": "Video- en audioverwerking worden gedaan met behulp van de WebRTC API's in je browser. We slaan je gegevens niet op op onze servers, omdat we ze niet eens ontvangen."
+      },
+      "noAccount": {
+        "title": "Geen account vereist",
+        "description": "Je hoeft geen account aan te maken, een e-mailadres in te voeren of persoonlijke gegevens te delen. Ga gewoon naar de site, geef je browser toestemming, test je apparaten en klaar."
+      },
+      "transparent": {
+        "title": "Transparante code",
+        "description": "We verduisteren onze code niet. Je kunt deze in je browser bekijken met behulp van de ontwikkelaarstools. Geen tracking, geen gegevensverzameling, geen analyses om je privégegevens te verzamelen."
+      },
+      "cleanup": {
+        "title": "Automatische verwijdering:",
+        "description": "Alle opnames worden opgeslagen in de lokale opslag van de browser. Ze worden automatisch verwijderd wanneer je de browser sluit of de lokale opslag wist. Je hebt volledige controle over wat wordt opgeslagen en voor welke periode."
+      }
+    },
+    "compatibility": {
+      "title": "Compatibiliteit met browsers en apparaten",
+      "intro": "De meeste populaire up-to-date browsers en apparaten worden ondersteund door onze webcam- en microfoontests. Beide tools zijn beschikbaar op Windows, Mac OS, Linux, iOS, Android of elk ander besturingssysteem dat een moderne browser ondersteunt, zonder extra downloads of installatie.",
+      "browsersTitle": "Ondersteunde browsers",
+      "browsers": [
+        "Google Chrome (beste prestaties)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (op macOS en iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Ondersteunde apparaten",
+      "devices": [
+        "Ingebouwde of externe USB-webcams op desktop- en laptopcomputers",
+        "Smartphones en tablets met camera's aan de voor- en achterkant",
+        "Externe USB-camera's en webcams voor pc",
+        "Ingebouwde laptopmicrofoons",
+        "Externe USB-microfoons",
+        "Gamingheadsets met microfoons",
+        "Professionele audio-interfaces en condensatormicrofoons"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Hulp nodig?",
+      "intro": "Lukt het niet om de <strong>webcamtest</strong> of <strong>microfoontest</strong> te laten werken? Probeer een van deze oplossingen.",
+      "cameraTitle": "Camera niet gedetecteerd of werkt niet",
+      "cameraIssues": [
+        "Zorg ervoor dat je de camera in je browser hebt toegestaan. In de adresbalk zie je een camera-icoon waarmee je cameratoegang kunt inschakelen.",
+        "Je gebruikt de camera in een andere applicatie (Zoom, Teams, Skype enz.). Je kunt de camera slechts in één applicatie tegelijk gebruiken. Sluit de andere applicatie of ververs de pagina en geef opnieuw toegang.",
+        "Ververs de pagina en geef opnieuw toegang. Het kan te wijten zijn aan een browserfout.",
+        "Gebruik de nieuwste versie van de browser.",
+        "Controleer of de cameradrivers correct op je computer zijn geïnstalleerd.",
+        "Als je een USB-camera gebruikt, probeer deze dan op een andere USB-poort aan te sluiten of gebruik een andere kabel."
+      ],
+      "microphoneTitle": "Microfoon werkt niet",
+      "microphoneIssues": [
+        "Sta de microfoontoegang toe in je browser.",
+        "Zorg ervoor dat de microfoon correct is aangesloten op de voeding.",
+        "Gebruik de systeemgeluidsinstellingen om te controleren of de microfoon werkt.",
+        "Andere applicaties gebruiken de microfoon. Probeer ze te sluiten.",
+        "Probeer het microfoonniveau in de systeeminstellingen aan te passen om het volume te verhogen als je niet luid genoeg bent, of om het volume te verlagen als je te luid bent.",
+        "Controleer of de microfoon niet gedempt is in je systeem of op het apparaat (als er een hardwarematige muteknop op het apparaat zit)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Snelkoppelingen",
+      "webcamTitle": "Webcamtesten:",
+      "webcamLinks": ["Webcamtest", "Webcam online testen", "Cameratest", "Online cameratester", "Gratis webcamtest", "Mijn webcam controleren", "USB-cameratest", "Laptopcameratest", "Camera testen voor Zoom"],
+      "microphoneTitle": "Microfoontesten:",
+      "microphoneLinks": ["Microfoontest", "Microfoon online testen", "Mijn microfoon testen", "Online microfoontester", "Gratis microfoontest", "Microfoon controleren", "Online audiotest", "USB-microfoontest", "Discord-microfoontest"]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Test je webcam met onze snelle en eenvoudige online testtool. Het biedt een realtime voorbeeld van je camera, meerdere kwaliteitsinstellingen, speciale effecten en automatische opname met je camera online, allemaal zonder extra software-installatie. Je kunt het dus gebruiken als <strong>cameratest</strong> voor webconferenties, of om de ingebouwde webcam op een nieuwe computer te testen.",
+      "p2": "Om te testen, druk je gewoon op de knop 'Camera starten & opnemen' hierboven. Er verschijnt een live voorbeeld van je webcam zodat je kunt zien of je video werkt, je verlichting kunt testen en of je camera goed gepositioneerd is. Er wordt niets geüpload, opgeslagen of benaderd. Je videotest wordt lokaal op je computer uitgevoerd."
+    },
+    "howToUse": {
+      "title": "Hoe gebruik je onze webcamtesttool",
+      "intro": "Volg deze eenvoudige stappen om je webcam te testen:",
+      "steps": [
+        "<strong>Toegang verlenen:</strong> Er verschijnt een dialoogvenster dat vraagt of de browser toegang mag krijgen tot de webcam. Druk op Toestaan om de browser toegang te geven tot de webcam. Dit geldt voor elke webcamtestwebsite. Het dialoogvenster verschijnt als beveiligingsmaatregel om te voorkomen dat willekeurige websites toegang krijgen tot de webcam.",
+        "<strong>Selecteer de juiste camera:</strong> Als je meerdere camera's hebt (bijvoorbeeld een ingebouwde laptopcamera en een aparte USB-camera), kun je via het dropdownmenu kiezen welke camera je wilt gebruiken. Onze webcamtesttool detecteert en toont automatisch alle camera's.",
+        "<strong>Selecteer de kwaliteit:</strong> Kies de gewenste resolutie (kwaliteit) uit het kwaliteitsdropdownmenu. Je kunt de camera testen op lage kwaliteit (240p), gemiddelde kwaliteit (480p), hoge kwaliteit (720p), full-HD-kwaliteit (1080p) enz. Hogere kwaliteit biedt een scherper beeld maar vereist meer bandbreedte en CPU.",
+        "<strong>Start de test:</strong> Druk op Camera starten & opnemen en je ziet onmiddellijk de live feed van je camera. Je kunt direct beginnen met opnemen en vervolgens de kwaliteit bekijken.",
+        "<strong>Gebruik visuele filters:</strong> We hebben meer dan 9 visuele filters (zwart-wit, sepia, vervaging, hoog contrast, enz.) om te zien hoe ze de uitvoer van je camera beïnvloeden.",
+        "<strong>Maak een foto:</strong> Je kunt tijdens een test een foto maken om je beeldkwaliteit te controleren of om te zien hoe de camera specifieke lichtomstandigheden verwerkt.",
+        "<strong>Stoppen & opslaan:</strong> Als je klaar bent, druk je op Stoppen & opname opslaan om de opname te stoppen. De video wordt in de browser opgeslagen zodat je deze opnieuw kunt afspelen en downloaden."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Geavanceerde webcamfuncties",
+      "intro": "Onze <strong>webcamtester</strong> bevat functies van professioneel niveau, ontworpen voor verschillende gebruikssituaties - van informele videogesprekken tot contentcreatie.",
+      "mirrorMode": {
+        "title": "Spiegelmodus voor perfecte selfies",
+        "description": "Spiegelen en omdraaien is een onmisbare functie voor make-uptutorials, bloggers en voor iedereen die wil zien hoe ze er in de spiegel uitzien. Wanneer je op de spiegelknop klikt (terwijl je camera aan staat), wordt je webcamvideo horizontaal gespiegeld zodat je je gezicht beter kunt controleren, je make-up kunt doen of gewoon kunt wennen aan de spiegelweergave. Vooral als je een YouTube-video, een TikTok-video of een Instagram-story opneemt waarin je tekst moet tonen, aanwijzingen moet geven, enz."
+      },
+      "digitalZoom": {
+        "title": "Digitale zoom (1x tot 3x)",
+        "description": "Bekijk hoe scherp je <strong>webcam</strong> is wanneer je op verschillende niveaus inzoomt. Ideaal voor productdemo's, tutorials, of gewoon om echt van dichtbij te kijken. Zoomschuifregelaar & snelknoppen voor 1x, 2x, 3x om de scherpte van je webcam te testen bij het inzoomen. Handig om te zien of je dichter bij je camera moet gaan, of dat je kunt inzoomen zonder de beeldkwaliteit te veel te verslechteren. Handig voor livestreamers die willen inzoomen op hun schilderwerk, knutselwerk of technische reparatiewerk."
+      },
+      "brightnessContrast": {
+        "title": "Helderheid- & contrastbediening",
+        "description": "Pas de helderheid (50-150%) en het contrast (50-150%) aan en bekijk hoe je webcam eruitziet onder verschillende lichtomstandigheden. Je kunt deze schuifregelaars gebruiken om te testen of de automatische belichting van je camera correct werkt en om verschillende opname-instellingen na te bootsen. Als het te donker of te licht is in je kamer, kun je de schuifregelaars aanpassen naar een comfortabele instelling voor je volgende videovergadering. Streamers en YouTubers gebruiken deze schuifregelaars vaak om het beste uit hun camera te halen en dezelfde lichtomstandigheden te behouden voor hun video's."
+      },
+      "gridOverlay": {
+        "title": "Rasteroverlay voor professionele kadrering",
+        "description": "Onze ingebouwde rasteroverlay maakt gebruik van de regel van derden-compositietechniek, waarmee je je gezicht perfect in je opname kunt kadreren. Plaats simpelweg je ogen op de bovenste horizontale lijn en lijn je gezicht uit met de verticale gidsen. Dit professionele fotografieprincipe zorgt voor aantrekkelijkere en interessantere video-opnames voor YouTube, zakelijke vergaderingen of Twitch-streams. De rasteroverlay helpt bij consistente kadrering bij herhaalde opnames."
+      },
+      "videoFilters": {
+        "title": "Videofilters & effecten",
+        "description": "Pas de volgende filters toe op je <strong>webcam</strong> om te zien hoe ze eruitzien: Normaal, Grijstinten, Sepia, Omkeren, Vervagen, Helderheid, Contrast, Tintrotatie en Verzadiging. De filters tonen je hoe goed je camera kleuren kan weergeven en hoe het eruit zal zien wanneer je video-effectfilters gebruikt. Als je een streamer of YouTuber bent, kun je filters gebruiken om te zien hoe je stream eruit zou zien met verschillende effecten. De filters kunnen ook worden gebruikt om te zien of je camera de juiste kleuren uitvoert. Vergelijk de resultaten van de grijstinten- en sepiafilters."
+      },
+      "videoMetrics": {
+        "title": "Realtime videostatistieken & histogram:",
+        "description": "Bekijk technische details over je video zoals resolutie, framesnelheid en bitrate. Het RGB-histogram stelt je in staat de verdeling van kleuren in je video te bekijken. Dit is handig voor het detecteren van over-/onderbelichting, kleurzwemen en slechte verlichting. Deze functie is ideaal voor professionals zoals videografen, YouTubers en vloggers die ervoor willen zorgen dat hun video zo goed mogelijk is. Als je histogram aan een van beide kanten een steile afsnijding heeft, moet je je verlichting of camera-instellingen corrigeren."
+      },
+      "advancedControls": {
+        "title": "Geavanceerde camerabediening",
+        "description": "Sommige webcams hebben functies zoals belichting, scherpstelmodus, witbalans, ISO en scherpte die door de gebruiker kunnen worden bediend. Onze webapplicatie laat je controleren wat je <strong>webcam</strong> kan doen. Je kunt wisselen tussen automatische en handmatige scherpstelmodus, de witbalans aanpassen aan de temperatuur van je verlichting, of de belichtingscompensatie naar wens instellen. Dit is erg handig voor streamers, YouTubers en professionals die hun camera-instellingen moeten beheren."
+      },
+      "backgroundBlur": {
+        "title": "Achtergrondvervagingseffect",
+        "description": "Probeer webgebaseerde achtergrondvervaging zonder applicaties of groen scherm. Ons achtergrondvervagingseffect gebruikt de nieuwste webtechnologieën om de achtergrond te verwijderen en deze van jou te scheiden, handig wanneer je videoconferentiegesprekken moet voeren vanuit huis met een achtergrond die je niet aan anderen wilt tonen. Je kunt het niveau van vervaging dat op je achtergrond wordt toegepast aanpassen. Deze tool laat je zien hoe goed het achtergrondvervagingseffect werkt met je <strong>webcam</strong> en camera-applicatie. Dit is bijzonder handig voor webontwikkelaars, digitale marketeers en voor iedereen die videocontent maakt."
+      },
+      "motionDetection": {
+        "title": "Bewegingsdetectie voor beveiligingstesten",
+        "description": "Als je wilt controleren hoeveel je <strong>webcam</strong> reageert op beweging, gebruik dan onze realtime bewegingsdetectie. In de geavanceerde modus kun je een live bewegingspercentage-indicator zien die de beweging in je video weergeeft. Gebruik dit voor het testen van beveiligingscamera-beweging, configuratie van bewakingssystemen of het testen van bewegingsgeactiveerde opnamecamera's. De bewegingsdetector analyseert de videostream frame voor frame om de hoeveelheid beweging te bepalen. Hiermee kun je controleren hoe goed de camera is en welke gevoeligheid je nodig hebt. Handig voor het testen van huisbeveiliging, huisdiermonitor en babyfoon."
+      },
+      "faceDetection": {
+        "title": "Gezichtsdetectie & -tracking",
+        "description": "Detecteer het vermogen van je webcam om gezichten te detecteren. In de geavanceerde modus tekenen we kaders rond gezichten en tellen we ze. Onze gezichtsdetectietool gebruikt de FaceDetector API, indien beschikbaar in je browser, om meerdere gezichten in een frame te detecteren. Gebruik deze tool om de functionaliteit van je <strong>camera</strong> te testen voor automatische kadrering in videoconferenties, of om te zien hoe deze omgaat met meer dan één gezicht. Videocontentcreators kunnen zien of hun camera gezichten correct detecteert voor automatische scherpstelling, en professionals kunnen controleren of hun vergaderruimte met meerdere personen naar verwachting werkt."
+      },
+      "sideBySide": {
+        "title": "Zij-aan-zij-modus: twee camera's vergelijken",
+        "description": "De zij-aan-zij-modus laat je 2 webcams naast elkaar vergelijken. Het is handig voor het gelijktijdig testen van meerdere webcams. Als je een ingebouwde webcam en een externe USB-webcam hebt, kun je ze tegelijkertijd naast elkaar bekijken. Het is ook erg handig bij het kiezen van een webcam om te kopen. Je kunt de beeldkwaliteit, kleurnauwkeurigheid, prestaties bij weinig licht en het gezichtsveld in realtime vergelijken. Het is een geweldig hulpmiddel voor streamers en YouTubers."
+      }
+    },
+    "videoQuality": {
+      "title": "Uitleg over webcam-videokwaliteitsinstellingen",
+      "intro": "Resolutie bepaalt de scherpte van de video die je webcam produceert. Zo presteren de instellingen bij onze webcamresolutietest:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Dit is de laagste kwaliteitsinstelling, voor wanneer je alleen wilt testen of je stream werkt en je internetverbinding slecht is. Je video zal wazig zijn, maar het is prima om te zien of je camera op zijn minst streamt."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Lage kwaliteit, weinig bandbreedtegebruik. Je zou een videogesprek met lage resolutie kunnen voeren als je niet al te veel om kwaliteit geeft. Je kunt de gezichten nog herkennen, maar verder niets."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Standaarddefinitie. Dit is het midden tussen kwaliteit en bandbreedte. De meeste videochat- en streamingapplicaties kunnen dit gebruiken. Dit is typisch de resolutie van de meeste oudere webcams."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Deze resolutie levert high-definition-videoconferentiekwaliteit, wat geweldig is voor professioneel gebruik. Het biedt scherpe beelden en goede kleurkwaliteit. Dit is de populairste resolutie die wordt gebruikt in videoconferentieapps zoals Zoom, Teams en Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Dit is de hoogste resolutie die je in een webcam zult vinden, en is ideaal voor mensen die hoogwaardige content willen maken, streamen of de best mogelijke videokwaliteit nodig hebben. Het vereist meer bandbreedte en verwerking, maar je krijgt een scherp en professioneel beeld."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Quad HD-resolutie met uitstekend detail en helderheid. Geweldig voor professionele contentcreators, streamers die een hoog niveau van beeldkwaliteit vereisen, en voor degenen met 4K-monitors die een native resolutie wensen. Hoogwaardige webcams en een aanzienlijke hoeveelheid bandbreedte zijn nodig."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra High Definition met vier keer zoveel pixels als 1080p. Kwaliteit van professioneel niveau voor contentcreators, filmmakers en high-end streaming. Vereist premium webcams, krachtige computerhardware en snel internet. Perfect om opnames toekomstbestendig te maken en detail te maximaliseren voor digitale zoom en bijsnijden."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "De maximaal mogelijke resolutie. Het heeft 16 keer meer pixels dan 1080p. Dit wordt doorgaans gebruikt voor zeer geavanceerde professionele webcams, of voor mensen die DSLR/systeemcamera's als webcam gebruiken. Je hebt een uiterst geavanceerde webcam of DSLR/systeemcamera nodig, een extreem krachtige computer en een extreem snelle verbinding. Dit moet alleen worden gebruikt wanneer je kwaliteit op bioscoopniveau nodig hebt, of wanneer je een extreem groot beeldscherm hebt, of als je veel digitaal wilt inzoomen."
+        }
+      },
+      "tip": "Als je een webcamtest doet, test dan eerst met 720p om ervoor te zorgen dat je camera high-definition ondersteunt, en test vervolgens met elke andere resolutie die je nodig hebt."
+    },
+    "frameRate": {
+      "title": "Framesnelheid en vloeiende videoprestaties",
+      "intro": "Framesnelheid is de frequentie waarmee een beeldvormend apparaat unieke opeenvolgende beelden produceert, genaamd frames. De framesnelheid wordt uitgedrukt in frames per seconde (FPS). Hoe hoger de framesnelheid, hoe vloeiender de video eruitziet, vooral bij beweging. Onze online webcamtesttool controleert de werkelijke FPS van je webcam, om te tonen of je webcam problemen heeft.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Acceptabel voor videoconferenties. De beweging ziet er wat schokkerig uit. Kan een goedkope camera, slechte verlichting of een CPU-bottleneck zijn."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Dit is de typische framesnelheid voor webcams en de meeste videoconferentieapplicaties. De beweging is vloeiend en natuurlijk. Dit is ook de ideale framesnelheid voor een professionele videoconferentie."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Een hoge framesnelheid die nog meer bewegingsvloeiendheid biedt. Ideaal voor streamers en YouTubers waarbij bewegingsvloeiendheid belangrijk is. Let op dat niet alle webcams 60 FPS ondersteunen, en het verbruikt meer bandbreedte."
+        }
+      },
+      "tip": "Als het testresultaat van je webcam een lage framesnelheid toont, overweeg dan een lagere resolutie te gebruiken of de verlichting te verbeteren. Licht kan een probleem zijn bij webcams, omdat ze de framesnelheid kunnen verlagen om de belichtingstijd te kunnen verlengen."
+    },
+    "lighting": {
+      "title": "Tips voor mooiere webcamvideo",
+      "intro": "Verlichting is de belangrijkste variabele als het gaat om de kwaliteit van webcamvideo. Een webcam van lage kwaliteit met goede verlichting ziet er beter uit dan een webcam van hoge kwaliteit met slechte verlichting.",
+      "tips": {
+        "position": {
+          "title": "Licht vóór je",
+          "description": "De lichtbron moet vóór je zijn, niet achter je. Tegenlicht (zoals voor een raam gaan zitten) maakt je gezicht donker en schaduwachtig."
+        },
+        "soft": {
+          "title": "Verzacht het licht",
+          "description": "Vermijd direct frontaal licht dat sterke schaduwen en overbelichte plekken veroorzaakt. Meerdere lichtbronnen, of licht dat door grote ramen binnenkomt, is altijd zacht en zorgt voor professioneler ogende beelden."
+        },
+        "flicker": {
+          "title": "Flikkerende lampen vermijden",
+          "description": "Sommige LED-lampen en tl-buizen flikkeren op een frequentie die je camera kan zien, waardoor je flikkering in je video krijgt. Probeer gloeilampen of hoogwaardige LED-lampen te gebruiken die geschikt zijn voor video."
+        },
+        "color": {
+          "title": "Kleurtemperatuur is ook een factor om rekening mee te houden.",
+          "description": "Zorg ervoor dat alle lichtbronnen dezelfde kleurtemperatuur hebben. Warm en koel licht door elkaar ziet er onnatuurlijk uit. Webcams zien er over het algemeen beter uit onder daglichtgebalanceerd licht (5000-6500K)."
+        }
+      },
+      "tip": "Test onze webcamtesttool met meerdere lichtbronnen om te bepalen of je webcambeeld verbetert. Je kunt verschillende lichtinstellingen testen dankzij de live weergave om te zien wat het beste voor je werkt."
+    },
+    "types": {
+      "title": "Soorten webcams en wat je kunt verwachten",
+      "builtIn": {
+        "title": "Ingebouwde laptopwebcams",
+        "description": "Laptops hebben bijna altijd een webcam ingebouwd in de bovenkant van het scherm. Dit zijn meestal 720p-camera's die prima werken voor het af en toe videobellen. De kwaliteit kan echter sterk variëren afhankelijk van de laptop die je bezit. Over het algemeen hebben duurdere laptops betere webcams."
+      },
+      "usb": {
+        "title": "USB-webcams",
+        "description": "Er zijn ook externe webcams die via USB worden aangesloten. Als je op zoek bent naar iets beters dan de geïntegreerde camera, geeft een basismodel je 1080p bij 30 FPS, maar de topmodellen gaan helemaal tot 4K, 60 FPS, met autofocus, compensatie bij weinig licht, enz."
+      },
+      "streaming": {
+        "title": "Streamingcamera's:",
+        "description": "Camera's gemaakt voor streamers, deze richten zich op beeldkwaliteit met grotere sensoren, verbeterde gevoeligheid bij weinig licht en verbeterde kleurwetenschap. HDR en gezichtsveldinstellingen zijn gebruikelijk."
+      },
+      "dslr": {
+        "title": "Optie 1: DSLR/systeemcamera als webcam",
+        "description": "Veel nieuwe camera's kunnen via USB als webcam worden gebruikt, of met een opnamekaart. Dit geeft je de hoogste beeldkwaliteit, maar vereist ook de meeste apparatuur en configuratie."
+      },
+      "tip": "Als je niet zeker weet of je camera met onze tool werkt, is onze uitgebreide webcamtest compatibel met alle soorten camera's. Gebruik het gerust om verschillende webcams te vergelijken, of controleer simpelweg of je nieuwe webcam werkt nadat je deze hebt aangesloten."
+    },
+    "troubleshooting": {
+      "title": "Hulp nodig bij het repareren van je webcam?",
+      "intro": "Als je een test hebt uitgevoerd en een probleem hebt ontdekt, volg dan deze stappen om de meest voorkomende problemen te identificeren en op te lossen:",
+      "blackScreen": {
+        "title": "Webcam toont een zwart scherm",
+        "issues": [
+          "Controleer of er een fysieke afdekking (zoals een privacyschuifje, pleister of stukje tape) over de cameralens zit",
+          "Controleer of een andere app (Skype, Zoom, Teams, enz.) momenteel de camera op de achtergrond gebruikt. Sluit die apps en probeer deze webcamtest opnieuw.",
+          "Als je nog steeds problemen ondervindt, probeer dan je browser opnieuw te starten en de webcamtest opnieuw te proberen.",
+          "Als je een externe USB-webcam gebruikt, probeer deze dan op een andere USB-poort aan te sluiten.",
+          "Werk je cameradrivers bij of installeer ze opnieuw."
+        ]
+      },
+      "blurry": {
+        "title": "Webcamvideo is wazig",
+        "issues": [
+          "Maak de webcamlens schoon met een microvezeldoekje.",
+          "Als je webcam een scherpstelring heeft, probeer de scherpstelling dan handmatig aan te passen.",
+          "Zorg ervoor dat er voldoende licht is om je camera automatisch scherp te laten stellen.",
+          "Ga iets dichter bij of verder van de webcam en kijk of het verbetert."
+        ]
+      },
+      "colors": {
+        "title": "Webcamkleuren zien er verkeerd uit",
+        "issues": [
+          "Ben je onder andere lichtomstandigheden? Natuurlijk en kunstmatig licht kunnen verschillende kleurtinten hebben.",
+          "Probeer de witbalans aan te passen in je webcaminstellingen, indien beschikbaar.",
+          "Draag je iets of heb je iets om je heen met een dominante kleur die kleurzweem kan veroorzaken? Probeer het te verwijderen."
+        ]
+      },
+      "choppy": {
+        "title": "Video is schokkerig of traag",
+        "issues": [
+          "Verlaag de videokwaliteit in de instellingen van deze webcamtesttool.",
+          "Probeer alle andere applicaties te sluiten die CPU- of GPU-bronnen verbruiken.",
+          "Verbeter je lichtomstandigheden om de belasting van je camera te verminderen.",
+          "Als je een externe USB-webcam gebruikt, sluit deze dan rechtstreeks aan op je computer in plaats van via een USB-hub."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Webcam testen voor specifieke platforms",
+      "zoom": {
+        "title": "Zoom-videoconferenties",
+        "description": "Gebruik deze webcamtest om ervoor te zorgen dat je camera goed werkt voordat je een belangrijke Zoom-vergadering start. Zorg ervoor dat de videokwaliteit goed genoeg is op 720p (de standaardkwaliteit voor de meeste Zoom-vergaderingen). Zorg dat je verlichting voldoende is en je positie in het webcambeeld goed is voordat je deelneemt aan een Zoom-gesprek."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "1080p HD-video is beschikbaar in vergaderingen. Test de camera op verschillende resoluties om te bevestigen dat je camera de videoresolutie van Teams kan ondersteunen. Test de achtergrond voor professionele kwaliteit voor de Samen-modus en virtuele achtergrond."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet past de videokwaliteit automatisch aan op basis van netwerkomstandigheden. Test op minimaal 720p om ervoor te zorgen dat je camera voldoet aan de minimale eisen van Google Meet voor hoogwaardige video-overdracht."
+      },
+      "streaming": {
+        "title": "Streaming (Twitch/YouTube)",
+        "description": "Test op de maximale resolutie die je webcam aankan (bij voorkeur 1080p60). Zorg ervoor dat de framesnelheid stabiel is en bekijk hoe goed je camera omgaat met snelle bewegingen en verschillende lichtomstandigheden."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Als je Discord gebruikt voor videogesprekken, is het nodig om een webcam te hebben die 720p aankan. Je wilt er zeker van zijn dat de camera die je hebt geschikt is voor je computer en voor de gamesessies en communitygesprekken. Dit zorgt er ook voor dat je camera niet te veel bandbreedte verbruikt en je gaming niet hindert."
+      }
+    },
+    "relatedTools": {
+      "title": "Gerelateerde tools & bronnen",
+      "alsoTry": "Probeer ook:",
+      "alsoTryLinks": ["Webcam- & microfoontest", "Microfoon testen", "Microfoontest", "Audio-opnametest", "Microfoon online controleren"],
+      "onThisPage": "Op deze pagina:",
+      "onThisPageLinks": ["Hoe test je je webcam", "Videokwaliteitsinstellingen", "Cameraprobleemoplossing", "Webcam werkt niet - oplossing", "Beste webcaminstellingen"]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Werkte je microfoon? Gebruik onze snelle en eenvoudige <strong>microfoontest</strong> om ervoor te zorgen dat je <strong>microfoon correct werkt</strong>. Deze <strong>online microfoontest</strong> toont ook je microfoonniveaus, frequentiespectrum en neemt je audio op. Geen software of plug-in nodig om <strong>je microfoon te testen</strong>. <strong>Test je microfoon</strong> nu voordat je live gaat, een videogesprek start of een podcast opneemt.",
+      "p2": "Druk op de knop 'Microfoon starten & opnemen' hierboven om je microfoon te controleren. De audioniveaus worden in realtime weergegeven, zodat je kunt zien of je microfoon geluid oppikt zoals verwacht. De 32-bands audiofrequentiegrafiek laat je zien hoe goed je microfoon geluidsfrequenties oppikt. Dit is bijzonder handig als je een podcaster of muzikant bent, omdat je hiermee apparatuur kunt vinden die alle frequenties helder kan opvangen."
+    },
+    "howToTest": {
+      "title": "Hoe test je je microfoon",
+      "intro": "Voer deze stappen uit voor een volledige <strong>microfoontest</strong>:",
+      "steps": [
+        "<strong>Geef toegang tot je microfoon:</strong> Geef de browser toestemming om je microfoon te gebruiken. Klik op toestaan als er een dialoogvenster verschijnt met het verzoek om toegang tot je microfoon te verlenen. Als je de browser voor het eerst gebruikt, moet je mogelijk op een schildpictogram in de adresbalk klikken en vervolgens de microfoon selecteren om de site toestemming te geven.",
+        "<strong>Kies je microfoon (indien nodig):</strong> Kies je gewenste microfoon uit de dropdownopties (de microfoon van je computer, externe microfoon, enz.). De <strong>online microfoontest</strong> kan slechts via één microfoon tegelijk worden uitgevoerd.",
+        "<strong>Stel je samplefrequentie en kanalen in:</strong> Kies de samplefrequentie voor je microfoon (44,1 kHz voor standaardkwaliteit en 48 kHz voor hogere kwaliteit). Selecteer een mono- of stereokanaal afhankelijk van wat je wilt bereiken.",
+        "<strong>Neem een microfoontest op:</strong> Klik op de opnameknop om een <strong>microfoontest</strong> te starten. De opname start automatisch zodat je later de weergave kunt beluisteren en kunt horen hoe je microfoon klinkt.",
+        "<strong>Observeer de microfoonniveaumeter:</strong> Terwijl je de <strong>microfoontest</strong> uitvoert, observeer de microfoonniveaumeter terwijl je in de microfoon spreekt. Als deze je correct opneemt, zou de meter moeten bewegen volgens het volume van je stem. Een groene kleur geeft het ideale volumeniveau aan, geel voor een hoger volumeniveau en rood voor volumes die te luid zijn en mogelijk vervormen.",
+        "<strong>Probeer op verschillende volumes te spreken:</strong> Voer een <strong>microfoontest</strong> uit door met een normale stem te spreken en vervolgens met een zeer zachte en luide stem. Dit helpt je te zien hoe gevoelig je microfoon is voor verschillende volumes.",
+        "<strong>Speel de opname af:</strong> Na het uitvoeren van de <strong>online microfoontest</strong>, speel je opname af om te horen hoe de microfoon klinkt. Dit helpt je problemen te identificeren die je niet zou opmerken met alleen de microfoonniveaumeter."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Geavanceerde functies",
+      "intro": "Of je nu aan het oplossen bent waarom je microfoon niet werkt of op zoek bent naar de beste prestaties voor een belangrijke vergadering of livestream, er zijn verschillende geavanceerde functies die je op deze site kunt testen:",
+      "inputGain": {
+        "title": "Optimale invoerversterking",
+        "description": "Configureer je microfoonversterking tussen 50% en 150% met onze vooraf ingestelde opties of direct met onze schuifregelaar. Controle over invoerversterking is bijzonder belangrijk voor degenen die audio opnemen voor podcasting waar consistente niveaus tussen afleveringen gewenst zijn, voor muzikanten (zowel stem als instrumenten) en voor streamers die gevoelig zijn voor clipping en vervorming. Selecteer de Laag (50%) voorinstelling voor omgevingen die te luid zijn of als je een gevoelige condensatormicrofoon hebt, Normaal (100%) voor de meeste gebruikssituaties en Versterken (150%) voor stillere bronnen die meer versterking nodig hebben. Onze directe versterkingsregeling maakt gebruik van de GainNode van de Web Audio API voor versterking zonder introductie van ruis of vertraging."
+      },
+      "noiseSuppression": {
+        "title": "Pas ruisonderdrukking toe voor schone opnames",
+        "description": "Als je typgeluiden, muisklikken, ventilatoren, airconditioning en soortgelijke geluiden uit de opname wilt verwijderen, schakel dan de ruisonderdrukking in en probeer het opnieuw. Het werkt in je browser en kan worden gebruikt om ruisige opnames van thuiswerk, podcasts, thuisopnames, video's enz. op te schonen, en je hebt geen noise gate of ruisonderdrukkingsplug-in nodig. De ruisonderdrukking gebruikt de Web Audio API om ruis rechtstreeks op de microfoon te onderdrukken, zodat het de CPU-belasting niet verhoogt en geen vertraging toevoegt. Je kunt zowel met als zonder ruisonderdrukking testen om te zien wat het beste werkt voor je microfoon."
+      },
+      "echoCancellation": {
+        "title": "Waarom het handig is: echo-onderdrukking",
+        "description": "verwijdert akoestische feedback en echo van je microfoon vóór de test. Dit is belangrijk voor videogesprekken, podcastinterviews en livestreaming wanneer het geluid van je luidsprekers ook door je microfoon kan worden opgepikt. Gebruik de voorinstellingenpop-up om echo-onderdrukking in te schakelen om je microfoon ermee te testen. Dit helpt je te beslissen of je je opnameruimte akoestisch moet behandelen, of dat je kunt vertrouwen op de echo-onderdrukking van de browser. Handig voor: thuiswerkers, podcastinterviewers en iedereen die opneemt in een ruimte met veel harde oppervlakken (die echo kunnen veroorzaken)."
+      },
+      "autoGainControl": {
+        "title": "Behoud consistent volume met AGC",
+        "description": "AGC zorgt ervoor dat je microfoonniveau luider en consistenter klinkt. Als je zacht spreekt, maakt het je luider. Als je luid spreekt, maakt het je zachter. Het is geweldig voor streamers, want als je in een luid moment zit, hoef je je geen zorgen te maken dat je te luid bent. Het is ook goed voor podcasters als je verder van je microfoon af beweegt. En het is geweldig voor videoconferenties als je professioneel wilt klinken. Vink dit aan en kijk of AGC goed werkt met je browser en je microfoon. Als je muziek of ASMR wilt opnemen, kun je dit beter uitgeschakeld laten."
+      },
+      "realtimeMeter": {
+        "title": "Monitor je audioniveaus in realtime.",
+        "description": "De niveaumeter toont de RMS (Root Mean Square) van het audiosignaal, wat het werkelijke niveau van de audio weergeeft. De piek wordt ook getoond, waar het niveau begint te clippen. De niveaumeter heeft drie secties: groen, geel en rood. De groene zone is het optimale niveau, tussen -12 en -6 dB. De gele zone is tussen -6 en -3 dB en de rode zone is alles boven -3 dB, wanneer je audio zal clippen. Gebruik deze meter om ervoor te zorgen dat je microfoon correct is gepositioneerd. Gebruik het om je stemniveau aan te passen. Gebruik het om het niveau van je audio te monitoren voordat je op opname drukt, zodat je weet dat je niveaus niet zullen clippen. Podcasters gebruiken dit om niveaus tussen afleveringen af te stemmen. Muzikanten gebruiken het om de versterking van hun microfoons in te stellen. Thuiswerkers gebruiken het om ervoor te zorgen dat ze gehoord worden, maar niet te luid zijn."
+      },
+      "frequencySpectrum": {
+        "title": "Frequentiespectrum-analyse",
+        "description": "Realtime frequentiespectrum-analyse van de frequentierespons van je microfoon. Gebruik het 32-bands spectrum om te bepalen welke frequenties je microfoon oppikt. Overmatig gerommel (20-250Hz)? Troebele middentonen (250Hz-2kHz)? Harde sisklanken (6kHz-8kHz)? Dit wordt gebruikt door audio-engineers om microfoons en ruimtes te evalueren, podcasters om problematische frequenties te vinden die geëgaliseerd moeten worden, en muzikanten om te bepalen welke microfoon het beste werkt voor hun stem of instrument. Realtime updates stellen je in staat om je positie, nabijheid en omgeving te analyseren."
+      },
+      "sideBySide": {
+        "title": "Zij-aan-zij-vergelijking van twee microfoons",
+        "description": "Kies de zij-aan-zij-vergelijkingsoptie om twee microfoons tegelijk te gebruiken. Dit is bijzonder handig als je twee microfoons hebt aangesloten (bijvoorbeeld de ingebouwde microfoon van je laptop en een USB-microfoon) en je ze naast elkaar wilt zien om de audiokwaliteit, ruisvloer, frequentierespons en gevoeligheid van elk te vergelijken. Dit is handig voor het kiezen welke microfoon je wilt kopen, het testen van verschillende microfoonplaatsingen of het beslissen welke microfoon je wilt gebruiken voor je podcast of stream. Ik gebruik het om mezelf te bewijzen dat het kopen van een nieuwe microfoon de moeite waard is, geluidontwerpers gebruiken het om een match te vinden voor een andere microfoon voor stereo-opname, en de IT-afdeling van een bedrijf kan het gebruiken om microfoons te testen voordat ze in het hele bedrijf worden uitgerold. Om het te gebruiken, kies de vergelijkingsinstelling in de voorinstellingen, selecteer een tweede microfoon, en beide worden naast elkaar getoond met realtime resultaten."
+      },
+      "snrMeasurement": {
+        "title": "Signaal-ruisverhouding (SNR) meting",
+        "description": "Het groene getal toont je huidige SNR. 60 dB is het minimaal aanbevolen voor professionele opnames, 50-60 dB is het minimum voor uitzending en podcasting en 40-50 dB is prima voor videochats en tutorials. Een goede SNR vertelt je of je microfoon goed genoeg is voor wat je wilt doen, of je ruimte te luid is of je akoestische panelen moet toevoegen. Klik op de knop \"Geavanceerd\" rechtsboven in het scherm om de SNR, ruisvloer en dynamisch bereik te tonen terwijl je meet. Dit is een nuttige meting voor podcasters die ervoor willen zorgen dat hun uitzending binnen de uitzendnormen valt, muzikanten die hun thuisstudio-opstelling willen evalueren, en voor iedereen die om hun geluidskwaliteit geeft."
+      }
+    },
+    "audioLevels": {
+      "title": "Audioniveaus uitgelegd",
+      "intro": "De audioniveaumeter in de bovenstaande microfoontest geeft een visuele weergave van het volumeniveau van je microfooninvoer. Het is belangrijk om te weten wat elk niveau betekent om geweldig geluid te leveren:",
+      "green": {
+        "title": "Groene zone (0-50%)",
+        "description": "Acceptabele audioniveaus voor de meeste gevallen. Je klinkt luid en duidelijk, en je hebt voldoende ruimte om luider te worden zonder te clippen. Probeer in dit bereik te blijven voor videogesprekken en andere communicatie."
+      },
+      "yellow": {
+        "title": "Gele zone (50-80%)",
+        "description": ": Hoge audioniveaus die nog acceptabel zijn. Goed voor opnames wanneer je sterke, aanwezige audio wilt. Echter, plotselinge harde geluiden kunnen clipping veroorzaken."
+      },
+      "red": {
+        "title": "Rode zone (80-100%)",
+        "description": ": Dit is de gevarenzone, waar je audio waarschijnlijk vervormd (geclipt) zal zijn. Als je regelmatig in het rood zit, moet je je microfoonvolume verlagen in je configuratiescherm, of verder van je microfoon af gaan."
+      },
+      "peak": {
+        "title": "Piekniveau:",
+        "description": "Het hoogste niveau dat tijdens je sessie is bereikt. Dit is handig om te controleren of er korte luide gebeurtenissen zijn die clipping veroorzaken, wanneer de gemiddelde niveaus in orde zijn."
+      },
+      "rms": {
+        "title": "RMS-niveau",
+        "description": "- Gemiddeld volume over tijd. Veel belangrijker dan piek als het gaat om waargenomen luidheid. Je wilt dat je RMS-niveaus in het groen zijn voor consistent luid maar toch aangenaam klinkende audio."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Frequentiespectrum-analyse",
+      "intro": "Onze microfoontest bevat een 32-bands frequentiespectrum-analyzer die de verdeling van het audiosignaal over verschillende frequenties toont. Dit is een professioneel hulpmiddel waarmee je de frequentierespons van je microfoon kunt analyseren en diverse problemen kunt diagnosticeren:",
+      "low": {
+        "title": "Lage frequenties (20-250 Hz)",
+        "description": "Dit zijn de basfrequenties die body en warmte aan je stem toevoegen. Overmatige energie op lage frequenties kan je opname modderig of dreunend laten klinken. Dit kan vaak het gevolg zijn van te dicht bij de microfoon staan. (Nabijheidseffect.)"
+      },
+      "mid": {
+        "title": "Middentonen (250-4000 Hz)",
+        "description": "Het grootste deel van de helderheid van je stem ligt hier. Dit bereik moet prominent en gedefinieerd zijn. Als dit bereik ontbreekt, klinkt je stem zwak of ver weg."
+      },
+      "high": {
+        "title": "Hoge frequenties (4000-20000 Hz)",
+        "description": "Helderheid en duidelijkheid. Een goed gebalanceerde hoge frequentie reproduceert spraak op een scherpe, verstaanbare manier. Te veel hoge frequentie klinkt sissend of scherp (tsss-geluid)."
+      },
+      "tip": "Observeer de frequentiemeter terwijl je spreekt. Als deze een gelijkmatige verdeling van frequenties toont, staat de microfoon in een goede positie en vangt deze waarschijnlijk een natuurlijk geluid op. Als er te veel activiteit aan de lage kant is, moet je misschien een stukje achteruit stappen."
+    },
+    "sampleRates": {
+      "title": "Samplefrequentie-instellingen",
+      "intro": "De samplefrequentie is het aantal audiosamples dat per seconde wordt genomen. Hoe hoger de samplefrequentie, hoe meer detail de audio heeft, maar het vergt ook meer bronnen voor verwerking en opslag:",
+      "rates": {
+        "22khz": {
+          "title": "22,05 kHz",
+          "description": "Lage kwaliteit. Alleen voor spraak. Zeer laag bandbreedtegebruik, maar slechte frequentierespons. Moet meestal worden vermeden."
+        },
+        "44khz": {
+          "title": "44,1 kHz (cd-kwaliteit)",
+          "description": "– Geschikt voor algemeen gebruik. Neemt alle frequenties op die het menselijk oor kan horen (20 Hz – 20 kHz). Geweldig voor videoconferenties, podcasting en muziek."
+        },
+        "48khz": {
+          "title": "48 kHz (professionele standaard):",
+          "description": "Zeer vergelijkbaar met 44,1 kHz maar iets hogere kwaliteit. Dit is de standaard voor video/film en uitzendingen. Gebruik dit als je audio met video gaat synchroniseren."
+        }
+      },
+      "tip": "Over het algemeen is 44,1 kHz prima voor de meeste microfoontests. Als je een serieuze audioprofessional bent en de hoogste kwaliteit wilt (of het moet overeenkomen met videobeelden), kun je 48 kHz gebruiken."
+    },
+    "types": {
+      "title": "Soorten microfoons",
+      "builtIn": {
+        "title": "Ingebouwde laptopmicrofoons:",
+        "description": "Dit zijn de microfoons die in je laptop zijn ingebouwd. Ze zijn handig, maar zijn meestal van lagere kwaliteit. Je kunt je getik en de ventilator van je computer horen. Je kunt ze nog steeds gebruiken, plaats de laptop gewoon zo dat de microfoon naar je toe is gericht. Dit is prima voor een videochat met je vriend of familielid, maar je wilt er waarschijnlijk geen voice-over mee opnemen."
+      },
+      "usb": {
+        "title": "USB-microfoons:",
+        "description": "Hier zijn mijn topaanbevelingen voor USB-microfoons voor zowel Mac als PC. Een degelijke USB-microfoon maakt een wereld van verschil vergeleken met de interne microfoon van je computer. De Blue Yeti en Audio-Technica AT2020 USB zijn twee van de populairste USB-microfoons en klinken fantastisch. Perfect voor podcasting, Twitch-streaming of het voeren van videogesprekken."
+      },
+      "headset": {
+        "title": "Gamingheadsets en oordopjes:",
+        "description": "Als je een headset of oordopjes voor gaming wilt, kun je deze ook als optie overwegen. Ze zijn handiger in gebruik en de microfoonpositie blijft elke keer hetzelfde. Uiteraard geldt: hoe beter (en duurder) de headset of oordopjes, hoe beter de kwaliteit. Deze zijn geweldig voor gamingdoeleinden en het af en toe bellen."
+      },
+      "condenser": {
+        "title": "Condensatormicrofoons",
+        "description": "Gevoelige microfoons die rijke, gedetailleerde audio vastleggen. Vereisen zorgvuldige positionering en akoestische behandeling. Het beste voor professionele opnames, voice-over en muziekproductie."
+      },
+      "dynamic": {
+        "title": "Dynamische microfoons:",
+        "description": "Robuust en uitstekend in het afwijzen van achtergrondgeluid. Vaak gebruikt voor podcasting en streaming vanwege hun tolerantie voor thuisomgevingen. Niet zo gevoelig als condensatormicrofoons, maar handiger."
+      },
+      "tip": "Onze microfoontest is compatibel met alle soorten microfoons. Je kunt het gebruiken om meerdere microfoons te testen, nieuwe hardware uit te proberen of problemen op te lossen."
+    },
+    "bestPractices": {
+      "title": "Best practices voor microfoonopnames",
+      "distance": {
+        "title": "Afstand.",
+        "description": "15-30 cm van je mond. Dichterbij: klinkt meer basrijk (nabijheidseffect) en pikt ademhaling op. Verder weg: dunner geluid en pikt omgevingsgeluid op."
+      },
+      "popFilter": {
+        "title": "Investeer in een popfilter:",
+        "description": "Plosieven (P, B, T) creëren luchtexplosies die vervorming veroorzaken. Plaats een popfilter tussen jou en je microfoon en ze verdwijnen. Als je van plan bent om te podcasten of voice-overs te doen, is dit een must."
+      },
+      "background": {
+        "title": "Minimaliseer achtergrondgeluid",
+        "description": "— Zet de ventilator uit, sluit het raam, zet je telefoon op stil. Doe de microfoontest in de omgeving waar je gaat opnemen. Er is veel geluid waar we ons niet eens bewust van zijn."
+      },
+      "acoustics": {
+        "title": "Vergeet de akoestiek van de ruimte niet",
+        "description": "Je wilt niet opnemen in een ruimte met veel harde, vlakke oppervlakken — dit creëert echo en galm. Je wilt zachte oppervlakken die geluidsreflecties absorberen (gordijnen, vloerbedekking, akoestische panelen). Je kunt zelfs opnemen in een kast vol kleding, wat een enorm verschil kan maken."
+      },
+      "positioning": {
+        "title": "Consistentie is essentieel!",
+        "description": "Als je merkt dat de microfoon op één plek goed klinkt, houd hem daar dan gedurende de hele opnamesessie. Je kunt investeren in een zwenkarm of microfoonstandaard als je wilt voorkomen dat je microfoon beweegt. Je kunt zelfs een cirkel op het bureau tekenen om aan te geven waar je microfoon moet staan om dat goede geluid opnieuw te bereiken."
+      }
+    },
+    "troubleshooting": {
+      "title": "Microfoonproblemen oplossen",
+      "noAudio": {
+        "title": "Geen audio gedetecteerd:",
+        "issues": [
+          "Controleer of microfoonrechten zijn verleend in de browserinstellingen",
+          "Controleer of het juiste invoerapparaat is geselecteerd in het dropdownmenu",
+          "Zorg ervoor dat de microfoon niet gedempt is in hardware- of systeeminstellingen",
+          "Probeer voor USB-microfoons een andere poort",
+          "Sluit andere applicaties die mogelijk de microfoon gebruiken"
+        ]
+      },
+      "quiet": {
+        "title": "Audio te zacht:",
+        "issues": [
+          "Verhoog het microfooninvoerniveau in de systeeminstellingen",
+          "Ga dichter bij de microfoon zitten",
+          "Controleer of er versterkingsregelaars op de microfoon zelf zitten",
+          "Zorg ervoor dat je in de richting van het opnamepatroon van de microfoon spreekt"
+        ]
+      },
+      "distorted": {
+        "title": "Audio vervormd of geclipt:",
+        "issues": [
+          "Verlaag het microfooninvoerniveau in de systeeminstellingen",
+          "Ga iets verder van de microfoon af",
+          "Controleer op fysieke obstakels of vuil op de microfoon"
+        ]
+      },
+      "echo": {
+        "title": "Echo of galm:",
+        "issues": [
+          "Gebruik een koptelefoon om te voorkomen dat luidsprekers terugkoppelen in de microfoon",
+          "Voeg zachte materialen toe aan je ruimte om geluidsreflecties te absorberen",
+          "Ga dichter bij de microfoon om het directe geluid te versterken ten opzichte van ruimtereflecties"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Gerelateerde tools & bronnen",
+      "alsoTry": "Probeer ook:",
+      "alsoTryLinks": ["Webcam- & microfoontest", "Webcam testen", "Cameratest", "Video-opnametest", "Camera online controleren"],
+      "onThisPage": "Op deze pagina:",
+      "onThisPageLinks": ["Hoe test je je microfoon", "Audioniveaugids", "Microfoonprobleemoplossing", "Microfoon werkt niet - oplossing", "Beste microfooninstellingen"]
+    }
+  }
+}

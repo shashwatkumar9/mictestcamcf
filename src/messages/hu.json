@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "home": {
+      "title": "Ingyenes webkamera teszt és mikrofon teszt online | MicTestCam",
+      "description": "Tesztelje webkameráját és mikrofonját azonnal online. Ingyenes kamera teszt és mikrofon teszt eszköz – 100% privát, nincs letöltés. Ellenőrizze eszközeit videohívás előtt."
+    },
+    "webcam": {
+      "title": "Webkamera teszt – Ingyenes online kamera tesztelő eszköz | Ellenőrizze webkameráját",
+      "description": "Ingyenes webkamera teszt eszköz – azonnal ellenőrizze, hogy működik-e a kamerája. Tesztelje webkameráját élő előnézettel, szűrőkkel, minőségi beállításokkal és felvétellel. 100% privát, nincs szükség letöltésre."
+    },
+    "microphone": {
+      "title": "Mikrofon teszt – Ingyenes online mikrofon teszt | Ellenőrizze a hangját",
+      "description": "Ingyenes online mikrofon teszt – ellenőrizze, hogy működik-e a mikrofonja. Tesztelje a hangszinteket, frekvenciaválaszt és felvételi minőséget. 100% privát mikrofon tesztelő, nincs szükség letöltésre."
+    },
+    "privacy": {
+      "title": "Adatvédelmi irányelvek | MicTestCam",
+      "description": "Ismerje meg, hogyan védi a MicTestCam az Ön adatait. Minden webkamera- és mikrofonteszt helyben, az Ön böngészőjében történik – soha nem gyűjtjük és nem tároljuk az Ön adatait."
+    },
+    "terms": {
+      "title": "Felhasználási feltételek | MicTestCam",
+      "description": "A MicTestCam felhasználási feltételei – ingyenes online webkamera és mikrofon tesztelő eszköz. Olvassa el szolgáltatásunk használatának feltételeit."
+    },
+    "contact": {
+      "title": "Kapcsolat | MicTestCam",
+      "description": "Lépjen kapcsolatba a MicTestCam csapatával. Forduljon hozzánk támogatásért, visszajelzésért vagy üzleti megkeresésért ingyenes webkamera és mikrofon tesztelő eszközeinkkel kapcsolatban."
+    },
+    "blog": {
+      "title": "Blog – Webkamera és mikrofon tippek | MicTestCam",
+      "description": "Szakértői tippek, útmutatók és segédletek webkamera teszteléshez, mikrofon beállításhoz és audió/videó optimalizáláshoz. Ismerje meg, hogyan érhet el legjobb minőséget videohívásainál."
+    },
+    "reviews": {
+      "title": "Legjobb webkamera és mikrofon vélemények | MicTestCam",
+      "description": "Részletes értékelések, minősítések és vásárlási útmutatók webkamerákhoz, mikrofonokhoz, fejhallgatókhoz és audió/videó eszközökhöz. Szakértői elemzés, amely segít kiválasztani a tökéletes felszerelést streamingeléshez és videohívásokhoz."
+    }
+  },
+  "nav": {
+    "home": "Főoldal",
+    "webcamTest": "Webkamera teszt",
+    "microphoneTest": "Mikrofon teszt",
+    "reviews": "Értékelések",
+    "blog": "Blog",
+    "privacy": "Adatvédelmi irányelvek",
+    "terms": "Felhasználási feltételek",
+    "contact": "Kapcsolat"
+  },
+  "privacy": {
+    "banner": "100% privát – Semmi sem hagyja el a böngészőjét"
+  },
+  "home": {
+    "hero": {
+      "title": "Ingyenes webkamera teszt és mikrofon teszt online",
+      "subtitle": "Azonnal ellenőrizze, hogy kamerája és mikrofonja tökéletesen működik-e a következő videohívás előtt. Nincs letöltés, nincs regisztráció, teljesen privát.",
+      "webcamCta": "Webkamera tesztelése",
+      "microphoneCta": "Mikrofon tesztelése"
+    },
+    "features": {
+      "title": "Miért használja a MicTestCam-et?",
+      "privacy": {
+        "title": "100% privát",
+        "description": "Hang- és videóadatai soha nem hagyják el a böngészőjét. Nem tárolunk, nem töltünk fel és nem dolgozunk fel semmilyen médiaadatot a szervereinkre."
+      },
+      "simple": {
+        "title": "Egyetlen kattintás",
+        "description": "Nincs bonyolult beállítás. Csak kattintson egy gombra, és azonnal lássa webkameráját vagy hallja mikrofonját. Másodpercek alatt működik."
+      },
+      "professional": {
+        "title": "Professzionális eszközök",
+        "description": "Fejlett funkciók, mint frekvenciaspektrum-elemzés, videószűrők, minőségi beállítások és helyi felvételi lehetőségek."
+      },
+      "universal": {
+        "title": "Mindenhol működik",
+        "description": "Kompatibilis minden modern böngészővel és eszközzel. Teszteljen Zoom, Teams, Meet, Discord vagy bármilyen videokonferencia alkalmazás előtt."
+      }
+    },
+    "howItWorks": {
+      "title": "Hogyan működik",
+      "step1": {
+        "title": "Kattintson az Indításra",
+        "description": "Válassza a webkamera vagy mikrofon tesztet, és kattintson az indítás gombra"
+      },
+      "step2": {
+        "title": "Engedélyezze a hozzáférést",
+        "description": "Adjon böngészőengedélyt a kamerája vagy mikrofonja eléréséhez"
+      },
+      "step3": {
+        "title": "Tekintse meg az eredményeket",
+        "description": "Azonnal lássa a videóképet vagy a hangszinteket. Szükség esetén rögzítsen felvételeket"
+      }
+    },
+    "faq": {
+      "title": "Gyakran ismételt kérdések",
+      "q1": {
+        "question": "Valóban privát ez a webkamera teszt?",
+        "answer": "Igen, teljes mértékben. Minden feldolgozás közvetlenül a böngészőjében történik Web API-k használatával. Sem videó-, sem hangadatot nem küldünk a szervereinkre vagy harmadik félnek. Ezt ellenőrizheti böngészője hálózat fülén."
+      },
+      "q2": {
+        "question": "Kell valamit telepítenem?",
+        "answer": "Nem szükséges telepítés. A MicTestCam teljes egészében a böngészőjében működik. Csak látogasson el az oldalra és kattintson az indításra."
+      },
+      "q3": {
+        "question": "Mely böngészők támogatottak?",
+        "answer": "A MicTestCam minden modern böngészővel működik, beleértve a Chrome-ot, Firefoxot, Safarit, Edge-et és Operát asztali és mobil eszközökön."
+      },
+      "q4": {
+        "question": "Rögzíthetek videót vagy hangot?",
+        "answer": "Igen! Rögzíthet videoklipeket a webkamera teszt oldalon és hangklipeket a mikrofon teszt oldalon. Minden felvétel helyben, a böngészőjében kerül mentésre, és letölthető."
+      },
+      "q5": {
+        "question": "Miért nem működik a kamerám/mikrofonom?",
+        "answer": "Győződjön meg róla, hogy megadta a böngésző engedélyt az eszköz eléréséhez. Ellenőrizze, hogy nem használja-e más alkalmazás a kameráját vagy mikrofonját. Próbálja meg frissíteni az oldalt, vagy válasszon másik eszközt a legördülő menüből."
+      },
+      "q6": {
+        "question": "Ingyenesen használható?",
+        "answer": "Igen, a MicTestCam teljesen ingyenesen használható, korlátozások és rejtett díjak nélkül."
+      },
+      "q7": {
+        "question": "Tesztelhetek Zoom/Teams/Meet hívás előtt?",
+        "answer": "Természetesen! A MicTestCam tökéletes hívás előtti tesztelésre. Egyszerűen tesztelje itt az eszközeit, majd csatlakozzon magabiztosan a videokonferenciához."
+      },
+      "q8": {
+        "question": "Hogyan választhatok másik kamerát vagy mikrofont?",
+        "answer": "Használja az eszköz legördülő menüt a teszt oldalon a csatlakoztatott kamerák vagy mikrofonok közötti váltáshoz."
+      },
+      "q9": {
+        "question": "Hol tárolódnak a felvételeim?",
+        "answer": "A felvételek helyben, a böngésző tárhelyén kerülnek mentésre. A böngésző bezárása után is megmaradnak, és bármikor letölthetők vagy törölhetők."
+      },
+      "q10": {
+        "question": "Működik mobiltelefonon is?",
+        "answer": "Igen, a MicTestCam modern böngészővel rendelkező mobileszközökön is működik. Telefonján mind az előlapi, mind a hátlapi kamerát tesztelheti."
+      }
+    },
+    "trust": {
+      "tests": "Naponta 50 000+ teszt",
+      "apps": "Működik Zoom-mal, Teams-szel, Meet-tel",
+      "browsers": "Minden modern böngésző támogatott"
+    }
+  },
+  "webcam": {
+    "title": "Webkamera teszt – Ingyenes online kamera tesztelő",
+    "subtitle": "Tesztelje kameráját azonnal. Nézze meg a videót, állítsa be a minőséget, alkalmazzon szűrőket és rögzítsen felvételeket.",
+    "startButton": "Kamera indítása és felvétel",
+    "stopButton": "Leállítás és felvétel mentése",
+    "snapshotButton": "Pillanatkép készítése",
+    "permissionMessage": "Kattintson a fenti gombra a webkamera teszt indításához",
+    "recording": "Felvétel",
+    "deviceLabel": "Kamera",
+    "qualityLabel": "Minőség",
+    "filterLabel": "Szűrő",
+    "filters": {
+      "normal": "Normál",
+      "grayscale": "Szürkeárnyalatos",
+      "sepia": "Szépia",
+      "invert": "Invertált",
+      "blur": "Elmosódott",
+      "brightness": "Fényerő",
+      "contrast": "Kontraszt",
+      "hueRotate": "Színárnyalat forgatás",
+      "saturate": "Telítettség"
+    },
+    "savedRecordings": {
+      "title": "Mentett felvételek",
+      "clearAll": "Összes törlése",
+      "noRecordings": "Még nincsenek felvételek. Indítson felvételt videoklipek mentéséhez.",
+      "play": "Lejátszás",
+      "download": "Letöltés",
+      "delete": "Törlés"
+    },
+    "testCamera": "Kamera tesztelése",
+    "stopCamera": "Kamera leállítása",
+    "record": "Felvétel",
+    "stopRecording": "Felvétel leállítása",
+    "showAdvanced": "Speciális megjelenítése",
+    "hideAdvanced": "Speciális elrejtése",
+    "mirrorMode": "Tükör mód",
+    "flipHorizontally": "Vízszintes tükrözés",
+    "digitalZoom": "Digitális zoom",
+    "brightness": "Fényerő",
+    "contrast": "Kontraszt",
+    "dark": "Sötét",
+    "normal": "Normál",
+    "bright": "Világos",
+    "low": "Alacsony",
+    "high": "Magas",
+    "cameraComparison": "Kamera összehasonlítás",
+    "compareSideBySide": "Összehasonlítás egymás mellett",
+    "requires2Cameras": "(2+ kamera szükséges)",
+    "secondCamera": "Második kamera",
+    "fineTuneWhileRecording": "Finomhangolás felvétel közben",
+    "camera1": "1. kamera",
+    "camera2": "2. kamera",
+    "motion": "Mozgás",
+    "advanced": {
+      "title": "Speciális kameravezérlők",
+      "exposure": "Expozíció",
+      "focus": "Fókusz",
+      "whiteBalance": "Fehéregyensúly",
+      "image": "Kép",
+      "ptz": "PTZ",
+      "mode": "Mód",
+      "exposureTime": "Expozíciós idő",
+      "distance": "Távolság",
+      "temperature": "Színhőmérséklet",
+      "sharpness": "Élesség",
+      "zoom": "Zoom",
+      "pan": "Pásztázás",
+      "tilt": "Döntés",
+      "saturation": "Telítettség",
+      "noAdvancedControls": "A kamerája nem támogatja a speciális hardveres vezérlőket"
+    },
+    "backgroundBlur": {
+      "title": "Háttér elmosás",
+      "blurStrength": "Elmosás erőssége",
+      "skinToneNote": "Könnyű bőrszín-felismerést használ. A jobb eredmény érdekében biztosítson megfelelő megvilágítást."
+    },
+    "faceDetection": {
+      "facesDetected": "Észlelve",
+      "face": "Arc"
+    },
+    "framing": {
+      "grid": "Rács",
+      "faceGuide": "Arc segédvonal",
+      "moveRight": "Mozgás jobbra",
+      "moveLeft": "Mozgás balra",
+      "moveDown": "Mozgás lefelé",
+      "moveUp": "Mozgás felfelé",
+      "moveCloser": "Menjen közelebb",
+      "moveBack": "Menjen hátrébb",
+      "greatFraming": "Kiváló beállítás!",
+      "noFaceDetected": "Nem észlelhető arc"
+    },
+    "histogram": {
+      "videoAnalysis": "Videóelemzés",
+      "histogram": "Hisztogram",
+      "waveform": "Hullámforma",
+      "shadows": "Árnyékok",
+      "midtones": "Középtónusok",
+      "highlights": "Csúcsfények"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Felbontás",
+      "bitrate": "Bitráta",
+      "lighting": "Megvilágítás",
+      "dropped": "Kiesett",
+      "tooDark": "Túl sötét",
+      "lowLight": "Gyenge fény",
+      "overexposed": "Túlexponált",
+      "good": "Jó",
+      "hideMetrics": "Mérőszámok elrejtése"
+    }
+  },
+  "microphone": {
+    "title": "Mikrofon teszt – Ingyenes online mikrofon tesztelő",
+    "subtitle": "Tesztelje mikrofonját valós idejű hangszintmérővel és frekvenciaspektrum-elemzővel.",
+    "startButton": "Mikrofon indítása és felvétel",
+    "stopButton": "Leállítás és felvétel mentése",
+    "permissionMessage": "Kattintson a fenti gombra a mikrofon teszt indításához",
+    "recording": "Felvétel",
+    "deviceLabel": "Mikrofon",
+    "sampleRateLabel": "Mintavételezési frekvencia",
+    "channelLabel": "Csatornák",
+    "mono": "Monó",
+    "stereo": "Sztereó",
+    "levelMeter": "Hangszint",
+    "frequencySpectrum": "Frekvenciaspektrum",
+    "savedRecordings": {
+      "title": "Mentett felvételek",
+      "clearAll": "Összes törlése",
+      "noRecordings": "Még nincsenek felvételek. Indítson felvételt hangklipek mentéséhez.",
+      "play": "Lejátszás",
+      "download": "Letöltés",
+      "delete": "Törlés"
+    },
+    "testMicrophone": "Mikrofon tesztelése",
+    "stopMicrophone": "Mikrofon leállítása",
+    "record": "Felvétel",
+    "stopRecording": "Felvétel leállítása",
+    "showAdvanced": "Speciális megjelenítése",
+    "hideAdvanced": "Speciális elrejtése",
+    "inputGain": "Bemeneti erősítés",
+    "noiseSuppression": "Zajcsökkentés",
+    "enableNoiseReduction": "Zajcsökkentés engedélyezése",
+    "echoCancellation": "Visszhangszűrés",
+    "reduceEchoFeedback": "Visszhang-visszacsatolás csökkentése",
+    "autoGainControl": "Automatikus erősítés-szabályozás",
+    "autoAdjustVolume": "Hangerő automatikus beállítása",
+    "microphoneComparison": "Mikrofon összehasonlítás",
+    "compareSideBySide": "Összehasonlítás egymás mellett",
+    "requires2Mics": "(2+ mikrofon szükséges)",
+    "secondMicrophone": "Második mikrofon",
+    "fineTuneWhileTesting": "Finomhangolás tesztelés közben",
+    "boost": "Erősítés",
+    "normal": "Normál",
+    "low": "Alacsony",
+    "advanced": {
+      "title": "Speciális hangelemzés",
+      "metrics": "Mérőszámok",
+      "spectrogram": "Spektrogram",
+      "signalToNoiseRatio": "Jel-zaj arány",
+      "excellent": "Kiváló",
+      "good": "Jó",
+      "fair": "Elfogadható",
+      "poor": "Gyenge",
+      "rms": "RMS (dB)",
+      "peak": "Csúcs (dB)",
+      "noiseFloor": "Zajszint",
+      "dominantFrequency": "Domináns frekvencia",
+      "detectedIssues": "Észlelt problémák",
+      "detectedAt": "észlelve itt:",
+      "time": "Idő",
+      "frequencyLowHigh": "Frekvencia (Alacsony → Magas)"
+    },
+    "processing": {
+      "title": "Hangfeldolgozás",
+      "noiseSuppression": "Zajcsökkentés",
+      "reduceBackgroundNoise": "Háttérzaj csökkentése",
+      "echoCancellation": "Visszhangszűrés",
+      "removeAudioFeedback": "Hang-visszacsatolás eltávolítása",
+      "autoGainControl": "Automatikus erősítés-szabályozás",
+      "normalizeVolumeLevels": "Hangerőszintek normalizálása",
+      "directMonitoring": "Közvetlen monitoring",
+      "listenToYourMic": "Hallgassa a mikrofonját",
+      "monitorVolume": "Monitor hangerő",
+      "useHeadphones": "Használjon fejhallgatót a visszacsatolás elkerülése érdekében!"
+    },
+    "comparison": {
+      "title": "A/B mikrofon összehasonlítás",
+      "microphoneA": "A mikrofon",
+      "microphoneB": "B mikrofon",
+      "selectMicrophone": "Válasszon mikrofont...",
+      "startComparison": "Összehasonlítás indítása",
+      "selectTwoDifferent": "Kérjük, válasszon két különböző mikrofont",
+      "active": "Aktív",
+      "switchTo": "Váltás erre:",
+      "rmsLevel": "RMS szint",
+      "peakLevel": "Csúcsszint",
+      "snr": "SNR (dB)",
+      "stopComparison": "Összehasonlítás leállítása",
+      "micA": "A mikr.",
+      "micB": "B mikr."
+    }
+  },
+  "privacyPage": {
+    "title": "Adatvédelmi irányelvek",
+    "lastUpdated": "Utolsó frissítés",
+    "intro": "A MicTestCam-nél komolyan vesszük az Ön adatainak védelmét. Ez az adatvédelmi irányelv ismerteti, hogyan kezeljük az Ön adatait webkamera és mikrofon tesztelő szolgáltatásaink használata során.",
+    "sections": {
+      "noCollection": {
+        "title": "Nem gyűjtjük az Ön adatait",
+        "content": "A MicTestCam az adatvédelmet alapelvként szem előtt tartva készült. Nem gyűjtünk, nem tárolunk és nem továbbítunk semmilyen hang- vagy videóadatot a webkamera- vagy mikrofontesztjeiből. Minden feldolgozás teljes egészében a böngészőjében történik helyi JavaScript API-k használatával."
+      },
+      "localStorage": {
+        "title": "Helyi tárhely",
+        "content": "Videó- vagy hangfelvételek rögzítésekor azok helyben, a böngésző IndexedDB tárhelyén kerülnek tárolásra. Ezek az adatok soha nem hagyják el az eszközét, és sem számunkra, sem harmadik fél számára nem hozzáférhetők. Ezeket a felvételeket bármikor törölheti az alkalmazás felületén vagy a böngésző adatainak törlésével."
+      },
+      "cookies": {
+        "title": "Sütik és analitika",
+        "content": "Minimális mennyiségű sütit használunk, kizárólag az alapvető weboldal-funkcionalitáshoz, például nyelvi beállításokhoz. Az adatvédelmet tiszteletben tartó analitikát használhatunk az általános használati szokások megértéséhez, de nem követjük az egyes felhasználókat és nem gyűjtünk személyes adatokat."
+      },
+      "thirdParty": {
+        "title": "Harmadik fél szolgáltatásai",
+        "content": "Weboldalunk tartalmazhat harmadik felek weboldalaira mutató hivatkozásokat. Nem vállalunk felelősséget ezen külső oldalak adatvédelmi gyakorlatáért. Javasoljuk, hogy tekintse át az adatvédelmi irányelveiket, mielőtt személyes adatokat adna meg."
+      },
+      "security": {
+        "title": "Biztonság",
+        "content": "HTTPS titkosítást használunk a böngészője és weboldalunk közötti minden kommunikáció védelmére. Mivel nem gyűjtjük az Ön médiaadatait, nincs annak kockázata, hogy webkamera- vagy mikrofonfelvételei adatszivárgás révén nyilvánosságra kerüljenek."
+      },
+      "children": {
+        "title": "Gyermekek adatvédelme",
+        "content": "A MicTestCam nem 13 év alatti gyermekeknek készült. Tudatosan nem gyűjtünk információt gyermekektől."
+      },
+      "changes": {
+        "title": "Az irányelv módosításai",
+        "content": "Időről időre frissíthetjük ezt az adatvédelmi irányelvet. A változásokról az új adatvédelmi irányelv ezen az oldalon történő közzétételével és az »Utolsó frissítés« dátumának módosításával értesítjük."
+      },
+      "contact": {
+        "title": "Kapcsolatfelvétel",
+        "content": "Ha bármilyen kérdése van ezzel az adatvédelmi irányelvvel kapcsolatban, kérjük, lépjen velünk kapcsolatba a kapcsolati oldalunkon keresztül."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Felhasználási feltételek",
+    "lastUpdated": "Utolsó frissítés",
+    "intro": "Üdvözöljük a MicTestCam-en. Weboldalunk és szolgáltatásaink elérésével vagy használatával Ön elfogadja a jelen felhasználási feltételeket.",
+    "sections": {
+      "acceptance": {
+        "title": "A feltételek elfogadása",
+        "content": "A MicTestCam használatával Ön elfogadja a jelen felhasználási feltételeket és adatvédelmi irányelvünket. Ha nem ért egyet ezen feltételek bármely részével, nem használhatja szolgáltatásainkat."
+      },
+      "description": {
+        "title": "Szolgáltatás leírása",
+        "content": "A MicTestCam ingyenes online eszközöket biztosít webkamerák és mikrofonok teszteléséhez. Szolgáltatásunk lehetővé teszi, hogy ellenőrizze kamerája és mikrofonja megfelelő működését videohívások, felvételek vagy streaming előtt."
+      },
+      "usage": {
+        "title": "Elfogadható használat",
+        "content": "Ön vállalja, hogy a MicTestCam-et kizárólag jogszerű célokra és a jelen feltételeknek megfelelően használja. Ön vállalja, hogy nem: használja a szolgáltatást illegális tevékenységre, próbálja megzavarni a weboldal rendeltetésszerű működését, próbáljon hozzáférni a weboldal nyilvánosan nem elérhető területeihez, vagy használjon automatizált rendszereket a szolgáltatás engedély nélküli eléréséhez."
+      },
+      "privacy": {
+        "title": "Adatvédelem és adatok",
+        "content": "Minden webkamera- és mikrofonteszt helyben, a böngészőjében történik. Nem gyűjtjük, nem tároljuk és nem férünk hozzá az Ön hang- vagy videóadataihoz. További információért kérjük, tekintse át adatvédelmi irányelvünket."
+      },
+      "intellectual": {
+        "title": "Szellemi tulajdon",
+        "content": "A MicTestCam weboldalt, beleértve annak dizájnját, kódját és tartalmát, szerzői jog és egyéb szellemi tulajdonjogi törvények védik. A weboldal bármely részét nem másolhatja, módosíthatja, terjesztheti vagy reprodukálhatja előzetes írásbeli hozzájárulásunk nélkül."
+      },
+      "disclaimer": {
+        "title": "Garancia kizárása",
+        "content": "A MicTestCam »jelenlegi állapotában« áll rendelkezésre, bármilyen kifejezett vagy hallgatólagos garancia nélkül. Nem garantáljuk, hogy a szolgáltatás megszakítás nélküli, hibamentes lesz, vagy megfelel az Ön konkrét igényeinek. Nem vállalunk felelősséget az eszközeivel kapcsolatos hardver- vagy szoftverproblémákért."
+      },
+      "limitation": {
+        "title": "Felelősségkorlátozás",
+        "content": "A jogszabályok által megengedett legteljesebb mértékben a MicTestCam nem vállal felelősséget semmilyen közvetett, véletlen, különleges, következményes vagy büntető jellegű kárért, amely a szolgáltatás használatából ered."
+      },
+      "changes": {
+        "title": "Feltételek módosítása",
+        "content": "Fenntartjuk a jogot, hogy a jelen felhasználási feltételeket bármikor módosítsuk. A módosítások a weboldalon történő közzétételkor azonnal hatályba lépnek. A szolgáltatás további használata a módosítások közzétételét követően a módosított feltételek elfogadásának minősül."
+      },
+      "governing": {
+        "title": "Irányadó jog",
+        "content": "A jelen felhasználási feltételeket az alkalmazandó jogszabályoknak megfelelően kell értelmezni, a joghatósági összeütközések elveitől függetlenül."
+      },
+      "contact": {
+        "title": "Kapcsolat",
+        "content": "Ha bármilyen kérdése van a jelen felhasználási feltételekkel kapcsolatban, kérjük, lépjen velünk kapcsolatba a kapcsolati oldalunkon keresztül."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Kapcsolatfelvétel",
+    "subtitle": "Kérdése vagy visszajelzése van? Örömmel hallanánk Öntől.",
+    "form": {
+      "name": "Neve",
+      "namePlaceholder": "Adja meg a nevét",
+      "email": "E-mail cím",
+      "emailPlaceholder": "Adja meg e-mail címét",
+      "subject": "Tárgy",
+      "subjectPlaceholder": "Miről van szó?",
+      "message": "Üzenet",
+      "messagePlaceholder": "Írja be üzenetét ide...",
+      "submit": "Üzenet küldése",
+      "sending": "Küldés...",
+      "success": "Köszönjük! Üzenetét sikeresen elküldtük.",
+      "error": "Sajnáljuk, hiba történt az üzenet küldésekor. Kérjük, próbálja újra."
+    },
+    "info": {
+      "title": "Egyéb elérhetőségek",
+      "email": "E-mail",
+      "response": "Általában 24-48 órán belül válaszolunk.",
+      "social": "Kövessen minket"
+    },
+    "faq": {
+      "title": "Mielőtt kapcsolatba lépne velünk",
+      "subtitle": "Válaszát megtalálhatja a főoldal GYIK rovatában."
+    }
+  },
+  "blogPage": {
+    "title": "Webkamera és mikrofon tesztelési blog – Tippek, útmutatók és oktatóanyagok",
+    "subtitle": "Szakértői tippek, útmutatók és betekintések webkamera tesztelésről, mikrofon beállításról és audió/videó optimalizálásról videohívásokhoz, streamingeléshez és tartalomkészítéshez.",
+    "noPosts": "Még nincsenek bejegyzések",
+    "noPostsDescription": "Látogasson vissza hamarosan új tartalmakért!",
+    "readMore": "Tovább olvasom",
+    "by": "szerző:",
+    "minRead": "perc olvasás",
+    "categories": {
+      "all": "Összes bejegyzés",
+      "webcam": "Webkamera tippek",
+      "microphone": "Mikrofon tippek",
+      "tutorials": "Oktatóanyagok",
+      "troubleshooting": "Hibaelhárítás"
+    },
+    "search": "Cikkek keresése...",
+    "featured": "Kiemelt",
+    "latest": "Legújabb cikkek",
+    "relatedPosts": "Kapcsolódó bejegyzések"
+  },
+  "reviewsPage": {
+    "title": "Legjobb webkamera és mikrofon értékelések – Szakértői termékelemzés",
+    "subtitle": "Részletes értékelések, minősítések és vásárlási útmutatók webkamerákhoz, mikrofonokhoz, fejhallgatókhoz és audió/videó eszközökhöz. Találja meg a tökéletes felszerelést streamingeléshez, videohívásokhoz és tartalomkészítéshez.",
+    "noReviews": "Még nincsenek elérhető értékelések",
+    "noReviewsDescription": "Látogasson vissza hamarosan szakértői termékértékelésekért!",
+    "by": "szerző:",
+    "readMore": "Értékelés olvasása"
+  },
+  "footer": {
+    "tagline": "Tesztelje webkameráját és mikrofonját online ingyen",
+    "privacy": "Adatvédelmi irányelvek",
+    "terms": "Felhasználási feltételek",
+    "contact": "Kapcsolat",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Minden jog fenntartva.",
+    "language": "Nyelv"
+  },
+  "common": {
+    "loading": "Betöltés...",
+    "error": "Hiba",
+    "close": "Bezárás",
+    "back": "Vissza",
+    "next": "Következő",
+    "submit": "Küldés",
+    "cancel": "Mégse",
+    "save": "Mentés",
+    "delete": "Törlés",
+    "edit": "Szerkesztés",
+    "view": "Megtekintés",
+    "download": "Letöltés",
+    "share": "Megosztás",
+    "copy": "Másolás",
+    "copied": "Másolva!",
+    "readMore": "Tovább olvasom",
+    "learnMore": "Tudjon meg többet",
+    "getStarted": "Kezdje el"
+  },
+  "cta": {
+    "title": "Készen áll eszközei tesztelésére?",
+    "subtitle": "Kezdje el webkamerája és mikrofonja tesztelését most. Nincs szükség letöltésre vagy regisztrációra.",
+    "webcamButton": "Webkamera tesztelése",
+    "microphoneButton": "Mikrofon tesztelése"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "A MicTestCam azonnali, ingyenes online tesztelést biztosít webkamerákhoz és mikrofonokhoz közvetlenül a böngészőjében. Nincs szükség letöltésre. Tesztelje kamerája minőségét, mikrofonja szintjeit és hangminőségét kevesebb mint 30 másodperc alatt bármilyen videohívás vagy felvételi munkamenet előtt.",
+      "p1": "Üdvözöljük a MicTestCam oldalán! A MicTestCam a legegyszerűbb módot kínálja <strong>webkamerája és mikrofonja online tesztelésére</strong>, legyen szó videokonferencia, megbeszélés, prezentáció előtti kameraellenőrzésről, YouTube videókhoz és csatornájához készülő narrációk rögzítéséről, vagy podcastjához szükséges alapos <strong>mikrofon tesztről</strong>.",
+      "p2": "A MicTestCam kamera- és mikrofonteszt eszközei teljes egészében a böngészőben működnek, és nem igényelnek letöltést. A felhasználói adatvédelem a MicTestCam legfontosabb prioritása. Minden teszt a böngészőjében történik, és videó- és hangadatai soha nem hagyják el a számítógépét. Naponta több mint 50 000 teszttel és 99,9%-os sikerességi aránnyal a MicTestCam a legnépszerűbb platform szakemberek, távmunkások, tartalomkészítők és hétköznapi felhasználók számára, akik eszközeiket szeretnék tesztelni.",
+      "p3": "Kattintson az alábbi gombokra a <strong>webkamera teszteléséhez</strong> vagy a <strong>mikrofon teszteléséhez</strong>. A MicTestCam mindössze néhány másodpercet vesz igénybe annak ellenőrzéséhez, hogy kamerája és mikrofonja megfelelően működik-e Zoom, Microsoft Teams, Google Meet, Discord, Skype vagy más videohívás előtt.",
+      "keyTakeaways": {
+        "title": "Legfontosabb tudnivalók",
+        "points": [
+          "Ingyenes azonnali webkamera és mikrofon tesztelés – nincs szükség szoftvertelepítésre",
+          "100%-ban böngészőalapú tesztelés biztosítja a teljes adatvédelmet és adatbiztonságot",
+          "Valós idejű visszajelzés a videóminőségről, hangszintekről és frekvenciaválaszról",
+          "Kompatibilis a Zoom-mal, Teams-szel, Meet-tel, Discorddal és minden videóplatformmal",
+          "Naponta több mint 50 000 teszt 99,9%-os pontossági aránnyal"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Miért érdemes tesztelni a webkamerát és a mikrofont videohívások előtt?",
+      "directAnswer": "A webkamera és a mikrofon tesztelése videohívások előtt megelőzi a kínos technikai hibákat, megkíméli a megbeszélés idejét, és biztosítja a professzionális kommunikáció minőségét. A hívás előtti teszt feltárja a kameraszöggel, megvilágítással, hangszintekkel és háttérzajjal kapcsolatos problémákat, mielőtt a közönsége látná őket.",
+      "p1": "A távmunka és a virtuális kommunikáció mára általános üzleti gyakorlattá vált. A videón és hangon keresztüli tiszta kommunikáció képessége elengedhetetlen a szakmai sikerhez. A megbeszélések közbeni technikai fennakadások rontják a hitelességet és időt pazarolnak. Az ismétlődő »Láttok engem? És most?« kérdések aláássák a szakmai reputációt és késleltetik a fontos megbeszéléseket.",
+      "p2": "Egy gyors videóteszt elvégzése a megbeszélések előtt megelőzi a technikai bakikat. Egy gyors hangteszt elvégzése fontos hívások előtt biztosítja, hogy a hangja tiszta, háttérzaj, visszhang és torzítás nélkül. Értékesítési szakemberek, vezetők, tanárok és tartalomkészítők megértik a megbízható webkamera- és mikrofonteljesítmény fontosságát.",
+      "p3": "Más webkamera- és mikrofonteszt eszközökkel ellentétben a MicTestCam nem csupán ellenőrzi, hogy webkamerája vagy mikrofonja működik-e, hanem részletes információkat is nyújt a videóminőségről és a hangjellemzőkről. A MicTestCam segít a felhasználóknak megtalálni és kijavítani a technikai problémákat, mielőtt a videohívás megkezdődne.",
+      "comparison": {
+        "title": "MicTestCam vs. beépített videoplatform-tesztek",
+        "points": [
+          "<strong>MicTestCam:</strong> Részletes hangfrekvencia-elemzést, valós idejű hullámformákat és professzionális mérőszámokat biztosít",
+          "<strong>Platform-tesztek:</strong> Csak alapvető igen/nem funkcionalitást mutatnak minőségi részletek nélkül",
+          "<strong>MicTestCam:</strong> A tesztek minden platformon működnek – Zoom, Teams, Meet, Discord egyszerre",
+          "<strong>Platform-tesztek:</strong> Csak az adott platformon belüli működést ellenőrzik",
+          "<strong>MicTestCam:</strong> Felvétel-visszajátszást kínál, hogy pontosan hallja, mit fognak mások hallani",
+          "<strong>Platform-tesztek:</strong> Nincs visszajátszási funkció a minőség ellenőrzéséhez"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Hogyan működik a MicTestCam kamera- és mikrofontesztelője?",
+      "directAnswer": "A MicTestCam WebRTC technológiát használ a webkamera és mikrofon közvetlen eléréséhez a böngészőjén keresztül. A tesztelés teljes egészében az Ön eszközén történik, ugyanazokat a protokollokat használva, amelyeket a Zoom, Teams és Meet is alkalmaz, biztosítva a pontos, valós teljesítménytesztelést anélkül, hogy bármilyen adatot feltöltenénk a szerverekre.",
+      "p1": "A MicTestCam kamera- és mikrofontesztelője WebRTC protokollokat használ, amelyeket a népszerű webalapú videokonferencia-szolgáltatások is alkalmaznak. Amikor a MicTestCam segítségével <strong>teszteli webkameráját</strong>, a platform a böngésző Web API-ján keresztül hozzáfér a webkamerájához, és valós időben jeleníti meg a videóképet a képernyőn. A felhasználók ellenőrizhetik, hogy működik-e a webkamera, megfelelő-e a megvilágítás, helyes-e a kameraszög, és értékelhetik az általános videóminőséget.",
+      "p2": "A MicTestCam <strong>mikrofon teszt</strong> eszköze azonnali visszajelzést ad a hangszintekről. Amikor a felhasználók beszélnek a mikrofonba, a hangszintmérők valós időben tükrözik a hangszinteket, segítve annak megállapítását, hogy a mikrofon megfelelően rögzíti-e a hangot. A 32 sávos frekvenciaspektrum-elemző megmutatja, hogyan oszlik el a hang a frekvenciák között – ez a funkció különösen értékes podcastkészítők és zenészek számára, akik professzionális felvételhez tesztelik mikrofonjaikat.",
+      "p3": "Mindkét MicTestCam eszköz automatikus felvételi képességet kínál. A felhasználók elindíthatnak egy tesztet, és a MicTestCam automatikusan rögzíti a kameraképet és a hangot, lehetővé téve a visszajátszást a minőség értékelésére, ahogy a közönség tapasztalná azt. Minden felvétel helyben, a böngészőben történik. A MicTestCam nem tölt fel és nem tárol felhasználói adatokat külső szervereken, biztosítva a teljes adatvédelmet.",
+      "technicalSpecs": {
+        "title": "Műszaki specifikációk",
+        "specs": [
+          "<strong>Protokoll:</strong> WebRTC (Web Real-Time Communication) – Iparági szabvány, amelyet a Zoom, Microsoft Teams és Google Meet is használ",
+          "<strong>Hangelemzés:</strong> 32 sávos frekvenciaspektrum-elemző (20Hz – 20kHz tartomány)",
+          "<strong>Videófelbontás:</strong> 240p-től 8K-ig (7680×4320) terjedő tesztelés a kamera képességeitől függően",
+          "<strong>Képkockasebesség:</strong> Valós idejű figyelés 15fps, 30fps és 60fps sebességgel",
+          "<strong>Adatvédelem:</strong> 100%-ban kliens oldali feldolgozás – nulla adatátvitel a MicTestCam szervereire",
+          "<strong>Kompatibilitás:</strong> Működik Chrome-on, Firefoxon, Safarin, Edge-en – minden főbb böngészőben"
+        ]
+      }
+    },
+    "features": {
+      "title": "A tesztek teljes funkciólista",
+      "webcamTitle": "Webkamera teszt",
+      "webcamFeatures": [
+        "Kamera élő előnézete felbontási lehetőségekkel 240p-től 1080p-ig.",
+        "Több kameraeszköz felismerése, mint USB kamerák, webkamerák, külső kamerák.",
+        "9+ különböző szűrő és effektus a webkamera és színegyensúlyának teszteléséhez.",
+        "Képkocka/másodperc megjelenítése a kamera figyeléséhez.",
+        "Pillanatkép készítésének lehetősége.",
+        "Automatikus videófelvétel a webkameráról WebM és MP4 formátumban.",
+        "Felvételek helyi tárhelyen mentve."
+      ],
+      "microphoneTitle": "Mikrofon teszt",
+      "microphoneFeatures": [
+        "Valós idejű hangszintmérő és csúcsszintmérő.",
+        "Valós idejű 32 sávos frekvenciaspektrum-elemző.",
+        "Több mikrofoneszköz felismerése, mint USB mikrofonok, fejhallgató-mikrofonok stb.",
+        "Mintavételezési frekvencia beállítása akár 48 kHz stúdióminőségig.",
+        "Hangfelvétel beállítása monó vagy sztereó módban.",
+        "Csúcs- és RMS szintmérő a hanghoz.",
+        "Automatikus hangfelvétel visszajátszási lehetőséggel."
+      ]
+    },
+    "whoUses": {
+      "title": "Kik használják webkamera és mikrofon tesztünket",
+      "remoteWorkers": {
+        "title": "Távmunkások és szakemberek",
+        "description": "Egy távmunkás vagy szakember gyors tesztet végez videokonferenciái és megbeszélései előtt Zoom-on, Google Meet-en vagy Microsoft Teams-en, hogy ellenőrizze webkamerája megfelelő működését, majd egy gyors <strong>mikrofon tesztet</strong> végez, hogy biztosan hallható legyen, ne kelljen ismételnie és ne szakítsák meg azzal, hogy »Nem hallunk!«"
+      },
+      "contentCreators": {
+        "title": "YouTuberek, Twitch streamerek, podcastkészítők és más tartalomkészítők",
+        "description": "YouTuberek, Twitch streamerek, podcastkészítők és más tartalomkészítők számára fejlett audió- és videódiagnosztikai eszközünk elengedhetetlen. Használja a frekvenciaspektrum-elemzőt hangproblémák megoldásához, és végezzen videóminőségi teszteket, hogy biztosan magas minőségű tartalmat állítson elő."
+      },
+      "students": {
+        "title": "Diákok és tanárok",
+        "description": "A diákoknak biztosítaniuk kell, hogy kommunikálni tudjanak az interneten keresztül. Óráik előtt teszteket végeznek, hogy megerősítsék eszközeik működését. A tanárok szintén ellenőrzik felszerelésük megfelelő működését az órák sikeres megtartásához."
+      },
+      "jobSeekers": {
+        "title": "Álláskeresők",
+        "description": "Ha videóinterjúra készül, feltétlenül végezzen <strong>kamera tesztet</strong> és <strong>mikrofon tesztet</strong> előtte. Ez óriási megkülönböztető tényező, és azt mutatja, hogy felkészült. (Semmi sem rosszabb, mint egy lehetőség elvesztése technikai hiba miatt.)"
+      },
+      "gamers": {
+        "title": "Játékosok:",
+        "description": "Gamer fejhallgatót használ? Kapja meg a pontos eredményeket, amelyekre szüksége van mikrofonja teszteléséhez Discord-on, játékon belüli chaten vagy streamingelés során."
+      },
+      "techSupport": {
+        "title": "Technikai támogatás",
+        "description": "Ha problémái vannak kamerájával vagy mikrofonjával, eszközeink segíthetnek megállapítani, hogy a probléma a hardverrel, az illesztőprogramokkal vagy a szoftverbeállításokkal kapcsolatos-e."
+      }
+    },
+    "privacy": {
+      "title": "100%-os adatvédelmi garancia",
+      "intro": "Az adatvédelem áll mindennek a középpontjában, amit <strong>webkamera teszt</strong> és <strong>mikrofon teszt</strong> eszközeinkkel teszünk. Tisztában vagyunk azzal, hogy a kamerája és mikrofonja elérésének engedélyezésével személyes információkat oszt meg velünk. Ezért teljes platformunkat zéró bizalom elvén terveztük.",
+      "localProcessing": {
+        "title": "Minden feldolgozás a helyi gépen történik",
+        "description": "A videó- és hangfeldolgozás a böngészőjében található WebRTC API-k segítségével történik. Nem tároljuk az adatait a szervereinkre, mert meg sem kapjuk azokat."
+      },
+      "noAccount": {
+        "title": "Nincs szükség fiókra",
+        "description": "Nem kell fiókot létrehoznia, e-mail címet megadnia vagy személyes adatokat megosztania. Egyszerűen látogassa meg az oldalt, adjon böngészőengedélyt, tesztelje eszközeit és menjen."
+      },
+      "transparent": {
+        "title": "Átlátható kód",
+        "description": "Nem titkosítjuk a kódunkat. Megtekintheti böngészőjében a fejlesztői eszközök segítségével. Nincs nyomkövetés, nincs adatgyűjtés, nincs olyan analitika, amely személyes adatokat gyűjtene."
+      },
+      "cleanup": {
+        "title": "Automatikus törlés:",
+        "description": "Minden felvétel a böngésző helyi tárhelyén kerül tárolásra. Automatikusan törlődnek, amikor bezárja a böngészőt vagy törli a helyi tárhelyet. Teljes jogosultsággal rendelkezik afelett, hogy mi van tárolva és mennyi ideig."
+      }
+    },
+    "compatibility": {
+      "title": "Böngésző- és eszközkompatibilitás",
+      "intro": "A legtöbb népszerű, naprakész böngészőt és eszközt támogatják webkamera- és mikrofontesztjeink. Mindkét eszköz elérhető Windows, macOS, Linux, iOS, Android vagy bármely más, modern böngészőt támogató operációs rendszeren, további letöltés vagy telepítés nélkül.",
+      "browsersTitle": "Támogatott böngészők",
+      "browsers": [
+        "Google Chrome (legjobb teljesítmény)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (macOS és iOS rendszeren)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Támogatott eszközök",
+      "devices": [
+        "Beépített vagy külső USB webkamerák asztali és laptop számítógépeken",
+        "Okostelefonok és táblagépek előlapi és hátlapi kamerával",
+        "Külső USB kamerák és webkamerák PC-hez",
+        "Beépített laptop mikrofonok",
+        "Külső USB mikrofonok",
+        "Gamer fejhallgatók mikrofonnal",
+        "Professzionális audiofelületek és kondenzátor mikrofonok"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Segítségre van szüksége?",
+      "intro": "Nem sikerül elindítani a <strong>webkamera tesztet</strong> vagy a <strong>mikrofon tesztet</strong>? Próbálja ki az alábbi megoldásokat.",
+      "cameraTitle": "A kamera nem észlelhető vagy nem működik",
+      "cameraIssues": [
+        "Győződjön meg róla, hogy engedélyezte a kamerát a böngészőjében. A címsorban egy kamera ikon jelenik meg, amellyel engedélyezheti a kamera hozzáférést.",
+        "Egy másik alkalmazás használja a kamerát (Zoom, Teams, Skype stb.). A kamerát egyszerre csak egy alkalmazás használhatja. Zárja be a másik alkalmazást, vagy frissítse az oldalt és engedélyezze újra a hozzáférést.",
+        "Frissítse az oldalt, és engedélyezze újra a hozzáférést. Lehet, hogy böngészőhiba okozza a problémát.",
+        "Használja a böngésző legújabb verzióját.",
+        "Ellenőrizze, hogy a kamera illesztőprogramjai megfelelően vannak-e telepítve a számítógépén.",
+        "Ha USB kamerát használ, próbálja meg egy másik USB portba csatlakoztatni, vagy használjon másik kábelt."
+      ],
+      "microphoneTitle": "A mikrofon nem működik",
+      "microphoneIssues": [
+        "Engedélyezze a mikrofon hozzáférést a böngészőjében.",
+        "Győződjön meg róla, hogy a mikrofon megfelelően csatlakozik az áramellátáshoz.",
+        "Használja a rendszer hangbeállításait annak ellenőrzéséhez, hogy a mikrofon működik-e.",
+        "Más alkalmazások használják a mikrofont. Próbálja meg bezárni őket.",
+        "Próbálja meg beállítani a mikrofon szintjét a rendszerbeállításokban a hangerő növeléséhez, ha nem elég hangos, vagy csökkentéséhez, ha túl hangos.",
+        "Ellenőrizze, hogy a mikrofon nincs-e elnémítva a rendszerben vagy az eszközön (ha van hardveres némító gomb az eszközön)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Gyorslinkek",
+      "webcamTitle": "Webkamera tesztelés:",
+      "webcamLinks": ["Webkamera teszt", "Webkamera tesztelés online", "Kamera teszt", "Online kamera tesztelő", "Ingyenes webkamera teszt", "Webkamera ellenőrzése", "USB kamera teszt", "Laptop kamera teszt", "Kamera teszt Zoom-hoz"],
+      "microphoneTitle": "Mikrofon tesztelés:",
+      "microphoneLinks": ["Mikrofon teszt", "Mikrofon teszt online", "Mikrofon tesztelése", "Online mikrofon tesztelő", "Ingyenes mikrofon teszt", "Mikrofon ellenőrzése", "Hangteszt online", "USB mikrofon teszt", "Discord mikrofon teszt"]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Tesztelje webkameráját gyors és egyszerű online teszt eszközünkkel. Valós idejű előnézetet kínál kamerájáról, többféle minőségi beállítással, speciális effektusokkal és automatikus felvétellel az online kamerája használatával, mindezt további szoftvertelepítés nélkül. Így használhatja videokonferencia <strong>kamera tesztként</strong>, vagy tesztelheti beépített webkameráját egy új számítógépen.",
+      "p2": "A teszteléshez egyszerűen nyomja meg a fenti »Kamera indítása és felvétel« gombot. Megjelenik a webkamera élő előnézete, így láthatja, hogy működik-e a videója, tesztelheti a megvilágítást, és ellenőrizheti a kamera megfelelő pozícióját. Semmi nem kerül feltöltésre, tárolásra vagy hozzáférésre. A videóteszt helyben, az Ön számítógépén történik."
+    },
+    "howToUse": {
+      "title": "Hogyan használja webkamera teszt eszközünket",
+      "intro": "A webkamera teszteléséhez kövesse ezeket az egyszerű lépéseket:",
+      "steps": [
+        "<strong>Hozzáférés engedélyezése:</strong> Megjelenik egy párbeszédablak, amely megkérdezi, hogy a böngésző hozzáférhet-e a webkamerához. Nyomja meg az Engedélyezés gombot a böngésző webkamera-hozzáférésének engedélyezéséhez. Vegye figyelembe, hogy ez minden webkamera teszt weboldalnál így van. A párbeszédablak biztonsági intézkedésként jelenik meg, hogy megakadályozza a véletlenszerű weboldalakat a webkamera eléréséből.",
+        "<strong>Válassza ki a megfelelő kamerát:</strong> Ha több kamerája van (például beépített laptop kamera és külön USB kamera), a legördülő menüből kiválaszthatja, melyik kamerát használja. Webkamera teszt eszközünk automatikusan felismeri és felsorolja az összes kamerát.",
+        "<strong>Válassza ki a minőséget:</strong> Válassza ki a kívánt felbontást (minőséget) a minőség legördülő menüből. Tesztelheti a kamerát alacsony minőségben (240p), közepes minőségben (480p), magas minőségben (720p), Full HD minőségben (1080p) stb. A magasabb minőség tisztább képet biztosít, de több sávszélességet és CPU-t igényel.",
+        "<strong>Indítsa el a tesztet:</strong> Nyomja meg a Kamera indítása és felvétel gombot, és azonnal megjelenik a kamera élő képe. Azonnal elindíthatja a felvételt, majd megtekintheti a minőséget.",
+        "<strong>Használjon vizuális szűrőket:</strong> Több mint 9 vizuális szűrővel (fekete-fehér, szépia, elmosódás, magas kontraszt stb.) rendelkezünk, hogy megnézze, hogyan hatnak a kamerája kimenetére.",
+        "<strong>Készítsen pillanatképet:</strong> Készíthet pillanatképet a teszt során a képminőség ellenőrzéséhez, vagy megnézheti, hogyan kezeli a kamera az adott fényviszonyokat.",
+        "<strong>Leállítás és mentés:</strong> Ha végzett, nyomja meg a Leállítás és felvétel mentése gombot a felvétel leállításához. A videó a böngészőben kerül mentésre, így újra lejátszhatja és letöltheti."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Speciális webkamera funkciók",
+      "intro": "A <strong>webkamera tesztelőnk</strong> professzionális szintű funkciókat tartalmaz, amelyeket különböző felhasználási esetekre terveztünk – az alkalmi videohívásoktól a tartalomkészítésig.",
+      "mirrorMode": {
+        "title": "Tükör mód tökéletes szelfiekhez",
+        "description": "A tükrözés és elforgatás elengedhetetlen funkció sminktutoriálokhoz, bloggereknek és mindenkinek, aki úgy szeretné látni magát, mintha tükörbe nézne. A Tükör gombra kattintva (amikor a kamera be van kapcsolva) vízszintesen tükrözi a webkamera videóját, így jobban ellenőrizheti arcát, sminkelhet, vagy egyszerűen hozzászokhat a tükörképhez. Különösen ha YouTube videót, TikTok videót vagy Instagram sztorit rögzít, ahol szöveget kell mutatnia, irányokat kell használnia stb."
+      },
+      "digitalZoom": {
+        "title": "Digitális zoom (1x-től 3x-ig)",
+        "description": "Nézze meg, mennyire éles a <strong>webkamerája</strong> különböző zoomszinteken. Ideális termékbemutatókhoz, tutoriálokhoz, vagy egyszerűen ha közelebb szeretne kerülni. Zoom csúszka és 1x, 2x, 3x gyorsgombok a webkamera élességének teszteléséhez zoom közben. Hasznos annak megítéléséhez, hogy közelebb kell-e mennie a kamerához, vagy zoomolhat-e a képminőség túlzott romlása nélkül. Praktikus élő streamereknek, akik festés, kézműves munka vagy technikai javítás közben szeretnének ráközelíteni."
+      },
+      "brightnessContrast": {
+        "title": "Fényerő- és kontraszt-szabályozók",
+        "description": "Állítsa be a fényerőt (50-150%) és a kontrasztot (50-150%), és nézze meg, hogyan néz ki webkamerája különböző fényviszonyok között. Ezekkel a csúszkákkal tesztelheti, hogy a kamera automatikus expozíciója megfelelően működik-e, és különböző felvételi beállításokat szimulálhat. Ha túl sötét vagy túl világos van a szobájában, a csúszkákat kényelmes beállításra állíthatja a következő videomegbeszéléshez. A streamerek és YouTuberek gyakran használják ezeket a csúszkákat, hogy a legtöbbet hozzák ki kamerájukból és egyenletes fényviszonyokat tartsanak fenn videóikban."
+      },
+      "gridOverlay": {
+        "title": "Rácsrátét professzionális keretezéshez",
+        "description": "Beépített rácsrátétünk a harmadolás szabálya kompozíciós technikát használja, lehetővé téve, hogy tökéletesen keretezze arcát a felvételen. Egyszerűen helyezze szemeit a felső vízszintes vonalra és igazítsa arcát a függőleges segédvonalakhoz. Ez a professzionális fotózási elv vonzóbb és érdekesebb videófelvételeket biztosít YouTube-hoz, üzleti megbeszélésekhez vagy Twitch streamekhez. A rácsrátét segít az ismétlődő felvételeknél az egyenletes keretezésben."
+      },
+      "videoFilters": {
+        "title": "Videószűrők és effektusok",
+        "description": "Alkalmazza a következő szűrőket <strong>webkameráján</strong>, és nézze meg, hogyan néznek ki: Normál, Szürkeárnyalatos, Szépia, Invertált, Elmosódott, Fényerő, Kontraszt, Színárnyalat forgatás és Telítettség. A szűrők megmutatják, milyen jól képes a kamerája a színek megjelenítésére, és hogyan fog kinézni videoeffektus-szűrők használatakor. Ha streamer vagy YouTuber, szűrők segítségével megnézheti, hogyan nézne ki a stream különböző effektusokkal. A szűrők arra is használhatók, hogy ellenőrizze, helyes színeket ad-e ki a kamerája. Hasonlítsa össze a Szürkeárnyalatos és Szépia szűrők eredményeit."
+      },
+      "videoMetrics": {
+        "title": "Valós idejű videó mérőszámok és hisztogram:",
+        "description": "Tekintse meg a videó technikai részleteit, mint a felbontás, képkockasebesség és bitráta. Az RGB hisztogram lehetővé teszi a színek eloszlásának megtekintését a videóban. Ez hasznos a túl-/alulexponálás, színeltolódás és rossz megvilágítás felismerésére. Ez a funkció ideális olyan szakembereknek, mint videósok, YouTuberek és vloggerek, akik a lehető legjobb videót szeretnék biztosítani. Ha a hisztogram bármelyik oldalon meredek eséssel végződik, korrigálnia kell a megvilágítást vagy a kamera beállításait."
+      },
+      "advancedControls": {
+        "title": "Speciális kameravezérlők",
+        "description": "Egyes webkamerák olyan funkciókkal rendelkeznek, mint az expozíció, fókusz mód, fehéregyensúly, ISO és élesség, amelyeket a felhasználó szabályozhat. Webalkalmazásunk lehetővé teszi, hogy ellenőrizze, mit tud a <strong>webkamerája</strong>. Válthat automatikus és kézi fókusz mód között, módosíthatja a fehéregyensúlyt a fény színhőmérsékletéhez, vagy beállíthatja az expozíció-kompenzációt tetszése szerint. Ez nagyon hasznos streamereknek, YouTubereknek és szakembereknek, akiknek szükségük van a kamera beállításainak szabályozására."
+      },
+      "backgroundBlur": {
+        "title": "Háttér elmosás effektus",
+        "description": "Próbálja ki a webalapú háttérelmosást alkalmazások vagy zöld képernyő nélkül. Háttérelmosás effektusunk a legújabb webes technológiákat használja a háttér eltávolítására és az Öntől való elválasztására, hasznos, amikor otthonról kell videokonferencia-hívásokat bonyolítania olyan háttérrel, amelyet nem szeretné, hogy mások lássák. Beállíthatja a háttérre alkalmazott elmosás szintjét. Ez az eszköz lehetővé teszi, hogy megnézze, milyen jól működik a háttérelmosás effektus a <strong>webkamerájával</strong> és kameraalkalmazásával. Ez különösen hasznos webfejlesztők, digitális marketingesek és mindenki számára, aki videótartalmat készít."
+      },
+      "motionDetection": {
+        "title": "Mozgásérzékelés biztonsági teszteléshez",
+        "description": "Ha ellenőrizni szeretné, hogy <strong>webkamerája</strong> mennyire reagál a mozgásra, használja valós idejű mozgásérzékelőnket. Speciális módban egy élő mozgásszázalék-mutató jelenik meg, amely a videó mozgását tükrözi. Használja biztonsági kamera mozgásteszteléshez, felügyeleti rendszer konfiguráláshoz vagy mozgásérzékelős felvevő kamera teszteléséhez. A mozgásérzékelő képkockáról képkockára elemzi a videófolyamot a mozgás mértékének megállapítására. Ez lehetővé teszi annak ellenőrzését, mennyire jó a kamera, és milyen érzékenységre van szükség. Hasznos otthoni biztonsági rendszer, kisállat-figyelő és babafigyelő teszteléséhez."
+      },
+      "faceDetection": {
+        "title": "Arcfelismerés és -követés",
+        "description": "Tesztelje webkamerája arcfelismerési képességét. Speciális módban kereteket rajzolunk az arcok köré és megszámoljuk őket. Arcfelismerő eszközünk a FaceDetector API-t használja, ha elérhető a böngészőjében, több arc felismerésére egy képkockán belül. Használja ezt az eszközt a <strong>kamera</strong> automatikus keretezési funkciójának tesztelésére videokonferenciáknál, vagy nézze meg, hogyan kezeli egynél több arcot. Videótartalom-készítők megnézhetik, hogy kamerájuk megfelelően felismeri-e az arcokat automatikus fókuszálási célokra, szakemberek pedig ellenőrizhetik, hogy több személyes tárgyalótermeik az elvárásoknak megfelelően működnek-e."
+      },
+      "sideBySide": {
+        "title": "Egymás melletti mód: Két kamera összehasonlítása",
+        "description": "Az egymás melletti mód lehetővé teszi 2 webkamera egymás melletti összehasonlítását. Hasznos több webkamera egyidejű teszteléséhez. Ha van beépített webkamerája és egy külső USB webkamerája, egyszerre megtekintheti őket egymás mellett. Nagyon hasznos webkamera vásárlásának kiválasztásakor is. Valós időben összehasonlíthatja a kamera képminőségét, színhűségét, gyenge fényviszonyok közötti teljesítményét és látószögét. Kiváló eszköz streamereknek és YouTubereknek."
+      }
+    },
+    "videoQuality": {
+      "title": "Webkamera videóminőségi beállítások magyarázata",
+      "intro": "A felbontás határozza meg a webkamera által előállított videó élességét. Íme, hogyan teljesítenek a beállítások webkamera felbontási tesztünkön:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Ez a legalacsonyabb minőségi beállítás, arra az esetre, ha csak azt szeretné tesztelni, hogy működik-e a stream, és az internetkapcsolata nagyon gyenge. A videó elmosódott lesz, de kiválóan alkalmas annak ellenőrzésére, hogy a kamera legalább streamel-e."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Alacsony minőség, kis sávszélesség-felhasználás. Alacsony felbontású videohívást folytathat, ha nem igazán számít a minőség. Az arcokat még ki lehet venni, de semmi mást."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "– Normál felbontás. Ez a középút a minőség és a sávszélesség között. A legtöbb videochat és streaming alkalmazás képes ezt használni. Ez jellemzően a régebbi webkamerák felbontása."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Ez a felbontás nagyfelbontású videokonferencia-minőséget biztosít, amely kiváló professzionális használatra. Éles képet és tisztességes színminőséget kínál. Ez a legnépszerűbb felbontás a videokonferencia-alkalmazásokban, mint a Zoom, Teams és Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Ez a legmagasabb felbontás, amelyet webkamerákban találhat, és ideális azok számára, akik magas minőségű tartalmat szeretnének készíteni, streamelni, vagy a lehető legjobb videóminőségre van szükségük. Több sávszélességet és feldolgozási kapacitást igényel, de éles és professzionális képet kap."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Quad HD felbontás kiváló részletességgel és tisztasággal. Kiváló profi tartalomkészítőknek, magas képminőséget igénylő streamereknek és 4K monitorral rendelkezőknek, akik natív felbontást szeretnének. Magas minőségű webkamerák és jelentős sávszélesség szükséges."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra nagyfelbontás, négyszer annyi pixellel, mint az 1080p. Professzionális minőség tartalomkészítőknek, filmkészítőknek és csúcsminőségű streamingeléshez. Prémium webkamerákat, erős számítógépes hardvert és nagysebességű internetet igényel. Tökéletes a felvételek jövőbiztosítására és a részletek maximalizálására digitális zoom és vágás esetén."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "A lehető legnagyobb felbontás. 16-szor több pixellel rendelkezik, mint az 1080p. Ezt jellemzően nagyon csúcskategóriás professzionális webkamerákhoz, vagy DSLR/tükör nélküli fényképezőgépet webkameraként használókhoz alkalmazzák. Rendkívül csúcskategóriás webkamera vagy DSLR/tükör nélküli fényképezőgép, rendkívül erős számítógép és rendkívül gyors internetkapcsolat szükséges hozzá. Csak akkor érdemes használni, ha moziminőségre van szüksége, vagy ha rendkívül nagy monitorja van, vagy ha nagy mértékben szeretne digitálisan zoomolni."
+        }
+      },
+      "tip": "Ha webkamera tesztet végez, először teszteljen 720p-vel, hogy megbizonyosodjon kamerája nagyfelbontású működéséről, majd teszteljen bármilyen más, Ön számára szükséges felbontással."
+    },
+    "frameRate": {
+      "title": "Képkockasebesség és sima videóteljesítmény",
+      "intro": "A képkockasebesség az a frekvencia (sebesség), amellyel egy képalkotó eszköz egymást követő egyedi képeket – úgynevezett képkockákat – állít elő. A képkockasebességet képkocka/másodpercben (FPS) fejezik ki. Minél magasabb a képkockasebesség, annál simábbnak tűnik a videó, különösen mozgás közben. Online webkamera teszt eszközünk ellenőrzi a webkamera valós FPS-ét, hogy megmutassa, van-e probléma a webkamerájával.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Elfogadható videokonferenciához. A mozgás kissé szaggatottnak tűnik. Oka lehet alacsony kategóriás kamera, gyenge megvilágítás vagy CPU szűk keresztmetszet."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "– Ez a webkamerák és a legtöbb videokonferencia-alkalmazás jellemző képkockasebessége. A mozgás sima és valósághű. Ez az ideális képkockasebesség professzionális videokonferenciához is."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Magas képkockasebesség, amely még simább mozgást biztosít. Ideális streamereknek és YouTubereknek, ahol a mozgás simásága kulcsfontosságú. Vegye figyelembe, hogy nem minden webkamera támogatja a 60 FPS-t, és több sávszélességet fogyaszt."
+        }
+      },
+      "tip": "Ha a webkamera teszt eredménye alacsony képkockasebesség, fontolja meg alacsonyabb felbontás használatát vagy a megvilágítás javítását. A fény problémát okozhat a webkameráknál, mivel csökkenthetik a képkockasebességet az expozíciós idő növelése érdekében."
+    },
+    "lighting": {
+      "title": "Tippek a jobb megjelenésű webkamera videóhoz",
+      "intro": "A megvilágítás a legjelentősebb tényező a webkamera videó minőségében. Egy alacsony minőségű webkamera kiváló megvilágítással jobban néz ki, mint egy magas minőségű webkamera gyenge megvilágítással.",
+      "tips": {
+        "position": {
+          "title": "Fény Ön előtt",
+          "description": "A fényforrásnak Ön előtt kell lennie, nem a háta mögött. A háttérvilágítás (például ablak előtt állás) sötétté és árnyékossá teszi az arcát."
+        },
+        "soft": {
+          "title": "Lágyítsa a fényt",
+          "description": "Kerülje a közvetlen megvilágítást, amely erős árnyékokat és fénycsúcsokat okoz. Több fényforrás, vagy nagy ablakokon beáramló fény mindig lágy és professzionálisabb megjelenésű képeket eredményez."
+        },
+        "flicker": {
+          "title": "Villogó izzók elkerülése",
+          "description": "Egyes LED izzók és fénycsövek olyan frekvencián villognak, amelyet a kamera érzékel, és villogás jelenik meg a videóban. Próbáljon izzólámpákat vagy magas minőségű, videózásra alkalmas LED izzókat használni."
+        },
+        "color": {
+          "title": "A színhőmérséklet is fontos tényező.",
+          "description": "Ügyeljen arra, hogy minden fényforrás azonos színhőmérsékletű legyen. A meleg és hideg fény keveréke egészségtelenül hat. A webkamerák általában nappali fényegyensúlyú megvilágításban (5000-6500K) néznek ki a legjobban."
+        }
+      },
+      "tip": "Tesztelje webkamera teszt eszközünket több fényforrással, hogy megállapítsa, javul-e a webkamera képe. Az élő nézet lehetővé teszi a különböző fényviszonyok tesztelését, hogy megtalálja az Ön számára legmegfelelőbbet."
+    },
+    "types": {
+      "title": "A webkamerák típusai és mire számíthat",
+      "builtIn": {
+        "title": "Beépített laptop webkamerák",
+        "description": "A laptopokba szinte mindig van beépített webkamera a képernyő tetejére. Ezek többnyire 720p-s kamerák, és tökéletesen megfelelnek az alkalmi videochateléshez. A minőség azonban a laptop típusától függően nagymértékben eltérhet. Általánosságban elmondható, hogy a jobb laptopoknak jobb webkamerája van."
+      },
+      "usb": {
+        "title": "USB webkamerák",
+        "description": "Léteznek külső webkamerák is, amelyek USB-n keresztül csatlakoznak. Ha valami jobbat keres a beépített kameránál, egy alap modell 1080p-t biztosít 30 FPS-sel, de a csúcskategóriás modellek akár 4K, 60 FPS felbontást is kínálnak, automatikus fókusszal, gyenge fényviszonyok közötti kompenzációval stb."
+      },
+      "streaming": {
+        "title": "Streaming kamerák:",
+        "description": "Streamereknek készült kamerák, amelyek a képminőségre összpontosítanak nagyobb érzékelőkkel, jobb gyenge fényben való érzékenységgel és fejlettebb színtudománnyal. A HDR és a látószög beállítások gyakoriak."
+      },
+      "dslr": {
+        "title": "DSLR/tükör nélküli kamera mint webkamera",
+        "description": "Sok új fényképezőgép használható webkameraként USB-n keresztül, vagy rögzítőkártyával. Ez a legmagasabb minőségű képet biztosítja, de a legtöbb felszerelést és konfigurációt is igényli."
+      },
+      "tip": "Ha nem biztos abban, hogy kamerája működik-e az eszközünkkel, átfogó webkamera tesztünk minden típusú kamerával kompatibilis. Nyugodtan használja különböző webkamerák összehasonlítására, vagy egyszerűen ellenőrizze, hogy az új webkamerája működik-e a csatlakoztatás után."
+    },
+    "troubleshooting": {
+      "title": "Segítségre van szüksége a webkamera javításához?",
+      "intro": "Ha tesztet futtatott és problémát fedezett fel, kövesse ezeket a lépéseket a leggyakoribb hibák azonosításához és javításához:",
+      "blackScreen": {
+        "title": "A webkamera fekete képernyőt mutat",
+        "issues": [
+          "Ellenőrizze, hogy nincs-e fizikai takaró (például adatvédelmi csúszka, ragtapasz vagy ragasztószalag) a kamera lencséjén",
+          "Ellenőrizze, hogy nem használja-e egy másik alkalmazás (Skype, Zoom, Teams stb.) a kamerát a háttérben. Zárja be ezeket az alkalmazásokat, és próbálja újra a webkamera tesztet.",
+          "Ha a probléma továbbra is fennáll, próbálja meg újraindítani a böngészőt, és ismételje meg a webkamera tesztet.",
+          "Ha külső USB webkamerát használ, próbálja meg egy másik USB portba csatlakoztatni.",
+          "Frissítse vagy telepítse újra a kamera illesztőprogramjait."
+        ]
+      },
+      "blurry": {
+        "title": "A webkamera képe elmosódott",
+        "issues": [
+          "Tisztítsa meg a webkamera lencséjét mikroszálas kendővel.",
+          "Ha a webkamerájának van fókuszgyűrűje, próbálja meg kézzel beállítani a fókuszt.",
+          "Ügyeljen arra, hogy elegendő fény legyen a kamera automatikus fókuszálásához.",
+          "Menjen közelebb vagy távolabb a webkamerától, és nézze meg, javul-e a kép."
+        ]
+      },
+      "colors": {
+        "title": "A webkamera színei rosszul néznek ki",
+        "issues": [
+          "Különböző fényviszonyok között tartózkodik? A természetes és a mesterséges megvilágításnak különböző színtónusai lehetnek.",
+          "Próbálja meg beállítani a fehéregyensúlyt a webkamera beállításaiban, ha elérhető.",
+          "Visel-e valamilyen domináns színű ruhadarabot, vagy van-e ilyen színű tárgy a közelében, ami színeltolódást okozhat? Próbálja meg eltávolítani."
+        ]
+      },
+      "choppy": {
+        "title": "A videó szaggatott vagy lassú",
+        "issues": [
+          "Csökkentse a videóminőséget a webkamera teszt eszköz beállításaiban.",
+          "Próbálja meg bezárni az összes többi alkalmazást, amely CPU-t vagy GPU-erőforrásokat fogyaszt.",
+          "Javítsa a fényviszonyokat a kamerára nehezedő terhelés csökkentése érdekében.",
+          "Ha külső USB webkamerát használ, csatlakoztassa közvetlenül a számítógépéhez USB elosztó helyett."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Webkamera tesztelése adott platformokhoz",
+      "zoom": {
+        "title": "Zoom videokonferencia",
+        "description": "Használja ezt a webkamera tesztet, hogy megbizonyosodjon kamerája megfelelő működéséről egy fontos Zoom megbeszélés előtt. Győződjön meg róla, hogy a videóminőség megfelelő 720p-n (amely a legtöbb Zoom megbeszélés alapértelmezett minősége). Ügyeljen arra, hogy a megvilágítás elegendő legyen, és helyzete a webkamera nézetében megfelelő legyen a Zoom híváshoz való csatlakozás előtt."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "1080p HD videó érhető el a megbeszéléseken. Tesztelje a kamerát különböző felbontásokon, hogy megerősítse, kamerája támogatja-e a Teams videó felbontását. Tesztelje a hátteret a professzionális minőség érdekében az Együttes módhoz és a virtuális háttérhez."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "A Meet automatikusan beállítja a videóminőséget a hálózati feltételek alapján. Teszteljen legalább 720p-vel, hogy megbizonyosodjon kamerája megfelel a Google Meet magas minőségű videoátvitelre vonatkozó minimális követelményeinek."
+      },
+      "streaming": {
+        "title": "Streamingelés (Twitch/YouTube)",
+        "description": "Teszteljen a webkamerája által kezelhető maximális felbontáson (lehetőleg 1080p60). Győződjön meg róla, hogy a képkockasebesség stabil, és nézze meg, hogyan birkózik meg a kamerája gyors mozgásokkal és különböző fényviszonyokkal."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Ha a Discordot videohívásokra használja, szükséges egy 720p-re képes webkamera. Meg kell győződnie arról, hogy a kamerája alkalmas a számítógépéhez, a játékos munkamenetekhez és a közösségi hívásokhoz. Ez biztosítja azt is, hogy a kamera nem foglal le túl sok sávszélességet, ami akadályozná a játékot."
+      }
+    },
+    "relatedTools": {
+      "title": "Kapcsolódó eszközök és források",
+      "alsoTry": "Próbálja ki még:",
+      "alsoTryLinks": ["Webkamera és mikrofon teszt", "Mikrofon tesztelése", "Mikrofon teszt", "Hangfelvétel teszt", "Mikrofon ellenőrzése online"],
+      "onThisPage": "Ezen az oldalon:",
+      "onThisPageLinks": ["Webkamera tesztelése", "Videóminőségi beállítások", "Kamera hibaelhárítás", "Nem működő webkamera javítása", "Legjobb webkamera beállítások"]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Működött a mikrofonja? Használja gyors és egyszerű <strong>mikrofon tesztünket</strong>, hogy megbizonyosodjon <strong>mikrofonja megfelelő működéséről</strong>. Ez az <strong>online mikrofon teszt</strong> a mikrofonszinteket, frekvenciaspektrumot is megjeleníti, és rögzíti a hangot. Nincs szükség szoftverre vagy bővítményre a <strong>mikrofon teszteléséhez</strong>. <strong>Tesztelje mikrofonját</strong> most, mielőtt élőben menne, videohívást indítana vagy podcastot rögzítene.",
+      "p2": "Nyomja meg a fenti »Mikrofon indítása és felvétel« gombot a mikrofon ellenőrzéséhez. A hangszintek valós időben jelennek meg, így láthatja, hogy a mikrofon megfelelően veszi-e a hangot. A 32 sávos hangfrekvencia-grafikon megmutatja, milyen jól érzékeli a mikrofon a hang különböző frekvenciáit. Ez különösen hasznos podcastkészítők vagy zenészek számára, mivel lehetővé teszi olyan eszközök használatát, amelyek minden frekvenciát tisztán képesek rögzíteni."
+    },
+    "howToTest": {
+      "title": "Hogyan tesztelje a mikrofonját",
+      "intro": "Kövesse ezeket a lépéseket egy teljes <strong>mikrofon teszthez</strong>:",
+      "steps": [
+        "<strong>Mikrofon hozzáférés engedélyezése:</strong> Engedélyezze a böngészőnek a mikrofon használatát. Kattintson az engedélyezésre, ha megjelenik egy párbeszédablak a mikrofon hozzáférés kéréséhez. Ha először használja a böngészőt, előfordulhat, hogy a címsorban lévő pajzs ikonra kell kattintania, majd ki kell választania a mikrofont az oldal hozzáférésének engedélyezéséhez.",
+        "<strong>Válassza ki a mikrofont (ha szükséges):</strong> Válassza ki a kívánt mikrofont a legördülő menüből (számítógépének mikrofonja, külső mikrofon stb.). Az <strong>online mikrofon teszt</strong> egyszerre csak egy mikrofonnal végezhető.",
+        "<strong>Állítsa be a mintavételezési frekvenciát és csatornákat:</strong> Válassza ki a mikrofon mintavételezési frekvenciáját (44,1 kHz a normál minőséghez és 48 kHz a magasabb minőséghez). Válasszon monó vagy sztereó csatornát az igényeinek megfelelően.",
+        "<strong>Rögzítsen egy mikrofon tesztet:</strong> Kattintson a felvétel gombra a <strong>mikrofon teszt</strong> indításához. Automatikusan elkezdi a felvételt, így később visszahallgathatja, hogyan szól a mikrofonja.",
+        "<strong>Figyelje a mikrofonszint-mérőt:</strong> A <strong>mikrofon teszt</strong> végrehajtása közben figyelje a mikrofonszint-mérőt, miközben a mikrofonba beszél. Ha megfelelően rögzít, a mérőnek a hangja hangerejének megfelelően kell mozognia. A zöld szín jelzi az ideális hangerőszintet, a sárga a magasabb hangerőszintet, a piros pedig a túl hangos, esetleg torzító szintet.",
+        "<strong>Próbáljon különböző hangerőn beszélni:</strong> Végezzen <strong>mikrofon tesztet</strong> normál hangon, majd nagyon halk és hangos hangon. Ez segít megtudni, mennyire érzékeny a mikrofonja a különböző hangerőszintekre.",
+        "<strong>Játssza vissza a felvételt:</strong> Az <strong>online mikrofon teszt</strong> elvégzése után játssza vissza a felvételt, hogy hallja, hogyan szól a mikrofon. Ez segít azonosítani azokat a problémákat, amelyeket a mikrofonszint-mérővel nem venne észre."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Speciális funkciók",
+      "intro": "Akár azt kérdezi, miért nem működik a mikrofonja, akár a legjobb teljesítményt szeretné elérni egy fontos megbeszélésre vagy élő közvetítésre, több speciális funkciót is tesztelhet ezen az oldalon:",
+      "inputGain": {
+        "title": "Optimális bemeneti erősítés",
+        "description": "Állítsa be a mikrofon erősítését 50% és 150% között előre beállított lehetőségeinkkel vagy valós időben a csúszkánkkal. A bemeneti erősítés szabályozása különösen fontos azok számára, akik podcasthoz rögzítenek hangot, ahol az epizódok közötti egyenletes szintek kívánatosak, zenészek számára (ének és hangszerek), és streamereknek, akik érzékenyek a torzításra és clippingre. Válassza az Alacsony (50%) előbeállítást túl hangos környezetekhez, vagy ha érzékeny kondenzátor mikrofonja van, a Normál (100%) beállítást a legtöbb felhasználási esethez, és az Erősítés (150%) beállítást halkabb forrásokhoz, amelyeknek több erősítésre van szükségük. Valós idejű erősítés-szabályozásunk a Web Audio API GainNode funkcióját használja az erősítéshez zaj vagy késleltetés hozzáadása nélkül."
+      },
+      "noiseSuppression": {
+        "title": "Zajcsökkentés alkalmazása tiszta felvételekhez",
+        "description": "Ha el szeretné távolítani a gépelési hangokat, egérkattintásokat, ventilátor- és légkondicionáló hangokat és hasonló zajokat a felvételből, kérjük, engedélyezze a zajcsökkentést, és próbálja újra. A böngészőjében működik, és használható távmunkás, podcast, otthoni felvétel, videó stb. zajos felvételeinek tisztítására, zajkapu vagy zajcsökkentő bővítmény nélkül. A zajcsökkentés a Web Audio API-t használja a zaj közvetlen elnyomására a mikrofonnál, így nem növeli a CPU-terhelést és nem ad hozzá késleltetést. Tesztelhet zajcsökkentéssel és anélkül is, hogy megnézze, mi működik a legjobban az Ön mikrofonjával."
+      },
+      "echoCancellation": {
+        "title": "Miért hasznos: Visszhangszűrés",
+        "description": "Eltávolítja az akusztikus visszacsatolást és visszhangot a mikrofonjából a teszt előtt. Ez fontos videohívások, podcastinterjúk és élő közvetítések esetén, amikor a hangszórók hangját a mikrofon is felveheti. Használja az előbeállítások felugró ablakát a visszhangszűrés bekapcsolásához a mikrofon tesztelése során. Ez segít eldönteni, hogy szükséges-e a felvételi tér akusztikai kezelése, vagy megbízhat-e a böngésző visszhangszűrésében. Hasznos: távmunkásoknak, podcast-interjúkészítőknek és mindenkinek, aki sok kemény felületű (visszahangot okozó) szobában rögzít."
+      },
+      "autoGainControl": {
+        "title": "Egyenletes hangerő fenntartása AGC-vel",
+        "description": "Az AGC hangosabbá és egyenletesebbé teszi a mikrofon szintjét. Ha halk, hangosabbá teszi. Ha hangos, halkítja. Kiváló streamereknek, mert egy hangos pillanatban nem kell amiatt aggódnia, hogy túl hangos. Podcastkészítőknek is jó, ha éppen távolabb kerül a mikrofontól. Videokonferenciákhoz is kiváló, ha profinak szeretne hangzani. Jelölje be ezt a jelölőnégyzetet, és nézze meg, jól működik-e az AGC a böngészőjével és a mikrofonjával. Ha zenét vagy ASMR-t szeretne rögzíteni, érdemes kikapcsolva hagyni."
+      },
+      "realtimeMeter": {
+        "title": "Figyelje hangszintjeit valós időben.",
+        "description": "A szintmérő az audió jel RMS (négyzetes átlag gyökér) értékét mutatja, jelezve a hang tényleges szintjét. A csúcsszint is megjelenik, ahol a szint torzulni kezd. A szintmérő három részre oszlik: zöld, sárga és piros. A zöld zóna az optimális szint, -12 és -6 dB között. A sárga zóna -6 és -3 dB között van, a piros zóna pedig -3 dB felett, amikor a hang torzul. Használja ezt a mérőt a mikrofon helyes pozícionálásához. Használja hangszintjének beállításához. Használja a hangszintek figyelésére a felvétel megkezdése előtt, hogy tudja, nem fog-e torzulni. Podcastkészítők az epizódok közötti szintek egyeztetésére használják. Zenészek a mikrofonok erősítésének beállítására. Távmunkások annak biztosítására, hogy hallhatók, de nem túl hangosak."
+      },
+      "frequencySpectrum": {
+        "title": "Frekvenciaspektrum-elemzés",
+        "description": "Valós idejű frekvenciaspektrum-elemzés a mikrofon frekvenciaválaszáról. Használja a 32 sávos spektrumot annak meghatározására, hogy a mikrofon mely frekvenciákat veszi fel. Túlzott morajlás (20-250Hz)? Iszapos középsáv (250Hz-2kHz)? Éles sziszegés (6kHz-8kHz)? Ezt hangmérnökök használják mikrofonok és terek értékelésére, podcastkészítők problémás frekvenciák felkutatására, amelyeket kiegyenlíteni kell, zenészek pedig annak meghatározására, melyik mikrofon működik legjobban hangjukhoz vagy hangszerükhöz. A valós idejű frissítések lehetővé teszik pozíciójának, közelségének és környezetének elemzését."
+      },
+      "sideBySide": {
+        "title": "Két mikrofon egymás melletti összehasonlítása",
+        "description": "Válassza az egymás melletti összehasonlítás opciót két mikrofon egyidejű használatához. Ez különösen hasznos, ha két mikrofon van csatlakoztatva (például a laptop beépített mikrofonja és egy USB mikrofon), és egymás mellett szeretné látni őket, összehasonlítva a hangminőséget, zajszintet, frekvenciaválaszt és érzékenységet. Hasznos mikrofon vásárlásakor, különböző mikrofonelhelyezések teszteléséhez, vagy annak eldöntéséhez, melyik mikrofont használja podcastjához vagy streamjéhez. Hangmérnökök sztereo felvételhez keresnek párja egy másik mikrofonnak, és egy vállalat informatikai részlege a mikrofonok telepítés előtti tesztelésére használhatja. A használatához válassza az összehasonlítás beállítást az előbeállítások között, válasszon második mikrofont, és mindkettő valós idejű eredményekkel jelenik meg egymás mellett."
+      },
+      "snrMeasurement": {
+        "title": "Jel-zaj arány (SNR) mérés",
+        "description": "A zöld szám a jelenlegi SNR-t mutatja. 60 dB a professzionális felvételhez javasolt minimum, 50-60 dB a műsorszóráshoz és podcastkészítéshez szükséges minimum, és 40-50 dB elegendő a videochateléshez és oktatóanyagokhoz. A jó SNR elárulja, hogy a mikrofonja elég jó-e ahhoz, amit szeretne vele csinálni, hogy a szobája túl hangos-e, vagy akusztikai panelekre van-e szüksége. Kattintson a képernyő jobb felső sarkában lévő »Speciális« gombra az SNR, zajszint és dinamikatartomány megjelenítéséhez a mérés közben. Ez hasznos mérőszám podcastkészítőknek, akik biztosítani szeretnék, hogy műsoruk megfelel a műsorszóró szabványoknak, zenészeknek, akik otthoni stúdiójukat értékelik, és mindenkinek, akinek fontos a hangminőség."
+      }
+    },
+    "audioLevels": {
+      "title": "Hangszintek magyarázata",
+      "intro": "A fenti mikrofon teszt hangszintmérője vizuálisan ábrázolja a mikrofon bemeneti hangerőszintjét. Fontos tudni, mit jelent minden szint a kiváló hangminőség érdekében:",
+      "green": {
+        "title": "Zöld zóna (0-50%)",
+        "description": "Elfogadható hangszintek a legtöbb esetben. Hangosan és tisztán szól, és bőven van hely a hangosításra torzulás nélkül. Próbáljon ebben a tartományban maradni videohívások és egyéb kommunikáció során."
+      },
+      "yellow": {
+        "title": "Sárga zóna (50-80%)",
+        "description": ": Magas hangszintek, amelyek még elfogadhatók. Jó felvételhez, amikor erős, teljes hangot szeretne. Azonban a hirtelen hangos hangok torzulást okozhatnak."
+      },
+      "red": {
+        "title": "Piros zóna (80-100%)",
+        "description": ": Ez a veszélyzóna, ahol a hang valószínűleg torzul (clipping). Ha gyakran van a pirosban, csökkentse a mikrofon hangerejét a vezérlőpulton, vagy távolodjon a mikrofontól."
+      },
+      "peak": {
+        "title": "Csúcsszint:",
+        "description": "A munkamenet során elért legmagasabb szint. Hasznos annak ellenőrzésére, hogy vannak-e rövid hangos események, amelyek torzulást okoznak, miközben az átlagos szintek rendben vannak."
+      },
+      "rms": {
+        "title": "RMS szint",
+        "description": "– Átlagos hangerő az idő múlásával. Sokkal fontosabb, mint a csúcsszint, ami az észlelt hangosságot illeti. Az RMS szintjeit a zöld zónában szeretné tartani az egyenletesen hangos, de még mindig kellemes hangzás érdekében."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Frekvenciaspektrum-elemzés",
+      "intro": "Mikrofon tesztünk egy 32 sávos frekvenciaspektrum-elemzőt tartalmaz, amely megjeleníti az audió jel eloszlását a különböző frekvenciák között. Ez egy professzionális eszköz, amely lehetővé teszi a mikrofon frekvenciaválaszának elemzését és különböző problémák diagnosztizálását:",
+      "low": {
+        "title": "Alacsony frekvenciák (20-250 Hz)",
+        "description": "Ezek a basszus frekvenciák, amelyek testet és melegséget adnak a hangjának. A túlzott alacsony frekvenciás energia mocsaras vagy búgó hangot eredményezhet. Ezt gyakran a mikrofonhoz való túl közeli elhelyezkedés okozza. (Proximity effektus.)"
+      },
+      "mid": {
+        "title": "Középtartomány (250-4000 Hz)",
+        "description": "A hangjának tisztasága nagyrészt itt található. Ennek a tartománynak kiemelkedőnek és határozottnak kell lennie. Ha ez a tartomány hiányzik, a hangja gyengének vagy távolinak tűnik."
+      },
+      "high": {
+        "title": "Magas frekvenciák (4000-20000 Hz)",
+        "description": "Fényesség és tisztaság. A jól kiegyensúlyozott magas frekvencia éles, érthető beszédet eredményez. A túl sok magas frekvencia sziszegő vagy éles hangot okoz."
+      },
+      "tip": "Figyelje a frekvenciamérőt beszéd közben. Ha egyenletes frekvenciaeloszlást mutat, akkor a mikrofon jó pozícióban van, és valószínűleg természetes hangot rögzít. Ha túl sok aktivitást mutat az alacsony tartományban, előfordulhat, hogy kicsit hátrább kell lépnie."
+    },
+    "sampleRates": {
+      "title": "Mintavételezési frekvencia beállítások",
+      "intro": "A mintavételezési frekvencia a másodpercenként rögzített hangminták száma. Minél magasabb a mintavételezési frekvencia, annál több részletet tartalmaz a hang, de több erőforrást is igényel a feldolgozáshoz és mentéshez:",
+      "rates": {
+        "22khz": {
+          "title": "22,05 kHz",
+          "description": "Alacsony minőség. Csak beszédhez. Nagyon alacsony sávszélesség-felhasználás, de gyenge frekvenciaválasz. Általában kerülendő."
+        },
+        "44khz": {
+          "title": "44,1 kHz (CD minőség)",
+          "description": "– Általános használatra alkalmas. Rögzíti az emberi fül által hallható összes frekvenciát (20 Hz – 20 kHz). Kiváló videokonferenciához, podcastkészítéshez és zenéhez."
+        },
+        "48khz": {
+          "title": "48 kHz (Professzionális szabvány):",
+          "description": "Nagyon hasonló a 44,1 kHz-hez, de kissé magasabb minőségű. Ez a videó/film és műsorszórás szabványa. Használja, ha a hangot videóval szinkronizálja."
+        }
+      },
+      "tip": "Általánosságban a 44,1 kHz a legtöbb mikrofon teszthez elegendő. Ha komoly audió szakember, és a legmagasabb minőséget szeretné (vagy videofelvételhez kell igazítania), használja a 48 kHz-et."
+    },
+    "types": {
+      "title": "A mikrofonok típusai",
+      "builtIn": {
+        "title": "Beépített laptop mikrofonok:",
+        "description": "Ezek a laptopba beépített mikrofonok. Kényelmesek, de általában alacsonyabb minőségűek. Hallhatja a gépelést és a számítógép ventilátorát. Ennek ellenére használhatja, csak helyezze el a laptopot úgy, hogy a mikrofon Ön felé nézzen. Ez tökéletes egy baráttal vagy családtaggal folytatott videochateléshez, de valószínűleg nem szívesen rögzítene vele narrációt."
+      },
+      "usb": {
+        "title": "USB mikrofonok:",
+        "description": "Íme a legjobb USB mikrofon ajánlásaink Mac és PC számára egyaránt. Egy tisztességes USB mikrofon óriási különbséget jelent a számítógép beépített mikrofonjához képest. A Blue Yeti és az Audio-Technica AT2020 USB a két legnépszerűbb USB mikrofon, és fantasztikusan szólnak. Tökéletesek podcastkészítéshez, Twitch streamingeléshez vagy videohívásokhoz."
+      },
+      "headset": {
+        "title": "Gamer fejhallgatók és fülhallgatók:",
+        "description": "Ha fejhallgatót vagy fülhallgatót keres játékhoz, ezek is megfontolásra érdemesek. Kényelmesebben használhatók, és a mikrofon pozícionálása mindig azonos marad. Természetesen minél jobb (és drágább) a fejhallgató vagy fülhallgató, annál jobb lesz a minőség. Ezek kiválóak játékra és alkalmi hívásokra."
+      },
+      "condenser": {
+        "title": "Kondenzátor mikrofonok",
+        "description": "Érzékeny mikrofonok, amelyek gazdag, részletgazdag hangot rögzítenek. Gondos pozícionálást és akusztikai kezelést igényelnek. A legjobbak professzionális felvételhez, narrációhoz és zenei produkcióhoz."
+      },
+      "dynamic": {
+        "title": "Dinamikus mikrofonok:",
+        "description": "Robusztusak és kiválóan elnyomják a háttérzajt. Gyakran használják podcastkészítéshez és streamingeléshez az otthoni környezet iránti toleranciájuk miatt. Nem annyira érzékenyek, mint a kondenzátor mikrofonok, de kényelmesebbek."
+      },
+      "tip": "Mikrofon tesztünk minden típusú mikrofonnal kompatibilis. Használhatja több mikrofon tesztelésére, új hardver kipróbálására vagy problémák megoldására."
+    },
+    "bestPractices": {
+      "title": "Mikrofonfelvételi bevált gyakorlatok",
+      "distance": {
+        "title": "Távolság.",
+        "description": "15-30 cm a szájától. Közelebb: Basszusosabb hang (proximity effektus) és légzéshangok. Távolabb: Vékonyabb hang és szobazaj felvétele."
+      },
+      "popFilter": {
+        "title": "Fektessen be egy pop szűrőbe:",
+        "description": "A plozívák (P, B, T) légáramlást hoznak létre, ami torzulást okoz. Helyezzen egy pop szűrőt Ön és a mikrofon közé, és eltűnnek. Ha podcastkészítést vagy narrációt tervez, ez elengedhetetlen."
+      },
+      "background": {
+        "title": "Minimalizálja a háttérzajt",
+        "description": "— Kapcsolja ki a ventilátort, csukja be az ablakot, némítsa el a telefonját. Végezze el a mikrofon tesztet abban a környezetben, ahol rögzíteni fog. Sok olyan zaj van, amiről nem is tudunk."
+      },
+      "acoustics": {
+        "title": "Ne feledkezzen meg a teremakusztikáról",
+        "description": "Nem érdemes olyan helyen rögzíteni, ahol sok kemény, sima felület van – ez visszhangot és reverbet hoz létre. Puha felületekre van szükség, amelyek elnyelik a hangvisszaverődéseket (függönyök, szőnyegek, akusztikai panelek). Akár egy ruhákkal teli szekrényben is felvételt készíthet, ami óriási különbséget jelenthet."
+      },
+      "positioning": {
+        "title": "A következetesség a kulcs!",
+        "description": "Ha úgy találja, hogy a mikrofon jól szól egy adott helyen, tartsa ott a felvételi munkamenet idejére. Befektethet egy gémes állványba vagy mikrofon állványba, ha el szeretné kerülni a mikrofon mozgását. Akár rajzolhat egy kört az asztalra, amely megmutatja, hol kell lennie a mikrofonnak a jó hangzás ismételt eléréséhez."
+      }
+    },
+    "troubleshooting": {
+      "title": "Mikrofon problémák elhárítása",
+      "noAudio": {
+        "title": "Nem észlelhető hang:",
+        "issues": [
+          "Ellenőrizze, hogy a mikrofon engedélyek meg vannak-e adva a böngésző beállításaiban",
+          "Ellenőrizze, hogy a megfelelő bemeneti eszköz van-e kiválasztva a legördülő menüben",
+          "Győződjön meg róla, hogy a mikrofon nincs elnémítva a hardverben vagy a rendszerbeállításokban",
+          "USB mikrofonok esetén próbáljon ki egy másik portot",
+          "Zárja be azokat az alkalmazásokat, amelyek esetleg használják a mikrofont"
+        ]
+      },
+      "quiet": {
+        "title": "A hang túl halk:",
+        "issues": [
+          "Növelje a mikrofon bemeneti szintjét a rendszerbeállításokban",
+          "Menjen közelebb a mikrofonhoz",
+          "Ellenőrizze az erősítés-szabályozókat magán a mikrofonon",
+          "Ügyeljen arra, hogy a mikrofon felvételi mintázata felé beszéljen"
+        ]
+      },
+      "distorted": {
+        "title": "A hang torzított vagy torzul:",
+        "issues": [
+          "Csökkentse a mikrofon bemeneti szintjét a rendszerbeállításokban",
+          "Távolodjon kissé a mikrofontól",
+          "Ellenőrizze, nincs-e fizikai akadály vagy szennyeződés a mikrofonon"
+        ]
+      },
+      "echo": {
+        "title": "Visszhang vagy reverb:",
+        "issues": [
+          "Használjon fejhallgatót, hogy megakadályozza a hangszórók hangvisszacsatolását a mikrofonba",
+          "Helyezzen puha anyagokat a szobába a hangvisszaverődések elnyelésére",
+          "Menjen közelebb a mikrofonhoz a közvetlen hang és a szoba visszaverődéseinek arányának növeléséhez"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Kapcsolódó eszközök és források",
+      "alsoTry": "Próbálja ki még:",
+      "alsoTryLinks": ["Webkamera és mikrofon teszt", "Webkamera tesztelése", "Kamera teszt", "Videófelvétel teszt", "Kamera ellenőrzése online"],
+      "onThisPage": "Ezen az oldalon:",
+      "onThisPageLinks": ["Mikrofon tesztelése", "Hangszint útmutató", "Mikrofon hibaelhárítás", "Nem működő mikrofon javítása", "Legjobb mikrofon beállítások"]
+    }
+  }
+}

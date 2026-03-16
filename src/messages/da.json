@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "home": {
+      "title": "Gratis webcam-test og mikrofontest online | MicTestCam",
+      "description": "Test dit webcam og din mikrofon øjeblikkeligt online. Gratis kamera-test og mikrofon-test - 100 % privat, ingen downloads. Tjek om dine enheder virker før videoopkald."
+    },
+    "webcam": {
+      "title": "Webcam-test - Gratis online kamera-testværktøj | Tjek dit webcam",
+      "description": "Gratis webcam-testværktøj - tjek øjeblikkeligt om dit kamera virker. Test webcam med live forhåndsvisning, filtre, kvalitetsindstillinger og optagelse. 100 % privat, ingen downloads nødvendige."
+    },
+    "microphone": {
+      "title": "Mikrofontest - Gratis online mikrofontest | Tjek din lyd",
+      "description": "Gratis online mikrofontest - tjek om din mikrofon virker. Test lydniveauer, frekvensrespons og optagekvalitet. 100 % privat mikrofontester, ingen downloads."
+    },
+    "privacy": {
+      "title": "Privatlivspolitik | MicTestCam",
+      "description": "Læs om hvordan MicTestCam beskytter dit privatliv. Al webcam- og mikrofontestning foregår lokalt i din browser - vi indsamler eller gemmer aldrig dine data."
+    },
+    "terms": {
+      "title": "Servicevilkår | MicTestCam",
+      "description": "Servicevilkår for MicTestCam - gratis online webcam- og mikrofon-testværktøj. Læs vores vilkår og betingelser for brug af vores tjeneste."
+    },
+    "contact": {
+      "title": "Kontakt os | MicTestCam",
+      "description": "Kom i kontakt med MicTestCam-teamet. Kontakt os for support, feedback eller forretningshenvendelser om vores gratis webcam- og mikrofon-testværktøjer."
+    },
+    "blog": {
+      "title": "Blog - Webcam- og mikrofontips | MicTestCam",
+      "description": "Eksperttips, vejledninger og guider til webcam-testning, mikrofonopsætning og lyd-/videooptimering. Lær hvordan du får den bedste kvalitet til dine videoopkald."
+    },
+    "reviews": {
+      "title": "Bedste webcam- og mikrofonanmeldelser | MicTestCam",
+      "description": "Dybdegående anmeldelser, bedømmelser og købsguider til webcams, mikrofoner, headsets og lyd-/videoudstyr. Ekspertanalyse til at hjælpe dig med at vælge det perfekte udstyr til streaming og videoopkald."
+    }
+  },
+  "nav": {
+    "home": "Forside",
+    "webcamTest": "Webcam-test",
+    "microphoneTest": "Mikrofontest",
+    "reviews": "Anmeldelser",
+    "blog": "Blog",
+    "privacy": "Privatlivspolitik",
+    "terms": "Servicevilkår",
+    "contact": "Kontakt"
+  },
+  "privacy": {
+    "banner": "100 % privat - Intet forlader din browser"
+  },
+  "home": {
+    "hero": {
+      "title": "Gratis webcam-test og mikrofontest online",
+      "subtitle": "Bekræft øjeblikkeligt at dit kamera og din mikrofon fungerer perfekt inden dit næste videoopkald. Ingen downloads, ingen tilmelding, helt privat.",
+      "webcamCta": "Test dit webcam",
+      "microphoneCta": "Test din mikrofon"
+    },
+    "features": {
+      "title": "Hvorfor bruge MicTestCam?",
+      "privacy": {
+        "title": "100 % privat",
+        "description": "Din lyd og video forlader aldrig din browser. Vi gemmer, uploader eller behandler ingen af dine mediedata på vores servere."
+      },
+      "simple": {
+        "title": "Et klik - helt enkelt",
+        "description": "Ingen kompliceret opsætning. Klik bare på en knap og se dit webcam eller hør din mikrofon med det samme. Virker på få sekunder."
+      },
+      "professional": {
+        "title": "Professionelle værktøjer",
+        "description": "Avancerede funktioner som frekvensspektrumanalyse, videofiltre, kvalitetsindstillinger og lokale optagemuligheder."
+      },
+      "universal": {
+        "title": "Virker overalt",
+        "description": "Kompatibel med alle moderne browsere og enheder. Test inden Zoom, Teams, Meet, Discord eller enhver videokonference-app."
+      }
+    },
+    "howItWorks": {
+      "title": "Sådan fungerer det",
+      "step1": {
+        "title": "Klik på Start",
+        "description": "Vælg webcam- eller mikrofontest og klik på startknappen"
+      },
+      "step2": {
+        "title": "Tillad adgang",
+        "description": "Giv browsertilladelse til at få adgang til dit kamera eller din mikrofon"
+      },
+      "step3": {
+        "title": "Se resultaterne",
+        "description": "Se øjeblikkeligt dit videofeed eller dine lydniveauer. Optag klip efter behov"
+      }
+    },
+    "faq": {
+      "title": "Ofte stillede spørgsmål",
+      "q1": {
+        "question": "Er denne webcam-test virkelig privat?",
+        "answer": "Ja, helt bestemt. Al behandling sker direkte i din browser ved hjælp af Web API'er. Ingen video- eller lyddata sendes nogensinde til vores servere eller nogen tredjepart. Du kan verificere dette ved at tjekke din browsers netværksfane."
+      },
+      "q2": {
+        "question": "Skal jeg installere noget?",
+        "answer": "Ingen installation nødvendig. MicTestCam fungerer udelukkende i din webbrowser. Besøg blot siden og klik på start."
+      },
+      "q3": {
+        "question": "Hvilke browsere understøttes?",
+        "answer": "MicTestCam fungerer i alle moderne browsere, herunder Chrome, Firefox, Safari, Edge og Opera på både computere og mobilenheder."
+      },
+      "q4": {
+        "question": "Kan jeg optage video eller lyd?",
+        "answer": "Ja! Du kan optage videoklip på webcam-testsiden og lydklip på mikrofon-testsiden. Alle optagelser gemmes lokalt i din browser og kan downloades."
+      },
+      "q5": {
+        "question": "Hvorfor virker mit kamera/min mikrofon ikke?",
+        "answer": "Sørg for at du har givet browsertilladelse til at få adgang til din enhed. Tjek at ingen anden applikation bruger dit kamera eller din mikrofon. Prøv at genindlæse siden eller vælg en anden enhed fra rullemenuen."
+      },
+      "q6": {
+        "question": "Er det gratis at bruge?",
+        "answer": "Ja, MicTestCam er helt gratis at bruge uden begrænsninger eller skjulte gebyrer."
+      },
+      "q7": {
+        "question": "Kan jeg teste inden et Zoom/Teams/Meet-opkald?",
+        "answer": "Helt sikkert! MicTestCam er perfekt til test inden opkald. Test blot dine enheder her, og deltag derefter i din videokonference med fuld selvtillid."
+      },
+      "q8": {
+        "question": "Hvordan vælger jeg et andet kamera eller en anden mikrofon?",
+        "answer": "Brug enhedsrullemenuen på testsiden til at skifte mellem tilsluttede kameraer eller mikrofoner."
+      },
+      "q9": {
+        "question": "Hvor gemmes mine optagelser?",
+        "answer": "Optagelser gemmes lokalt i din browsers lagerplads. De bevares selv efter lukning af browseren og kan downloades eller slettes når som helst."
+      },
+      "q10": {
+        "question": "Virker dette på mobiltelefoner?",
+        "answer": "Ja, MicTestCam virker på mobilenheder med moderne browsere. Du kan teste både front- og bagkameraet på din telefon."
+      }
+    },
+    "trust": {
+      "tests": "50.000+ tests dagligt",
+      "apps": "Virker med Zoom, Teams, Meet",
+      "browsers": "Alle moderne browsere understøttet"
+    }
+  },
+  "webcam": {
+    "title": "Webcam-test - Gratis online kameratester",
+    "subtitle": "Test dit kamera øjeblikkeligt. Se din video, juster kvaliteten, anvend filtre og optag klip.",
+    "startButton": "Start kamera og optag",
+    "stopButton": "Stop og gem optagelse",
+    "snapshotButton": "Tag skærmbillede",
+    "permissionMessage": "Klik på knappen ovenfor for at starte din webcam-test",
+    "recording": "Optager",
+    "deviceLabel": "Kamera",
+    "qualityLabel": "Kvalitet",
+    "filterLabel": "Filter",
+    "filters": {
+      "normal": "Normal",
+      "grayscale": "Gråtone",
+      "sepia": "Sepia",
+      "invert": "Inverter",
+      "blur": "Sløring",
+      "brightness": "Lysstyrke",
+      "contrast": "Kontrast",
+      "hueRotate": "Farvetonerotation",
+      "saturate": "Mætning"
+    },
+    "savedRecordings": {
+      "title": "Gemte optagelser",
+      "clearAll": "Ryd alle",
+      "noRecordings": "Ingen optagelser endnu. Start optagelse for at gemme videoklip.",
+      "play": "Afspil",
+      "download": "Download",
+      "delete": "Slet"
+    },
+    "testCamera": "Test kamera",
+    "stopCamera": "Stop kamera",
+    "record": "Optag",
+    "stopRecording": "Stop optagelse",
+    "showAdvanced": "Vis avanceret",
+    "hideAdvanced": "Skjul avanceret",
+    "mirrorMode": "Spejltilstand",
+    "flipHorizontally": "Vend vandret",
+    "digitalZoom": "Digital zoom",
+    "brightness": "Lysstyrke",
+    "contrast": "Kontrast",
+    "dark": "Mørk",
+    "normal": "Normal",
+    "bright": "Lys",
+    "low": "Lav",
+    "high": "Høj",
+    "cameraComparison": "Kamerasammenligning",
+    "compareSideBySide": "Sammenlign side om side",
+    "requires2Cameras": "(kræver 2+ kameraer)",
+    "secondCamera": "Andet kamera",
+    "fineTuneWhileRecording": "Finjuster under optagelse",
+    "camera1": "Kamera 1",
+    "camera2": "Kamera 2",
+    "motion": "Bevægelse",
+    "advanced": {
+      "title": "Avancerede kamerakontroller",
+      "exposure": "Eksponering",
+      "focus": "Fokus",
+      "whiteBalance": "Hvidbalance",
+      "image": "Billede",
+      "ptz": "PTZ",
+      "mode": "Tilstand",
+      "exposureTime": "Eksponeringstid",
+      "distance": "Afstand",
+      "temperature": "Temperatur",
+      "sharpness": "Skarphed",
+      "zoom": "Zoom",
+      "pan": "Panorering",
+      "tilt": "Vipning",
+      "saturation": "Mætning",
+      "noAdvancedControls": "Dit kamera understøtter ikke avancerede hardwarekontroller"
+    },
+    "backgroundBlur": {
+      "title": "Baggrundssløring",
+      "blurStrength": "Sløringsintensitet",
+      "skinToneNote": "Bruger letvægts hudtonedetektion. For bedre resultater, sørg for god belysning."
+    },
+    "faceDetection": {
+      "facesDetected": "Registreret",
+      "face": "Ansigt"
+    },
+    "framing": {
+      "grid": "Gitter",
+      "faceGuide": "Ansigtsguide",
+      "moveRight": "Flyt til højre",
+      "moveLeft": "Flyt til venstre",
+      "moveDown": "Flyt ned",
+      "moveUp": "Flyt op",
+      "moveCloser": "Flyt tættere på",
+      "moveBack": "Flyt tilbage",
+      "greatFraming": "Flot indramning!",
+      "noFaceDetected": "Intet ansigt registreret"
+    },
+    "histogram": {
+      "videoAnalysis": "Videoanalyse",
+      "histogram": "Histogram",
+      "waveform": "Bølgeform",
+      "shadows": "Skygger",
+      "midtones": "Mellemtoner",
+      "highlights": "Højlys"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Opløsning",
+      "bitrate": "Bitrate",
+      "lighting": "Belysning",
+      "dropped": "Tabte",
+      "tooDark": "For mørkt",
+      "lowLight": "Svagt lys",
+      "overexposed": "Overeksponeret",
+      "good": "God",
+      "hideMetrics": "Skjul metrikker"
+    }
+  },
+  "microphone": {
+    "title": "Mikrofontest - Gratis online mikrofontester",
+    "subtitle": "Test din mikrofon med lydniveaumåler og frekvensspektrumanalysator i realtid.",
+    "startButton": "Start mikrofon og optag",
+    "stopButton": "Stop og gem optagelse",
+    "permissionMessage": "Klik på knappen ovenfor for at starte din mikrofontest",
+    "recording": "Optager",
+    "deviceLabel": "Mikrofon",
+    "sampleRateLabel": "Samplerate",
+    "channelLabel": "Kanaler",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Lydniveau",
+    "frequencySpectrum": "Frekvensspektrum",
+    "savedRecordings": {
+      "title": "Gemte optagelser",
+      "clearAll": "Ryd alle",
+      "noRecordings": "Ingen optagelser endnu. Start optagelse for at gemme lydklip.",
+      "play": "Afspil",
+      "download": "Download",
+      "delete": "Slet"
+    },
+    "testMicrophone": "Test mikrofon",
+    "stopMicrophone": "Stop mikrofon",
+    "record": "Optag",
+    "stopRecording": "Stop optagelse",
+    "showAdvanced": "Vis avanceret",
+    "hideAdvanced": "Skjul avanceret",
+    "inputGain": "Inputforstærkning",
+    "noiseSuppression": "Støjdæmpning",
+    "enableNoiseReduction": "Aktivér støjreduktion",
+    "echoCancellation": "Ekkoundertrykkelse",
+    "reduceEchoFeedback": "Reducer ekkofeedback",
+    "autoGainControl": "Automatisk forstærkningskontrol",
+    "autoAdjustVolume": "Automatisk lydstyrkejustering",
+    "microphoneComparison": "Mikrofonsammenligning",
+    "compareSideBySide": "Sammenlign side om side",
+    "requires2Mics": "(kræver 2+ mikrofoner)",
+    "secondMicrophone": "Anden mikrofon",
+    "fineTuneWhileTesting": "Finjuster under test",
+    "boost": "Forstærk",
+    "normal": "Normal",
+    "low": "Lav",
+    "advanced": {
+      "title": "Avanceret lydanalyse",
+      "metrics": "Metrikker",
+      "spectrogram": "Spektrogram",
+      "signalToNoiseRatio": "Signal-til-støj-forhold",
+      "excellent": "Fremragende",
+      "good": "God",
+      "fair": "Rimelig",
+      "poor": "Dårlig",
+      "rms": "RMS (dB)",
+      "peak": "Spids (dB)",
+      "noiseFloor": "Støjgulv",
+      "dominantFrequency": "Dominerende frekvens",
+      "detectedIssues": "Registrerede problemer",
+      "detectedAt": "registreret ved",
+      "time": "Tid",
+      "frequencyLowHigh": "Frekvens (Lav \u2192 Høj)"
+    },
+    "processing": {
+      "title": "Lydbehandling",
+      "noiseSuppression": "Støjdæmpning",
+      "reduceBackgroundNoise": "Reducer baggrundsstøj",
+      "echoCancellation": "Ekkoundertrykkelse",
+      "removeAudioFeedback": "Fjern lydfeedback",
+      "autoGainControl": "Automatisk forstærkningskontrol",
+      "normalizeVolumeLevels": "Normaliser lydniveauer",
+      "directMonitoring": "Direkte monitorering",
+      "listenToYourMic": "Lyt til din mikrofon",
+      "monitorVolume": "Monitoreringsvolumen",
+      "useHeadphones": "Brug hovedtelefoner for at undgå feedback!"
+    },
+    "comparison": {
+      "title": "A/B-mikrofonsammenligning",
+      "microphoneA": "Mikrofon A",
+      "microphoneB": "Mikrofon B",
+      "selectMicrophone": "Vælg mikrofon...",
+      "startComparison": "Start sammenligning",
+      "selectTwoDifferent": "Vælg venligst to forskellige mikrofoner",
+      "active": "Aktiv",
+      "switchTo": "Skift til",
+      "rmsLevel": "RMS-niveau",
+      "peakLevel": "Spidsniveau",
+      "snr": "SNR (dB)",
+      "stopComparison": "Stop sammenligning",
+      "micA": "Mikrofon A",
+      "micB": "Mikrofon B"
+    }
+  },
+  "privacyPage": {
+    "title": "Privatlivspolitik",
+    "lastUpdated": "Sidst opdateret",
+    "intro": "Hos MicTestCam tager vi dit privatliv alvorligt. Denne privatlivspolitik forklarer, hvordan vi håndterer dine oplysninger, når du bruger vores webcam- og mikrofon-testtjenester.",
+    "sections": {
+      "noCollection": {
+        "title": "Vi indsamler ikke dine data",
+        "content": "MicTestCam er designet med privatliv som et grundlæggende princip. Vi indsamler, gemmer eller transmitterer ingen lyd- eller videodata fra dine webcam- eller mikrofontests. Al behandling foregår udelukkende i din webbrowser ved hjælp af lokale JavaScript API'er."
+      },
+      "localStorage": {
+        "title": "Lokal lagring",
+        "content": "Når du optager video- eller lydklip, gemmes de lokalt i din browsers IndexedDB-lager. Disse data forlader aldrig din enhed og er ikke tilgængelige for os eller nogen tredjepart. Du kan slette disse optagelser når som helst via applikationens brugerflade eller ved at rydde dine browserdata."
+      },
+      "cookies": {
+        "title": "Cookies og analyse",
+        "content": "Vi bruger minimale cookies udelukkende til vigtig websitefunktionalitet som sprogpræferencer. Vi kan bruge privatlivsrespekterende analyse til at forstå generelle brugsmønstre, men vi sporer ikke individuelle brugere eller indsamler personlige oplysninger."
+      },
+      "thirdParty": {
+        "title": "Tredjepartstjenester",
+        "content": "Vores hjemmeside kan indeholde links til tredjepartshjemmesider. Vi er ikke ansvarlige for disse eksterne siders privatlivspraksis. Vi anbefaler at gennemgå deres privatlivspolitikker, inden du afgiver personlige oplysninger."
+      },
+      "security": {
+        "title": "Sikkerhed",
+        "content": "Vi bruger HTTPS-kryptering til at beskytte al kommunikation mellem din browser og vores hjemmeside. Da vi ikke indsamler dine mediedata, er der ingen risiko for, at dine webcam- eller mikrofonoptagelser afsløres gennem et databrud."
+      },
+      "children": {
+        "title": "Børns privatliv",
+        "content": "MicTestCam er ikke beregnet til børn under 13 år. Vi indsamler ikke bevidst oplysninger fra børn."
+      },
+      "changes": {
+        "title": "Ændringer af denne politik",
+        "content": "Vi kan opdatere denne privatlivspolitik fra tid til anden. Vi vil informere dig om eventuelle ændringer ved at offentliggøre den nye privatlivspolitik på denne side og opdatere datoen for 'Sidst opdateret'."
+      },
+      "contact": {
+        "title": "Kontakt os",
+        "content": "Hvis du har spørgsmål om denne privatlivspolitik, er du velkommen til at kontakte os via vores kontaktside."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Servicevilkår",
+    "lastUpdated": "Sidst opdateret",
+    "intro": "Velkommen til MicTestCam. Ved at tilgå eller bruge vores hjemmeside og tjenester accepterer du at være bundet af disse servicevilkår.",
+    "sections": {
+      "acceptance": {
+        "title": "Accept af vilkår",
+        "content": "Ved at bruge MicTestCam accepterer du disse servicevilkår og vores privatlivspolitik. Hvis du ikke er enig i nogen del af disse vilkår, må du ikke bruge vores tjenester."
+      },
+      "description": {
+        "title": "Tjenestebeskrivelse",
+        "content": "MicTestCam tilbyder gratis online værktøjer til test af webcams og mikrofoner. Vores tjeneste giver dig mulighed for at bekræfte, at dit kamera og din mikrofon fungerer korrekt inden videoopkald, optagelser eller streaming-sessioner."
+      },
+      "usage": {
+        "title": "Acceptabel brug",
+        "content": "Du accepterer kun at bruge MicTestCam til lovlige formål og i overensstemmelse med disse vilkår. Du accepterer ikke at: bruge tjenesten til ulovlig aktivitet, forsøge at forstyrre hjemmesidens korrekte funktion, forsøge at få adgang til dele af hjemmesiden der ikke er beregnet til offentlig adgang, eller bruge automatiserede systemer til at tilgå tjenesten uden tilladelse."
+      },
+      "privacy": {
+        "title": "Privatliv og data",
+        "content": "Al webcam- og mikrofontestning foregår lokalt i din browser. Vi indsamler, gemmer eller har ikke adgang til dine lyd- eller videodata. For mere information, se venligst vores privatlivspolitik."
+      },
+      "intellectual": {
+        "title": "Intellektuel ejendomsret",
+        "content": "MicTestCam-hjemmesiden, herunder dens design, kode og indhold, er beskyttet af ophavsret og andre immaterialretlige love. Du må ikke kopiere, ændre, distribuere eller reproducere nogen del af hjemmesiden uden vores forudgående skriftlige samtykke."
+      },
+      "disclaimer": {
+        "title": "Ansvarsfraskrivelse",
+        "content": "MicTestCam leveres 'som den er' uden garantier af nogen art, hverken udtrykkelige eller underforståede. Vi garanterer ikke, at tjenesten vil være uafbrudt, fejlfri eller opfylde dine specifikke krav. Vi er ikke ansvarlige for hardware- eller softwareproblemer med dine enheder."
+      },
+      "limitation": {
+        "title": "Ansvarsbegrænsning",
+        "content": "I det omfang loven tillader det, er MicTestCam ikke ansvarlig for indirekte, tilfældige, særlige, følgeskader eller strafskader, der opstår som følge af din brug af tjenesten."
+      },
+      "changes": {
+        "title": "Ændringer af vilkår",
+        "content": "Vi forbeholder os retten til at ændre disse servicevilkår til enhver tid. Ændringer træder i kraft umiddelbart efter offentliggørelse på hjemmesiden. Din fortsatte brug af tjenesten efter offentliggørelse af ændringer udgør din accept af de ændrede vilkår."
+      },
+      "governing": {
+        "title": "Gældende lovgivning",
+        "content": "Disse servicevilkår er underlagt og skal fortolkes i overensstemmelse med gældende lovgivning, uden hensyn til lovkonfliktprincipper."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "Hvis du har spørgsmål om disse servicevilkår, er du velkommen til at kontakte os via vores kontaktside."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Kontakt os",
+    "subtitle": "Har du spørgsmål eller feedback? Vi vil gerne høre fra dig.",
+    "form": {
+      "name": "Dit navn",
+      "namePlaceholder": "Indtast dit navn",
+      "email": "E-mailadresse",
+      "emailPlaceholder": "Indtast din e-mail",
+      "subject": "Emne",
+      "subjectPlaceholder": "Hvad drejer det sig om?",
+      "message": "Besked",
+      "messagePlaceholder": "Skriv din besked her...",
+      "submit": "Send besked",
+      "sending": "Sender...",
+      "success": "Tak! Din besked er blevet sendt.",
+      "error": "Beklager, der opstod en fejl ved afsendelse af din besked. Prøv venligst igen."
+    },
+    "info": {
+      "title": "Andre måder at kontakte os",
+      "email": "E-mail",
+      "response": "Vi svarer typisk inden for 24-48 timer.",
+      "social": "Følg os"
+    },
+    "faq": {
+      "title": "Inden du kontakter os",
+      "subtitle": "Du kan måske finde dit svar i vores FAQ-sektion på forsiden."
+    }
+  },
+  "blogPage": {
+    "title": "Webcam- og mikrofontestblog - Tips, guider og vejledninger",
+    "subtitle": "Eksperttips, vejledninger og indsigt om webcam-testning, mikrofonopsætning og lyd-/videooptimering til videoopkald, streaming og indholdsproduktion.",
+    "noPosts": "Ingen indlæg endnu",
+    "noPostsDescription": "Kig forbi igen snart for nyt indhold!",
+    "readMore": "Læs mere",
+    "by": "af",
+    "minRead": "min. læsetid",
+    "categories": {
+      "all": "Alle indlæg",
+      "webcam": "Webcamtips",
+      "microphone": "Mikrofontips",
+      "tutorials": "Vejledninger",
+      "troubleshooting": "Fejlfinding"
+    },
+    "search": "Søg i artikler...",
+    "featured": "Fremhævet",
+    "latest": "Seneste artikler",
+    "relatedPosts": "Relaterede indlæg"
+  },
+  "reviewsPage": {
+    "title": "Bedste webcam- og mikrofonanmeldelser - Ekspert-produktanalyse",
+    "subtitle": "Dybdegående anmeldelser, bedømmelser og købsguider til webcams, mikrofoner, headsets og lyd-/videoudstyr. Find det perfekte udstyr til streaming, videoopkald og indholdsproduktion.",
+    "noReviews": "Ingen anmeldelser tilgængelige endnu",
+    "noReviewsDescription": "Kig forbi igen snart for ekspert-produktanmeldelser!",
+    "by": "af",
+    "readMore": "Læs anmeldelse"
+  },
+  "footer": {
+    "tagline": "Test dit webcam og din mikrofon online gratis",
+    "privacy": "Privatlivspolitik",
+    "terms": "Servicevilkår",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Alle rettigheder forbeholdes.",
+    "language": "Sprog"
+  },
+  "common": {
+    "loading": "Indlæser...",
+    "error": "Fejl",
+    "close": "Luk",
+    "back": "Tilbage",
+    "next": "Næste",
+    "submit": "Indsend",
+    "cancel": "Annuller",
+    "save": "Gem",
+    "delete": "Slet",
+    "edit": "Rediger",
+    "view": "Vis",
+    "download": "Download",
+    "share": "Del",
+    "copy": "Kopiér",
+    "copied": "Kopieret!",
+    "readMore": "Læs mere",
+    "learnMore": "Lær mere",
+    "getStarted": "Kom i gang"
+  },
+  "cta": {
+    "title": "Klar til at teste dine enheder?",
+    "subtitle": "Begynd at teste dit webcam og din mikrofon lige nu. Ingen downloads, ingen tilmelding nødvendig.",
+    "webcamButton": "Test webcam",
+    "microphoneButton": "Test mikrofon"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam tilbyder øjeblikkelig, gratis online testning af webcams og mikrofoner direkte i din browser. Ingen downloads nødvendige. Test din kamerakvalitet, mikrofonniveauer og lydklarhed på under 30 sekunder inden ethvert videoopkald eller optagesession.",
+      "p1": "Hej og velkommen til MicTestCam! MicTestCam tilbyder den nemmeste måde at <strong>teste dit webcam og din mikrofon online</strong>, uanset om du vil tjekke dit webcam til en videokonference, et møde, en præsentation, optage voiceovers til dine YouTube-videoer og din kanal, eller foretage en grundig <strong>mikrofontest</strong> til din podcast.",
+      "p2": "MicTestCams kamera- og mikrofon-testværktøjer fungerer helt inden for browseren og kræver ingen download. Brugernes privatliv er den vigtigste prioritet for MicTestCam. Alle tests udføres i din browser, og dine video- og lyddata forlader aldrig din computer. Med mere end 50.000 tests dagligt og en succesrate på 99,9 % er MicTestCam den mest populære platform for professionelle, fjernarbejdere, indholdsproducenter og almindelige brugere, der ønsker at teste deres enheder.",
+      "p3": "Tryk på knapperne nedenfor for at <strong>teste webcam</strong> eller <strong>teste mikrofon</strong>. MicTestCam tager kun få sekunder om at bekræfte, om dit kamera og din mikrofon fungerer korrekt inden et Zoom-, Microsoft Teams-, Google Meet-, Discord-, Skype- eller andet videoopkald.",
+      "keyTakeaways": {
+        "title": "Vigtigste punkter",
+        "points": [
+          "Gratis øjeblikkelig webcam- og mikrofontestning - ingen softwareinstallation nødvendig",
+          "100 % browserbaseret testning sikrer fuldstændig privatliv og datasikkerhed",
+          "Feedback i realtid på videokvalitet, lydniveauer og frekvensrespons",
+          "Kompatibel med Zoom, Teams, Meet, Discord og alle videoplatforme",
+          "Over 50.000 daglige tests med 99,9 % nøjagtighedsrate"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Hvorfor bør du teste dit webcam og din mikrofon inden videoopkald?",
+      "directAnswer": "At teste dit webcam og din mikrofon inden videoopkald forebygger pinlige tekniske fejl, sparer mødetid og sikrer professionel kommunikationskvalitet. En test inden opkaldet identificerer problemer med kameravinkler, belysning, lydniveauer og baggrundsstøj, inden dit publikum ser dem.",
+      "p1": "Fjernarbejde og virtuel kommunikation er nu standardpraksis i erhvervslivet. At kunne kommunikere tydeligt via video og lyd er afgørende for professionel succes. Tekniske afbrydelser under møder skader troværdigheden og spilder tid. At skulle gentage \"Kan I se mig nu? Hvad med nu?\" undergraver professionelt omdømme og forsinker vigtige diskussioner.",
+      "p2": "En hurtig videotest inden møder forebygger tekniske fejl. En hurtig lydtest inden vigtige opkald sikrer, at din lyd er klar uden baggrundsstøj, ekko eller forvrængning. Salgsprofessionelle, ledere, undervisere og indholdsproducenter forstår vigtigheden af pålidelig webcam- og mikrofonydelse.",
+      "p3": "I modsætning til andre webcam- og mikrofon-testværktøjer bekræfter MicTestCam ikke blot, om dit webcam eller din mikrofon fungerer, men giver også detaljerede oplysninger om videokvalitet og lydkarakteristika. MicTestCam hjælper brugere med at finde og løse tekniske problemer, inden videoopkald begynder.",
+      "comparison": {
+        "title": "MicTestCam vs. indbyggede videoplatformtests",
+        "points": [
+          "<strong>MicTestCam:</strong> Giver detaljeret lydfrekvensanalyse, bølgeformer i realtid og professionelle metrikker",
+          "<strong>Platformtests:</strong> Viser kun grundlæggende ja/nej-funktionalitet uden kvalitetsdetaljer",
+          "<strong>MicTestCam:</strong> Tests virker på tværs af alle platforme - Zoom, Teams, Meet, Discord samtidigt",
+          "<strong>Platformtests:</strong> Bekræfter kun funktionalitet inden for den specifikke platform",
+          "<strong>MicTestCam:</strong> Tilbyder afspilning af optagelser, så du kan høre præcis hvad andre vil høre",
+          "<strong>Platformtests:</strong> Ingen afspilningsfunktion til kvalitetsverificering"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Hvordan fungerer MicTestCams kamera- og mikrofontester?",
+      "directAnswer": "MicTestCam bruger WebRTC-teknologi til at få adgang til dit webcam og din mikrofon direkte via din browser. Testningen foregår udelukkende på din enhed ved hjælp af de samme protokoller, som Zoom, Teams og Meet bruger, hvilket sikrer nøjagtig testning af den virkelige ydeevne uden at uploade data til servere.",
+      "p1": "MicTestCams kamera- og mikrofontester bruger WebRTC-protokoller, de samme protokoller som populære webbaserede videokonferencetjenester er afhængige af. Når du <strong>tester dit webcam</strong> med MicTestCam, tilgår platformen dit webcam via browserens Web API og viser videofeedet i realtid på skærmen. Brugere kan bekræfte, om webcammet virker, tjekke om belysningen er passende, bekræfte at kameravinklen er korrekt, og vurdere den overordnede videokvalitet.",
+      "p2": "MicTestCams <strong>mikrofontest</strong>-værktøj giver øjeblikkelig feedback på stemmens lydniveauer. Når brugere taler ind i mikrofonen, afspejler lydmålere stemmeniveauerne i realtid for at hjælpe med at afgøre, om mikrofonen optager lyd korrekt. Den 32-bånds frekvensspektrumanalysator viser, hvordan lyden er fordelt på tværs af frekvenser, en funktion der er særlig værdifuld for podcastere og musikere, der tester mikrofoner til professionel optagelse.",
+      "p3": "Begge MicTestCam-værktøjer tilbyder automatisk optagefunktion. Brugere kan starte en test, og MicTestCam vil automatisk optage kamerafeedet og lyden, hvilket giver mulighed for afspilning for at vurdere kvaliteten, som publikum ville opleve den. Al optagelse foregår lokalt i browseren. MicTestCam uploader eller gemmer ingen brugerdata på eksterne servere, hvilket sikrer fuldstændigt privatliv.",
+      "technicalSpecs": {
+        "title": "Tekniske specifikationer",
+        "specs": [
+          "<strong>Protokol:</strong> WebRTC (Web Real-Time Communication) - Industristandard brugt af Zoom, Microsoft Teams, Google Meet",
+          "<strong>Lydanalyse:</strong> 32-bånds frekvensspektrumanalysator (20Hz - 20kHz område)",
+          "<strong>Videoopløsning:</strong> Understøtter testning fra 240p til 8K (7680×4320) afhængigt af kameraets kapacitet",
+          "<strong>Billedfrekvens:</strong> Overvågning i realtid ved 15fps, 30fps og 60fps",
+          "<strong>Privatliv:</strong> 100 % klientside-behandling - ingen dataoverførsel til MicTestCam-servere",
+          "<strong>Kompatibilitet:</strong> Virker i Chrome, Firefox, Safari, Edge - alle store browsere"
+        ]
+      }
+    },
+    "features": {
+      "title": "Komplet liste over testfunktioner",
+      "webcamTitle": "Webcam-test",
+      "webcamFeatures": [
+        "Live forhåndsvisning af dit kamera med opløsningsmuligheder fra 240p til 1080p.",
+        "Registrering af flere kameraenheder som USB-kameraer, webcams og eksterne kameraer.",
+        "9+ forskellige filtre og effekter til at teste webcammet og dets farvebalancer.",
+        "Billedfrekvens pr. sekund til at overvåge kameraet.",
+        "Mulighed for at tage et skærmbillede.",
+        "Optag automatisk video fra webcammet i WebM- og MP4-format.",
+        "Optagelser gemt i lokal lagring."
+      ],
+      "microphoneTitle": "Mikrofontest",
+      "microphoneFeatures": [
+        "Lydniveaumåler og spidsmåler i realtid.",
+        "Frekvensspektrumanalysator med 32 bånd i realtid.",
+        "Registrering af flere mikrofonenheder som USB-mikrofoner, headset-mikrofoner osv.",
+        "Mulighed for at konfigurere samplerater op til 48 kHz studiokvalitet.",
+        "Konfigurér til at optage lyd i mono eller stereo.",
+        "Spids- og RMS-niveaumåler til lyd.",
+        "Optager automatisk lyd med mulighed for afspilning."
+      ]
+    },
+    "whoUses": {
+      "title": "Hvem bruger vores webcam-test og mikrofontest",
+      "remoteWorkers": {
+        "title": "Fjernarbejdere og professionelle",
+        "description": "En fjernarbejder eller professionel foretager en hurtig test inden deres videokonferencer og møder på Zoom, Google Meet eller Microsoft Teams for at se, om deres webcam fungerer korrekt, og foretager derefter en hurtig <strong>mikrofontest</strong> for at sikre, at de kan høres, så de ikke behøver at gentage sig selv og ikke bliver afbrudt med et \"Vi kan ikke høre dig!\""
+      },
+      "contentCreators": {
+        "title": "YouTubere, Twitch-streamere, podcastere og andre indholdsproducenter",
+        "description": "For YouTubere, Twitch-streamere, podcastere og andre indholdsproducenter er vores avancerede lyd- og videodiagnostikværktøj uundværligt. Brug frekvensspektrumanalysatoren til at løse lydproblemer og kør videokvalitetstests for at sikre, at du leverer indhold i høj kvalitet."
+      },
+      "students": {
+        "title": "Studerende og undervisere",
+        "description": "Studerende skal sikre, at de kan kommunikere over internettet. De foretager tests inden deres undervisning for at bekræfte, at deres udstyr fungerer. Undervisere tjekker også, at deres udstyr er i orden, så de kan gennemføre deres undervisning med succes."
+      },
+      "jobSeekers": {
+        "title": "Jobsøgende",
+        "description": "Hvis du skal til videosamtaler, skal du sørge for at foretage en <strong>kameratest</strong> og en <strong>mikrofontest</strong> inden du går i gang. Det er en stor forskel og viser, at du er forberedt. (Intet er værre end at miste en mulighed på grund af en teknisk fejl.)"
+      },
+      "gamers": {
+        "title": "Gamere:",
+        "description": "Bruger du et gaming-headset? Få de præcise resultater, du har brug for, til at teste din mikrofon til Discord, in-game chat eller streaming."
+      },
+      "techSupport": {
+        "title": "Teknisk support",
+        "description": "Hvis du har problemer med dit kamera eller din mikrofon, kan vores værktøjer hjælpe med at afgøre, om problemet skyldes hardware, drivere eller softwareindstillinger."
+      }
+    },
+    "privacy": {
+      "title": "100 % privatliv garanteret",
+      "intro": "Privatliv er kernen i alt, hvad vi gør med vores <strong>webcam-test</strong> og <strong>mikrofontest</strong>-værktøjer. Vi er klar over, at du ved at give adgang til dit kamera og din mikrofon deler private oplysninger med os. Derfor er hele vores platform designet med en nul-tillids-politik.",
+      "localProcessing": {
+        "title": "Al behandling sker på din lokale maskine",
+        "description": "Video- og lydbehandling udføres ved hjælp af WebRTC API'erne i din browser. Vi gemmer ikke dine data på vores servere, fordi vi slet ikke modtager dem."
+      },
+      "noAccount": {
+        "title": "Ingen konto nødvendig",
+        "description": "Du behøver ikke oprette en konto, indtaste en e-mailadresse eller dele personlige oplysninger. Gå blot ind på siden, tillad browsertilladelse, test dine enheder og gå videre."
+      },
+      "transparent": {
+        "title": "Gennemsigtig kode",
+        "description": "Vi slører ikke vores kode. Du kan se den i din browser ved hjælp af udviklerværktøjer. Ingen sporing, ingen dataindsamling, ingen analyse der indsamler dine private data."
+      },
+      "cleanup": {
+        "title": "Automatisk sletning:",
+        "description": "Alle optagelser gemmes i browserens lokale lager. De slettes automatisk, når du lukker browseren eller rydder den lokale lagring. Du har fuld kontrol over, hvad der gemmes og i hvor lang tid."
+      }
+    },
+    "compatibility": {
+      "title": "Kompatibilitet på tværs af browsere og enheder",
+      "intro": "De fleste populære opdaterede browsere og enheder understøttes af vores webcam- og mikrofontests. Begge værktøjer er tilgængelige på Windows, Mac OS, Linux, iOS, Android eller ethvert andet styresystem, der understøtter en moderne browser, uden yderligere downloads eller installation.",
+      "browsersTitle": "Understøttede browsere",
+      "browsers": [
+        "Google Chrome (bedste ydelse)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (på MacOS og iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Understøttede enheder",
+      "devices": [
+        "Indbyggede eller eksterne USB-webcams på stationære og bærbare computere",
+        "Smartphones og tablets med front- og bagkamera",
+        "Eksterne USB-kameraer og webcams til PC",
+        "Indbyggede mikrofoner i bærbare computere",
+        "Eksterne USB-mikrofoner",
+        "Gaming-headsets med mikrofoner",
+        "Professionelle lydgrænseflader og kondensatormikrofoner"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Brug for hjælp?",
+      "intro": "Kan du ikke få <strong>webcam-testen</strong> eller <strong>mikrofontesten</strong> til at virke? Prøv en af disse løsninger.",
+      "cameraTitle": "Kamera ikke registreret eller virker ikke",
+      "cameraIssues": [
+        "Sørg for, at du har tilladt kameraet i din browser. I adresselinjen vil du se et kameraikon, som du kan bruge til at aktivere kameraadgang.",
+        "Du bruger kameraet i en anden applikation (Zoom, Teams, Skype osv.). Du kan kun bruge kameraet i én applikation ad gangen. Luk den anden applikation eller genindlæs siden og tillad adgang igen.",
+        "Genindlæs siden og tillad adgang igen. Det kan skyldes en browserfejl.",
+        "Brug den nyeste version af browseren.",
+        "Tjek om kameradriverne er korrekt installeret på din computer.",
+        "Hvis du bruger et USB-kamera, prøv at tilslutte det til en anden USB-port eller brug et andet kabel."
+      ],
+      "microphoneTitle": "Mikrofon virker ikke",
+      "microphoneIssues": [
+        "Tillad mikrofonadgang i din browser.",
+        "Sørg for, at mikrofonen er korrekt tilsluttet strømforsyningen.",
+        "Brug systemets lydindstillinger til at tjekke, om mikrofonen virker.",
+        "Andre applikationer bruger mikrofonen. Prøv at lukke dem.",
+        "Prøv at justere mikrofonniveauet i systemindstillingerne for at øge lydstyrken, hvis du ikke er høj nok, eller for at reducere den, hvis du er for høj.",
+        "Tjek om mikrofonen ikke er slået fra i dit system eller på enheden (hvis der er en fysisk lydløsknap på enheden)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Hurtige links",
+      "webcamTitle": "Webcam-testning:",
+      "webcamLinks": ["Webcam-test", "Test webcam online", "Kameratest", "Online kameratester", "Gratis webcam-test", "Tjek mit webcam", "USB-kameratest", "Laptop-kameratest", "Test kamera til Zoom"],
+      "microphoneTitle": "Mikrofontestning:",
+      "microphoneLinks": ["Mikrofontest", "Mikrofontest online", "Test min mikrofon", "Online mikrofontester", "Gratis mikrofontest", "Tjek mikrofon", "Lydtest online", "USB-mikrofontest", "Discord-mikrofontest"]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Test dit webcam med vores hurtige og nemme online testværktøj. Det tilbyder en forhåndsvisning af dit kamera i realtid, flere kvalitetsindstillinger, specialeffekter og automatisk optagelse med dit kamera online, alt sammen uden yderligere softwareinstallation. Så du kan bruge det som en <strong>kameratest</strong> til videokonferencer eller teste det indbyggede webcam på en ny computer.",
+      "p2": "For at teste skal du blot trykke på knappen 'Start kamera og optag' ovenfor. En live forhåndsvisning af dit webcam vises, så du kan se om din video fungerer, teste din belysning, og om dit kamera er placeret korrekt. Intet uploades, gemmes eller tilgås. Din videotest udføres lokalt på din computer."
+    },
+    "howToUse": {
+      "title": "Sådan bruger du vores webcam-testværktøj",
+      "intro": "Følg disse enkle trin for at teste dit webcam:",
+      "steps": [
+        "<strong>Tillad adgang:</strong> En dialogboks dukker op, der spørger om browseren må få adgang til webcammet. Tryk på Tillad for at give browseren adgang til webcammet. Bemærk, at dette gælder for enhver webcam-testhjemmeside. Dialogboksen vises som en sikkerhedsforanstaltning for at forhindre tilfældige hjemmesider i at tilgå webcammet.",
+        "<strong>Vælg det rigtige kamera:</strong> Hvis du har flere kameraer (f.eks. et indbygget laptopkamera og et separat USB-kamera), kan du vælge, hvilket kamera der skal bruges, fra rullemenuen. Vores webcam-testværktøj registrerer og viser automatisk alle kameraer.",
+        "<strong>Vælg kvaliteten:</strong> Vælg den ønskede opløsning (kvalitet) fra kvalitetsrullemenuen. Du kan teste kameraet ved lav kvalitet (240p), medium kvalitet (480p), høj kvalitet (720p), fuld HD-kvalitet (1080p) osv. Højere kvalitet giver et skarpere billede, men kræver mere båndbredde og CPU.",
+        "<strong>Start testen:</strong> Tryk på Start kamera og optag, og du vil straks se live-feedet fra dit kamera. Du kan med det samme begynde at optage og derefter se kvaliteten.",
+        "<strong>Brug visuelle filtre:</strong> Vi har mere end 9 visuelle filtre (sort/hvid, sepia, sløring, høj kontrast osv.) for at se, hvordan de påvirker dit kameras output.",
+        "<strong>Tag et skærmbillede:</strong> Du kan tage et skærmbillede under en test for at tjekke din billedkvalitet eller for at se, hvordan kameraet håndterer specifikke lysforhold.",
+        "<strong>Stop og gem:</strong> Når du er færdig, tryk på Stop og gem optagelse for at stoppe optagelsen. Videoen gemmes i browseren, så du kan afspille den igen og downloade den."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Avancerede webcamfunktioner",
+      "intro": "Vores <strong>webcam-tester</strong> inkluderer professionelle funktioner designet til forskellige brugssituationer - fra almindelige videoopkald til indholdsproduktion.",
+      "mirrorMode": {
+        "title": "Spejltilstand til perfekte selfies",
+        "description": "Spejling og vending er en uundværlig funktion til makeup-tutorials, bloggere og dem, der vil se sig selv som i et spejl. Når du klikker på Spejl-knappen (mens dit kamera er tændt), vendes dit webcam-video horisontalt, så du bedre kan tjekke dit ansigt, lægge makeup eller blot vænne dig til spejlvisningen. Især hvis du optager en YouTube-video, en TikTok-video eller en Instagram-story, hvor du skal vise tekst, bruge retningsanvisninger osv."
+      },
+      "digitalZoom": {
+        "title": "Digital zoom (1x til 3x)",
+        "description": "Se hvor skarpt dit <strong>webcam</strong> er, når det zoomes ind på forskellige niveauer. Ideel til produktdemoer, tutorials eller bare for at komme helt tæt på. Zoomskyder og 1x, 2x, 3x hurtigknapper til at teste skarpheden af dit webcam, når det zoomes ind. Nyttigt til at se, om du skal flytte tættere på kameraet, eller om du kan zoome ind uden at forringe billedkvaliteten for meget. Praktisk for live-streamere, der vil zoome ind på deres maleri, håndarbejde eller teknisk reparationsarbejde."
+      },
+      "brightnessContrast": {
+        "title": "Lysstyrke- og kontrastkontroller",
+        "description": "Juster lysstyrken (50-150 %) og kontrasten (50-150 %) og se, hvordan dit webcam ser ud under forskellige lysforhold. Du kan bruge disse skydere til at teste, om dit kameras automatiske eksponering fungerer korrekt, og til at efterligne forskellige optageindstillinger. Hvis det er for mørkt eller for lyst i dit rum, kan du justere skyderne til en behagelig indstilling til dit næste videomøde. Streamere og YouTubere bruger ofte disse skydere til at få det bedste ud af deres kamera og til at opretholde de samme lysforhold til deres videoer."
+      },
+      "gridOverlay": {
+        "title": "Gitteroverlay til professionel indramning",
+        "description": "Vores indbyggede gitteroverlay bruger tredjedelsreglens kompositionsteknik, der giver dig mulighed for perfekt at indramme dit ansigt i din optagelse. Placér blot dine øjne på den øverste vandrette linje og juster dit ansigt med de lodrette hjælpelinjer. Dette professionelle fotograferingsprincip sikrer mere attraktive og interessante videooptagelser til YouTube, forretningsmøder eller Twitch-streams. Gitteroverlayet hjælper med ensartet indramning i gentagne optagelser."
+      },
+      "videoFilters": {
+        "title": "Videofiltre og effekter",
+        "description": "Anvend følgende filtre på dit <strong>webcam</strong> for at se, hvordan de ser ud: Normal, Gråtone, Sepia, Inverter, Sløring, Lysstyrke, Kontrast, Farvetonerotation og Mætning. Filtrene viser dig, hvor godt dit kamera kan gengive farver, og hvordan det vil se ud, når du bruger videoeffektfiltre. Hvis du er en streamer eller YouTuber, kan du bruge filtre til at se, hvordan din stream ville se ud med forskellige effekter. Filtrene kan også bruges til at se, om dit kamera gengiver de korrekte farver. Sammenlign resultaterne af gråtone- og sepiafiltrene."
+      },
+      "videoMetrics": {
+        "title": "Videometrikker og histogram i realtid:",
+        "description": "Se tekniske detaljer om din video som opløsning, billedfrekvens og bitrate. RGB-histogrammet giver dig mulighed for at se fordelingen af farver i din video. Dette er nyttigt til at opdage over-/undereksponering, farvenuancer og dårlig belysning. Denne funktion er ideel for professionelle som videografer, YouTubere og vloggere, der vil sikre, at deres video er så god som muligt. Hvis dit histogram har en afskæring på en af siderne, skal du korrigere din belysning eller kameraindstillinger."
+      },
+      "advancedControls": {
+        "title": "Avancerede kamerakontroller",
+        "description": "Nogle webcams har funktioner som eksponering, fokustilstand, hvidbalance, ISO og skarphed, der kan styres af brugeren. Vores webapplikation giver dig mulighed for at tjekke, hvad dit <strong>webcam</strong> kan. Du kan skifte mellem auto- og manuel fokustilstand, ændre hvidbalancen for at matche lysets temperatur eller indstille eksponeringskompensationen efter dine ønsker. Dette er meget nyttigt for streamere, YouTubere og professionelle, der har brug for at kontrollere deres kameraindstillinger."
+      },
+      "backgroundBlur": {
+        "title": "Baggrundssløring",
+        "description": "Prøv webbaseret baggrundssløring uden applikationer eller green screen. Vores baggrundssløring bruger de nyeste webteknologier til at fjerne baggrunden og adskille den fra dig, nyttigt når du skal foretage videokonferenceopkald hjemmefra med en baggrund, du ikke ønsker, at andre skal se. Du kan justere graden af sløring, der anvendes på din baggrund. Dette værktøj giver dig mulighed for at se, hvor godt baggrundssløring fungerer med dit <strong>webcam</strong> og kameraapplikation. Dette er særligt nyttigt for webudviklere, digitale marketingfolk og alle, der producerer videoindhold."
+      },
+      "motionDetection": {
+        "title": "Bevægelsesregistrering til sikkerhedstest",
+        "description": "Hvis du vil tjekke, hvor meget dit <strong>webcam</strong> reagerer på bevægelse, kan du bruge vores bevægelsesregistrering i realtid. Med avanceret tilstand kan du se en live bevægelsesprocentindikator, der afspejler bevægelse i din video. Brug dette til test af sikkerhedskameras bevægelsesregistrering, konfiguration af overvågningssystemer eller test af bevægelsesaktiveret optagekamera. Bevægelsesdetektoren analyserer videostrømmen billede for billede for at finde mængden af bevægelse. Dette gør det muligt at tjekke, hvor godt kameraet er, og hvilken følsomhed du har brug for. Nyttigt til hjemmesikkerhed, kæledyrsovervågning og babyovervågning."
+      },
+      "faceDetection": {
+        "title": "Ansigtsregistrering og sporing",
+        "description": "Test dit webcams evne til at registrere ansigter. I avanceret tilstand tegner vi afgrænsningsfelter omkring ansigter og tæller dem. Vores ansigtsregistreringsværktøj bruger FaceDetector API, når det er tilgængeligt i din browser, til at registrere flere ansigter i et billede. Brug dette værktøj til at teste dit <strong>kameras</strong> funktionalitet til automatisk indramning i videokonferencer, eller for at se, hvordan det håndterer mere end ét ansigt. Videoindholdsskabere kan se, om deres kamera korrekt registrerer ansigter til autofokusformål, og professionelle kan tjekke, at deres mødelokale med flere personer fungerer som forventet."
+      },
+      "sideBySide": {
+        "title": "Side om side-tilstand: Sammenlign to kameraer",
+        "description": "Side om side-tilstand giver dig mulighed for at sammenligne 2 webcams side om side. Det er nyttigt til at teste flere webcams på samme tid. Hvis du har et indbygget webkamera og et eksternt USB-webkamera, kan du se dem side om side samtidigt. Det er også meget nyttigt til at vælge et webcam at købe. Du kan sammenligne kamerabilledkvalitet, farvenøjagtighed, ydelse i svagt lys og synsfelt i realtid. Det er et fantastisk værktøj for streamere og YouTubere."
+      }
+    },
+    "videoQuality": {
+      "title": "Webcam-videokvalitetsindstillinger forklaret",
+      "intro": "Opløsning bestemmer skarpheden af den video, dit webcam producerer. Her er, hvordan indstillingerne fungerer i vores webcam-opløsningstest:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Dette er den laveste kvalitetsindstilling, til når du blot vil teste, om din stream virker, og din internetforbindelse er elendig. Din video vil være sløret, men det er fint til at se, om dit kamera streamer overhovedet."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Lav kvalitet, lille båndbreddeforbrug. Du kan foretage et videoopkald i lav opløsning, hvis du ikke bekymrer dig så meget om kvaliteten. Du kan stadig genkende ansigter, men ikke meget andet."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Standard definition. Dette er mellemvejen mellem kvalitet og båndbredde. De fleste videochat- og streamingapplikationer kan bruge dette. Dette er typisk opløsningen for de fleste ældre webcams."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Denne opløsning leverer videokonferencekvalitet i high definition, hvilket er fremragende til professionel brug. Den tilbyder skarpe billeder og anstændig farvekvalitet. Dette er den mest populære opløsning, der bruges i videokonferenceapps som Zoom, Teams og Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Dette er den højeste opløsning, du finder i et webcam, og er ideel for personer, der vil lave indhold i høj kvalitet, streame eller har brug for den bedst mulige videokvalitet. Det kræver mere båndbredde og processorkraft, men du får et skarpt og professionelt billede."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Quad HD-opløsning med fremragende detaljer og klarhed. Fantastisk til professionelle indholdsskabere, streamere der kræver et højt niveau af billedkvalitet, og dem med 4K-skærme, der ønsker en nativ opløsning. Webcams af høj kvalitet og en betydelig mængde båndbredde er nødvendige."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra High Definition med fire gange så mange pixels som 1080p. Professionel kvalitet til indholdsskabere, filmmagere og high-end streaming. Kræver premium webcams, kraftig computerhardware og højhastighedsinternet. Perfekt til fremtidssikring af optagelser og maksimering af detaljer til digital zoom og beskæring."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "Den højest mulige opløsning. Den har 16 gange flere pixels end 1080p. Dette bruges typisk til meget avancerede professionelle webcams, eller for personer der bruger DSLR/spejlløse kameraer som webcams. Du har brug for et ekstremt avanceret webcam eller DSLR/spejlløst kamera, en ekstremt kraftig computer og en ekstremt hurtig forbindelse. Dette bør kun bruges, når du har brug for biografkvalitet, eller når du har en ekstremt stor skærm, eller hvis du vil zoome digitalt meget ind."
+        }
+      },
+      "tip": "Hvis du laver en webcam-test, test med 720p først for at sikre, at dit kamera virker med high definition, og test derefter med enhver anden opløsning, du har brug for."
+    },
+    "frameRate": {
+      "title": "Billedfrekvens og jævn videoydelse",
+      "intro": "Billedfrekvens er den frekvens (hastighed), hvormed en billedoptagelsesenhed producerer unikke fortløbende billeder kaldet frames. Billedfrekvensen udtrykkes i billeder pr. sekund (FPS). Jo højere billedfrekvens, desto mere jævn ser videoen ud, især i bevægelse. Vores online webcam-testværktøj tjekker den reelle FPS for dit webcam for at vise, om dit webcam har problemer.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Acceptabelt til videokonferencer. Bevægelsen ser lidt hakkende ud. Kan skyldes et billigt kamera, dårlig belysning eller en CPU-flaskehals."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Dette er den typiske billedfrekvens for webcams og de fleste videokonferenceapplikationer. Bevægelsen er jævn og naturlig. Dette er også den ideelle billedfrekvens til en professionel videokonference."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "En høj billedfrekvens, der giver endnu mere jævn bevægelse. Ideel for streamere og YouTubere, hvor jævn bevægelse er afgørende. Bemærk, at ikke alle webcams understøtter 60 FPS, og det vil forbruge mere båndbredde."
+        }
+      },
+      "tip": "Hvis testresultatet fra dit webcam viser en lav billedfrekvens, kan du overveje at bruge en lavere opløsning eller forbedre belysningen. Lys kan være et problem med webcams, da de kan reducere billedfrekvensen for at kunne øge eksponeringstiden."
+    },
+    "lighting": {
+      "title": "Tips til bedre webcam-video",
+      "intro": "Belysning er den vigtigste variabel, når det kommer til kvaliteten af webcam-video. Et webcam af lav kvalitet med god belysning vil se bedre ud end et webcam af høj kvalitet med dårlig belysning.",
+      "tips": {
+        "position": {
+          "title": "Lys foran dig",
+          "description": "Lyskilden skal være foran dig, ikke bag dig. Bagbelysning (som at placere dig foran et vindue) vil gøre dit ansigt mørkt og skyggefuldt."
+        },
+        "soft": {
+          "title": "Blødgør lyset",
+          "description": "Undgå direkte belysning, der forårsager stærke skygger og overbelyste punkter. Flere lyskilder, eller lys der kommer ind fra store vinduer, er altid blødt og giver mere professionelt udseende billeder."
+        },
+        "flicker": {
+          "title": "Undgå flimrende pærer",
+          "description": "Nogle LED-pærer og lysstofrør flimrer med en frekvens, som dit kamera kan opfange, og du vil få flimren i din video. Prøv at bruge glødelamper eller LED-pærer af høj kvalitet beregnet til video."
+        },
+        "color": {
+          "title": "Farvetemperatur er en anden faktor at overveje.",
+          "description": "Sørg for, at alle lyskilder har den samme farvetemperatur. Varmt og koldt lys blandet sammen ser usundt ud. Webcams ser generelt bedre ud under dagslysbalanceret lys (5000-6500K)."
+        }
+      },
+      "tip": "Test vores webcam-testværktøj med flere lyskilder for at afgøre, om dit webcam-billede forbedres. Du kan teste forskellige lysindstillinger med live-visningen for at se, hvad der fungerer bedst for dig."
+    },
+    "types": {
+      "title": "Typer af webcams og hvad du kan forvente",
+      "builtIn": {
+        "title": "Indbyggede laptop-webcams",
+        "description": "Bærbare computere har næsten altid et webcam indbygget øverst på skærmen. For det meste er disse 720p-kameraer, og de fungerer fint til lejlighedsvis videochat. Kvaliteten kan dog variere meget afhængigt af, hvilken bærbar computer du ejer. Generelt vil dyrere bærbare computere have bedre webcams."
+      },
+      "usb": {
+        "title": "USB-webcams",
+        "description": "Der findes også eksterne webcams, der tilsluttes via USB. Hvis du leder efter noget bedre end det integrerede kamera, vil en basismodel give dig 1080p ved 30 FPS, men de bedste modeller går helt op til 4K, 60 FPS med autofokus, kompensation for svagt lys osv."
+      },
+      "streaming": {
+        "title": "Streamingkameraer:",
+        "description": "Kameraer lavet til streamere fokuserer på billedkvalitet med større sensorer, forbedret følsomhed ved svagt lys og forbedret farvevidenskab. HDR og synsfeltjusteringer er almindelige."
+      },
+      "dslr": {
+        "title": "Mulighed 1: DSLR/spejlløst kamera som webcam",
+        "description": "Mange nye kameraer kan bruges som webcam via USB eller med et capture-kort. Dette giver dig den højeste billedkvalitet, men kræver også mest udstyr og konfiguration."
+      },
+      "tip": "Hvis du er i tvivl om, hvorvidt dit kamera fungerer med vores værktøj, er vores omfattende webcam-test kompatibel med alle typer kameraer. Du er velkommen til at bruge det til at sammenligne forskellige webcams eller blot tjekke, at dit nye webcam virker, efter du har tilsluttet det."
+    },
+    "troubleshooting": {
+      "title": "Brug for hjælp til at rette dit webcam?",
+      "intro": "Hvis du har kørt en test og opdaget et problem, følg disse trin for at identificere og løse de mest almindelige problemer:",
+      "blackScreen": {
+        "title": "Webcam viser sort skærm",
+        "issues": [
+          "Tjek om du har en fysisk dækning (som en privatlivsskyder, plaster eller et stykke tape) over kameralinsen",
+          "Tjek om en anden app (Skype, Zoom, Teams osv.) i øjeblikket bruger kameraet i baggrunden. Luk disse apps og prøv denne webcam-test igen.",
+          "Hvis du stadig oplever problemer, prøv at genstarte din browser og køre webcam-testen igen.",
+          "Hvis du bruger et eksternt USB-webcam, prøv at sætte det i en anden USB-port.",
+          "Opdater eller geninstaller dine kameradrivere."
+        ]
+      },
+      "blurry": {
+        "title": "Webcam-video er sløret",
+        "issues": [
+          "Rengør webcam-linsen med en mikrofiberklud.",
+          "Hvis dit webcam har en fokusring, prøv at justere fokus manuelt.",
+          "Sørg for, at der er nok lys til at hjælpe dit kamera med at autofokusere.",
+          "Flyt lidt tættere på eller længere væk fra webcammet og se, om det forbedres."
+        ]
+      },
+      "colors": {
+        "title": "Webcam-farver ser forkerte ud",
+        "issues": [
+          "Er du under forskellige lysforhold? Naturligt og kunstigt lys kan have forskellige farvetoner.",
+          "Prøv at justere hvidbalancen i dine webcamindstillinger, hvis det er muligt.",
+          "Har du noget på, eller er der noget omkring dig med en dominerende farve, der kan forårsage farvekastning? Prøv at fjerne det."
+        ]
+      },
+      "choppy": {
+        "title": "Video hakker eller er langsom",
+        "issues": [
+          "Reducer videokvaliteten i indstillingerne for dette webcam-testværktøj.",
+          "Prøv at lukke alle andre applikationer, der forbruger CPU- eller GPU-ressourcer.",
+          "Forbedr dine lysforhold for at reducere belastningen på dit kamera.",
+          "Hvis du bruger et eksternt USB-webcam, tilslut det direkte til din computer i stedet for en USB-hub."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Test af webcam til specifikke platforme",
+      "zoom": {
+        "title": "Zoom-videokonference",
+        "description": "Brug denne webcam-test for at sikre, at dit kamera fungerer godt, inden du starter et vigtigt Zoom-møde. Sørg for, at videokvaliteten er god nok ved 720p (som er standardkvaliteten for de fleste Zoom-møder). Sørg for, at din belysning er tilstrækkelig, og din position i webcam-visningen er god, inden du deltager i et Zoom-opkald."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "1080p HD-video er tilgængelig i møder. Test kameraet ved forskellige opløsninger for at bekræfte, at dit kamera kan understøtte Teams' videoopløsning. Test baggrunden for professionel kvalitet til Sammen-tilstand og virtuel baggrund."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet justerer automatisk videokvaliteten baseret på netværksforhold. Test ved minimum 720p for at sikre, at dit kamera opfylder Google Meets minimumskrav til videotransmission i høj kvalitet."
+      },
+      "streaming": {
+        "title": "Streaming (Twitch/YouTube)",
+        "description": "Test ved den maksimale opløsning, dit webcam kan håndtere (helst 1080p60). Sørg for, at billedfrekvensen er stabil, og se, hvor godt dit kamera klarer hurtige bevægelser og flere lysforhold."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Hvis du bruger Discord til videoopkald, er det nødvendigt at have et webcam, der kan køre 720p. Du vil sikre dig, at det kamera, du har, er egnet til din computer og til gaming-sessioner og fællesskabsopkald. Dette sikrer også, at dit kamera ikke bruger for meget båndbredde og hæmmer din gaming."
+      }
+    },
+    "relatedTools": {
+      "title": "Relaterede værktøjer og ressourcer",
+      "alsoTry": "Prøv også:",
+      "alsoTryLinks": ["Webcam- og mikrofontest", "Test mikrofon", "Mikrofontest", "Lydoptagelsestest", "Tjek mikrofon online"],
+      "onThisPage": "På denne side:",
+      "onThisPageLinks": ["Sådan tester du dit webcam", "Videokvalitetsindstillinger", "Kamerafejlfinding", "Webcam virker ikke - løsning", "Bedste webcamindstillinger"]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Virkede din mikrofon? Brug vores hurtige og enkle <strong>mikrofontest</strong> for at sikre, at din <strong>mikrofon fungerer</strong> korrekt. Denne <strong>online mikrofontest</strong> viser også dine mikrofonniveauer, frekvensspektrum og optager din lyd. Ingen software eller plugin er nødvendig for at <strong>teste din mikrofon</strong>. <strong>Test din mikrofon</strong> nu, inden du går live, starter et videoopkald eller optager en podcast.",
+      "p2": "Tryk på knappen 'Start mikrofon og optag' ovenfor for at tjekke din mikrofon. Lydniveauerne vises i realtid, så du kan se, om din mikrofon opfanger lyd som forventet. Den 32-bånds lydfrekvensgrafen giver dig mulighed for at se, hvor godt din mikrofon opfanger lydfrekvenser. Dette er særligt nyttigt, hvis du er podcaster eller musiker, da det giver dig mulighed for at bruge udstyr, der kan opfange alle frekvenser tydeligt."
+    },
+    "howToTest": {
+      "title": "Sådan tester du din mikrofon",
+      "intro": "Udfør disse trin for en komplet <strong>mikrofontest</strong>:",
+      "steps": [
+        "<strong>Tillad adgang til din mikrofon:</strong> Tillad browseren at bruge din mikrofon. Klik på tillad, hvis en dialogboks vises med anmodning om at give adgang til din mikrofon. Hvis du bruger browseren for første gang, skal du muligvis klikke på et skjoldikon i adresselinjen og derefter vælge mikrofonen for at tillade siden adgang.",
+        "<strong>Vælg din mikrofon (hvis nødvendigt):</strong> Vælg den ønskede mikrofon fra rullemulighederne (din computers mikrofon, ekstern mikrofon osv.). Den <strong>online mikrofontest</strong> kan kun udføres med én mikrofon ad gangen.",
+        "<strong>Indstil samplerate og kanaler:</strong> Vælg sampleraten for din mikrofon (44,1 kHz til standardkvalitet og 48 kHz til højere kvalitet). Vælg mono- eller stereokanal afhængigt af, hvad du vil opnå.",
+        "<strong>Optag en mikrofontest:</strong> Klik på optageknappen for at starte en <strong>mikrofontest</strong>. Den begynder at optage automatisk, så du kan lytte til afspilningen senere og se, hvordan din mikrofon lyder.",
+        "<strong>Overvåg mikrofonniveaumåleren:</strong> Mens du udfører <strong>mikrofontesten</strong>, skal du overvåge mikrofonniveaumåleren, når du taler ind i mikrofonen. Hvis den optager dig korrekt, skal måleren bevæge sig i takt med din stemmes lydstyrke. Grøn farve indikerer det ideelle lydniveau, gul et højere lydniveau, og rød for lydstyrker der er for høje og potentielt forvrænger.",
+        "<strong>Prøv at tale med forskellige lydstyrker:</strong> Udfør en <strong>mikrofontest</strong> ved at tale med normal stemme og derefter med en meget blød og høj stemme. Det hjælper dig med at se, hvor følsom din mikrofon er over for forskellige lydstyrker.",
+        "<strong>Afspil optagelsen:</strong> Efter udførelse af <strong>den online mikrofontest</strong>, afspil din optagelse for at se, hvordan mikrofonen lyder. Det hjælper dig med at identificere problemer, du ikke ville opdage med mikrofonniveaumåleren."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Avancerede funktioner",
+      "intro": "Uanset om du fejlsøger, hvorfor din mikrofon ikke virker, eller ønsker den bedste ydelse til et stort møde eller livestream, er der flere avancerede funktioner, du kan teste på denne side:",
+      "inputGain": {
+        "title": "Optimal inputforstærkning",
+        "description": "Konfigurér din mikrofonforstærkning mellem 50 % og 150 % med vores forudkonfigurerede indstillinger eller i realtid med vores skyder. Kontrol over inputforstærkning er særligt vigtigt for dem, der optager lyd til podcasting, hvor ensartede niveauer mellem episoder er ønskeligt, for musikere (både vokal og instrumenter) og for streamere, der er følsomme over for forvrængning og clipping. Vælg Lav (50 %) forudindstilling til miljøer, der er for højlydte, eller hvis du har en følsom kondensatormikrofon, Normal (100 %) til de fleste brugssituationer, og Forstærk (150 %) til svagere lydkilder, der har brug for mere forstærkning. Vores forstærkningskontrol i realtid bruger Web Audio API'ens GainNode til forstærkning uden at introducere støj eller forsinkelse."
+      },
+      "noiseSuppression": {
+        "title": "Anvend støjdæmpning for rene optagelser",
+        "description": "Hvis du vil fjerne tastelyde, museklik, blæsere, aircondition og lignende lyde fra optagelsen, skal du aktivere støjdæmpning og prøve igen. Den fungerer i din browser og kan bruges til at rydde op i støjende optagelser fra fjernarbejde, podcasts, hjemmeoptagelser, videoer osv., og du behøver ikke en noise gate eller et støjreduktionsplugin. Støjdæmpningen bruger Web Audio API til at undertrykke støj direkte på mikrofonen, så den ikke øger CPU-belastningen eller tilføjer forsinkelse. Du kan teste både med og uden støjdæmpning for at se, hvad der fungerer bedst for din mikrofon."
+      },
+      "echoCancellation": {
+        "title": "Hvorfor det er nyttigt: Ekkoundertrykkelse",
+        "description": "fjerner akustisk feedback og ekko fra din mikrofon inden testen. Dette er vigtigt for videoopkald, podcastinterviews og livestreaming, når dine højttaleres lyd også kan opfanges af din mikrofon. Brug forudindstillingsmenuen til at slå ekkoundertrykkelse til for at teste din mikrofon med den aktiveret. Dette hjælper dig med at afgøre, om du har brug for akustisk behandling af dit optagelokale, eller om du kan stole på browserens ekkoundertrykkelse. Nyttigt for: fjernarbejdere, podcastinterviewere og alle, der optager i et rum med mange hårde overflader (som kan give ekko)."
+      },
+      "autoGainControl": {
+        "title": "Oprethold ensartet lydstyrke med AGC",
+        "description": "AGC gør dit mikrofonniveau højere og mere ensartet. Hvis du er stille, gør den dig højere. Hvis du er høj, gør den dig mere dæmpet. Det er fantastisk for streamere, fordi du i et højlydt øjeblik ikke behøver at bekymre dig om at være for høj. Det er også godt for podcastere, hvis du bevæger dig væk fra din mikrofon. Derudover er det fantastisk til videokonferencer, hvis du vil lyde professionel. Aktivér dette og se, om AGC fungerer godt med din browser og din mikrofon. Hvis du optager musik eller ASMR, vil du måske holde dette slået fra."
+      },
+      "realtimeMeter": {
+        "title": "Overvåg dine lydniveauer i realtid.",
+        "description": "Niveaumåleren viser RMS (Root mean square) af lydsignalet og viser det faktiske niveau af lyden. Spidsværdien vises også, hvor niveauet begynder at forvrænge. Niveaumåleren har tre sektioner: grøn, gul og rød. Den grønne zone er det optimale niveau, mellem -12 og -6 dB. Den gule zone er mellem -6 og -3 dB, og den røde zone er alt over -3 dB, hvor din lyd vil forvrænge. Brug denne måler til at sikre, at din mikrofon er placeret korrekt. Brug den til at justere dit stemmeniveau. Brug den til at overvåge lydniveauet, inden du trykker på optag, så du ved, at dine niveauer ikke vil forvrænge. Podcastere bruger dette til at matche niveauer mellem episoder. Musikere bruger det til at indstille forstærkningen af deres mikrofoner. Fjernarbejdere bruger det til at sikre, at de kan høres, men ikke er for høje."
+      },
+      "frequencySpectrum": {
+        "title": "Frekvensspektrumanalyse",
+        "description": "Frekvensspektrumanalyse i realtid af din mikrofons frekvensrespons. Brug det 32-bånds spektrum til at afgøre, hvilke frekvenser din mikrofon opfanger. For meget rumlen (20-250Hz)? Mudret mellemtone (250Hz-2kHz)? Skarp sibilans (6kHz-8kHz)? Dette bruges af lydteknikere til at evaluere mikrofoner og rum, podcastere til at finde problematiske frekvenser, der skal udlignes, og musikere til at afgøre, hvilken mikrofon der fungerer bedst til deres stemme eller instrument. Opdateringer i realtid giver dig mulighed for at analysere din position, nærhed og omgivelser."
+      },
+      "sideBySide": {
+        "title": "Side om side-sammenligning af to mikrofoner",
+        "description": "Vælg side om side-sammenligningsindstillingen for at bruge to mikrofoner på én gang. Dette er særligt nyttigt, hvis du har to mikrofoner tilsluttet (f.eks. din bærbares indbyggede mikrofon og en USB-mikrofon), og du vil se dem side om side for at sammenligne lydkvalitet, støjgulv, frekvensrespons og følsomhed. Det er nyttigt til at vælge, hvilken mikrofon du skal købe, teste forskellige mikrofonplaceringer eller beslutte, hvilken mikrofon du skal bruge til din podcast eller stream. Lyddesignere bruger det til at finde en match til en anden mikrofon til stereooptagelse, og en virksomheds IT-afdeling kan bruge det til at teste mikrofoner, inden de udrulles i hele virksomheden. For at bruge det, vælg sammenligningsindstillingen i forudindstillingerne, vælg en anden mikrofon, og begge vises side om side med resultater i realtid."
+      },
+      "snrMeasurement": {
+        "title": "Signal-til-støj-forhold (SNR) måling",
+        "description": "Det grønne tal viser dit aktuelle SNR. 60 dB er det minimalt anbefalede for professionel optagelse, 50-60 dB er minimum for broadcasting og podcasting, og 40-50 dB er fint til videochat og tutorials. Et godt SNR fortæller dig, om din mikrofon er god nok til det, du vil bruge den til, om dit rum er for højlydt, eller om du har brug for akustiske paneler. Klik på knappen \"Avanceret\" øverst til højre på skærmen for at vise SNR, støjgulv og dynamikområde, mens du måler. Dette er en nyttig måling for podcastere, der vil sikre, at deres udsendelse er inden for broadcaststandarder, musikere der vil evaluere deres hjemmestudieopsætning, og for alle der bekymrer sig om deres lydkvalitet."
+      }
+    },
+    "audioLevels": {
+      "title": "Lydniveauer forklaret",
+      "intro": "Lydniveaumåleren i mikrofontesten ovenfor giver en visuel repræsentation af lydniveauet for dit mikrofoninput. Det er vigtigt at vide, hvad hvert niveau betyder for at levere god lyd:",
+      "green": {
+        "title": "Grøn zone (0-50 %)",
+        "description": "Acceptable lydniveauer til de fleste situationer. Du lyder høj og tydelig, og du har masser af plads til at blive højere uden forvrængning. Prøv at holde dig i dette område til videoopkald og anden kommunikation."
+      },
+      "yellow": {
+        "title": "Gul zone (50-80 %)",
+        "description": ": Høje lydniveauer, der stadig er acceptable. Godt til optagelse, når du ønsker stærk, nærværende lyd. Pludselige høje lyde kan dog forårsage forvrængning."
+      },
+      "red": {
+        "title": "Rød zone (80-100 %)",
+        "description": ": Dette er farezonen, hvor din lyd sandsynligvis vil være forvrænget (klippet). Hvis du ofte er i det røde, bør du sænke din mikrofons lydstyrke i kontrolpanelet eller flytte dig væk fra mikrofonen."
+      },
+      "peak": {
+        "title": "Spidsniveau:",
+        "description": "Det højeste niveau opnået i din session. Det er nyttigt til at tjekke, om der er korte høje hændelser, der forårsager forvrængning, når de gennemsnitlige niveauer er fine."
+      },
+      "rms": {
+        "title": "RMS-niveau",
+        "description": "- Gennemsnitlig lydstyrke over tid. Meget vigtigere end spidsværdi, når det kommer til opfattet lydstyrke. Du vil have dine RMS-niveauer i den grønne zone for konsekvent høj, men stadig behagelig lyd."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Frekvensspektrumanalyse",
+      "intro": "Vores mikrofontest indeholder en 32-bånds frekvensspektrumanalysator, der viser fordelingen af lydsignal på tværs af forskellige frekvenser. Dette er et professionelt værktøj, der giver dig mulighed for at analysere din mikrofons frekvensrespons og diagnosticere forskellige problemer:",
+      "low": {
+        "title": "Lave frekvenser (20-250 Hz)",
+        "description": "Disse er basfrekvenserne, der tilføjer krop og varme til din stemme. Overdreven lavfrekvensenergi kan få din optagelse til at lyde mudret eller buldren. Dette kan ofte skyldes, at du står for tæt på mikrofonen. (Nærhedseffekt.)"
+      },
+      "mid": {
+        "title": "Mellemtoner (250-4000 Hz)",
+        "description": "Det meste af klarheden i din stemme ligger her. Dette område bør være fremtrædende og defineret. Hvis dette område mangler, vil din stemme lyde svag eller fjern."
+      },
+      "high": {
+        "title": "Høje frekvenser (4000-20000 Hz)",
+        "description": "Lysstyrke og klarhed. En velbalanceret høj frekvens gengiver tale på en skarp, forståelig måde. For meget høj frekvens lyder spids eller sibilant (tzz-lyd)."
+      },
+      "tip": "Observer frekvensmåleren, mens du taler. Hvis den viser en jævn fordeling af frekvenser, er mikrofonen i en god position og opfanger sandsynligvis en naturlig lyd. Hvis den viser for meget aktivitet i det lave område, skal du muligvis træde lidt tilbage."
+    },
+    "sampleRates": {
+      "title": "Samplerateindstillinger",
+      "intro": "Sampleraten er antallet af lydsamples, der tages pr. sekund. Jo højere samplerate, desto mere detalje har lyden, men det kræver også flere ressourcer til behandling og lagring:",
+      "rates": {
+        "22khz": {
+          "title": "22,05 kHz",
+          "description": "Lav kvalitet. Kun til tale. Meget lavt båndbreddeforbrug, men dårlig frekvensrespons. Bør normalt undgås."
+        },
+        "44khz": {
+          "title": "44,1 kHz (CD-kvalitet)",
+          "description": "– Velegnet til generel brug. Optager alle frekvenser, der kan høres af det menneskelige øre (20 Hz – 20 kHz). Fremragende til videokonferencer, podcasting og musik."
+        },
+        "48khz": {
+          "title": "48 kHz (professionel standard):",
+          "description": "Meget lig 44,1 kHz, men med en lidt højere kvalitet. Dette er standarden for video/film og broadcasting. Brug dette, hvis du skal synkronisere lyd med video."
+        }
+      },
+      "tip": "Generelt er 44,1 kHz fint til de fleste mikrofontests. Hvis du er en seriøs lydprofessionel og ønsker den højeste kvalitet (eller har brug for at matche med videooptagelser), kan du bruge 48 kHz."
+    },
+    "types": {
+      "title": "Typer af mikrofoner",
+      "builtIn": {
+        "title": "Indbyggede mikrofoner i bærbare computere:",
+        "description": "Disse er mikrofoner, der er indbygget i din bærbare computer. De er praktiske, men har tendens til at have lavere kvalitet. Du kan muligvis høre din tastning og blæseren fra din computer. Du kan stadig bruge den, bare placér den bærbare computer, så mikrofonen vender mod dig. Det er fint til en videochat med en ven eller et familiemedlem, men du vil sandsynligvis ikke optage en voiceover med den."
+      },
+      "usb": {
+        "title": "USB-mikrofoner:",
+        "description": "Her er mine bedste USB-mikrofonanbefalinger til både Mac og PC. En god USB-mikrofon vil gøre en verden til forskel sammenlignet med din computers indbyggede mikrofon. Blue Yeti og Audio-Technica AT2020 USB er to af de mest populære USB-mikrofoner derude og lyder fantastisk. Perfekt til podcasting, Twitch-streaming eller videoopkald."
+      },
+      "headset": {
+        "title": "Gaming-headsets og earbuds:",
+        "description": "Hvis du ønsker et headset eller earbuds til gaming, kan du også overveje disse som en mulighed. De er mere bekvemme at bruge, og mikrofonens placering forbliver den samme hver gang. Jo bedre (og dyrere) headsettet eller earbuds er, desto bedre vil kvaliteten naturligvis være. Disse er fantastiske til gamingformål og til at foretage lejlighedsvise opkald."
+      },
+      "condenser": {
+        "title": "Kondensatormikrofoner",
+        "description": "Følsomme mikrofoner, der optager rig, detaljeret lyd. Kræver omhyggelig placering og akustisk behandling. Bedst til professionel optagelse, voiceover og musikproduktion."
+      },
+      "dynamic": {
+        "title": "Dynamiske mikrofoner:",
+        "description": "Robuste og gode til at afvise baggrundsstøj. Bruges ofte til podcasting og streaming på grund af deres tolerance over for hjemmemiljøer. Ikke så følsomme som kondensatormikrofoner, men mere praktiske."
+      },
+      "tip": "Vores mikrofontest er kompatibel med alle typer mikrofoner. Du kan bruge den til at teste flere mikrofoner, afprøve nyt hardware eller løse problemer."
+    },
+    "bestPractices": {
+      "title": "Bedste praksis for mikrofonoptagelse",
+      "distance": {
+        "title": "Afstand.",
+        "description": "15-30 cm fra din mund. Tættere på: Lyder mere basrig (nærhedseffekt) og opfanger vejrtrækning. Længere væk: Tyndere lyd og opfanger rumstøj."
+      },
+      "popFilter": {
+        "title": "Invester i et popfilter:",
+        "description": "Plosiver (P, B, T) skaber luftstød, der resulterer i forvrængning. Placér et popfilter mellem dig og din mikrofon, og de vil forsvinde. Hvis du planlægger at lave podcasting eller voiceover, er dette et must."
+      },
+      "background": {
+        "title": "Minimer baggrundsstøj",
+        "description": "— Sluk blæseren, luk vinduet, sæt din telefon på lydløs. Udfør mikrofontesten i det miljø, hvor du vil optage. Der er en masse støj, vi ikke engang er opmærksomme på."
+      },
+      "acoustics": {
+        "title": "Glem ikke rumakustikken",
+        "description": "Du vil ikke optage i et rum med mange hårde, flade overflader — det vil skabe ekko og rumklang. Du ønsker bløde overflader, der absorberer lydrefleksioner (gardiner, tæpper, akustikpaneler). Du kan endda optage i et skab fyldt med tøj, hvilket kan gøre en kæmpe forskel."
+      },
+      "positioning": {
+        "title": "Konsistens er nøglen!",
+        "description": "Hvis du opdager, at mikrofonen lyder godt ét sted, så hold den der i hele din optagesession. Du kan investere i en boomarm eller et mikrofonstativ, hvis du vil undgå, at din mikrofon bevæger sig. Du kan endda tegne en cirkel på skrivebordet for at vise, hvor din mikrofon skal være for at opnå den gode lyd igen."
+      }
+    },
+    "troubleshooting": {
+      "title": "Fejlfinding af mikrofonproblemer",
+      "noAudio": {
+        "title": "Ingen lyd registreret:",
+        "issues": [
+          "Bekræft at mikrofontilladelser er givet i browserindstillingerne",
+          "Tjek at den korrekte inputenhed er valgt i rullemenuen",
+          "Sørg for at mikrofonen ikke er slået fra i hardware- eller systemindstillinger",
+          "For USB-mikrofoner, prøv en anden port",
+          "Luk andre applikationer, der muligvis bruger mikrofonen"
+        ]
+      },
+      "quiet": {
+        "title": "Lyd for svag:",
+        "issues": [
+          "Øg mikrofonens inputniveau i systemindstillingerne",
+          "Flyt tættere på mikrofonen",
+          "Tjek for forstærkningskontroller på selve mikrofonen",
+          "Sørg for at tale ind mod mikrofonens opfangningsmønster"
+        ]
+      },
+      "distorted": {
+        "title": "Lyd forvrænget eller klippet:",
+        "issues": [
+          "Reducer mikrofonens inputniveau i systemindstillingerne",
+          "Flyt dig lidt væk fra mikrofonen",
+          "Tjek for fysiske forhindringer eller snavs på mikrofonen"
+        ]
+      },
+      "echo": {
+        "title": "Ekko eller rumklang:",
+        "issues": [
+          "Brug hovedtelefoner for at forhindre højttalere i at føde lyd tilbage til mikrofonen",
+          "Tilføj bløde materialer til dit rum for at absorbere lydrefleksioner",
+          "Kom tættere på mikrofonen for at øge direkte lyd i forhold til rumrefleksioner"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Relaterede værktøjer og ressourcer",
+      "alsoTry": "Prøv også:",
+      "alsoTryLinks": ["Webcam- og mikrofontest", "Test webcam", "Kameratest", "Videooptagelsestest", "Tjek kamera online"],
+      "onThisPage": "På denne side:",
+      "onThisPageLinks": ["Sådan tester du din mikrofon", "Lydniveauguide", "Mikrofonfejlfinding", "Mikrofon virker ikke - løsning", "Bedste mikrofonindstillinger"]
+    }
+  }
+}

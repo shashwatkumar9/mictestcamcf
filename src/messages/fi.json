@@ -1,0 +1,1186 @@
+{
+  "meta": {
+    "home": {
+      "title": "Ilmainen Webkameratesti ja Mikrofonitesti Verkossa | MicTestCam",
+      "description": "Testaa webkamerasi ja mikrofonisi heti verkossa. Ilmainen kameratesti ja mikkitesti - 100% yksityinen, ei latauksia. Tarkista, toimivatko laitteesi ennen videopuheluita."
+    },
+    "webcam": {
+      "title": "Webkameratesti - Ilmainen Verkossa Oleva Kameratestityökalu | Testaa Webkamerasi",
+      "description": "Ilmainen webkameratestityökalu - tarkista välittömästi, toimiiko kamerasi. Testaa webkamera reaaliaikaisella esikatselulla, suodattimilla, laatuasetuksilla ja tallennuksella. 100% yksityinen, ei latauksia tarvita."
+    },
+    "microphone": {
+      "title": "Mikkitesti - Ilmainen Online-Mikrofonitesti | Testaa Äänesi",
+      "description": "Ilmainen online-mikkitesti - tarkista, toimiiko mikrofonisi. Testaa äänentasot, taajuusvaste ja tallennuslaatu. 100% yksityinen mikrofonitesteri, ei latauksia."
+    },
+    "privacy": {
+      "title": "Tietosuojakäytäntö | MicTestCam",
+      "description": "Lue, miten MicTestCam suojaa yksityisyytesi. Kaikki webkamera- ja mikrofonitestit suoritetaan paikallisesti selaimessasi - emme koskaan kerää tai tallenna tietojasi."
+    },
+    "terms": {
+      "title": "Käyttöehdot | MicTestCam",
+      "description": "MicTestCamin käyttöehdot - ilmainen verkossa oleva webkamera- ja mikrofonitestaustyökalu. Lue käyttöehtomme palvelumme käytöstä."
+    },
+    "contact": {
+      "title": "Ota Yhteyttä | MicTestCam",
+      "description": "Ota yhteyttä MicTestCamin tiimiin. Ota yhteyttä tukea, palautetta tai liiketoimintakyselyjä varten ilmaisista webkamera- ja mikrofonitestaustyökaluistamme."
+    },
+    "blog": {
+      "title": "Blogi - Webkamera- ja Mikrofonivinkejä | MicTestCam",
+      "description": "Asiantuntijavinkkejä, opetusohjelmia ja oppaita webkameratestaukseen, mikrofonin asetuksiin sekä äänen ja videon optimointiin. Opi saamaan paras laatu videopuheluihisi."
+    },
+    "reviews": {
+      "title": "Parhaat Webkamera- ja Mikrofoniarvosteluut | MicTestCam",
+      "description": "Perusteelliset arvostelut, arvioinnit ja ostosoppaat webkameroille, mikrofoneille, kuulokkeille ja ääni-/videolaitteille. Asiantuntija-analyysejä, jotka auttavat sinua valitsemaan täydellisen varustuksen suoratoistoon ja videoneuvotteluihin."
+    }
+  },
+  "nav": {
+    "home": "Etusivu",
+    "webcamTest": "Webkameratesti",
+    "microphoneTest": "Mikrofonitesti",
+    "reviews": "Arvostelut",
+    "blog": "Blogi",
+    "privacy": "Tietosuojakäytäntö",
+    "terms": "Käyttöehdot",
+    "contact": "Ota yhteyttä"
+  },
+  "privacy": {
+    "banner": "100% yksityinen - mikään ei poistu selaimestasi"
+  },
+  "home": {
+    "hero": {
+      "title": "Ilmainen Webkameratesti ja Mikrofonitesti Verkossa",
+      "subtitle": "Varmista heti, että kamerasi ja mikrofonisi toimivat täydellisesti ennen seuraavaa videopuheluasi. Ei latauksia, ei rekisteröitymistä, täysin yksityinen.",
+      "webcamCta": "Testaa Webkamerasi",
+      "microphoneCta": "Testaa Mikrofonisi"
+    },
+    "features": {
+      "title": "Miksi käyttää MicTestCamia?",
+      "privacy": {
+        "title": "100% Yksityinen",
+        "description": "Äänesi ja videosi eivät koskaan poistu selaimestasi. Emme tallenna, lataa tai käsittele mitään mediadata palvelimillamme."
+      },
+      "simple": {
+        "title": "Yhdellä Klikkauksella Yksinkertainen",
+        "description": "Ei monimutkaisia asetuksia. Klikkaa vain nappia ja näe heti webkamerasi tai kuule mikrofonisi. Toimii sekunneissa."
+      },
+      "professional": {
+        "title": "Ammattimaiset Työkalut",
+        "description": "Edistyneet ominaisuudet, kuten taajuusspektrianalyysi, videosuodattimet, laatuasetukset ja paikallinen tallennusmahdollisuus."
+      },
+      "universal": {
+        "title": "Toimii Kaikkialla",
+        "description": "Yhteensopiva kaikkien nykyaikaisten selainten ja laitteiden kanssa. Testaa ennen Zoom-, Teams-, Meet-, Discord- tai muuta videoneuvottelusovellusta."
+      }
+    },
+    "howItWorks": {
+      "title": "Miten Se Toimii",
+      "step1": {
+        "title": "Klikkaa Aloita",
+        "description": "Valitse webkamera- tai mikrofonitesti ja klikkaa aloitusnappia"
+      },
+      "step2": {
+        "title": "Salli Käyttöoikeus",
+        "description": "Myönnä selaimelle lupa käyttää kameraasi tai mikrofoniasi"
+      },
+      "step3": {
+        "title": "Katso Tulokset",
+        "description": "Näe heti videokuva tai äänentasot. Tallenna pätkiä tarvittaessa"
+      }
+    },
+    "faq": {
+      "title": "Usein Kysytyt Kysymykset",
+      "q1": {
+        "question": "Onko tämä webkameratesti todella yksityinen?",
+        "answer": "Kyllä, ehdottomasti. Kaikki käsittely tapahtuu suoraan selaimessasi Web-ohjelmointirajapintoja käyttäen. Mitään video- tai äänidataa ei koskaan lähetetä palvelimillemme tai kolmansille osapuolille. Voit varmistaa tämän tarkistamalla selaimesi verkkoyhteys-välilehden."
+      },
+      "q2": {
+        "question": "Pitääkö minun asentaa jotain?",
+        "answer": "Asennusta ei tarvita. MicTestCam toimii kokonaan selaimessasi. Vieraile vain sivulla ja klikkaa aloita."
+      },
+      "q3": {
+        "question": "Mitkä selaimet ovat tuettuja?",
+        "answer": "MicTestCam toimii kaikilla nykyaikaisilla selaimilla, mukaan lukien Chrome, Firefox, Safari, Edge ja Opera tietokone- ja mobiililaitteilla."
+      },
+      "q4": {
+        "question": "Voinko tallentaa videota tai ääntä?",
+        "answer": "Kyllä! Voit tallentaa videopätkiä webkameratestisivulla ja äänipätkiä mikrofonitestisivulla. Kaikki tallenteet tallennetaan paikallisesti selaimessasi ja ne voidaan ladata."
+      },
+      "q5": {
+        "question": "Miksei kamerani/mikrofonini toimi?",
+        "answer": "Varmista, että olet myöntänyt selaimelle luvan käyttää laitettasi. Tarkista, ettei mikään muu sovellus käytä kameraasi tai mikrofoniasi. Yritä päivittää sivu tai valita eri laite pudotusvalikosta."
+      },
+      "q6": {
+        "question": "Onko tämä ilmainen käyttää?",
+        "answer": "Kyllä, MicTestCam on täysin ilmainen käyttää ilman rajoituksia tai piilomaksuja."
+      },
+      "q7": {
+        "question": "Voinko testata ennen Zoom/Teams/Meet-puhelua?",
+        "answer": "Ehdottomasti! MicTestCam on täydellinen puhelujen ennakkotestaukseen. Testaa laitteesi täällä ja liity sitten videoneuvotteluusi luottavaisena."
+      },
+      "q8": {
+        "question": "Miten valitsen eri kameran tai mikrofonin?",
+        "answer": "Käytä testisivun laitepudotusvalikkoa vaihtuaksesi liitettyjen kameroiden tai mikrofonien välillä."
+      },
+      "q9": {
+        "question": "Mihin tallenteet tallennetaan?",
+        "answer": "Tallenteet tallennetaan paikallisesti selaimen muistiin. Ne säilyvät jopa selaimen sulkemisen jälkeen, ja ne voidaan ladata tai poistaa milloin tahansa."
+      },
+      "q10": {
+        "question": "Toimiiko tämä matkapuhelimilla?",
+        "answer": "Kyllä, MicTestCam toimii mobiililaitteilla, joissa on nykyaikainen selain. Voit testata sekä etu- että takakameroita puhelimellasi."
+      }
+    },
+    "trust": {
+      "tests": "Yli 50 000 testiä päivässä",
+      "apps": "Toimii Zoomin, Teamsin ja Meetin kanssa",
+      "browsers": "Kaikki nykyaikaiset selaimet tuettu"
+    }
+  },
+  "webcam": {
+    "title": "Webkameratesti - Ilmainen Online-Kameratestityökalu",
+    "subtitle": "Testaa kamerasi heti. Katso videoasi, säädä laatua, käytä suodattimia ja tallenna pätkiä.",
+    "startButton": "Käynnistä Kamera ja Tallenna",
+    "stopButton": "Pysäytä ja Tallenna Tallennus",
+    "snapshotButton": "Ota Kuvakaappaus",
+    "permissionMessage": "Klikkaa yllä olevaa nappia aloittaaksesi webkameratestisi",
+    "recording": "Tallennetaan",
+    "deviceLabel": "Kamera",
+    "qualityLabel": "Laatu",
+    "filterLabel": "Suodatin",
+    "filters": {
+      "normal": "Normaali",
+      "grayscale": "Harmaasävy",
+      "sepia": "Sepia",
+      "invert": "Käänteinen",
+      "blur": "Sumennus",
+      "brightness": "Kirkkaus",
+      "contrast": "Kontrasti",
+      "hueRotate": "Värisävy",
+      "saturate": "Kylläisyys"
+    },
+    "savedRecordings": {
+      "title": "Tallennetut Tallenteet",
+      "clearAll": "Tyhjennä Kaikki",
+      "noRecordings": "Ei vielä tallenteita. Aloita tallennus tallentaaksesi videopätkiä.",
+      "play": "Toista",
+      "download": "Lataa",
+      "delete": "Poista"
+    },
+    "testCamera": "Testaa Kamera",
+    "stopCamera": "Pysäytä Kamera",
+    "record": "Tallenna",
+    "stopRecording": "Lopeta Tallennus",
+    "showAdvanced": "Näytä Lisäasetukset",
+    "hideAdvanced": "Piilota Lisäasetukset",
+    "mirrorMode": "Peilaustila",
+    "flipHorizontally": "Peilaa vaakasuunnassa",
+    "digitalZoom": "Digitaalinen Zoom",
+    "brightness": "Kirkkaus",
+    "contrast": "Kontrasti",
+    "dark": "Tumma",
+    "normal": "Normaali",
+    "bright": "Kirkas",
+    "low": "Matala",
+    "high": "Korkea",
+    "cameraComparison": "Kameravertailu",
+    "compareSideBySide": "Vertaile rinnakkain",
+    "requires2Cameras": "(vaatii 2+ kameraa)",
+    "secondCamera": "Toinen Kamera",
+    "fineTuneWhileRecording": "Hienosäädä Tallennuksen Aikana",
+    "camera1": "Kamera 1",
+    "camera2": "Kamera 2",
+    "motion": "Liike",
+    "advanced": {
+      "title": "Kameran Lisäasetukset",
+      "exposure": "Valotus",
+      "focus": "Tarkennus",
+      "whiteBalance": "Valkotasapaino",
+      "image": "Kuva",
+      "ptz": "PTZ",
+      "mode": "Tila",
+      "exposureTime": "Valotusaika",
+      "distance": "Etäisyys",
+      "temperature": "Lämpötila",
+      "sharpness": "Terävyys",
+      "zoom": "Zoom",
+      "pan": "Panorointi",
+      "tilt": "Kallistus",
+      "saturation": "Kylläisyys",
+      "noAdvancedControls": "Kamerasi ei tue edistyneitä laitteisto-ohjaimia"
+    },
+    "backgroundBlur": {
+      "title": "Taustan Sumennus",
+      "blurStrength": "Sumennus Voimakkuus",
+      "skinToneNote": "Käytetään kevyttä ihonsävyn tunnistusta. Parempia tuloksia varten varmista hyvä valaistus."
+    },
+    "faceDetection": {
+      "facesDetected": "Havaittu",
+      "face": "Kasvot"
+    },
+    "framing": {
+      "grid": "Ruudukko",
+      "faceGuide": "Kasvojen Ohje",
+      "moveRight": "Siirry oikealle",
+      "moveLeft": "Siirry vasemmalle",
+      "moveDown": "Siirry alas",
+      "moveUp": "Siirry ylös",
+      "moveCloser": "Siirry lähemmäs",
+      "moveBack": "Siirry kauemmas",
+      "greatFraming": "Loistava rajaus!",
+      "noFaceDetected": "Kasvoja ei havaittu"
+    },
+    "histogram": {
+      "videoAnalysis": "Videoanalyysi",
+      "histogram": "Histogrammi",
+      "waveform": "Aaltomuoto",
+      "shadows": "Varjot",
+      "midtones": "Keskisävyt",
+      "highlights": "Korostukset"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Resoluutio",
+      "bitrate": "Bittinopeus",
+      "lighting": "Valaistus",
+      "dropped": "Pudotettu",
+      "tooDark": "Liian Tumma",
+      "lowLight": "Heikko Valo",
+      "overexposed": "Ylivalottunut",
+      "good": "Hyvä",
+      "hideMetrics": "Piilota mittarit"
+    }
+  },
+  "microphone": {
+    "title": "Mikkitesti - Ilmainen Online-Mikrofonitestityökalu",
+    "subtitle": "Testaa mikrofonisi reaaliaikaisella äänentasomittarilla ja taajuusspektrianalysaattorilla.",
+    "startButton": "Käynnistä Mikrofoni ja Tallenna",
+    "stopButton": "Pysäytä ja Tallenna Tallennus",
+    "permissionMessage": "Klikkaa yllä olevaa nappia aloittaaksesi mikrofonitestisi",
+    "recording": "Tallennetaan",
+    "deviceLabel": "Mikrofoni",
+    "sampleRateLabel": "Näytteenottotaajuus",
+    "channelLabel": "Kanavat",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Äänentaso",
+    "frequencySpectrum": "Taajuusspektri",
+    "savedRecordings": {
+      "title": "Tallennetut Tallenteet",
+      "clearAll": "Tyhjennä Kaikki",
+      "noRecordings": "Ei vielä tallenteita. Aloita tallennus tallentaaksesi äänipätkiä.",
+      "play": "Toista",
+      "download": "Lataa",
+      "delete": "Poista"
+    },
+    "testMicrophone": "Testaa Mikrofoni",
+    "stopMicrophone": "Pysäytä Mikrofoni",
+    "record": "Tallenna",
+    "stopRecording": "Lopeta Tallennus",
+    "showAdvanced": "Näytä Lisäasetukset",
+    "hideAdvanced": "Piilota Lisäasetukset",
+    "inputGain": "Tulovahvistus",
+    "noiseSuppression": "Melunvaimennus",
+    "enableNoiseReduction": "Ota melunvähennys käyttöön",
+    "echoCancellation": "Kaiunpoisto",
+    "reduceEchoFeedback": "Vähennä kaiku-palautetta",
+    "autoGainControl": "Automaattinen Gaininsäätö",
+    "autoAdjustVolume": "Säädä äänenvoimakkuus automaattisesti",
+    "microphoneComparison": "Mikrofonien Vertailu",
+    "compareSideBySide": "Vertaile rinnakkain",
+    "requires2Mics": "(vaatii 2+ mikrofonia)",
+    "secondMicrophone": "Toinen Mikrofoni",
+    "fineTuneWhileTesting": "Hienosäädä Testauksen Aikana",
+    "boost": "Tehosta",
+    "normal": "Normaali",
+    "low": "Matala",
+    "advanced": {
+      "title": "Edistynyt Äänenkäsittely",
+      "metrics": "Mittarit",
+      "spectrogram": "Spektrogrammi",
+      "signalToNoiseRatio": "Signaali-kohinasuhde",
+      "excellent": "Erinomainen",
+      "good": "Hyvä",
+      "fair": "Kohtalainen",
+      "poor": "Heikko",
+      "rms": "RMS (dB)",
+      "peak": "Huippu (dB)",
+      "noiseFloor": "Kohinataso",
+      "dominantFrequency": "Hallitseva Taajuus",
+      "detectedIssues": "Havaitut Ongelmat",
+      "detectedAt": "havaittu kohdassa",
+      "time": "Aika",
+      "frequencyLowHigh": "Taajuus (Matala → Korkea)"
+    },
+    "processing": {
+      "title": "Äänenkäsittely",
+      "noiseSuppression": "Melunvaimennus",
+      "reduceBackgroundNoise": "Vähennä taustamelua",
+      "echoCancellation": "Kaiunpoisto",
+      "removeAudioFeedback": "Poista äänen palautus",
+      "autoGainControl": "Automaattinen Gaininsäätö",
+      "normalizeVolumeLevels": "Normalisoi äänenvoimakkuustasot",
+      "directMonitoring": "Suora Monitorointi",
+      "listenToYourMic": "Kuuntele mikrofoniasi",
+      "monitorVolume": "Monitorin Äänenvoimakkuus",
+      "useHeadphones": "Käytä kuulokkeita palautteen välttämiseksi!"
+    },
+    "comparison": {
+      "title": "A/B Mikrofonien Vertailu",
+      "microphoneA": "Mikrofoni A",
+      "microphoneB": "Mikrofoni B",
+      "selectMicrophone": "Valitse mikrofoni...",
+      "startComparison": "Aloita Vertailu",
+      "selectTwoDifferent": "Valitse kaksi eri mikrofonia",
+      "active": "Aktiivinen",
+      "switchTo": "Vaihda",
+      "rmsLevel": "RMS-taso",
+      "peakLevel": "Huipputaso",
+      "snr": "SNR (dB)",
+      "stopComparison": "Lopeta Vertailu",
+      "micA": "Mikki A",
+      "micB": "Mikki B"
+    }
+  },
+  "privacyPage": {
+    "title": "Tietosuojakäytäntö",
+    "lastUpdated": "Viimeksi Päivitetty",
+    "intro": "MicTestCamissa suhtaudumme yksityisyyteesi vakavasti. Tämä tietosuojakäytäntö selittää, miten käsittelemme tietojasi, kun käytät webkamera- ja mikrofonitestauspalveluitamme.",
+    "sections": {
+      "noCollection": {
+        "title": "Emme Kerää Tietojasi",
+        "content": "MicTestCam on suunniteltu yksityisyys ydinperiaatteena. Emme kerää, tallenna tai lähetä mitään ääni- tai videodataa webkamera- tai mikrofonitesteistäsi. Kaikki käsittely tapahtuu kokonaan selaimessasi paikallisten JavaScript-ohjelmointirajapintojen avulla."
+      },
+      "localStorage": {
+        "title": "Paikallinen Tallennus",
+        "content": "Kun tallennat video- tai äänipätkiä, ne tallennetaan paikallisesti selaimesi IndexedDB-muistiin. Tämä data ei koskaan poistu laitteeltasi, eikä se ole meidän tai minkään kolmannen osapuolen saatavilla. Voit poistaa nämä tallenteet milloin tahansa sovelluksen käyttöliittymän kautta tai tyhjentämällä selaintietosi."
+      },
+      "cookies": {
+        "title": "Evästeet ja Analytiikka",
+        "content": "Käytämme vähimmäismäärän evästeitä vain verkkosivuston olennaisten toimintojen, kuten kieliasetuksien, osalta. Saatamme käyttää yksityisyyttä kunnioittavaa analytiikkaa yleisten käyttömallien ymmärtämiseksi, mutta emme seuraa yksittäisiä käyttäjiä emmekä kerää henkilökohtaisia tietoja."
+      },
+      "thirdParty": {
+        "title": "Kolmansien Osapuolten Palvelut",
+        "content": "Verkkosivustomme saattaa sisältää linkkejä kolmansien osapuolten verkkosivustoille. Emme ole vastuussa näiden ulkoisten sivustojen tietosuojakäytännöistä. Suosittelemme tutustumaan heidän tietosuojakäytäntöihinsä ennen henkilökohtaisten tietojen antamista."
+      },
+      "security": {
+        "title": "Turvallisuus",
+        "content": "Käytämme HTTPS-salausta suojataksemme kaiken viestinnän selaimesi ja verkkosivustomme välillä. Koska emme kerää mediadata, ei ole riskiä, että webkamera- tai mikrofonitallenteesi paljastuisivat tietovuodon kautta."
+      },
+      "children": {
+        "title": "Lasten Yksityisyys",
+        "content": "MicTestCam ei ole tarkoitettu alle 13-vuotiaille lapsille. Emme tietoisesti kerää tietoja lapsilta."
+      },
+      "changes": {
+        "title": "Muutokset Tähän Käytäntöön",
+        "content": "Saatamme päivittää tätä tietosuojakäytäntöä ajoittain. Ilmoitamme muutoksista julkaisemalla uuden tietosuojakäytännön tällä sivulla ja päivittämällä 'Viimeksi Päivitetty' -päivämäärän."
+      },
+      "contact": {
+        "title": "Ota Yhteyttä",
+        "content": "Jos sinulla on kysyttävää tästä tietosuojakäytännöstä, ota meihin yhteyttä yhteydenottosivumme kautta."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Käyttöehdot",
+    "lastUpdated": "Viimeksi Päivitetty",
+    "intro": "Tervetuloa MicTestCamiin. Käyttämällä verkkosivustoamme ja palveluitamme hyväksyt nämä käyttöehdot.",
+    "sections": {
+      "acceptance": {
+        "title": "Ehtojen Hyväksyminen",
+        "content": "Käyttämällä MicTestCamia hyväksyt nämä käyttöehdot ja tietosuojakäytäntömme. Jos et hyväksy mitään osaa näistä ehdoista, et voi käyttää palveluitamme."
+      },
+      "description": {
+        "title": "Palvelun Kuvaus",
+        "content": "MicTestCam tarjoaa ilmaisia verkkotyökaluja webkameroiden ja mikrofonien testaamiseen. Palvelumme avulla voit varmistaa, että kamerasi ja mikrofonisi toimivat oikein ennen videoneuvotteluja, tallennuksia tai suoratoistoistuntoja."
+      },
+      "usage": {
+        "title": "Hyväksyttävä Käyttö",
+        "content": "Sitoudut käyttämään MicTestCamia vain laillisiin tarkoituksiin ja näiden ehtojen mukaisesti. Sitoudut olemaan: käyttämättä palvelua mihinkään laittomaan toimintaan, yrittämättä häiritä verkkosivuston asianmukaista toimintaa, yrittämättä päästä sivuston alueille, jotka eivät ole tarkoitettu julkiseen käyttöön, tai käyttämättä automaattisia järjestelmiä palvelun käyttämiseen ilman lupaa."
+      },
+      "privacy": {
+        "title": "Yksityisyys ja Data",
+        "content": "Kaikki webkamera- ja mikrofonitestaus tapahtuu paikallisesti selaimessasi. Emme kerää, tallenna tai pääse käsiksi ääni- tai videodataasi. Lisätietoja saat tutustumalla tietosuojakäytäntöömme."
+      },
+      "intellectual": {
+        "title": "Immateriaalioikeudet",
+        "content": "MicTestCamin verkkosivusto, mukaan lukien sen suunnittelu, koodi ja sisältö, on suojattu tekijänoikeuksilla ja muilla immateriaalioikeuslaeilla. Et saa kopioida, muokata, jakaa tai jäljentää mitään osaa verkkosivustosta ilman kirjallista ennakkosuostumustamme."
+      },
+      "disclaimer": {
+        "title": "Takuuvastuu",
+        "content": "MicTestCam tarjotaan 'sellaisenaan' ilman minkäänlaisia takuita, joko nimenomaisia tai epäsuoria. Emme takaa, että palvelu on keskeytymätön, virheetön tai täyttää erityistarpeesi. Emme ole vastuussa laitteidesi laitteisto- tai ohjelmisto-ongelmista."
+      },
+      "limitation": {
+        "title": "Vastuunrajoitus",
+        "content": "Lain sallimassa laajimmassa mittakaavassa MicTestCam ei ole vastuussa mistään epäsuorista, satunnaisista, erityisistä, seurannaisista tai rankaisullisista vahingoista, jotka johtuvat palvelun käytöstäsi."
+      },
+      "changes": {
+        "title": "Muutokset Ehtoihin",
+        "content": "Pidätämme oikeuden muokata näitä käyttöehtoja milloin tahansa. Muutokset tulevat voimaan välittömästi niiden julkaisemisen jälkeen verkkosivustolla. Jatkamalla palvelun käyttöä muutosten julkaisemisen jälkeen hyväksyt muokatut ehdot."
+      },
+      "governing": {
+        "title": "Sovellettava Laki",
+        "content": "Näihin käyttöehtoihin sovelletaan sovellettavia lakeja ja ne tulkitaan niiden mukaisesti, ottamatta huomioon lainvalintasäännöksiä."
+      },
+      "contact": {
+        "title": "Ota Yhteyttä",
+        "content": "Jos sinulla on kysyttävää näistä käyttöehdoista, ota meihin yhteyttä yhteydenottosivumme kautta."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Ota Yhteyttä",
+    "subtitle": "Onko sinulla kysyttävää tai palautetta? Kuulemme sinusta mielellämme.",
+    "form": {
+      "name": "Nimesi",
+      "namePlaceholder": "Kirjoita nimesi",
+      "email": "Sähköpostiosoite",
+      "emailPlaceholder": "Kirjoita sähköpostisi",
+      "subject": "Aihe",
+      "subjectPlaceholder": "Mistä on kyse?",
+      "message": "Viesti",
+      "messagePlaceholder": "Kirjoita viestisi tähän...",
+      "submit": "Lähetä Viesti",
+      "sending": "Lähetetään...",
+      "success": "Kiitos! Viestisi on lähetetty onnistuneesti.",
+      "error": "Pahoittelut, viestisi lähettämisessä tapahtui virhe. Yritä uudelleen."
+    },
+    "info": {
+      "title": "Muita Tapoja Ottaa Yhteyttä",
+      "email": "Sähköposti",
+      "response": "Vastaamme yleensä 24-48 tunnin kuluessa.",
+      "social": "Seuraa Meitä"
+    },
+    "faq": {
+      "title": "Ennen Kuin Otat Yhteyttä",
+      "subtitle": "Saatat löytää vastauksesi etusivun UKK-osiosta."
+    }
+  },
+  "blogPage": {
+    "title": "Webkamera- ja Mikrofonitestausblogi - Vinkkejä, Oppaita ja Opetusohjelmia",
+    "subtitle": "Asiantuntijavinkkejä, opetusohjelmia ja näkemyksiä webkameratestauksesta, mikrofonin asetuksista sekä äänen ja videon optimoinnista videopuheluihin, suoratoistoon ja sisällöntuotantoon.",
+    "noPosts": "Ei vielä julkaisuja",
+    "noPostsDescription": "Tule takaisin pian uuden sisällön vuoksi!",
+    "readMore": "Lue lisää",
+    "by": "kirjoittanut",
+    "minRead": "min lukeminen",
+    "categories": {
+      "all": "Kaikki Julkaisut",
+      "webcam": "Webkameravinkit",
+      "microphone": "Mikrofonivinkejä",
+      "tutorials": "Opetusohjelmat",
+      "troubleshooting": "Vianmääritys"
+    },
+    "search": "Etsi artikkeleita...",
+    "featured": "Suositeltava",
+    "latest": "Uusimmat Artikkelit",
+    "relatedPosts": "Aiheeseen Liittyvät Julkaisut"
+  },
+  "reviewsPage": {
+    "title": "Parhaat Webkamera- ja Mikrofoniarvosteluut - Asiantuntija-analyysi",
+    "subtitle": "Perusteelliset arvostelut, arvioinnit ja ostosoppaat webkameroille, mikrofoneille, kuulokkeille ja ääni-/videolaitteille. Löydä täydellinen varustus suoratoistoon, videopuheluihin ja sisällöntuotantoon.",
+    "noReviews": "Ei arvosteluja saatavilla vielä",
+    "noReviewsDescription": "Tule takaisin pian asiantuntija-arvostelujen vuoksi!",
+    "by": "kirjoittanut",
+    "readMore": "Lue Arvostelu"
+  },
+  "footer": {
+    "tagline": "Testaa webkamerasi ja mikrofonisi verkossa ilmaiseksi",
+    "privacy": "Tietosuojakäytäntö",
+    "terms": "Käyttöehdot",
+    "contact": "Ota yhteyttä",
+    "blog": "Blogi",
+    "copyright": "MicTestCam. Kaikki oikeudet pidätetään.",
+    "language": "Kieli"
+  },
+  "common": {
+    "loading": "Ladataan...",
+    "error": "Virhe",
+    "close": "Sulje",
+    "back": "Takaisin",
+    "next": "Seuraava",
+    "submit": "Lähetä",
+    "cancel": "Peruuta",
+    "save": "Tallenna",
+    "delete": "Poista",
+    "edit": "Muokkaa",
+    "view": "Näytä",
+    "download": "Lataa",
+    "share": "Jaa",
+    "copy": "Kopioi",
+    "copied": "Kopioitu!",
+    "readMore": "Lue Lisää",
+    "learnMore": "Lue Lisää",
+    "getStarted": "Aloita"
+  },
+  "cta": {
+    "title": "Valmis Testaamaan Laitteesi?",
+    "subtitle": "Aloita webkamerasi ja mikrofonisi testaus heti. Ei latauksia, ei rekisteröitymistä tarvita.",
+    "webcamButton": "Testaa Webkamera",
+    "microphoneButton": "Testaa Mikrofoni"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam tarjoaa välittömän, ilmaisen verkkotest auksen webkameroille ja mikrofoneille suoraan selaimessasi. Ei latauksia tarvita. Testaa kameran laatu, mikrofonin tasot ja äänen selkeys alle 30 sekunnissa ennen mitä tahansa videopuhelua tai tallennusistuntoa.",
+      "p1": "Hei ja tervetuloa MicTestCamiin! MicTestCam tarjoaa helpointa tapaa <strong>testata webkamerasi ja mikkisi verkossa</strong>, halusitpa sitten tarkistaa webkamerasi videoneuvottelua, kokousta tai esitystä varten, äänittää kommentteja YouTube-videoihisi ja kanavallesi, tai suorittaa perusteellisen <strong>mikrofonitestin</strong> podcastiasi varten.",
+      "p2": "MicTestCamin kamera- ja mikrofonitestaustyökalut toimivat täysin selaimessa eivätkä vaadi lataamista. Käyttäjän yksityisyys on MicTestCamin tärkein prioriteetti. Kaikki testit suoritetaan selaimessasi, eikä video- ja äänidatasi koskaan poistu tietokoneeltasi. Yli 50 000 testillä joka päivä ja 99,9 %:n onnistumisprosentilla MicTestCam on suosituin alusta ammattilaisille, etätyöntekijöille, sisällöntuottajille ja tavallisille käyttäjille, jotka haluavat testata laitteitaan.",
+      "p3": "Paina alla olevia nappeja <strong>testata webkamera</strong> tai <strong>testata mikrofoni</strong>. MicTestCam tarvitsee vain muutaman sekunnin tarkistaakseen, toimivatko kamerasi ja mikrofonisi oikein ennen Zoom-, Microsoft Teams-, Google Meet-, Discord-, Skype- tai muuta videopuhelua.",
+      "keyTakeaways": {
+        "title": "Tärkeimmät Kohdat",
+        "points": [
+          "Ilmainen välitön webkamera- ja mikrofonitestaus - ei ohjelmistojen asennusta tarvita",
+          "100% selainpohjainen testaus takaa täydellisen yksityisyyden ja tietoturvan",
+          "Reaaliaikainen palaute videon laadusta, äänentasoista ja taajuusvasteesta",
+          "Yhteensopiva Zoomin, Teamsin, Meetin, Discordin ja kaikkien videoalustojen kanssa",
+          "Yli 50 000 päivittäistä testiä 99,9 %:n tarkkuudella"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Miksi Sinun Pitäisi Testata Webkamerasi ja Mikrofonisi Ennen Videopuheluita?",
+      "directAnswer": "Webkameran ja mikrofonin testaaminen ennen videopuheluita estää kiusallisia teknisiä häiriöitä, säästää kokouksen aikaa ja varmistaa ammattimaisen viestinnän laadun. Ennakkotesti tunnistaa ongelmat kamerakulmissa, valaistuksessa, äänentasoissa ja taustamelusta ennen kuin yleisösi näkee ne.",
+      "p1": "Etätyö ja virtuaalinen viestintä ovat nyt normaali liiketoimintatapa. Kyky kommunikoida selkeästi videon ja äänen välityksellä on ratkaisevan tärkeää ammatilliselle menestykselle. Tekniset keskeytykset kokouksissa vahingoittavat uskottavuutta ja tuhlaavat aikaa. Joutuminen toistuvasti kysymään \"Näetkö minut nyt? Entä nyt?\" heikentää ammatillista mainetta ja viivästyttää tärkeitä keskusteluja.",
+      "p2": "Nopean videotestin suorittaminen ennen kokouksia estää tekniset mokailut. Nopean äänitestin suorittaminen ennen tärkeitä puheluita varmistaa, että äänesi on selkeä ilman taustamelua, kaikua tai vääristymistä. Myyntiprofessionaalit, johtajat, opettajat ja sisällöntuottajat ymmärtävät luotettavan webkameran ja mikrofonin toimivuuden tärkeyden.",
+      "p3": "Toisin kuin muut webkamera- ja mikrofonitestaustyökalut, MicTestCam ei vain tarkista, toimivatko webkamerasi tai mikrofonisi, vaan tarjoaa myös yksityiskohtaisia tietoja videon laadusta ja ääniominaisuuksista. MicTestCam auttaa käyttäjiä löytämään ja korjaamaan tekniset ongelmat ennen videopuheluiden alkua.",
+      "comparison": {
+        "title": "MicTestCam vs. Videoalustojen Sisäänrakennetut Testit",
+        "points": [
+          "<strong>MicTestCam:</strong> Tarjoaa yksityiskohtaisen äänitaajuusanalyysin, reaaliaikaiset aaltomuodot ja ammattimaiset mittarit",
+          "<strong>Alustatestit:</strong> Näyttävät vain perustoiminnallisuuden kyllä/ei ilman laadun yksityiskohtia",
+          "<strong>MicTestCam:</strong> Testit toimivat kaikilla alustoilla - Zoom, Teams, Meet, Discord samanaikaisesti",
+          "<strong>Alustatestit:</strong> Tarkistavat toiminnallisuuden vain kyseisellä alustalla",
+          "<strong>MicTestCam:</strong> Tarjoaa tallennuksen toiston, jotta kuulet tarkalleen mitä muut kuulevat",
+          "<strong>Alustatestit:</strong> Ei toistotoimintoa laadun varmistamiseen"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Miten MicTestCamin Kamera- ja Mikrofonitesteri Toimii?",
+      "directAnswer": "MicTestCam käyttää WebRTC-teknologiaa pääsyyn webkameraasi ja mikrofoniin suoraan selaimesi kautta. Testaus tapahtuu kokonaan laitteellasi käyttäen samoja protokollia kuin Zoom, Teams ja Meet, varmistaen tarkan reaaliaikaisen suorituskyvyn testauksen ilman datan lähettämistä palvelimille.",
+      "p1": "MicTestCamin kamera- ja mikrofonitesteri käyttää WebRTC-protokollia, samoja protokollia joihin suositut selainpohjaiset videoneuvottelupalvelut luottavat. Kun <strong>testaat webkameraasi</strong> MicTestCamilla, alusta pääsee webkameraasi selaimen Web API:n kautta ja esittää videokuvan reaaliajassa näytöllä. Käyttäjät voivat tarkistaa, toimiiko webkamera, tarkistaa onko valaistus sopiva, vahvistaa kamerakulman oikeellisuuden ja arvioida videon kokonaislaatua.",
+      "p2": "MicTestCamin <strong>mikrofonitesti</strong>työkalu antaa välitöntä palautetta äänenvoimakkuustasoista. Kun käyttäjät puhuvat mikrofoniin, äänimittarit heijastavat äänitasoja reaaliajassa auttaakseen määrittämään, kattaako mikrofoni äänen kunnolla. 32-kaistaisessa taajuusspektrianalysaattorissa näkyy, miten ääni jakautuu taajuuksille, mikä on erityisen arvokasta podcastaajille ja muusikoille, jotka testaavat mikrofoneita ammatillista äänitystä varten.",
+      "p3": "Molemmat MicTestCam-työkalut tarjoavat automaattisen tallennuksen. Käyttäjät voivat aloittaa testin ja MicTestCam tallentaa automaattisesti kameran kuvan ja äänen, mahdollistaen toiston laadun arvioimiseksi niin kuin yleisö kokisi sen. Kaikki tallennus tapahtuu paikallisesti selaimessa. MicTestCam ei lataa tai tallenna käyttäjädataa ulkoisille palvelimille, varmistaen täydellisen yksityisyyden.",
+      "technicalSpecs": {
+        "title": "Tekniset Tiedot",
+        "specs": [
+          "<strong>Protokolla:</strong> WebRTC (Web Real-Time Communication) - Teollisuusstandardi, jota käyttävät Zoom, Microsoft Teams, Google Meet",
+          "<strong>Äänenkäsittely:</strong> 32-kaistainen taajuusspektrianalysaattori (20Hz - 20kHz alue)",
+          "<strong>Videoreloluutio:</strong> Tukee testausta 240p:stä 8K:hon (7680×4320) kameran kyvyistä riippuen",
+          "<strong>Kuvanopeus:</strong> Reaaliaikainen monitorointi 15fps:llä, 30fps:llä ja 60fps:llä",
+          "<strong>Yksityisyys:</strong> 100% asiakaspuolen käsittely - nolla datan siirtoa MicTestCamin palvelimille",
+          "<strong>Yhteensopivuus:</strong> Toimii Chromella, Firefoxilla, Safarilla, Edgellä - kaikilla suurimmilla selaimilla"
+        ]
+      }
+    },
+    "features": {
+      "title": "Täydellinen Lista Testien Ominaisuuksista",
+      "webcamTitle": "Webkameratesti",
+      "webcamFeatures": [
+        "Reaaliaikainen esikatselu kamerasta resoluutiovaihtoehdoilla 240p:stä 1080p:hen.",
+        "Useiden kameralaitteiden, kuten USB-kameroiden, web-kameroiden ja ulkoisten kameroiden tunnistus.",
+        "9+ eri suodatinta ja efektiä webkameran ja sen väritasapainon testaamiseen.",
+        "Kuvataajuus sekunnissa kameran seurantaan.",
+        "Mahdollisuus ottaa kuvakaappaus.",
+        "Automaattinen videoiden tallennus webkamerasta WebM- ja MP4-muodossa.",
+        "Tallenteet tallennetaan paikalliseen muistiin."
+      ],
+      "microphoneTitle": "Mikrofonitesti",
+      "microphoneFeatures": [
+        "Reaaliaikainen äänentasomittari ja huipputasomittari.",
+        "Reaaliaikainen 32-kaistainen taajuusspektrianalysaattori.",
+        "Useiden mikrofonien, kuten USB-mikrofonien, kuulokkeiden mikrofonien jne. tunnistus.",
+        "Mahdollisuus konfiguroida näytteenottotaajuuksia jopa 48 kHz:n studiolaatuun.",
+        "Konfigurointi äänen tallentamiseen monona tai stereona.",
+        "Huippu- ja RMS-tasomittari äänelle.",
+        "Tallentaa äänen automaattisesti mahdollisuudella kuunnella toisto."
+      ]
+    },
+    "whoUses": {
+      "title": "Kuka Käyttää Webkameratestia ja Mikkitestiä",
+      "remoteWorkers": {
+        "title": "Etätyöntekijät ja ammattilaiset",
+        "description": "Etätyöntekijä tai ammattilainen suorittaa nopean testin ennen videoneuvottelujaan ja kokouksiaan Zoomissa, Google Meetissä tai Microsoft Teamsissa nähdäkseen, toimiiko heidän webkameransa oikein, sitten suorittaa nopean <strong>mikkitestin</strong> varmistaakseen, että heidät kuullaan, jotta heidän ei tarvitse toistaa itseään eikä heitä keskeytetä huutaen: \"Emme kuule sinua!\""
+      },
+      "contentCreators": {
+        "title": "YouTuberit, Twitch-striimaurit, podcastaajat ja muut sisällöntuottajat",
+        "description": "YouTubereille, Twitch-striimaureille, podcastaajille ja muille sisällöntuottajille meidän edistynyt ääni- ja videodiagnostiikkatyökalumme on välttämätön. Käytä taajuusspektrianalysaattoria äänionogemlmien ratkaisemiseen ja suorita videolaatutestejä varmistaaksesi, että toimitat korkealaatuista sisältöä."
+      },
+      "students": {
+        "title": "Opiskelijat ja Opettajat",
+        "description": "Opiskelijoiden on varmistettava, että he voivat kommunikoida internetin välityksellä. He suorittavat testejä ennen tuntejaan vahvistaakseen, että heidän laitteistonsa toimii. Opettajat myös tarkistavat, että heidän laitteistonsa on toimintakunnossa luokkatuntien onnistuneen opettamisen varmistamiseksi."
+      },
+      "jobSeekers": {
+        "title": "Työnhakijat",
+        "description": "Jos aiot tehdä videohaastatteluja, varmista ensin tehdä <strong>kameratesti</strong> ja <strong>mikrofonitesti</strong>. Tämä on suuri etu ja osoittaa, että olet valmistautunut. (Mikään ei ole pahempaa kuin menettää mahdollisuus teknisen vian takia.)"
+      },
+      "gamers": {
+        "title": "Pelaajat:",
+        "description": "Käytätkö pelikuulokkeita? Saat tarkat tulokset, joita tarvitset testataksesi mikkisi Discordissa, pelin sisäisessä chatissa tai striimauksessa."
+      },
+      "techSupport": {
+        "title": "Tekninen Tuki",
+        "description": "Jos sinulla on ongelmia kameran tai mikrofonin kanssa, työkalumme voivat auttaa määrittämään, johtuuko ongelma laitteistosta, ohjaimista vai ohjelmistoasetuksista."
+      }
+    },
+    "privacy": {
+      "title": "100% Yksityisyys Taattu",
+      "intro": "Yksityisyys on kaiken toimintamme ytimessä <strong>webkameratesti</strong>- ja <strong>mikrofonitesti</strong>-työkaluissamme. Ymmärrämme, että pääsemällä kameraasi ja mikrofoniisi jaat yksityisiä tietoja meidän kanssamme. Tämän vuoksi koko alustamme on suunniteltu nollaluottamuspolitiikalla.",
+      "localProcessing": {
+        "title": "Kaikki käsittely tapahtuu paikallisella koneellasi",
+        "description": "Video- ja äänenkäsittely tehdään selaimesi WebRTC API:en avulla. Emme tallenna tietojasi palvelimillemme, koska emme edes saa niitä."
+      },
+      "noAccount": {
+        "title": "Ei Tiliä Tarvita",
+        "description": "Sinun ei tarvitse luoda tiliä, syöttää sähköpostiosoitetta tai jakaa henkilökohtaisia tietoja. Mene vain sivustolle, myönnä selaimellesi lupa, testaa laitteesi ja lähde."
+      },
+      "transparent": {
+        "title": "Läpinäkyvä koodi",
+        "description": "Emme peittele koodiamme. Voit tarkastella sitä selaimessasi dev-työkalujen avulla. Ei seurantaa, ei datan keräystä, ei analytiikkaa yksityisten tietojesi keräämiseen."
+      },
+      "cleanup": {
+        "title": "Automaattinen Poistaminen:",
+        "description": "Kaikki tallenteet tallennetaan selaimen paikalliseen muistiin. Ne poistetaan automaattisesti, kun suljet selaimen tai tyhjennät paikallisen muistin. Sinulla on täysi hallinta siitä, mitä tallennetaan ja kuinka pitkäksi aikaa."
+      }
+    },
+    "compatibility": {
+      "title": "Yhteensopivuus eri selainten ja laitteiden kanssa",
+      "intro": "Suosituimmat ajan tasalla olevat selaimet ja laitteet ovat tuettuja webkamera- ja mikrofonitesteillemme. Molemmat työkalut ovat saatavilla Windowsilla, Mac OS:llä, Linuxilla, iOS:llä, Androidilla tai millä tahansa muulla käyttöjärjestelmällä, joka tukee nykyaikaista selainta ilman lisälatauksia tai asennuksia.",
+      "browsersTitle": "Tuetut Selaimet",
+      "browsers": [
+        "Google Chrome (paras suorituskyky)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (MacOS:llä ja iOS:llä)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Tuetut Laitteet",
+      "devices": [
+        "Sisäänrakennetut tai ulkoiset USB-webkamerat pöytätietokoneissa ja kannettavissa",
+        "Älypuhelimet ja tabletit etu- ja takakameroilla",
+        "Ulkoiset USB-kamerat ja webkamerat PC:lle",
+        "Kannettavien tietokoneiden sisäänrakennetut mikrofonit",
+        "Ulkoiset USB-mikrofonit",
+        "Pelikuulokkeet mikrofoneilla",
+        "Ammattimaiset ääniliitännät ja kondensaattorimikrofonit"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Tarvitsetko Apua?",
+      "intro": "Eikö <strong>webkameratesti</strong> tai <strong>mikrofonitesti</strong> tahdo toimia? Kokeile jotakin näistä ratkaisuista.",
+      "cameraTitle": "Kameraa Ei Havaita tai Se Ei Toimi",
+      "cameraIssues": [
+        "Varmista, että olet sallinut kameran selaimessasi. Osoitepalkissa näet kamerakuvakkeen, jonka avulla voit ottaa kameran käytön käyttöön.",
+        "Käytät kameraa toisessa sovelluksessa (Zoom, Teams, Skype jne). Voit käyttää kameraa vain yhdessä sovelluksessa kerrallaan. Sulje toinen sovellus tai päivitä sivu ja salli käyttö uudelleen.",
+        "Päivitä sivu ja salli käyttö uudelleen. Se voi johtua selainvirheestä.",
+        "Käytä selaimen uusinta versiota.",
+        "Tarkista, ovatko kameraohaimet asennettu oikein tietokoneellesi.",
+        "Jos käytät USB-kameraa, yritä liittää se toiseen USB-porttiin tai käyttää eri kaapelia."
+      ],
+      "microphoneTitle": "Mikrofoni Ei Toimi",
+      "microphoneIssues": [
+        "Salli mikrofonin käyttö selaimessasi.",
+        "Varmista, että mikrofoni on kunnolla liitetty virtalähteeseen.",
+        "Käytä järjestelmän ääniasetuksia tarkistaaksesi, toimiiko mikrofoni.",
+        "Muut sovellukset käyttävät mikrofonia. Yritä sulkea ne.",
+        "Yritä säätää mikrofonin tasoa järjestelmäasetuksissa äänenvoimakkuuden lisäämiseksi, jos äänesi ei kuulu tarpeeksi, tai vähentääksesi äänenvoimakkuutta, jos se on liian kova.",
+        "Tarkista, ettei mikrofoni ole mykistetty järjestelmässäsi tai laitteessa (jos laitteessa on laitteiston mykistyspainike)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Pikalinkit",
+      "webcamTitle": "Webkameratestaus:",
+      "webcamLinks": [
+        "Webkameratesti",
+        "Testaa Webkamera Verkossa",
+        "Kameratesti",
+        "Online-Kameratestityökalu",
+        "Ilmainen Webkameratesti",
+        "Tarkista Webkamerani",
+        "USB-Kameratesti",
+        "Kannettavan Kameratesti",
+        "Testaa Kamera Zoomia Varten"
+      ],
+      "microphoneTitle": "Mikrofonitestaus:",
+      "microphoneLinks": [
+        "Mikrofonitesti",
+        "Mikkitesti Verkossa",
+        "Testaa Mikrofonini",
+        "Online-Mikrofonitestityökalu",
+        "Ilmainen Mikkitesti",
+        "Tarkista Mikrofoni",
+        "Äänitesti Verkossa",
+        "USB-Mikrofonitesti",
+        "Discord-Mikkitesti"
+      ]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Testaa webkamerasi nopealla ja helpolla verkkotestityökalullamme. Se tarjoaa reaaliaikaisen esikatselun kamerasta, useita laatuasetuksia, erikoistehosteita ja automaattisen tallennuksen kamerallasi verkossa, kaikki ilman lisäohjelmistoasennuksia. Voit siis käyttää sitä videoneuvotteluun tarkoitettuna <strong>kameratestinä</strong> tai testata uuden tietokoneen sisäänrakennetun webkameran.",
+      "p2": "Testataksesi paina yllä olevaa 'Käynnistä Kamera ja Tallenna' -nappia. Webkamerasi reaaliaikainen esikatselu ilmestyy, jotta voit tarkistaa, toimiiko video, testata valaistustasi ja onko kamerasi asemoitu oikein. Mitään ei ladata, tallenneta tai käsitellä. Videotestisi suoritetaan paikallisesti tietokoneellasi."
+    },
+    "howToUse": {
+      "title": "Webkameratestityökalumme Käyttöohje",
+      "intro": "Webkamerasi testaamiseksi noudata näitä yksinkertaisia ohjeita:",
+      "steps": [
+        "<strong>Salli Käyttöoikeus:</strong> Ponnahdusikkuna kysyy, voiko selain käyttää webkameraa. Paina Salli, jotta selain pääsee webkameraan. Huomaa, että näin tapahtuu kaikilla webkameratestisivustoilla. Valintaikkuna näkyy turvallisuustoimenpiteenä estämään satunnaisia verkkosivustoja käyttämästä webkameraa.",
+        "<strong>Valitse oikea kamera:</strong> Jos sinulla on useita kameroita (esimerkiksi kannettavan sisäänrakennettu kamera ja erillinen USB-kamera), voit valita pudotusvalikosta, mitä kameraa käytetään. Webkameratestityökalumme tunnistaa ja luettelee automaattisesti kaikki kamerat.",
+        "<strong>Valitse laatu:</strong> Valitse haluttu resoluutio (laatu) laatu-pudotusvalikosta. Voit testata kameraa matalalla laadulla (240p), keskitasolla (480p), korkealla laadulla (720p), Full HD-laadulla (1080p) jne. Korkeampi laatu tuottaa terävämmän kuvan, mutta vaatii enemmän kaistanleveyttä ja suoritin tehoa.",
+        "<strong>Käynnistä testi:</strong> Paina Käynnistä Kamera ja Tallenna ja näet välittömästi kamerasi reaaliaikaisen kuvan. Voit aloittaa tallennuksen heti ja katsoa laadun.",
+        "<strong>Käytä visuaalisia suodattimia:</strong> Meillä on yli 9 visuaalista suodatinta (mustavalkoinen, sepia, sumennus, korkea kontrasti jne.) nähdäksesi, miten ne vaikuttavat kameran kuvaan.",
+        "<strong>Ota kuvakaappaus:</strong> Voit ottaa kuvakaappauksen testin aikana tarkistaaksesi kuvalatusi tai nähdäksesi, miten kamera käsittelee tiettyjä valaistustilanteita.",
+        "<strong>Pysäytä ja Tallenna:</strong> Kun olet valmis, paina Pysäytä ja Tallenna Tallennus pysäyttääksesi tallennuksen. Video tallennetaan selaimeen, jotta voit toistaa sen uudelleen ja ladata sen."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Webkameran Lisäominaisuudet",
+      "intro": "Meidän <strong>webkameratestityökalumme</strong> sisältää ammattitason ominaisuuksia, jotka on suunniteltu eri käyttötarkoituksiin - satunnaisista videopuheluista sisällöntuotantoon.",
+      "mirrorMode": {
+        "title": "Peilaustila Täydellisiin Selfeihin",
+        "description": "Peili ja käännös on pakollinen ominaisuus meikkiopetuksiin, bloggaajille ja niille, jotka haluavat nähdä, miltä he näyttävät peilistä. Kun napsautat Peili-nappia (kun kamera on päällä), se kääntää webkameravideosi vaakasuunnassa, jotta voit paremmin tarkistaa kasvosi, laittaa meikkiä tai yksinkertaisesti totuttautua peilituumaan. Erityisesti, jos nauhoitat YouTube-videota, TikTok-videota tai Instagram-storyä, jossa sinun täytyy näyttää tekstiä, käyttää suuntia jne."
+      },
+      "digitalZoom": {
+        "title": "Digitaalinen Zoom (1x - 3x)",
+        "description": "Katso, kuinka terävä <strong>webkamerasi</strong> on eri zoomaustasoilla. Ihanteellinen tuote-esittelyihin, opetusohjelmiin tai yksinkertaisesti lähelle pääsemiseen. Zoom-liukusäädin ja 1x, 2x, 3x pikanappit testataksesi webkamerasi terävyyden zoomauksen aikana. Hyödyllinen nähdäksesi, pitääkö sinun siirtyä lähemmäs kameraa tai voitko zoomata liikaa heikentämättä kuvanlaatua. Kätevä suoratoistoille, jotka haluavat zoomata maalaukseensa, käsitöihin tai tekniikan korjaustyöhön."
+      },
+      "brightnessContrast": {
+        "title": "Kirkkaus ja Kontrasti -säätimet",
+        "description": "Säädä kirkkautta (50-150%) ja kontrastia (50-150%) ja katso, miltä webkamerasi näyttää eri valaistuksessa. Voit käyttää näitä liukusäätimiä testataksesi, toimiiko kamerasi automaattinen valotus oikein ja simuloidaksesi eri tallennusasetuksia. Jos huoneessasi on liian pimeää tai kirkasta, voit säätää liukusäätimiä mukavaan asetukseen seuraavaa videokokoustasi varten. Striimaajat ja YouTuberit käyttävät usein näitä liukusäätimiä saadakseen kamerastaan parhaan irti ja ylläpitääkseen samoja valaistustilanteita videoissaan."
+      },
+      "gridOverlay": {
+        "title": "Ruudukkopäällekkäisyys Ammattimaiseen Rajaukseen",
+        "description": "Sisäänrakennettu ruudukkopäällekkäisyys hyödyntää kolmasosasääntöä, jonka avulla voit rajata kasvosi täydellisesti tallenteessa. Aseta silmäsi ylimmälle vaakalinjalle ja kohdista kasvosi pystyohjaajiin. Tämä ammattimainen valokuvausperiaate varmistaa houkuttelevammat ja kiinnostavammat videotallenteet YouTubeen, liikkokouksiin tai Twitch-streameihin. Ruudukko auttaa johdonmukaisessa rajauksessa toistuvissa tallenteissa."
+      },
+      "videoFilters": {
+        "title": "Videosuodattimet ja Tehosteet",
+        "description": "Käytä seuraavia suodattimia <strong>webkameraasi</strong> nähdäksesi, miltä ne näyttävät: Normaali, Harmaasävy, Sepia, Käänteinen, Sumennus, Kirkkaus, Kontrasti, Värisävy ja Kylläisyys. Suodattimet näyttävät, kuinka hyvin kamerasi voi esittää värejä ja miltä se näyttää, kun käytät videoefektisuodattimia. Jos olet striimaaja tai YouTuber, voit käyttää suodattimia nähdäksesi, miltä streamisi näyttäisi eri tehosteilla. Suodattimia voidaan myös käyttää tarkistamaan, tuottaako kamera oikeat värit. Vertaile harmaasävy- ja sepia-suodattimien tuloksia."
+      },
+      "videoMetrics": {
+        "title": "Reaaliaikaiset Videomittarit ja Histogrammi:",
+        "description": "katso teknisiä tietoja videostasi, kuten resoluutio, kuvanopeus ja bittinopeus. RGB-histogrammi mahdollistaa värien jakauman tarkastelun videossasi. Tämä on hyödyllistä yli- tai alivalotuksen, väriheittojen ja huonon valaistuksen havaitsemiseen. Tämä ominaisuus on ihanteellinen ammattilaisille, kuten videokuvaajille, YouTubereille ja vloggaajille, jotka haluavat varmistaa videonsa olevan mahdollisimman hyvä. Jos histogrammissasi on klipi kummallakin puolella, sinun täytyy korjata valaistuksesi tai kamera-asetuksesi."
+      },
+      "advancedControls": {
+        "title": "Kameran Lisäasetukset",
+        "description": "Joissain webkameroissa on ominaisuuksia, kuten valotus, tarkennustila, valkotasapaino, ISO ja terävyys, joita käyttäjä voi hallita. Verkkosovelluksemme mahdollistaa tarkistamisen, mitä <strong>webkamerasi</strong> voi tehdä. Voit vaihtaa automaattisen ja manuaalisen tarkennustilan välillä, vaihtaa valkotasapainoa valonlähteen lämpötilan mukaan tai asettaa valotushyvityksen omien mieltymyksiesi mukaan. Tämä on erittäin hyödyllistä striimaajille, YouTubereille ja ammattilaisille, joiden täytyy hallita kamera-asetuksiaan."
+      },
+      "backgroundBlur": {
+        "title": "Taustan Sumennus -tehoste",
+        "description": "Kokeile verkkoselainpohjaista taustan sumennusta ilman sovelluksia tai vihreää kuvaustaustalakana. Taustan sumennus -tehostamme käyttää uusimpia web-teknologioita taustan poistamiseen ja erottamiseen sinusta, mikä on hyödyllistä, kun sinun täytyy soittaa videoneuvottelupuheluita kotoa taustalla, jota et halua muiden näkevän. Voit säätää taustaan sovellettavan sumennus tasoa. Tämä työkalu mahdollistaa nähdä, kuinka hyvin taustan sumennus -tehoste toimii <strong>webkamerasi</strong> ja kamerasovelluksen kanssa. Tämä on erityisen hyödyllistä web-kehittäjille, digitaalisille markkinoijille ja kaikille, jotka tekevät videosisältöä."
+      },
+      "motionDetection": {
+        "title": "Liiketunnistus Turvallisuustestaukseen",
+        "description": "Jos haluat tarkistaa, kuinka paljon <strong>webkamerasi</strong> reagoi liikkeeseen, käytä reaaliaikaista liiketunnistustamme. Lisätilassa näet reaaliaikaisen liikeprosentti-indikaattorin, joka heijastaa liikkeen videoossasi. Käytä tätä turvallisuuskameran liikkeen testaamiseen, valvontajärjestelmän konfigurointiin tai liiketunnistuksella toimivan tallennuskameran testaamiseen. Liiketunnistin analysoi videovirran kuva kerrallaan liikkeen määrän selvittämiseksi. Tämä mahdollistaa kameran hyvyyden ja tarvittavan herkkyyden tarkistamisen. Hyödyllistä kodin turvallisuudessa, lemmikki- ja vauvamonitorin testauksessa."
+      },
+      "faceDetection": {
+        "title": "Kasvontunnistus ja -seuranta",
+        "description": "Havaitse webkameran kyky tunnistaa kasvot. Lisätilassa piirrämme rajauslaatikoita kasvojen ympärille ja laskemme ne. Kasvontunnistustyökalumme käyttää FaceDetector API:a, kun se on saatavilla selaimessasi, tunnistamaan useita kasvoja ruudulta. Käytä tätä työkalua testataksesi <strong>kamerasi</strong> toimivuuden automaattiseen rajaukseen videoneuvotteluissa tai nähdäksesi, miten se käsittelee useamman kuin yhden kasvon. Videosisällöntuottajat näkevät, tunnistaako kamera kasvot oikein automaattista tarkennusta varten, ja ammattilaiset voivat tarkistaa, toimiiko heidän monen hengen neuvottelutilansa odotetusti."
+      },
+      "sideBySide": {
+        "title": "Rinnakkaistila: Vertaile kahta kameraa",
+        "description": "Rinnakkaistilan avulla voit vertailla 2 webkameraa rinnakkain. Se on hyödyllinen useiden webkameroiden samanaikaiseen testaamiseen. Jos sinulla on sisäänrakennettu web-kamera ja ulkoinen USB-web-kamera, voit katsella niitä rinnakkain samanaikaisesti. Se on myös erittäin hyödyllinen web-kameran ostopäätöksessä. Voit verrata kameran kuvanlaatua, väritarkkuutta, heikon valon suorituskykyä ja näkökenttää reaaliajassa. Se on loistava työkalu striimaajille ja YouTubereille."
+      }
+    },
+    "videoQuality": {
+      "title": "Webkameran Videolaatu-asetukset Selitettynä",
+      "intro": "Resoluutio määrittää webkameran tuottaman videon terävyyden. Näin asetukset toimivat webkameran resoluutiotestissämme:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Tämä on alhaisin laatu-asetus, silloin kun haluat vain testata, toimiiko streamisi, ja internet-yhteytesi on heikko. Videosi on epätarkka, mutta se on hyvä ainakin nähdäksesi, striimataanko kameraasi."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Matala laatu, pieni kaistanleveyden käyttö. Voisit tehdä matalaresoluutioisen videopuhelun, jos laadulla ei ole niin väliä. Kasvot erottuvat, mutta ei muuta."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Standardimääritys. Tämä on kompromissi laadun ja kaistanleveyden välillä. Useimmat videochat- ja streamaussovellukset voivat käyttää tätä. Tämä on tyypillisesti useimpien vanhojen webkameroiden resoluutio."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Tämä resoluutio tarjoaa teräväpiirtovideoneuvottelulaadun, mikä on hyvä ammatilliseen käyttöön. Se tarjoaa teräviä kuvia ja kohtuullisen värillisen laadun. Tämä on suosituin resoluutio videoneuvottelusovelluksissa, kuten Zoom, Teams ja Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Tämä on korkein webkamerasta löytyvä resoluutio, ja se on ihanteellinen ihmisille, jotka haluavat tehdä korkealaatuista sisältöä, striimata tai tarvitsevat parasta mahdollista videolaatua. Se vaatii enemmän kaistanleveyttä ja käsittelytehoa, mutta saat terävän ja ammattimaisen kuvan."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Quad HD -resoluutio erinomaisella yksityiskohtaisuudella ja selkeydellä. Loistava ammattilaisille sisällöntuottajille, striimaajille, jotka vaativat korkeaa kuvanlaatutyötasoa, ja niille, joilla on 4K-näytöt ja jotka haluavat natiiviresoluution. Tarvitaan korkealaatuisia webkameroita ja merkittävä määrä kaistanleveyttä."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra High Definition neljä kertaa enemmän pikseleitä kuin 1080p. Ammattilaistason laatu sisällöntuottajille, elokuvantekijöille ja korkean tason streamaukseen. Vaatii premium-webkameroita, tehokasta tietokonelaitteistoa ja nopeaa internetiä. Täydellinen tulevaisuuden tallenteiden varmistamiseen ja yksityiskohtien maksimointiin digitaalista zoomausta ja rajausta varten."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "Suurin mahdollinen resoluutio. Siinä on 16 kertaa enemmän pikseleitä kuin 1080p:ssä. Tätä käytetään tyypillisesti erittäin korkean tason ammattimaisissa webkameroissa tai ihmisillä, jotka käyttävät DSLR-/peilittömiä kameroita webkameroina. Tarvitset erittäin korkean tason webkameran tai DSLR-/peilittömän kameran, erittäin tehokkaan tietokoneen ja erittäin nopean yhteyden. Tätä tulisi käyttää vain, kun tarvitset elokuvatason laadun, kun sinulla on erittäin suuri näyttö tai jos haluat zoomata digitaalisesti paljon."
+        }
+      },
+      "tip": "Jos teet webkameratestin, testaa ensin 720p:llä varmistaaksesi, että kamerasi toimii teräväpiirron kanssa, ja testaa sitten muilla tarvitsemillasi resoluutioilla."
+    },
+    "frameRate": {
+      "title": "Kuvanopeus ja Sulavat Videon Suorituskyky.",
+      "intro": "Kuvanopeus on taajuus (nopeus), jolla kuvantamislaite tuottaa ainutlaatuisia peräkkäisiä kuvia kutsutaan kehyksiksi. Kuvanopeus ilmaistaan kuvina sekunnissa (FPS). Mitä korkeampi kuvanopeus, sitä sulavammalta video näyttää, erityisesti liikkeessä. Online-webkameratestityökalumme tarkistaa webkameran todellisen FPS:n osoittaakseen, onko webkamerassa ongelmia.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Käy videoneuvotteluun. Liike näyttää hieman nykivältä. Voi johtua heikkolaatuisesta kamerasta, huonosta valaistuksesta tai suorittimen pullonkaulasta."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Tämä on tyypillinen kuvanopeus webkameroille ja useimmille videoneuvottelusovelluksille. Liike on sulavaa ja luonnollista. Tämä on myös ihanteellinen kuvanopeus ammattimaiseen videoneuvotteluun."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Korkea kuvanopeus, joka mahdollistaa entistäkin sulavamman liikkeen. Ihanteellinen striimaajille ja YouTubereille, joille liikkeen sulavuus on avainasemassa. Huomaa, että kaikki webkamerat eivät tue 60 FPS:ää, ja se kuluttaa enemmän kaistanleveyttä."
+        }
+      },
+      "tip": "Jos webkamerasi testitulos on matala kuvanopeus, harkitse alhaisemman resoluution käyttämistä tai valaistuksen lisäämistä. Valo voi olla ongelma webkameroiden kanssa, koska ne saattavat alentaa kuvanopeutta voidakseen lisätä valotusaikaa."
+    },
+    "lighting": {
+      "title": "Vinkkejä Paremmalta Näyttävään Webkameravideoon",
+      "intro": "Valaistus on merkittävin muuttuja webkameravideon laadussa. Heikkolaatuinen webkamera hyvällä valaistuksella näyttää paremmalta kuin korkealaatuinen webkamera huonolla valaistuksella.",
+      "tips": {
+        "position": {
+          "title": "Valo Edessäsi",
+          "description": "Valonlähteen pitäisi olla edessäsi, ei takana. Takavalo (kuten asettuminen ikkunan eteen) tekee kasvostasi tumman ja varjoisen."
+        },
+        "soft": {
+          "title": "Pehmentä Valoa",
+          "description": "Vältä suoraa valaistusta, joka aiheuttaa voimakkaita varjoja ja kuumia pisteitä. Useita valonlähteitä tai suurista ikkunoista sisään tuleva valo on aina pehmeää ja tekee ammattimaisemman näköisiä kuvia."
+        },
+        "flicker": {
+          "title": "Välkkyvien Hehkulamppujen Välttäminen",
+          "description": "Jotkut LED-lamput ja loistevalot välkkyvät kamerasi näkemällä taajuudella, ja saat välkkymistä videoosi. Yritä käyttää hehkulamppuja tai laadukkaita videolle sopivia LED-lamppuja."
+        },
+        "color": {
+          "title": "Värilämpötila on myös huomioitava tekijä.",
+          "description": "Varmista, että kaikilla valonlähteillä on sama värilämpötila. Lämmin ja kylmä valo sekoitettuna näyttää epäterveeltä. Webkamerat näyttävät yleensä paremmilta päivänvalo-tasapainoisessa valossa (5000-6500K)."
+        }
+      },
+      "tip": "Testaa webkameratestityökaluamme useilla valonlähteillä määrittääksesi, parantuuko webkamerakuvasi. Voit testata eri valoasetuksia reaaliaikaisen näkymän avulla nähdäksesi, mikä toimii parhaiten sinulle."
+    },
+    "types": {
+      "title": "Webkameratyypit ja Mitä Odottaa",
+      "builtIn": {
+        "title": "Kannettavien Tietokoneiden Sisäänrakennetut Webkamerat",
+        "description": "Kannettavissa on lähes aina webkamera näytön yläosaan rakennettuna. Pääasiassa nämä ovat 720p-kameroita, jotka toimivat hyvin satunnaisissa videochat-tilanteissa. Laatu voi kuitenkin vaihdella paljon omistamastasi kannettavasta riippuen. Yleensä laadukkaammat kannettavat sisältävät paremmat webkamerat."
+      },
+      "usb": {
+        "title": "USB-Webkamerat",
+        "description": "On myös ulkoisia webkameroita, jotka liitetään USB:n kautta. Jos etsit jotain parempaa kuin integroitu kamera, perusmalli antaa sinulle 1080p 30 FPS:llä, mutta huippumallit menevät jopa 4K:hon, 60 FPS:ään, automaattisennaantunnistuksella, heikon valon kompensaatiolla jne."
+      },
+      "streaming": {
+        "title": "Streamauskamerat:",
+        "description": "Striimaajille suunnitellut kamerat, jotka keskittyvät kuvanlaatuun suuremmilla sensoreilla, parannetulla heikon valon herkkyydellä ja parannetulla väritieteellä. HDR- ja FOV-säädöt ovat yleisiä."
+      },
+      "dslr": {
+        "title": "Vaihtoehto 1: DSLR/Peilittömänä Webkamerana",
+        "description": "Monet uudet kamerat voidaan käyttää webkamerana USB:n tai kaappauskortin kautta. Tämä antaa sinulle korkeimman laadun kuvan, mutta vaatii myös eniten laitteita ja konfigurointia."
+      },
+      "tip": "Jos et ole varma, toimiiko kamerasi työkalumme kanssa, kattava webkameratestimme on yhteensopiva kaikenlaisten kameroiden kanssa. Voit vapaasti käyttää sitä eri webkameroiden vertailuun tai yksinkertaisesti tarkistaa, toimiiko uusi webkamerasi sen liittämisen jälkeen."
+    },
+    "troubleshooting": {
+      "title": "Tarvitsetko Apua Webkameran Korjaamiseen?",
+      "intro": "Jos olet suorittanut testin ja löytänyt ongelman, noudata näitä ohjeita yleisimpien ongelmien tunnistamiseksi ja korjaamiseksi:",
+      "blackScreen": {
+        "title": "Webkamera Näyttää Mustan Ruudun",
+        "issues": [
+          "Tarkista, onko kameran linssin päällä fyysinen peite (kuten yksityisyyssuojaliuku, laastari tai teippipalanen)",
+          "Tarkista, käyttääkö jokin toinen sovellus (Skype, Zoom, Teams jne.) kameraa taustalla. Sulje nämä sovellukset ja yritä webkameratesti uudelleen.",
+          "Jos kohtaat edelleen ongelmia, yritä käynnistää selain uudelleen ja yrittää webkameratesti uudelleen.",
+          "Jos käytät ulkoista USB-webkameraa, yritä liittää se toiseen USB-porttiin.",
+          "Päivitä tai asenna kameraohaimesi uudelleen."
+        ]
+      },
+      "blurry": {
+        "title": "Webkameravideo on Epätarkka",
+        "issues": [
+          "Puhdista webkameran linssi mikrokuituliinalla.",
+          "Jos webkamerassa on tarkennusrengas, yritä säätää tarkennusta manuaalisesti.",
+          "Varmista, että valoa on tarpeeksi auttaaksesi kameran automaattista tarkennusta.",
+          "Siirry hieman lähemmäs tai kauemmas webkamerasta ja katso, parantuuko kuva."
+        ]
+      },
+      "colors": {
+        "title": "Webkameran Värit Näyttävät Vääriltä",
+        "issues": [
+          "Oletko eri valaistuksessa? Luonnonvalo ja keinotekoinen valo voivat tuottaa erilaisia värisävyjä.",
+          "Yritä säätää valkotasapainoa webkamera-asetuksissa, jos se on käytettävissä.",
+          "Käytätkö jotain tai onko sinun ympärilläsi jotain hallitsevaa väriä, joka voi aiheuttaa väriheittoa? Yritä poistaa se."
+        ]
+      },
+      "choppy": {
+        "title": "Video on Nykivää tai Viiveistä",
+        "issues": [
+          "Vähennä videolaatua tämän webkameratestityökalun asetuksissa.",
+          "Yritä sulkea kaikki muut sovellukset, jotka kuluttavat suorittimen tai GPU:n resursseja.",
+          "Paranna valaistustilojasi vähentääksesi kameran rasitusta.",
+          "Jos käytät ulkoista USB-webkameraa, liitä se suoraan tietokoneeseen USB-hubin sijaan."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Webkameran Testaus Tietyille Alustoille",
+      "zoom": {
+        "title": "Zoom-Videoneuvottelu",
+        "description": "Käytä tätä webkameratesta varmistaaksesi, että kamerasi toimii hyvin ennen tärkeän Zoom-kokouksen aloittamista. Varmista, että videon laatu on riittävän hyvä 720p:llä (mikä on oletuslaatu useimmissa Zoom-kokouksissa). Varmista, että valaistuksesi on riittävä ja asemasi webkameran näkymässä on hyvä ennen Zoom-puheluun liittymistä."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "Kokouksissa on käytettävissä 1080p HD-video. Testaa kamera eri resoluutioilla vahvistaaksesi, että kamerasi tukee Teamsin videoabsoluutiota. Testaa tausta ammattimaiseen laatuun Together Mode- ja virtuaalinen tausta -toimintoa varten."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet säätää automaattisesti videolaatua verkon olosuhteiden perusteella. Testaa vähintään 720p:llä varmistaaksesi, että kamerasi täyttää Google Meetin minimumvaatimukset korkealaatuiselle videovälitykselle."
+      },
+      "streaming": {
+        "title": "Streamaus (Twitch/YouTube)",
+        "description": "Testaa webkameran maksimaalinen resoluutio (mieluiten 1080p60). Varmista, että kuvanopeus on vakaa, ja katso, kuinka hyvin kamerasi selviää nopeista liikkeistä ja useista valaistustilanteista."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Jos käytät Discordia videopuheluiden soittamiseen, tarvitset webkameran, joka pystyy pyörittämään 720p. Haluat varmistaa, että sinulla oleva kamera soveltuu tietokoneellesi ja peliistuntoihisi ja yhteisöpuheluihisi. Tämä varmistaa myös, että kamerasi ei vie liikaa kaistanleveyttä ja haittaa pelaamistasi."
+      }
+    },
+    "relatedTools": {
+      "title": "Aiheeseen Liittyvät Työkalut ja Resurssit",
+      "alsoTry": "Kokeile Myös:",
+      "alsoTryLinks": [
+        "Webkamera ja Mikkitesti",
+        "Testaa Mikrofoni",
+        "Mikkitesti",
+        "Äänitallenteen Testi",
+        "Tarkista Mikki Verkossa"
+      ],
+      "onThisPage": "Tällä Sivulla:",
+      "onThisPageLinks": [
+        "Webkameran Testaaminen",
+        "Videolaatu-asetukset",
+        "Kameran Vianmääritys",
+        "Webkamera Ei Toimi -korjaus",
+        "Parhaat Webkamera-asetukset"
+      ]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Toimiko mikkisi? Käytä nopeaa ja yksinkertaista <strong>mikkitestiämme</strong> varmistaaksesi, että <strong>mikrofonisi toimii</strong> oikein. Tämä <strong>online-mikrofonitesti</strong> näyttää myös mikrofonisi tasot, taajuusspektrin ja tallentaa äänesi. Mikrofoniasi <strong>testataksesi</strong> ei tarvita ohjelmistoa tai lisäosaa. <strong>Testaa mikkisi</strong> nyt ennen livenä menemistä, videopuhelun aloittamista tai podcastin äänittämistä.",
+      "p2": "Paina yllä olevaa 'Käynnistä Mikrofoni ja Tallenna' -nappia tarkastaaksesi mikrofonisi. Äänentasot näytetään reaaliajassa, jotta näet, poistaako mikrofonisi ääntä odotetusti. 32-kaistainen äänitaajuuskaavio mahdollistaa nähdä, kuinka hyvin mikrofonisi poistaa äänitaajuuksia. Tämä on erityisen hyödyllistä, jos olet podcastaaja tai muusikko, sillä se mahdollistaa sellaisten laitteiden käyttämisen, jotka voivat poistaa kaikki taajuudet selkeästi."
+    },
+    "howToTest": {
+      "title": "Mikrofonisi Testaaminen",
+      "intro": "Suorita nämä vaiheet täydelliselle <strong>mikrofonitestille</strong>:",
+      "steps": [
+        "<strong>Salli Pääsy Mikrofoniin:</strong> Salli selaimelle pääsy mikrofoniin. Napsauta salli, jos näyttöön tulee valintaikkuna pyyntöineen myöntää pääsy mikrofoniin. Jos käytät selainta ensimmäistä kertaa, saatat joutua napsauttamaan kilpikuvaketta osoitepalkissa ja valitsemaan sitten mikrofonin salliaksesi sivustoa käyttämästä sitä.",
+        "<strong>Valitse Mikrofonisi (tarvittaessa):</strong> Valitse haluamasi mikrofoni pudotusvalikosta (tietokoneen mikrofoni, ulkoinen mikrofoni jne.). <strong>Online-mikrofonitesti</strong> voidaan suorittaa vain yhdellä mikrofonilla kerrallaan.",
+        "<strong>Aseta Näytteenottotaajuus ja Kanavat:</strong> Valitse näytteenottotaajuus mikrofonille (44,1 kHz vakiolaaduksi ja 48 kHz korkeampaa laatua varten). Valitse mono- tai stereokanava sen mukaan, mitä haluat saavuttaa.",
+        "<strong>Tallenna Mikrofonitesti:</strong> Napsauta tallennusnappia aloittaaksesi <strong>mikrofonitestin</strong>. Se alkaa tallentaa automaattisesti, jotta voit kuunnella toiston myöhemmin ja nähdä, miltä mikrofonisi kuulostaa.",
+        "<strong>Tarkkaile Mikrofonin Tasomittaria:</strong> Kun suoritat <strong>mikrofonitestiä</strong>, tarkkaile mikrofonin tasomittaria puhuessasi mikrofoniin. Jos se tallentaa sinut oikein, mittarin pitäisi liikkua äänenvoimakkuutesi mukaan. Vihreä väri osoittaa ihanteellisen äänentason, keltainen korkeampaa äänentasoa ja punainen ääniä, jotka ovat liian kovia ja mahdollisesti leikkautuvia.",
+        "<strong>Yritä Puhua Eri Äänenvoimakkuuksilla:</strong> Suorita <strong>mikrofonitesti</strong> puhumalla normaalilla äänellä ja sitten hyvin hiljaisella ja kovalla äänellä. Se auttaa näkemään, kuinka herkkä mikrofonisi on eri äänenvoimakkuuksille.",
+        "<strong>Toista Tallennus:</strong> Suoritettuasi <strong>online-mikrofonitestin</strong>, toista tallennuksesi nähdäksesi, miltä mikrofoni kuulostaa. Se auttaa tunnistamaan ongelmat, joita et huomaisisi mikrofonin tasomittarilla."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Lisäominaisuudet",
+      "intro": "Olitpa sitten selvittämässä, miksi mikkisi ei toimi tai etsimässä parasta suorituskykyä tärkeää kokousta tai suoratoistoa varten, tällä sivustolla on useita edistyneitä ominaisuuksia, joita voit testata:",
+      "inputGain": {
+        "title": "Optimaalinen Tulovahvistus",
+        "description": "Konfiguroi mikrofonisi vahvistus 50 %:n ja 150 %:n välillä esikonfigurroiduilla asetuksilla tai lennossa liukusäätimellämme. Tulovahvistuksen hallinta on erityisen tärkeää niille, jotka tallentavat ääntä podcastausta varten, jossa jaksojen välillä halutaan tasaiset tasot, muusikoille (sekä ääni että soittimet) ja striimaajille, jotka ovat herkkiä leikkautumiselle ja vääristymiselle. Valitse Matala (50%) esiasetusympäristöille, jotka ovat liian äänekkäitä tai jos sinulla on herkkä kondensaattorimikrofoni, Normaali (100%) useimmissa käyttötapauksissa ja Tehosta (150%) hiljaisemmille lähteille, jotka tarvitsevat enemmän vahvistusta. Lennossa tapahtuva gaininsäätömme hyödyntää Web Audio API:n GainNodea vahvistukseen ilman melun tai viiveen lisäämistä."
+      },
+      "noiseSuppression": {
+        "title": "Käytä melunvaimennusta puhtaaseen äänitykseen",
+        "description": "Jos haluat poistaa kirjoitusäänet, hiiren napsautukset, tuulettimet, ilmastoinnin ja vastaavat äänet tallenteesta, ota melunvaimennus käyttöön ja yritä uudelleen. Se toimii selaimessasi ja sitä voidaan käyttää äänittämisen, podcastien, kotitallennus-, videoäänitysten jne. melua sisältävien tallenteiden puhdistamiseen, eikä tarvita melun porttia tai melunvähennys-lisäosaa. Melunvaimennus käyttää Web Audio API:a melun vaimentamiseen suoraan mikrofonista, joten se ei lisää suorittimen kuormaa eikä latenssia. Voit testata sekä melunvaimennuksen kanssa että ilman sitä nähdäksesi, mikä toimii parhaiten mikrofonillesi."
+      },
+      "echoCancellation": {
+        "title": "Miksi se on hyödyllinen: Kaiunpoisto",
+        "description": "poistaa akustisen palautteen ja kaiun mikrofonistasi ennen testiä. Tämä on tärkeää videopuheluissa, podcast-haastatteluissa ja suoratoistoissa, kun kaiuttimiesi ääni voidaan myös poimia mikrofonillasi. Käytä esiasetukset-ponnahdusikkunaa ottaaksesi kaiunpoisto käyttöön testataksesi mikrofoniasi sen kanssa päällä. Tämä auttaa sinua päättämään, pitääkö sinun käsitellä tallennustilasi akustisesti tai voitko luottaa selaimen kaiunpoistoon. Hyödyllistä: etätyöntekijöille, podcast-haastattelijoille ja kaikille, jotka tallentavat huoneessa, jossa on paljon kovia pintoja (jotka voivat kaikua)."
+      },
+      "autoGainControl": {
+        "title": "Ylläpidä tasaista äänenvoimakkuutta AGC:llä",
+        "description": "AGC tekee mikrofonisi tasosta kovemman ja tasaisemman. Jos olet hiljainen, se tekee sinut kovemmaksi. Jos olet kova, se tekee sinut hiljaisemmaksi. Se on hyvä striimaajille, koska jos olet kovaäänisessä hetkessä, sinun ei tarvitse huolehtia liian kovasta äänestä. Se on myös hyvä podcastaajille, jos liikut kauemmas mikrofonistasi. Lisäksi se on hyvä videoneuvotteluun, jos haluat kuulostaa ammattilaiselta. Tarkista tämä ruutu ja katso, toimiiko AGC hyvin selaimesi ja mikkisi kanssa. Jos haluat äänittää musiikkia tai ASMR-sisältöä, saatat haluta pitää tämän poissa käytöstä."
+      },
+      "realtimeMeter": {
+        "title": "Seuraa äänentasojasi reaaliajassa.",
+        "description": "Tasomittari näyttää äänimerkin RMS:n (neliöllinen keskiarvo), joka näyttää äänen todellisen tason. Huippu näytetään myös, josta taso alkaa leikkautua. Tasomittarissa on kolme osaa; vihreä, keltainen ja punainen. Vihreä vyöhyke on optimaalinen taso, -12 ja -6 dB:n välillä. Keltainen vyöhyke on -6 ja -3 dB:n välillä ja punainen vyöhyke on kaikki -3 dB:n yläpuolella, jolloin äänesi leikkautuu. Käytä tätä mittaria varmistaaksesi, että mikrofonisi on oikein asemoitu. Käytä sitä äänesi tason säätämiseen. Käytä sitä seuraamaan äänesi tasoa ennen tallennuksen aloittamista, jotta tiedät, etteivät tasosi leikkaudu. Podcastaajat käyttävät tätä jaksojen välisten tasojen sovittamiseen. Muusikot käyttävät sitä mikrofoneidensa vahvistuksen asettamiseen. Etätyöntekijät käyttävät sitä varmistaakseen, että heidät kuullaan, mutta he eivät ole liian kovia."
+      },
+      "frequencySpectrum": {
+        "title": "Taajuusspektrianalyysi",
+        "description": "Reaaliaikainen taajuusspektrianalyysi mikrofonisi taajuusvasteesta. Käytä 32-kaistaista spektriä määrittääksesi, mitä taajuuksia mikrofonisi poistaa. Liiallista jyrinää (20-250Hz)? Mutaisia välitaajuuksia (250Hz-2kHz)? Terävää sibilanttia (6kHz-8kHz)? Tätä käyttävät ääni-insinöörit mikrofonien ja huoneiden arviointiin, podcastaajat ongelmataajuuksien löytämiseen, joita täytyy tasoittaa, ja muusikot määrittämään, mikä mikrofoni sopii parhaiten heidän äänelleen tai soittimelleen. Reaaliaikaiset päivitykset mahdollistavat asemasi, läheisyyden ja ympäristösi analysoinnin."
+      },
+      "sideBySide": {
+        "title": "Kahden mikrofonin rinnakkainen vertailu",
+        "description": "Valitse rinnakkainen vertailuasetus käyttääksesi kahta mikrofonia samanaikaisesti. Tämä on erityisen hyödyllistä, jos sinulla on kaksi mikrofonia kytkettynä (esimerkiksi kannettavan sisäänrakennettu mikrofoni ja USB-mikrofoni), ja haluat nähdä ne rinnakkain vertailtaksesi kunkin äänenlaatua, kohinatasoa, taajuusvastetta ja herkkyyttä. Tämä on hyödyllistä valittaessa, minkä mikrofonin ostaa, testatessa eri mikrofoniasemia tai päätettäessä, minkä mikrofonin käyttää podcastissa tai streamauksessa. Käytän sitä osoittaakseni itselleni, että uuden mikrofonin ostaminen on sen arvoista, äänisuunnittelijat käyttävät sitä löytääkseen yhteensopivan mikrofonin stereoäänitykseen, ja yrityksen IT-osasto saattaa käyttää sitä mikrofonien testaamiseen ennen niiden käyttöönottoa koko yrityksessä. Käyttääksesi sitä valitse vertailuasetus esiasetuksista, valitse toinen mikrofoni ja molemmat näytetään rinnakkain reaaliaikaisilla tuloksilla."
+      },
+      "snrMeasurement": {
+        "title": "Signaali-kohinasuhde (SNR) -mittaus",
+        "description": "Vihreä numero näyttää nykyisen SNR:si. 60 dB on ammattilaistallennuksen suositeltu minimi, 50-60 dB on lähetyksen ja podcastauksen minimi ja 40-50 dB riittää videochatteihin ja opetusohjelmiin. Hyvä SNR kertoo, onko mikrofonisi riittävän hyvä siihen, mitä haluat tehdä, onko huoneesi liian meluinen tai tarvitsetko akustisia paneeleja. Napsauta näytön oikeassa yläkulmassa olevaa Lisäasetukset-nappia näyttääksesi SNR:n, kohinatason ja dynaamisen alueen mittauksen aikana. Tämä on hyödyllinen mittaus podcastaajille, jotka haluavat varmistaa, että lähetyksensä on lähetysstandardien mukainen, muusikoille, jotka haluavat arvioida kotistudioaan, ja kaikille, jotka välittävät äänenlaadusta."
+      }
+    },
+    "audioLevels": {
+      "title": "Äänentasot Selitettynä",
+      "intro": "Yllä olevan mikkitestin äänentasomittari antaa visuaalisen esityksen mikkisi tulon äänenvoimakkuustasosta. On tärkeää tietää, mitä kukin taso tarkoittaa hyvän äänen tuottamiseksi:",
+      "green": {
+        "title": "Vihreä Vyöhyke (0-50%)",
+        "description": "Hyväksyttävät äänentasot useimmissa tapauksissa. Kuulostat kovalta ja selkeältä, ja sinulla on runsaasti tilaa kovemmaksi tulemiseen ilman leikkautumista. Yritä pysyä tällä alueella videopuheluissa ja muussa viestinnässä."
+      },
+      "yellow": {
+        "title": "Keltainen Vyöhyke (50-80%)",
+        "description": ": Korkeat äänentasot, jotka ovat silti hyväksyttäviä. Hyviä äänitykseen, kun haluat voimakkaan, läsnä olevan äänen. Kuitenkin äkilliset kovat äänet saattavat aiheuttaa leikkautumista."
+      },
+      "red": {
+        "title": "Punainen Vyöhyke (80-100%)",
+        "description": ": Tämä on vaaravyöhyke, jossa äänesi todennäköisesti vääristyy (leikkautuu). Jos olet usein punaisella, sinun pitäisi laskea mikrofonin äänenvoimakkuutta ohjauspaneelissasi tai siirtyä kauemmas mikrofonista."
+      },
+      "peak": {
+        "title": "Huipputaso:",
+        "description": "Istuntosi saavuttama korkein taso. Tämä on hyödyllinen tarkistamaan, onko lyhyitä kovia tapahtumia, jotka aiheuttavat leikkautumista, kun keskitasot ovat kunnossa."
+      },
+      "rms": {
+        "title": "RMS-taso",
+        "description": "- Keskimääräinen äänenvoimakkuus ajan myötä. Paljon tärkeämpi kuin huippu, mitä tulee koettuun äänenvoimakkuuteen. Haluat RMS-tasojen olevan vihreällä tasaisesti kovaa mutta silti miellyttävältä kuulostavaa ääntä varten."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Taajuusspektrianalyysi",
+      "intro": "Mikrofonitestimme sisältää 32-kaistaisen taajuusspektrianalysaattorin, joka näyttää äänimerkin jakauman eri taajuuksille. Tämä on ammattityökalu, jonka avulla voit analysoida mikrofonisi taajuusvastetta ja diagnosoida erilaisia ongelmia:",
+      "low": {
+        "title": "Matalat Taajuudet (20-250 Hz)",
+        "description": "Nämä ovat bassokestaajuuksia, jotka lisäävät ääneesi vartaloa ja lämpöä. Liiallinen matalataaajuusenergia voi saada tallenteesi kuulostamaan mutaiselta tai jyrisevältä. Tämä voi usein johtua seisomisesta liian lähellä mikrofonia. (Läheisyysvaikutus.)"
+      },
+      "mid": {
+        "title": "Välitaajuudet (250-4000 Hz)",
+        "description": "Suurin osa äänesi selkeydestä on tässä. Tämän alueen pitäisi olla näkyvä ja määritelty. Jos tämä alue puuttuu, äänesi kuulostaa heikolta tai kaukaiselta."
+      },
+      "high": {
+        "title": "Korkeat Taajuudet (4000-20000 Hz)",
+        "description": "Kirkkaus ja selkeys. Hyvin tasapainoinen korkea taajuus toistaa puheen terävästi ja ymmärrettävästi. Liian paljon korkeaa taajuutta kuulostaa sihisevältä tai sibilantilta (sss-ääni)."
+      },
+      "tip": "Tarkkaile taajuusmittaria puhuessasi. Jos se näyttää tasaisen taajuusjakauman, mikrofoni on hyvässä asennossa ja tallentaa todennäköisesti luonnollista ääntä. Jos se näyttää liikaa toimintaa matalalla taajuudella, saatat joutua astumaan hieman taaksepäin."
+    },
+    "sampleRates": {
+      "title": "Näytteenottotaajuuden Asetukset",
+      "intro": "Näytteenottotaajuus on sekunnissa otettujen ääninäytteiden määrä. Mitä korkeampi näytteenottotaajuus, sitä enemmän yksityiskohtia äänellä on, mutta se vie myös enemmän resursseja käsittelyyn ja tallentamiseen:",
+      "rates": {
+        "22khz": {
+          "title": "22.05 kHz",
+          "description": "Matala laatu. Vain puheelle. Erittäin alhainen kaistanleveyden käyttö, mutta huono taajuusvaste. Yleensä pitäisi välttää."
+        },
+        "44khz": {
+          "title": "44.1 kHz (CD-laatu)",
+          "description": "– Sopii yleiskäyttöön. Tallentaa kaikki ihmiskorvan kuulemat taajuudet (20 Hz - 20 kHz). Loistava videoneuvotteluun, podcastaukseen ja musiikkiin."
+        },
+        "48khz": {
+          "title": "48 kHz (Ammattilaisstandardi):",
+          "description": "Hyvin samankaltainen kuin 44,1 kHz mutta hieman korkeampaa laatua. Tämä on standardi video/elokuvan ja lähetyksen osalta. Käytä tätä, jos aiot synkronisoida ääntä videoon."
+        }
+      },
+      "tip": "Yleisesti 44,1 kHz riittää useimpiin mikkitesteihin. Jos olet vakava ääniammattilainen ja haluat korkeimman laadun (tai tarvitset sen sopimaan yhteen videomateriaalin kanssa), voit käyttää 48 kHz:ä."
+    },
+    "types": {
+      "title": "Mikrofonityypit",
+      "builtIn": {
+        "title": "Kannettavien Tietokoneiden Sisäänrakennetut Mikrofonit:",
+        "description": "Nämä ovat kannettaviisi sisäänrakennettuja mikrofoneita. Ne ovat käteviä, mutta yleensä heikompia laadultaan. Saatat kuulla kirjoituksesi ja tietokoneen tuulettimen. Voit silti käyttää sitä, aseta vain kannettava niin, että mikrofoni on sinua kohti. Tämä sopii videochat-tilanteisiin ystäväsi tai perheenjäsenesi kanssa, mutta et todennäköisesti halua äänittää kommentteja sillä."
+      },
+      "usb": {
+        "title": "USB-Mikrofonit:",
+        "description": "Tässä ovat parhaat USB-mikrofonin suositukseni sekä Macille että PC:lle. Kunnollinen USB-mikrofoni tekee valtavan eron verrattuna tietokoneesi sisäiseen mikrofoniin. Blue Yeti ja Audio-Technica AT2020 USB ovat kaksi suosituimmista USB-mikrofoneista ja kuulostavat fantastiselta. Täydellisiä podcastaukseen, Twitch-streamaukseen tai videopuheluiden soittamiseen."
+      },
+      "headset": {
+        "title": "Pelikuulokkeet ja nappikuulokkeet:",
+        "description": "Jos haluat kuulokkeet tai nappikuulokkeet pelaamiseen, voit harkita niitä myös vaihtoehtona. Ne ovat kätevämpää käyttää ja mikrofonin asemointi pysyy samana joka kerta. Tietenkin, mitä parempi (ja kalliimpi) kuulokkeet tai nappikuulokkeet, sitä parempi laatu. Nämä ovat loistavia pelaamiseen ja satunnaisiin puheluihin."
+      },
+      "condenser": {
+        "title": "Kondensaattorimikrofonit",
+        "description": "Herkkiä mikrofoneita, jotka tallentavat rikkaan, yksityiskohtaisen äänen. Vaativat huolellista asemointia ja akustista käsittelyä. Parhaita ammattimaiseen äänitykseen, kommentteihin ja musiikkituotantoon."
+      },
+      "dynamic": {
+        "title": "Dynaamiset Mikrofonit:",
+        "description": "Kestäviä ja erittäin hyviä taustamelun hylkäämisessä. Käytetään usein podcastaukseen ja streamaukseen niiden kotiolosuhteita kestävyyden takia. Eivät yhtä herkkiä kuin kondensaattorimatkat, mutta kätevämpää käyttää."
+      },
+      "tip": "Mikrofonitestimme on yhteensopiva kaikkien mikrofonityyppien kanssa. Voit käyttää sitä useiden mikkien testaamiseen, uuden laitteiston kokeilemiseen tai ongelmien ratkaisemiseen."
+    },
+    "bestPractices": {
+      "title": "Mikrofonin Äänityksen Parhaat Käytännöt.",
+      "distance": {
+        "title": "Etäisyys.",
+        "description": "15-30 cm suustasi. Lähempänä: Kuulostaa bassoiseimmilta (läheisyysvaikutus) ja poistaa hengityksen. Kauempana: Ohuempi ääni ja poistaa huonemelua."
+      },
+      "popFilter": {
+        "title": "Investoi Popsuodattimeen:",
+        "description": "Plosiiviäänet (P, B, T) luovat ilmaräjähdyksiä, jotka johtavat vääristymiseen. Aseta popsuodatin itsesi ja mikrofonin väliin ja ne katoavat. Jos aiot tehdä podcastausta tai kommentoida, tämä on pakollinen."
+      },
+      "background": {
+        "title": "Minimoi taustamelu",
+        "description": "— Sammuta tuuletin, sulje ikkuna, hiljennä puhelimesi. Suorita mikkitesti ympäristössä, jossa tulet äänittämään. On paljon melua, jota emme edes tiedosta."
+      },
+      "acoustics": {
+        "title": "Älä unohda Huoneen Akustiikkaa",
+        "description": "Et halua äänittää tilassa, jossa on paljon kovia, tasaisia pintoja — se luo kaikua ja jälkikaikua. Haluat pehmeitä pintoja, jotka absorboivat ääniheijastuksia (verhot, matot, akustiset paneelit). Voit jopa äänittää vaatteiden täyttämässä vaatekaapissa, mikä voi tehdä valtavan eron."
+      },
+      "positioning": {
+        "title": "Johdonmukaisuus on avain!",
+        "description": "Jos huomaat, että mikrofoni kuulostaa hyvältä yhdessä paikassa, pidä se siellä koko tallennusistunnon ajan. Voit investoida puomikäsivarteen tai mikrofonitelineeseen, jos haluat välttää mikrofonin liikkumisen lainkaan. Voit jopa piirtää ympyrän pöydälle osoittamaan, missä mikrofonin pitäisi olla hyvän äänen saavuttamiseksi uudelleen."
+      }
+    },
+    "troubleshooting": {
+      "title": "Mikrofonin Ongelmien Vianmääritys",
+      "noAudio": {
+        "title": "Ääntä Ei Havaittu:",
+        "issues": [
+          "Tarkista, että mikrofonin käyttöoikeudet on myönnetty selainaseuksissa",
+          "Tarkista, että oikea syöttölaite on valittu pudotusvalikosta",
+          "Varmista, ettei mikrofoni ole mykistetty laitteistossa tai järjestelmäasetuksissa",
+          "USB-mikrofoneille kokeile toista porttia",
+          "Sulje muut sovellukset, jotka saattavat käyttää mikrofonia"
+        ]
+      },
+      "quiet": {
+        "title": "Ääni Liian Hiljainen:",
+        "issues": [
+          "Lisää mikrofonin tulotasoa järjestelmäasetuksissa",
+          "Siirry lähemmäs mikrofonia",
+          "Tarkista mikrofonin itsensä vahvistussäätimet",
+          "Varmista, että puhut mikrofonin poistuvaa kuviota kohti"
+        ]
+      },
+      "distorted": {
+        "title": "Ääni Vääristynyt tai Leikkautuva:",
+        "issues": [
+          "Vähennä mikrofonin tulotasoa järjestelmäasetuksissa",
+          "Siirry hieman kauemmas mikrofonista",
+          "Tarkista fyysisten esteiden tai roskan mikrofonissa"
+        ]
+      },
+      "echo": {
+        "title": "Kaiku tai Jälkikaiku:",
+        "issues": [
+          "Käytä kuulokkeita estääksesi kaiuttimia syöttämästä takaisin mikrofoniin",
+          "Lisää pehmeitä materiaaleja huoneeseesi absorboimaan ääniheijastuksia",
+          "Siirry lähemmäs mikrofonia lisätäksesi suoran äänen suhteessa huoneheijastuksiin"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Aiheeseen Liittyvät Työkalut ja Resurssit",
+      "alsoTry": "Kokeile Myös:",
+      "alsoTryLinks": [
+        "Webkamera ja Mikkitesti",
+        "Testaa Webkamera",
+        "Kameratesti",
+        "Videotallenteen Testi",
+        "Tarkista Kamera Verkossa"
+      ],
+      "onThisPage": "Tällä Sivulla:",
+      "onThisPageLinks": [
+        "Mikrofonin Testaaminen",
+        "Äänentason Opas",
+        "Mikrofonin Vianmääritys",
+        "Mikrofoni Ei Toimi -korjaus",
+        "Parhaat Mikrofoniasetukset"
+      ]
+    }
+  }
+}

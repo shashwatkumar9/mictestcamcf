@@ -1,0 +1,29 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" fill="white"/>
+
+  <!-- Microphone icon (left side) -->
+  <g transform="translate(100, 140)">
+    <!-- Mic body with sound waves -->
+    <path d="M20 10 L10 5 L5 5 L5 230 L10 230 L20 235" fill="#1e3a5f"/>
+    <rect x="5" y="5" width="15" height="225" fill="#1e3a5f" rx="2"/>
+    <!-- Sound waves -->
+    <path d="M35 60 L45 50 L50 55" stroke="#1e3a5f" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M35 95 L50 75 L60 85" stroke="#1e3a5f" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M35 130 L55 105 L70 120" stroke="#1e3a5f" stroke-width="8" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Camera/Eye icon (right side) -->
+  <g transform="translate(260, 150)">
+    <!-- Outer circle -->
+    <circle cx="100" cy="100" r="95" fill="none" stroke="#1e3a5f" stroke-width="20"/>
+    <!-- Inner white circle -->
+    <circle cx="100" cy="100" r="70" fill="white"/>
+    <!-- Pupil -->
+    <circle cx="100" cy="90" r="35" fill="#1e3a5f"/>
+    <!-- Light reflection -->
+    <circle cx="110" cy="75" r="12" fill="white"/>
+    <!-- Smile indicator below -->
+    <path d="M70 170 Q100 180 130 170" stroke="#1e3a5f" stroke-width="12" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

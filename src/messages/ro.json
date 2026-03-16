@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "home": {
+      "title": "Test Webcam Gratuit și Test Microfon Online | MicTestCam",
+      "description": "Testați instantaneu camera web și microfonul online. Instrument gratuit de testare cameră și microfon - 100% privat, fără descărcări. Verificați dacă dispozitivele funcționează înainte de apelurile video."
+    },
+    "webcam": {
+      "title": "Test Webcam - Instrument Gratuit Online de Testare a Camerei | Verificați Camera Web",
+      "description": "Instrument gratuit de testare webcam - verificați instantaneu dacă funcționează camera. Testați camera cu previzualizare live, filtre, setări de calitate și înregistrare. 100% privat, fără descărcări necesare."
+    },
+    "microphone": {
+      "title": "Test Microfon - Test Microfon Gratuit Online | Verificați Audio",
+      "description": "Test microfon gratuit online - verificați dacă microfonul funcționează. Testați nivelurile audio, răspunsul în frecvență și calitatea înregistrării. Instrument de testare microfon 100% privat, fără descărcări."
+    },
+    "privacy": {
+      "title": "Politica de Confidențialitate | MicTestCam",
+      "description": "Aflați cum MicTestCam vă protejează confidențialitatea. Toate testele webcam și microfon au loc local în browserul dvs. - nu colectăm și nu stocăm niciodată datele dvs."
+    },
+    "terms": {
+      "title": "Termeni și Condiții | MicTestCam",
+      "description": "Termeni și Condiții pentru MicTestCam - instrument gratuit online de testare webcam și microfon. Citiți termenii și condițiile noastre de utilizare a serviciului."
+    },
+    "contact": {
+      "title": "Contactați-ne | MicTestCam",
+      "description": "Contactați echipa MicTestCam. Scrieți-ne pentru asistență, feedback sau întrebări comerciale despre instrumentele noastre gratuite de testare webcam și microfon."
+    },
+    "blog": {
+      "title": "Blog - Sfaturi pentru Webcam și Microfon | MicTestCam",
+      "description": "Sfaturi de la experți, tutoriale și ghiduri pentru testarea webcam-ului, configurarea microfonului și optimizarea audio/video. Aflați cum să obțineți cea mai bună calitate pentru apelurile video."
+    },
+    "reviews": {
+      "title": "Cele Mai Bune Recenzii Webcam și Microfon | MicTestCam",
+      "description": "Recenzii detaliate, evaluări și ghiduri de cumpărare pentru camere web, microfoane, căști și echipamente audio/video. Analize de la experți pentru a vă ajuta să alegeți echipamentul perfect pentru streaming și apeluri video."
+    }
+  },
+  "nav": {
+    "home": "Acasă",
+    "webcamTest": "Test Webcam",
+    "microphoneTest": "Test Microfon",
+    "reviews": "Recenzii",
+    "blog": "Blog",
+    "privacy": "Politica de Confidențialitate",
+    "terms": "Termeni și Condiții",
+    "contact": "Contact"
+  },
+  "privacy": {
+    "banner": "100% Privat - Nimic nu părăsește browserul dvs."
+  },
+  "home": {
+    "hero": {
+      "title": "Test Webcam Gratuit și Test Microfon Online",
+      "subtitle": "Verificați instantaneu dacă camera și microfonul funcționează perfect înainte de următorul apel video. Fără descărcări, fără înregistrare, complet privat.",
+      "webcamCta": "Testați Camera Web",
+      "microphoneCta": "Testați Microfonul"
+    },
+    "features": {
+      "title": "De Ce Să Folosiți MicTestCam?",
+      "privacy": {
+        "title": "100% Privat",
+        "description": "Audio și video nu părăsesc niciodată browserul dvs. Nu stocăm, nu încărcăm și nu procesăm niciuna din datele dvs. media pe serverele noastre."
+      },
+      "simple": {
+        "title": "Simplu, Cu Un Singur Click",
+        "description": "Fără configurare complicată. Doar apăsați un buton și vedeți instantaneu camera web sau auziți microfonul. Funcționează în câteva secunde."
+      },
+      "professional": {
+        "title": "Instrumente Profesionale",
+        "description": "Funcții avansate precum analiza spectrului de frecvență, filtre video, setări de calitate și capabilități de înregistrare locală."
+      },
+      "universal": {
+        "title": "Funcționează Peste Tot",
+        "description": "Compatibil cu toate browserele și dispozitivele moderne. Testați înainte de Zoom, Teams, Meet, Discord sau orice aplicație de videoconferință."
+      }
+    },
+    "howItWorks": {
+      "title": "Cum Funcționează",
+      "step1": {
+        "title": "Apăsați Start",
+        "description": "Alegeți testul webcam sau microfon și apăsați butonul de pornire"
+      },
+      "step2": {
+        "title": "Permiteți Accesul",
+        "description": "Acordați browserului permisiunea de a accesa camera sau microfonul"
+      },
+      "step3": {
+        "title": "Vedeți Rezultatele",
+        "description": "Vedeți instantaneu fluxul video sau nivelurile audio. Înregistrați clipuri dacă este necesar"
+      }
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": {
+        "question": "Este acest test webcam cu adevărat privat?",
+        "answer": "Da, absolut. Toate procesările au loc direct în browserul dvs. folosind API-uri Web. Niciun flux video sau audio nu este trimis vreodată către serverele noastre sau către terțe părți. Puteți verifica acest lucru consultând tab-ul de rețea din browserul dvs."
+      },
+      "q2": {
+        "question": "Trebuie să instalez ceva?",
+        "answer": "Nu este necesară nicio instalare. MicTestCam funcționează în întregime în browserul dvs. web. Doar vizitați pagina și apăsați start."
+      },
+      "q3": {
+        "question": "Ce browsere sunt compatibile?",
+        "answer": "MicTestCam funcționează pe toate browserele moderne, inclusiv Chrome, Firefox, Safari, Edge și Opera, pe desktop și dispozitive mobile."
+      },
+      "q4": {
+        "question": "Pot înregistra video sau audio?",
+        "answer": "Da! Puteți înregistra clipuri video pe pagina de test webcam și clipuri audio pe pagina de test microfon. Toate înregistrările sunt salvate local în browserul dvs. și pot fi descărcate."
+      },
+      "q5": {
+        "question": "De ce nu funcționează camera/microfonul meu?",
+        "answer": "Asigurați-vă că ați acordat browserului permisiunea de a accesa dispozitivul. Verificați că nicio altă aplicație nu folosește camera sau microfonul. Încercați să reîmprospătați pagina sau să selectați un alt dispozitiv din meniul derulant."
+      },
+      "q6": {
+        "question": "Este gratuit?",
+        "answer": "Da, MicTestCam este complet gratuit, fără limitări sau costuri ascunse."
+      },
+      "q7": {
+        "question": "Pot testa înainte de un apel Zoom/Teams/Meet?",
+        "answer": "Absolut! MicTestCam este perfect pentru testarea înainte de apel. Pur și simplu testați dispozitivele aici, apoi intrați în videoconferință cu încredere."
+      },
+      "q8": {
+        "question": "Cum selectez o altă cameră sau microfon?",
+        "answer": "Folosiți meniul derulant de dispozitive de pe pagina de test pentru a comuta între camerele sau microfoanele conectate."
+      },
+      "q9": {
+        "question": "Unde sunt salvate înregistrările mele?",
+        "answer": "Înregistrările sunt salvate local în spațiul de stocare al browserului. Acestea persistă chiar și după închiderea browserului și pot fi descărcate sau șterse în orice moment."
+      },
+      "q10": {
+        "question": "Funcționează pe telefoanele mobile?",
+        "answer": "Da, MicTestCam funcționează pe dispozitive mobile cu browsere moderne. Puteți testa atât camera frontală, cât și cea din spate a telefonului."
+      }
+    },
+    "trust": {
+      "tests": "Peste 50.000 de teste zilnic",
+      "apps": "Funcționează cu Zoom, Teams, Meet",
+      "browsers": "Toate browserele moderne compatibile"
+    }
+  },
+  "webcam": {
+    "title": "Test Webcam - Instrument Gratuit Online de Testare a Camerei",
+    "subtitle": "Testați camera instantaneu. Vedeți fluxul video, ajustați calitatea, aplicați filtre și înregistrați clipuri.",
+    "startButton": "Porniți Camera și Înregistrarea",
+    "stopButton": "Opriți și Salvați Înregistrarea",
+    "snapshotButton": "Faceți o Captură",
+    "permissionMessage": "Apăsați butonul de mai sus pentru a începe testul webcam",
+    "recording": "Se înregistrează",
+    "deviceLabel": "Cameră",
+    "qualityLabel": "Calitate",
+    "filterLabel": "Filtru",
+    "filters": {
+      "normal": "Normal",
+      "grayscale": "Tonuri de Gri",
+      "sepia": "Sepia",
+      "invert": "Inversare",
+      "blur": "Estompare",
+      "brightness": "Luminozitate",
+      "contrast": "Contrast",
+      "hueRotate": "Rotație Nuanță",
+      "saturate": "Saturație"
+    },
+    "savedRecordings": {
+      "title": "Înregistrări Salvate",
+      "clearAll": "Ștergeți Tot",
+      "noRecordings": "Nicio înregistrare încă. Începeți înregistrarea pentru a salva clipuri video.",
+      "play": "Redare",
+      "download": "Descărcare",
+      "delete": "Ștergere"
+    },
+    "testCamera": "Testați Camera",
+    "stopCamera": "Opriți Camera",
+    "record": "Înregistrare",
+    "stopRecording": "Opriți Înregistrarea",
+    "showAdvanced": "Afișare Avansat",
+    "hideAdvanced": "Ascundere Avansat",
+    "mirrorMode": "Mod Oglindă",
+    "flipHorizontally": "Inversare pe orizontală",
+    "digitalZoom": "Zoom Digital",
+    "brightness": "Luminozitate",
+    "contrast": "Contrast",
+    "dark": "Întunecat",
+    "normal": "Normal",
+    "bright": "Luminos",
+    "low": "Scăzut",
+    "high": "Ridicat",
+    "cameraComparison": "Comparare Camere",
+    "compareSideBySide": "Comparare una lângă alta",
+    "requires2Cameras": "(necesită 2+ camere)",
+    "secondCamera": "A Doua Cameră",
+    "fineTuneWhileRecording": "Reglare Fină în Timpul Înregistrării",
+    "camera1": "Camera 1",
+    "camera2": "Camera 2",
+    "motion": "Mișcare",
+    "advanced": {
+      "title": "Controale Avansate ale Camerei",
+      "exposure": "Expunere",
+      "focus": "Focalizare",
+      "whiteBalance": "Balans de Alb",
+      "image": "Imagine",
+      "ptz": "PTZ",
+      "mode": "Mod",
+      "exposureTime": "Timp de Expunere",
+      "distance": "Distanță",
+      "temperature": "Temperatură",
+      "sharpness": "Claritate",
+      "zoom": "Zoom",
+      "pan": "Panoramare",
+      "tilt": "Înclinare",
+      "saturation": "Saturație",
+      "noAdvancedControls": "Camera dvs. nu acceptă controale hardware avansate"
+    },
+    "backgroundBlur": {
+      "title": "Estompare Fundal",
+      "blurStrength": "Intensitate Estompare",
+      "skinToneNote": "Se utilizează detecție ușoară a tonului pielii. Pentru rezultate mai bune, asigurați-vă că aveți iluminare bună."
+    },
+    "faceDetection": {
+      "facesDetected": "Detectate",
+      "face": "Față"
+    },
+    "framing": {
+      "grid": "Grilă",
+      "faceGuide": "Ghid Față",
+      "moveRight": "Deplasați la dreapta",
+      "moveLeft": "Deplasați la stânga",
+      "moveDown": "Deplasați în jos",
+      "moveUp": "Deplasați în sus",
+      "moveCloser": "Apropiați-vă",
+      "moveBack": "Îndepărtați-vă",
+      "greatFraming": "Încadrare excelentă!",
+      "noFaceDetected": "Nicio față detectată"
+    },
+    "histogram": {
+      "videoAnalysis": "Analiză Video",
+      "histogram": "Histogramă",
+      "waveform": "Formă de Undă",
+      "shadows": "Umbre",
+      "midtones": "Tonuri Medii",
+      "highlights": "Zone Luminoase"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Rezoluție",
+      "bitrate": "Rată de Biți",
+      "lighting": "Iluminare",
+      "dropped": "Pierdute",
+      "tooDark": "Prea Întunecat",
+      "lowLight": "Lumină Scăzută",
+      "overexposed": "Supraexpus",
+      "good": "Bun",
+      "hideMetrics": "Ascunde metrici"
+    }
+  },
+  "microphone": {
+    "title": "Test Microfon - Instrument Gratuit Online de Testare a Microfonului",
+    "subtitle": "Testați microfonul cu indicatorul de nivel audio în timp real și analizorul de spectru de frecvență.",
+    "startButton": "Porniți Microfonul și Înregistrarea",
+    "stopButton": "Opriți și Salvați Înregistrarea",
+    "permissionMessage": "Apăsați butonul de mai sus pentru a începe testul de microfon",
+    "recording": "Se înregistrează",
+    "deviceLabel": "Microfon",
+    "sampleRateLabel": "Rată de Eșantionare",
+    "channelLabel": "Canale",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Nivel Audio",
+    "frequencySpectrum": "Spectrul de Frecvență",
+    "savedRecordings": {
+      "title": "Înregistrări Salvate",
+      "clearAll": "Ștergeți Tot",
+      "noRecordings": "Nicio înregistrare încă. Începeți înregistrarea pentru a salva clipuri audio.",
+      "play": "Redare",
+      "download": "Descărcare",
+      "delete": "Ștergere"
+    },
+    "testMicrophone": "Testați Microfonul",
+    "stopMicrophone": "Opriți Microfonul",
+    "record": "Înregistrare",
+    "stopRecording": "Opriți Înregistrarea",
+    "showAdvanced": "Afișare Avansat",
+    "hideAdvanced": "Ascundere Avansat",
+    "inputGain": "Amplificare Intrare",
+    "noiseSuppression": "Suprimare Zgomot",
+    "enableNoiseReduction": "Activare reducere zgomot",
+    "echoCancellation": "Anulare Ecou",
+    "reduceEchoFeedback": "Reducere feedback ecou",
+    "autoGainControl": "Control Automat al Amplificării",
+    "autoAdjustVolume": "Ajustare automată a volumului",
+    "microphoneComparison": "Comparare Microfoane",
+    "compareSideBySide": "Comparare una lângă alta",
+    "requires2Mics": "(necesită 2+ microfoane)",
+    "secondMicrophone": "Al Doilea Microfon",
+    "fineTuneWhileTesting": "Reglare Fină în Timpul Testării",
+    "boost": "Amplificare",
+    "normal": "Normal",
+    "low": "Scăzut",
+    "advanced": {
+      "title": "Analiză Audio Avansată",
+      "metrics": "Metrici",
+      "spectrogram": "Spectrogram",
+      "signalToNoiseRatio": "Raport Semnal-Zgomot",
+      "excellent": "Excelent",
+      "good": "Bun",
+      "fair": "Acceptabil",
+      "poor": "Slab",
+      "rms": "RMS (dB)",
+      "peak": "Vârf (dB)",
+      "noiseFloor": "Prag de Zgomot",
+      "dominantFrequency": "Frecvență Dominantă",
+      "detectedIssues": "Probleme Detectate",
+      "detectedAt": "detectat la",
+      "time": "Timp",
+      "frequencyLowHigh": "Frecvență (Joasă → Înaltă)"
+    },
+    "processing": {
+      "title": "Procesare Audio",
+      "noiseSuppression": "Suprimare Zgomot",
+      "reduceBackgroundNoise": "Reducere zgomot de fundal",
+      "echoCancellation": "Anulare Ecou",
+      "removeAudioFeedback": "Eliminare feedback audio",
+      "autoGainControl": "Control Automat al Amplificării",
+      "normalizeVolumeLevels": "Normalizare niveluri de volum",
+      "directMonitoring": "Monitorizare Directă",
+      "listenToYourMic": "Ascultați-vă microfonul",
+      "monitorVolume": "Volum Monitorizare",
+      "useHeadphones": "Folosiți căști pentru a evita feedback-ul!"
+    },
+    "comparison": {
+      "title": "Comparare A/B Microfoane",
+      "microphoneA": "Microfonul A",
+      "microphoneB": "Microfonul B",
+      "selectMicrophone": "Selectați microfonul...",
+      "startComparison": "Începeți Compararea",
+      "selectTwoDifferent": "Vă rugăm să selectați două microfoane diferite",
+      "active": "Activ",
+      "switchTo": "Comutare la",
+      "rmsLevel": "Nivel RMS",
+      "peakLevel": "Nivel de Vârf",
+      "snr": "SNR (dB)",
+      "stopComparison": "Opriți Compararea",
+      "micA": "Mic A",
+      "micB": "Mic B"
+    }
+  },
+  "privacyPage": {
+    "title": "Politica de Confidențialitate",
+    "lastUpdated": "Ultima Actualizare",
+    "intro": "La MicTestCam, luăm în serios confidențialitatea dvs. Această Politică de Confidențialitate explică modul în care gestionăm informațiile dvs. atunci când utilizați serviciile noastre de testare webcam și microfon.",
+    "sections": {
+      "noCollection": {
+        "title": "Nu Colectăm Datele Dvs.",
+        "content": "MicTestCam este conceput cu confidențialitatea ca principiu fundamental. Nu colectăm, stocăm sau transmitem nicio dată audio sau video din testele dvs. webcam sau microfon. Toate procesările au loc în întregime în browserul dvs. web folosind API-uri JavaScript locale."
+      },
+      "localStorage": {
+        "title": "Stocare Locală",
+        "content": "Când înregistrați clipuri video sau audio, acestea sunt stocate local în spațiul de stocare IndexedDB al browserului dvs. Aceste date nu părăsesc niciodată dispozitivul dvs. și nu sunt accesibile nouă sau vreunei terțe părți. Puteți șterge aceste înregistrări în orice moment prin interfața aplicației sau prin ștergerea datelor browserului."
+      },
+      "cookies": {
+        "title": "Cookie-uri și Analize",
+        "content": "Folosim un număr minim de cookie-uri doar pentru funcționalitatea esențială a site-ului, cum ar fi preferințele de limbă. Este posibil să folosim analize ce respectă confidențialitatea pentru a înțelege tiparele generale de utilizare, dar nu urmărim utilizatorii individuali și nu colectăm informații personale."
+      },
+      "thirdParty": {
+        "title": "Servicii Terțe",
+        "content": "Site-ul nostru poate include linkuri către site-uri web ale terților. Nu suntem responsabili pentru practicile de confidențialitate ale acestor site-uri externe. Vă recomandăm să consultați politicile lor de confidențialitate înainte de a furniza orice informații personale."
+      },
+      "security": {
+        "title": "Securitate",
+        "content": "Folosim criptare HTTPS pentru a proteja toate comunicările dintre browserul dvs. și site-ul nostru web. Deoarece nu colectăm datele dvs. media, nu există riscul ca înregistrările webcam-ului sau microfonului să fie expuse printr-o încălcare a securității datelor."
+      },
+      "children": {
+        "title": "Confidențialitatea Copiilor",
+        "content": "MicTestCam nu este destinat copiilor sub 13 ani. Nu colectăm cu bună știință informații de la copii."
+      },
+      "changes": {
+        "title": "Modificări ale Acestei Politici",
+        "content": "Este posibil să actualizăm această Politică de Confidențialitate din când în când. Vă vom informa despre orice modificări prin publicarea noii Politici de Confidențialitate pe această pagină și actualizarea datei «Ultima Actualizare»."
+      },
+      "contact": {
+        "title": "Contactați-ne",
+        "content": "Dacă aveți întrebări despre această Politică de Confidențialitate, vă rugăm să ne contactați prin pagina noastră de contact."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Termeni și Condiții",
+    "lastUpdated": "Ultima Actualizare",
+    "intro": "Bine ați venit la MicTestCam. Prin accesarea sau utilizarea site-ului și serviciilor noastre, sunteți de acord să respectați acești Termeni și Condiții.",
+    "sections": {
+      "acceptance": {
+        "title": "Acceptarea Termenilor",
+        "content": "Prin utilizarea MicTestCam, sunteți de acord cu acești Termeni și Condiții și cu Politica noastră de Confidențialitate. Dacă nu sunteți de acord cu vreo parte a acestor termeni, nu puteți utiliza serviciile noastre."
+      },
+      "description": {
+        "title": "Descrierea Serviciului",
+        "content": "MicTestCam oferă instrumente gratuite online pentru testarea camerelor web și a microfoanelor. Serviciul nostru vă permite să verificați dacă camera și microfonul funcționează corespunzător înainte de apeluri video, înregistrări sau sesiuni de streaming."
+      },
+      "usage": {
+        "title": "Utilizare Acceptabilă",
+        "content": "Sunteți de acord să utilizați MicTestCam doar în scopuri legale și în conformitate cu acești Termeni. Sunteți de acord să nu: utilizați serviciul pentru nicio activitate ilegală, să încercați să interferați cu funcționarea corespunzătoare a site-ului, să încercați să accesați zone ale site-ului care nu sunt destinate accesului public, sau să utilizați sisteme automatizate pentru a accesa serviciul fără permisiune."
+      },
+      "privacy": {
+        "title": "Confidențialitate și Date",
+        "content": "Toate testele webcam și microfon au loc local în browserul dvs. Nu colectăm, stocăm și nu avem acces la datele dvs. audio sau video. Pentru mai multe informații, vă rugăm să consultați Politica noastră de Confidențialitate."
+      },
+      "intellectual": {
+        "title": "Proprietate Intelectuală",
+        "content": "Site-ul MicTestCam, inclusiv designul, codul și conținutul acestuia, este protejat de dreptul de autor și alte legi privind proprietatea intelectuală. Nu puteți copia, modifica, distribui sau reproduce nicio parte a site-ului fără consimțământul nostru prealabil în scris."
+      },
+      "disclaimer": {
+        "title": "Declinarea Garanțiilor",
+        "content": "MicTestCam este furnizat «ca atare», fără garanții de nicio natură, fie explicite, fie implicite. Nu garantăm că serviciul va fi neîntrerupt, fără erori sau că va îndeplini cerințele dvs. specifice. Nu suntem responsabili pentru nicio problemă hardware sau software a dispozitivelor dvs."
+      },
+      "limitation": {
+        "title": "Limitarea Răspunderii",
+        "content": "În măsura maximă permisă de lege, MicTestCam nu va fi răspunzător pentru nicio daună indirectă, incidentală, specială, consecvențială sau punitivă rezultată din utilizarea serviciului."
+      },
+      "changes": {
+        "title": "Modificări ale Termenilor",
+        "content": "Ne rezervăm dreptul de a modifica acești Termeni și Condiții în orice moment. Modificările vor intra în vigoare imediat după publicarea pe site. Continuarea utilizării serviciului după publicarea modificărilor constituie acceptarea termenilor modificați."
+      },
+      "governing": {
+        "title": "Legea Aplicabilă",
+        "content": "Acești Termeni și Condiții vor fi guvernați și interpretați în conformitate cu legile aplicabile, fără a lua în considerare principiile conflictelor de legi."
+      },
+      "contact": {
+        "title": "Contact",
+        "content": "Dacă aveți întrebări despre acești Termeni și Condiții, vă rugăm să ne contactați prin pagina noastră de contact."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Contactați-ne",
+    "subtitle": "Aveți întrebări sau feedback? Ne-ar plăcea să aflăm de la dvs.",
+    "form": {
+      "name": "Numele Dvs.",
+      "namePlaceholder": "Introduceți numele dvs.",
+      "email": "Adresa de Email",
+      "emailPlaceholder": "Introduceți adresa de email",
+      "subject": "Subiect",
+      "subjectPlaceholder": "Despre ce este vorba?",
+      "message": "Mesaj",
+      "messagePlaceholder": "Scrieți mesajul dvs. aici...",
+      "submit": "Trimiteți Mesajul",
+      "sending": "Se trimite...",
+      "success": "Vă mulțumim! Mesajul dvs. a fost trimis cu succes.",
+      "error": "Ne pare rău, a apărut o eroare la trimiterea mesajului. Vă rugăm să încercați din nou."
+    },
+    "info": {
+      "title": "Alte Modalități de a Ne Contacta",
+      "email": "Email",
+      "response": "De obicei răspundem în 24-48 de ore.",
+      "social": "Urmăriți-ne"
+    },
+    "faq": {
+      "title": "Înainte de a Ne Contacta",
+      "subtitle": "Este posibil să găsiți răspunsul în secțiunea noastră de Întrebări Frecvente de pe pagina principală."
+    }
+  },
+  "blogPage": {
+    "title": "Blog Testare Webcam și Microfon - Sfaturi, Ghiduri și Tutoriale",
+    "subtitle": "Sfaturi de la experți, tutoriale și informații despre testarea webcam-ului, configurarea microfonului și optimizarea audio/video pentru apeluri video, streaming și crearea de conținut.",
+    "noPosts": "Nicio postare încă",
+    "noPostsDescription": "Reveniți în curând pentru conținut nou!",
+    "readMore": "Citiți mai mult",
+    "by": "de",
+    "minRead": "min de citit",
+    "categories": {
+      "all": "Toate Postările",
+      "webcam": "Sfaturi Webcam",
+      "microphone": "Sfaturi Microfon",
+      "tutorials": "Tutoriale",
+      "troubleshooting": "Depanare"
+    },
+    "search": "Căutați articole...",
+    "featured": "Recomandat",
+    "latest": "Cele Mai Recente Articole",
+    "relatedPosts": "Articole Similare"
+  },
+  "reviewsPage": {
+    "title": "Cele Mai Bune Recenzii Webcam și Microfon - Analiză Expert de Produse",
+    "subtitle": "Recenzii detaliate, evaluări și ghiduri de cumpărare pentru camere web, microfoane, căști și echipamente audio/video. Găsiți echipamentul perfect pentru streaming, apeluri video și crearea de conținut.",
+    "noReviews": "Nicio recenzie disponibilă încă",
+    "noReviewsDescription": "Reveniți în curând pentru recenzii de produse de la experți!",
+    "by": "de",
+    "readMore": "Citiți Recenzia"
+  },
+  "footer": {
+    "tagline": "Testați camera web și microfonul online gratuit",
+    "privacy": "Politica de Confidențialitate",
+    "terms": "Termeni și Condiții",
+    "contact": "Contact",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Toate drepturile rezervate.",
+    "language": "Limbă"
+  },
+  "common": {
+    "loading": "Se încarcă...",
+    "error": "Eroare",
+    "close": "Închidere",
+    "back": "Înapoi",
+    "next": "Următorul",
+    "submit": "Trimitere",
+    "cancel": "Anulare",
+    "save": "Salvare",
+    "delete": "Ștergere",
+    "edit": "Editare",
+    "view": "Vizualizare",
+    "download": "Descărcare",
+    "share": "Partajare",
+    "copy": "Copiere",
+    "copied": "Copiat!",
+    "readMore": "Citiți Mai Mult",
+    "learnMore": "Aflați Mai Mult",
+    "getStarted": "Începeți"
+  },
+  "cta": {
+    "title": "Sunteți Pregătit Să Vă Testați Dispozitivele?",
+    "subtitle": "Începeți testarea camerei web și a microfonului chiar acum. Fără descărcări, fără înregistrare necesară.",
+    "webcamButton": "Testați Camera Web",
+    "microphoneButton": "Testați Microfonul"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam oferă testare instantanee și gratuită online pentru camere web și microfoane direct în browserul dvs. Fără descărcări necesare. Testați calitatea camerei, nivelurile microfonului și claritatea audio în mai puțin de 30 de secunde înainte de orice apel video sau sesiune de înregistrare.",
+      "p1": "Bine ați venit la MicTestCam! MicTestCam oferă cea mai simplă modalitate de a <strong>testa camera web și microfonul online</strong>, indiferent dacă doriți să verificați camera web pentru o videoconferință, o întâlnire, o prezentare, să înregistrați narațiuni pentru videoclipurile și canalul dvs. YouTube, sau să efectuați un <strong>test de microfon</strong> aprofundat pentru podcastul dvs.",
+      "p2": "Instrumentele de testare cameră și microfon ale MicTestCam funcționează în întregime în browser și nu necesită nicio descărcare. Confidențialitatea utilizatorului este prioritatea cea mai importantă pentru MicTestCam. Toate testele sunt efectuate în browserul dvs., iar informațiile video și audio nu părăsesc niciodată computerul dvs. Cu peste 50.000 de teste în fiecare zi și o rată de succes de 99,9%, MicTestCam este cea mai populară platformă pentru profesioniști, angajați la distanță, creatori de conținut și utilizatori obișnuiți care doresc să-și testeze dispozitivele.",
+      "p3": "Apăsați butoanele de mai jos pentru a <strong>testa camera web</strong> sau <strong>testa microfonul</strong>. MicTestCam are nevoie de doar câteva secunde pentru a verifica dacă camera și microfonul funcționează corect înainte de un apel Zoom, Microsoft Teams, Google Meet, Discord, Skype sau orice alt apel video.",
+      "keyTakeaways": {
+        "title": "Aspecte Esențiale",
+        "points": [
+          "Testare instantanee și gratuită a camerei web și microfonului - fără instalare de software",
+          "Testare 100% în browser, asigurând confidențialitate completă și securitatea datelor",
+          "Feedback în timp real privind calitatea video, nivelurile audio și răspunsul în frecvență",
+          "Compatibil cu Zoom, Teams, Meet, Discord și toate platformele video",
+          "Peste 50.000 de teste zilnice cu o rată de precizie de 99,9%"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "De Ce Ar Trebui Să Vă Testați Camera Web și Microfonul Înainte de Apeluri Video?",
+      "directAnswer": "Testarea camerei web și a microfonului înainte de apeluri video previne eșecurile tehnice jenante, economisește timp în ședințe și asigură o calitate profesională a comunicării. Un test pre-apel identifică probleme cu unghiul camerei, iluminarea, nivelurile audio și zgomotul de fundal înainte ca audiența dvs. să le observe.",
+      "p1": "Munca de la distanță și comunicarea virtuală sunt acum practici standard de afaceri. A fi capabil să comunici clar prin video și audio este crucial pentru succesul profesional. Întreruperile tehnice în timpul ședințelor afectează credibilitatea și irosesc timp. A fi nevoit să întrebați în mod repetat «Mă vedeți acum? Dar acum?» subminează reputația profesională și întârzie discuțiile importante.",
+      "p2": "Efectuarea unui test video rapid înainte de ședințe previne gafele tehnice. Realizarea unui test audio rapid înainte de apeluri importante vă asigură că audio-ul dvs. este clar, fără zgomot de fundal, ecou sau distorsiune. Profesioniștii din vânzări, directorii, profesorii și creatorii de conținut înțeleg importanța performanței fiabile a camerei web și microfonului.",
+      "p3": "Spre deosebire de alte instrumente de testare webcam și microfon, MicTestCam nu doar verifică dacă camera web sau microfonul funcționează, ci oferă și informații detaliate despre calitatea video și caracteristicile audio. MicTestCam ajută utilizatorii să găsească și să rezolve problemele tehnice înainte de începerea apelurilor video.",
+      "comparison": {
+        "title": "MicTestCam vs. Testele Integrate ale Platformelor Video",
+        "points": [
+          "<strong>MicTestCam:</strong> Oferă analiză detaliată a frecvențelor audio, forme de undă în timp real și metrici profesionale",
+          "<strong>Testele platformelor:</strong> Arată doar funcționalitate de bază da/nu, fără detalii despre calitate",
+          "<strong>MicTestCam:</strong> Testele funcționează pe toate platformele - Zoom, Teams, Meet, Discord simultan",
+          "<strong>Testele platformelor:</strong> Verifică funcționalitatea doar în cadrul platformei respective",
+          "<strong>MicTestCam:</strong> Oferă redare înregistrări pentru a auzi exact ce vor auzi ceilalți",
+          "<strong>Testele platformelor:</strong> Fără funcție de redare pentru verificarea calității"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Cum Funcționează Instrumentul de Testare Cameră și Microfon MicTestCam?",
+      "directAnswer": "MicTestCam folosește tehnologia WebRTC pentru a accesa camera web și microfonul direct prin browser. Testarea se desfășoară în întregime pe dispozitivul dvs. folosind aceleași protocoale pe care le utilizează Zoom, Teams și Meet, asigurând testarea precisă a performanței reale fără a încărca date pe servere.",
+      "p1": "Instrumentul de testare cameră și microfon MicTestCam folosește protocoalele WebRTC, aceleași protocoale pe care se bazează serviciile populare de videoconferință web. Când <strong>testați camera web</strong> folosind MicTestCam, platforma accesează camera prin API-ul Web al browserului și prezintă fluxul video în timp real pe ecran. Utilizatorii pot verifica dacă funcționează camera web, pot verifica dacă iluminarea este adecvată, pot confirma dacă unghiul camerei este corect și pot evalua calitatea generală a videoclipului.",
+      "p2": "Instrumentul de <strong>test microfon</strong> MicTestCam oferă feedback imediat asupra nivelurilor de volum al vocii. Când utilizatorii vorbesc în microfon, indicatoarele audio reflectă nivelurile vocii în timp real pentru a ajuta la determinarea dacă microfonul captează sunetul corespunzător. Analizorul de spectru de frecvență cu 32 de benzi afișează modul în care sunetul este distribuit pe frecvențe, o funcție deosebit de valoroasă pentru podcasteri și muzicieni care testează microfoane pentru înregistrări profesionale.",
+      "p3": "Ambele instrumente MicTestCam oferă capabilitate de înregistrare automată. Utilizatorii pot porni un test iar MicTestCam va înregistra automat fluxul camerei și audio-ul, permițând redarea pentru evaluarea calității așa cum o va experimenta audiența. Toate înregistrările au loc local în browser. MicTestCam nu încarcă și nu stochează nicio dată a utilizatorilor pe servere externe, asigurând confidențialitate completă.",
+      "technicalSpecs": {
+        "title": "Specificații Tehnice",
+        "specs": [
+          "<strong>Protocol:</strong> WebRTC (Web Real-Time Communication) - Standard industrial utilizat de Zoom, Microsoft Teams, Google Meet",
+          "<strong>Analiză Audio:</strong> Analizor de spectru de frecvență cu 32 de benzi (interval 20Hz - 20kHz)",
+          "<strong>Rezoluție Video:</strong> Suportă testare de la 240p la 8K (7680×4320) în funcție de capacitatea camerei",
+          "<strong>Rata de Cadre:</strong> Monitorizare în timp real la 15fps, 30fps și 60fps",
+          "<strong>Confidențialitate:</strong> Procesare 100% pe partea clientului - zero transmisie de date către serverele MicTestCam",
+          "<strong>Compatibilitate:</strong> Funcționează pe Chrome, Firefox, Safari, Edge - toate browserele principale"
+        ]
+      }
+    },
+    "features": {
+      "title": "Lista Completă a Funcțiilor Testelor",
+      "webcamTitle": "Test webcam",
+      "webcamFeatures": [
+        "Previzualizare live a camerei cu opțiuni de rezoluție de la 240p la 1080p.",
+        "Detectarea mai multor dispozitive cameră, cum ar fi camere USB, camere web, camere externe.",
+        "Peste 9 filtre și efecte diferite pentru a testa camera web și balanțele de culoare.",
+        "Cadre pe secundă pentru monitorizarea camerei.",
+        "Posibilitatea de a face o captură de ecran.",
+        "Înregistrare automată video de la camera web în format WebM și MP4.",
+        "Înregistrări salvate în stocarea locală."
+      ],
+      "microphoneTitle": "Test microfon",
+      "microphoneFeatures": [
+        "Indicator de nivel audio și indicator de vârf în timp real.",
+        "Analizor de spectru de frecvență în timp real cu 32 de benzi.",
+        "Detectarea mai multor dispozitive microfon, cum ar fi microfoane USB, microfoane de căști etc.",
+        "Posibilitatea de a configura ratele de eșantionare până la 48 kHz, calitate de studio.",
+        "Configurare pentru înregistrare audio în mono sau stereo.",
+        "Indicator de nivel de vârf și RMS pentru audio.",
+        "Înregistrare automată audio cu opțiune de redare."
+      ]
+    },
+    "whoUses": {
+      "title": "Cine Folosește Testul Nostru de Webcam și Microfon",
+      "remoteWorkers": {
+        "title": "Lucrători la distanță și profesioniști",
+        "description": "Un lucrător la distanță sau un profesionist efectuează un test rapid înainte de videoconferințele și întâlnirile pe Zoom, Google Meet sau Microsoft Teams pentru a vedea dacă camera lor web funcționează corect, apoi efectuează un <strong>test de microfon</strong> rapid pentru a se asigura că sunt audibili, astfel încât să nu fie nevoiți să repete și să nu fie întrerupți cu un «Nu vă auzim!»"
+      },
+      "contentCreators": {
+        "title": "YouTuberi, streameri Twitch, podcasteri și alți creatori de conținut",
+        "description": "Pentru YouTuberi, streameri Twitch, podcasteri și alți creatori de conținut, instrumentul nostru avansat de diagnosticare audio și video este indispensabil. Folosiți analizorul de spectru de frecvență pentru a rezolva problemele audio și rulați teste de calitate video pentru a vă asigura că oferiți conținut de înaltă calitate."
+      },
+      "students": {
+        "title": "Studenți și Profesori",
+        "description": "Studenții trebuie să se asigure că pot comunica prin internet. Ei efectuează teste înainte de cursuri pentru a confirma că echipamentul lor funcționează. Profesorii verifică, de asemenea, dacă echipamentul lor este în stare de funcționare pentru a preda cursurile cu succes."
+      },
+      "jobSeekers": {
+        "title": "Persoane în Căutarea unui Loc de Muncă",
+        "description": "Dacă urmează să susțineți interviuri video, asigurați-vă că faceți un <strong>test de cameră</strong> și un <strong>test de microfon</strong> înainte. Aceasta este un factor diferențiator important și va arăta că sunteți pregătit. (Nimic nu este mai rău decât să pierzi o oportunitate din cauza unei defecțiuni tehnice.)"
+      },
+      "gamers": {
+        "title": "Gameri:",
+        "description": "Folosiți o cască de gaming? Obțineți rezultatele precise de care aveți nevoie pentru a vă testa microfonul pentru Discord, chat în joc sau streaming."
+      },
+      "techSupport": {
+        "title": "Asistență Tehnică",
+        "description": "Dacă aveți probleme cu camera sau microfonul, instrumentele noastre vă pot ajuta să determinați dacă problema este cu hardware-ul, driverele sau setările software."
+      }
+    },
+    "privacy": {
+      "title": "Confidențialitate 100% Garantată",
+      "intro": "Confidențialitatea este în centrul a tot ceea ce facem cu instrumentele noastre de <strong>test webcam</strong> și <strong>test microfon</strong>. Înțelegem că, prin accesarea camerei și microfonului, partajați informații private cu noi. De aceea, întreaga noastră platformă este proiectată cu o politică de încredere zero.",
+      "localProcessing": {
+        "title": "Toate procesările se fac pe dispozitivul dvs. local",
+        "description": "Procesarea video și audio se face folosind API-urile WebRTC din browserul dvs. Nu stocăm datele dvs. pe serverele noastre deoarece nici nu le primim."
+      },
+      "noAccount": {
+        "title": "Nu Este Necesar Cont",
+        "description": "Nu trebuie să vă creați un cont, să introduceți o adresă de email sau să partajați detalii personale. Pur și simplu accesați site-ul, acordați permisiunea browserului, testați-vă dispozitivele și gata."
+      },
+      "transparent": {
+        "title": "Cod transparent",
+        "description": "Nu obscurcăm codul nostru. Puteți să-l vizualizați în browser folosind instrumentele de dezvoltator. Fără urmărire, fără colectare de date, fără analize care să vă colecteze datele private."
+      },
+      "cleanup": {
+        "title": "Ștergere Automată:",
+        "description": "Toate înregistrările sunt stocate în stocarea locală a browserului. Acestea vor fi șterse automat când închideți browserul sau ștergeți stocarea locală. Aveți control complet asupra a ceea ce este stocat și pentru cât timp."
+      }
+    },
+    "compatibility": {
+      "title": "Compatibilitate între Browsere și Dispozitive",
+      "intro": "Cele mai populare browsere și dispozitive actualizate sunt compatibile cu testele noastre de webcam și microfon. Ambele instrumente sunt disponibile pe Windows, Mac OS, Linux, iOS, Android sau orice alt sistem de operare care suportă un browser modern, fără a necesita descărcări sau instalări suplimentare.",
+      "browsersTitle": "Browsere Compatibile",
+      "browsers": [
+        "Google Chrome (cea mai bună performanță)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (pe MacOS și iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Dispozitive Compatibile",
+      "devices": [
+        "Camere web integrate sau externe USB pe computere desktop și laptopuri",
+        "Smartphone-uri și tablete cu camere frontale și posterioare",
+        "Camere USB externe și camere web pentru PC",
+        "Microfoane integrate în laptop",
+        "Microfoane USB externe",
+        "Căști de gaming cu microfon",
+        "Interfețe audio profesionale și microfoane cu condensator"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Aveți Nevoie de Ajutor?",
+      "intro": "Nu reușiți să faceți <strong>testul webcam</strong> sau <strong>testul microfon</strong> să funcționeze? Încercați una dintre aceste soluții.",
+      "cameraTitle": "Camera Nu Este Detectată sau Nu Funcționează",
+      "cameraIssues": [
+        "Asigurați-vă că ați permis accesul la cameră în browser. În bara de adrese, veți vedea un simbol de cameră pe care îl puteți folosi pentru a activa accesul la cameră.",
+        "Folosiți camera într-o altă aplicație (Zoom, Teams, Skype etc.). Puteți folosi camera doar într-o singură aplicație la un moment dat. Închideți cealaltă aplicație sau reîmprospătați pagina și permiteți accesul din nou.",
+        "Reîmprospătați pagina și permiteți accesul din nou. Ar putea fi din cauza unei erori a browserului.",
+        "Folosiți cea mai recentă versiune a browserului.",
+        "Verificați dacă driverele camerei sunt instalate corect pe computerul dvs.",
+        "Dacă folosiți o cameră USB, încercați să o conectați la un alt port USB sau folosiți un cablu diferit."
+      ],
+      "microphoneTitle": "Microfonul Nu Funcționează",
+      "microphoneIssues": [
+        "Permiteți accesul la microfon în browserul dvs.",
+        "Asigurați-vă că microfonul este conectat corespunzător la sursa de alimentare.",
+        "Folosiți setările de sunet ale sistemului pentru a verifica dacă microfonul funcționează.",
+        "Alte aplicații folosesc microfonul. Încercați să le închideți.",
+        "Încercați să ajustați nivelul microfonului din setările sistemului pentru a crește volumul dacă nu sunteți suficient de tare, sau pentru a reduce volumul dacă sunteți prea tare.",
+        "Verificați dacă microfonul nu este setat pe mut în sistem sau pe dispozitiv (dacă are un buton fizic de dezactivare)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Linkuri Rapide",
+      "webcamTitle": "Testare Webcam:",
+      "webcamLinks": ["Test Webcam", "Testează Camera Online", "Test Cameră", "Tester Cameră Online", "Test Webcam Gratuit", "Verifică Camera Mea", "Test Cameră USB", "Test Cameră Laptop", "Test Cameră pentru Zoom"],
+      "microphoneTitle": "Testare Microfon:",
+      "microphoneLinks": ["Test Microfon", "Test Mic Online", "Testează Microfonul Meu", "Tester Microfon Online", "Test Mic Gratuit", "Verifică Microfonul", "Test Audio Online", "Test Microfon USB", "Test Mic Discord"]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Testați camera web cu instrumentul nostru rapid și simplu de testare online. Acesta oferă o previzualizare în timp real a camerei, setări multiple de calitate, efecte speciale și înregistrare automată folosind camera dvs. online, toate fără instalarea de software suplimentar. Astfel, îl puteți folosi ca <strong>test de cameră</strong> pentru videoconferințe, sau pentru a testa camera web integrată a unui computer nou.",
+      "p2": "Pentru a testa, apăsați butonul «Porniți Camera și Înregistrarea» de mai sus. O previzualizare live a camerei web va apărea, astfel încât să puteți vedea dacă videoclipul funcționează, să testați iluminarea și dacă camera este poziționată corespunzător. Nimic nu este încărcat, stocat sau accesat. Testul dvs. video se realizează local pe computerul dvs."
+    },
+    "howToUse": {
+      "title": "Cum Să Folosiți Instrumentul Nostru de Testare Webcam",
+      "intro": "Pentru a testa camera web, urmați acești pași simpli:",
+      "steps": [
+        "<strong>Permiteți Accesul:</strong> Va apărea un dialog care vă va întreba dacă browserul poate accesa camera web. Apăsați Permite pentru a permite browserului să acceseze camera web. Rețineți că acest lucru este valabil pentru orice site web de testare webcam. Dialogul apare ca măsură de securitate pentru a preveni accesul site-urilor web aleatorii la camera web.",
+        "<strong>Selectați camera corectă:</strong> Dacă aveți mai multe camere (de exemplu, o cameră integrată în laptop și o cameră USB separată), puteți selecta care cameră să fie folosită din meniul derulant. Instrumentul nostru de testare webcam va detecta și lista automat toate camerele.",
+        "<strong>Selectați calitatea:</strong> Alegeți rezoluția dorită (calitatea) din meniul derulant de calitate. Puteți testa camera la calitate scăzută (240p), calitate medie (480p), calitate înaltă (720p), calitate fullHD (1080p) etc. Calitatea mai ridicată oferă o imagine mai clară, dar necesită mai multă lățime de bandă și procesor.",
+        "<strong>Porniți testul:</strong> Apăsați Porniți Camera și Înregistrarea și veți vedea imediat fluxul live de la camera dvs. Puteți începe imediat înregistrarea și apoi vizualiza calitatea.",
+        "<strong>Folosiți filtre vizuale:</strong> Avem peste 9 filtre vizuale (alb-negru, sepia, estompare, contrast ridicat etc.) pentru a vedea cum afectează ieșirea camerei.",
+        "<strong>Faceți o captură:</strong> Puteți face o captură de ecran în timpul testului pentru a verifica calitatea imaginii sau pentru a vedea cum gestionează camera condițiile specifice de iluminare.",
+        "<strong>Opriți și Salvați:</strong> Când ați terminat, apăsați Opriți și Salvați Înregistrarea pentru a opri înregistrarea. Videoclipul va fi salvat în browser, astfel încât să îl puteți reda și descărca."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Funcții Avansate ale Camerei Web",
+      "intro": "Instrumentul nostru de <strong>testare webcam</strong> include funcții de nivel profesional concepute pentru diverse cazuri de utilizare - de la apeluri video ocazionale la crearea de conținut.",
+      "mirrorMode": {
+        "title": "Mod Oglindă pentru Selfie-uri Perfecte",
+        "description": "Oglindirea și inversarea este o funcție indispensabilă pentru tutoriale de machiaj, bloggeri și pentru cei care vor să vadă cum arată din perspectiva oglinzii. Când apăsați butonul Oglindă (cu camera pornită), acesta va inversa orizontal videoclipul camerei web, astfel încât să vă puteți verifica fața, să vă machiați sau pur și simplu să vă obișnuiți cu vederea din oglindă. Mai ales dacă înregistrați un videoclip YouTube, un videoclip TikTok sau o poveste Instagram unde trebuie să arătați text, să folosiți indicații de direcție etc."
+      },
+      "digitalZoom": {
+        "title": "Zoom Digital (1x la 3x)",
+        "description": "Vedeți cât de clară este <strong>camera web</strong> la diferite niveluri de zoom. Ideal pentru demonstrații de produse, tutoriale sau pur și simplu pentru a vedea detalii de aproape. Cursor de zoom și butoane rapide 1x, 2x, 3x pentru a testa claritatea camerei web la zoom. Util pentru a vedea dacă trebuie să vă apropiați de cameră sau dacă puteți face zoom fără a degrada prea mult calitatea imaginii. Practic pentru streamerii live care vor să facă zoom pe pictura, meșteșugurile sau lucrările de reparații tehnice."
+      },
+      "brightnessContrast": {
+        "title": "Controale de Luminozitate și Contrast",
+        "description": "Ajustați luminozitatea (50-150%) și contrastul (50-150%) și vedeți cum arată camera web în diferite condiții de iluminare. Puteți folosi aceste cursoare pentru a testa dacă expunerea automată a camerei funcționează corespunzător și pentru a simula diferite setări de înregistrare. Dacă este prea întunecat sau prea luminos în camera dvs., puteți ajusta cursoarele la o setare confortabilă pentru următoarea întâlnire video. Streamerii și YouTuberii folosesc adesea aceste cursoare pentru a obține cele mai bune rezultate de la camera lor și pentru a menține aceleași condiții de iluminare pentru videoclipurile lor."
+      },
+      "gridOverlay": {
+        "title": "Suprapunere Grilă pentru Încadrare Profesională",
+        "description": "Suprapunerea de grilă integrată utilizează tehnica de compoziție Regula Treimilor, permițându-vă să vă încadrați perfect fața în înregistrare. Pur și simplu plasați ochii pe linia orizontală superioară și aliniați fața cu ghidajele verticale. Acest principiu profesional de fotografie asigură înregistrări video mai atractive și mai interesante pentru YouTube, întâlniri de afaceri sau streamuri Twitch. Suprapunerea de grilă ajută la o încadrare consistentă în înregistrările repetate."
+      },
+      "videoFilters": {
+        "title": "Filtre și Efecte Video",
+        "description": "Aplicați următoarele filtre pe <strong>camera web</strong> pentru a vedea cum arată: Normal, Tonuri de Gri, Sepia, Inversare, Estompare, Luminozitate, Contrast, Rotație Nuanță și Saturație. Filtrele vă arată cât de bine poate reprezenta camera culorile și cum va arăta atunci când folosiți filtre de efecte video. Dacă sunteți streamer sau youtuber, puteți folosi filtrele pentru a vedea cum ar arăta streamul dvs. cu diferite efecte aplicate. Filtrele pot fi folosite și pentru a vedea dacă camera dvs. produce culorile corecte. Comparați rezultatele filtrelor Tonuri de Gri și Sepia."
+      },
+      "videoMetrics": {
+        "title": "Metrici Video în Timp Real și Histogramă:",
+        "description": "Vizualizați detalii tehnice despre videoclipul dvs., cum ar fi rezoluția, rata de cadre și rata de biți. Histograma RGB vă permite să vizualizați distribuția culorilor din videoclip. Acest lucru este util pentru detectarea supra/sub-expunerii, a dominantelor de culoare și a iluminării necorespunzătoare. Această funcție este ideală pentru profesioniști precum videografi, youtuberi și vloggeri care doresc să se asigure că videoclipul lor este cât mai bun posibil. Dacă histograma dvs. are o tăietură pe oricare dintre laturi, va trebui să corectați iluminarea sau setările camerei."
+      },
+      "advancedControls": {
+        "title": "Controale Avansate ale Camerei",
+        "description": "Unele camere web au funcții precum expunerea, modul de focalizare, balanțul de alb, ISO și claritatea care pot fi controlate de utilizator. Aplicația noastră web vă va permite să verificați ce poate face <strong>camera web</strong>. Puteți comuta între modul de focalizare automată și manuală, puteți modifica balanțul de alb pentru a se potrivi cu temperatura luminii sau puteți seta compensarea expunerii după preferințe. Acest lucru este foarte util pentru streameri, YouTuberi și profesioniști care trebuie să controleze setările camerei."
+      },
+      "backgroundBlur": {
+        "title": "Efect de Estompare a Fundalului",
+        "description": "Încercați estomparea fundalului bazată pe web fără aplicații sau ecran verde. Efectul nostru de estompare a fundalului folosește cele mai recente tehnologii web pentru a elimina fundalul și a-l separa de dvs., util când trebuie să efectuați apeluri de videoconferință de acasă cu un fundal pe care nu doriți ca alții să-l vadă. Puteți ajusta nivelul de estompare aplicat fundalului. Acest instrument vă permite să vedeți cât de bine funcționează efectul de estompare a fundalului cu <strong>camera web</strong> și aplicația de cameră. Acest lucru este deosebit de util pentru dezvoltatorii web, specialiștii în marketing digital și pentru toți cei care creează conținut video."
+      },
+      "motionDetection": {
+        "title": "Detectare Mișcare pentru Testare de Securitate",
+        "description": "Dacă doriți să verificați cât de bine reacționează <strong>camera web</strong> la mișcare, folosiți detectarea noastră de mișcare în timp real. Cu modul Avansat puteți vedea un indicator live al procentului de mișcare reflectat în videoclipul dvs. Folosiți acest lucru pentru testarea mișcării camerelor de securitate, configurarea sistemelor de supraveghere sau testarea camerelor cu înregistrare activată de mișcare. Detectorul de mișcare analizează fluxul video cadru cu cadru pentru a determina cantitatea de mișcare. Acest lucru permite verificarea cât de bună este camera și ce sensibilitate aveți nevoie. Util pentru securitatea locuinței, monitorizarea animalelor de companie și testarea monitoarelor pentru bebeluși."
+      },
+      "faceDetection": {
+        "title": "Detectare și Urmărire Facială",
+        "description": "Verificați capacitatea camerei web de a detecta fețe. În modul avansat, desenăm casete de încadrare în jurul fețelor și le numărăm. Instrumentul nostru de detectare facială folosește FaceDetector API, când este disponibil în browserul dvs., pentru a detecta mai multe fețe într-un cadru. Folosiți acest instrument pentru a testa funcționalitatea <strong>camerei</strong> pentru auto-încadrare în videoconferințe, sau pentru a vedea cum gestionează mai mult de o față. Creatorii de conținut video pot vedea dacă camera lor detectează corect fețele pentru auto-focalizare, iar profesioniștii pot verifica dacă sala de întâlnire multi-persoană funcționează conform așteptărilor."
+      },
+      "sideBySide": {
+        "title": "Mod una lângă alta: Comparați două camere",
+        "description": "Modul una lângă alta vă permite să comparați 2 camere web una lângă alta. Este util pentru testarea simultană a mai multor camere web. Dacă aveți o cameră web integrată și o cameră web USB externă, le puteți vizualiza una lângă alta în același timp. Este foarte util și pentru alegerea unei camere web de cumpărat. Puteți compara calitatea imaginii camerei, acuratețea culorilor, performanța în lumină scăzută și câmpul vizual în timp real. Este un instrument excelent pentru streameri și YouTuberi."
+      }
+    },
+    "videoQuality": {
+      "title": "Setările de Calitate Video ale Camerei Web Explicate",
+      "intro": "Rezoluția determină claritatea videoclipului produs de camera web. Iată cum se comportă setările în testul nostru de rezoluție webcam:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Aceasta este setarea de cea mai scăzută calitate, pentru când doriți doar să testați dacă streamul funcționează iar conexiunea la internet este foarte slabă. Videoclipul va fi neclar, dar este ideal pentru a vedea dacă camera transmite, cel puțin."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Calitate scăzută, consum mic de lățime de bandă. Puteți efectua un apel video la rezoluție mică dacă nu vă pasă prea mult de calitate. Încă puteți distinge fețele, dar nimic altceva."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Definiție standard. Aceasta este calea de mijloc între calitate și lățime de bandă. Majoritatea aplicațiilor de chat video și streaming o pot folosi. Aceasta este de obicei rezoluția majorității camerelor web mai vechi."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Această rezoluție oferă calitate video de înaltă definiție pentru videoconferințe, excelentă pentru utilizare profesională. Oferă imagini clare și calitate decentă a culorilor. Aceasta este cea mai populară rezoluție utilizată în aplicațiile de videoconferință precum Zoom, Teams și Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Aceasta este cea mai înaltă rezoluție pe care o veți găsi la o cameră web și este ideală pentru persoanele care doresc să creeze conținut de înaltă calitate, să facă streaming sau au nevoie de cea mai bună calitate video posibilă. Necesită mai multă lățime de bandă și procesare, dar veți obține o imagine clară și profesională."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Rezoluție Quad HD cu detalii și claritate excelente. Excelentă pentru creatorii profesioniști de conținut, streamerii care necesită un nivel ridicat de calitate a imaginii și cei cu monitoare 4K care doresc o rezoluție nativă. Sunt necesare camere web de înaltă calitate și o cantitate semnificativă de lățime de bandă."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra High Definition cu de patru ori mai mulți pixeli decât 1080p. Calitate de nivel profesional pentru creatorii de conținut, realizatorii de filme și streaming de ultimă generație. Necesită camere web premium, hardware de calculator puternic și internet de mare viteză. Perfect pentru pregătirea înregistrărilor pentru viitor și maximizarea detaliilor pentru zoom digital și decupare."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "Rezoluția maximă posibilă. Are de 16 ori mai mulți pixeli decât 1080p. Aceasta este utilizată de obicei pentru camere web profesionale de foarte înaltă gamă, sau pentru persoane care folosesc DSLR/mirrorless ca webcam. Veți avea nevoie de o cameră web sau DSLR/mirrorless de foarte înaltă gamă, un computer extrem de puternic și o conexiune extrem de rapidă. Aceasta ar trebui folosită doar când aveți nevoie de calitate la nivel de cinema, sau când aveți un monitor extrem de mare, sau dacă doriți să faceți zoom digital foarte mult."
+        }
+      },
+      "tip": "Dacă faceți un test webcam, testați mai întâi cu 720p pentru a vă asigura că camera funcționează cu înaltă definiție, apoi testați cu orice altă rezoluție de care aveți nevoie."
+    },
+    "frameRate": {
+      "title": "Rata de Cadre și Performanța Video Fluidă.",
+      "intro": "Rata de cadre este frecvența (rata) la care un dispozitiv de imagistică produce imagini consecutive unice numite cadre. Rata de cadre este exprimată în cadre pe secundă (FPS). Cu cât rata de cadre este mai mare, cu atât videoclipul arată mai fluid, mai ales în mișcare. Instrumentul nostru online de testare webcam verifică FPS-ul real al camerei web, pentru a arăta dacă camera dvs. are probleme.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Acceptabil pentru videoconferințe. Mișcarea arată oarecum sacadată. Ar putea fi o cameră low-end, iluminare slabă sau un bottleneck al procesorului."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Aceasta este rata de cadre tipică pentru camerele web și majoritatea aplicațiilor de videoconferință. Mișcarea este fluidă și reală. Aceasta este și rata de cadre ideală pentru o videoconferință profesională."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "O rată de cadre ridicată care permite o fluiditate și mai mare a mișcării. Ideală pentru streameri și YouTuberi unde fluiditatea mișcării este esențială. Rețineți că nu toate camerele web suportă 60 FPS și va consuma mai multă lățime de bandă."
+        }
+      },
+      "tip": "Dacă rezultatul testului camerei web arată o rată de cadre scăzută, ați putea lua în considerare folosirea unei rezoluții mai mici sau îmbunătățirea iluminării. Lumina poate fi o problemă pentru camerele web, deoarece acestea pot reduce rata de cadre pentru a putea crește timpul de expunere."
+    },
+    "lighting": {
+      "title": "Sfaturi pentru un Video Webcam Mai Bun",
+      "intro": "Iluminarea este cea mai importantă variabilă când vine vorba de calitatea videoclipului webcam. O cameră web de calitate scăzută cu iluminare excelentă va arăta mai bine decât o cameră web de înaltă calitate cu iluminare slabă.",
+      "tips": {
+        "position": {
+          "title": "Lumină în Fața Dvs.",
+          "description": "Sursa de lumină ar trebui să fie în fața dvs., nu în spatele dvs. Iluminarea din spate (cum ar fi poziționarea în fața unei ferestre) vă va face fața întunecată și umbrită."
+        },
+        "soft": {
+          "title": "Lumină Difuză",
+          "description": "Evitați iluminarea directă care creează umbre puternice și puncte luminoase. Mai multe surse de lumină, sau lumina care vine din ferestre mari, este întotdeauna difuză și creează imagini cu aspect mai profesional."
+        },
+        "flicker": {
+          "title": "Evitarea Becurilor cu Pâlpâire",
+          "description": "Unele becuri LED și lămpi fluorescente vor pâlpâi la o frecvență pe care camera o poate detecta, iar veți obține pâlpâire în videoclip. Încercați să folosiți becuri incandescente sau becuri LED de calitate ridicată pentru video."
+        },
+        "color": {
+          "title": "Temperatura de culoare este un alt factor de luat în considerare.",
+          "description": "Asigurați-vă că toate sursele de lumină au aceeași temperatură de culoare. Amestecul de lumină caldă și rece arată nesănătos. Camerele web arată în general mai bine sub lumină echilibrată cu lumina zilei (5000-6500K)."
+        }
+      },
+      "tip": "Testați instrumentul nostru de testare webcam cu mai multe surse de lumină pentru a determina dacă imaginea camerei web se îmbunătățește. Puteți testa diferite setări de lumină datorită vizualizării live pentru a vedea ce funcționează cel mai bine pentru dvs."
+    },
+    "types": {
+      "title": "Tipuri de Camere Web și Ce Să Așteptați",
+      "builtIn": {
+        "title": "Camere Web Integrate în Laptop",
+        "description": "Laptopurile au aproape întotdeauna o cameră web integrată în partea de sus a ecranului. De cele mai multe ori, acestea sunt camere de 720p și funcționează bine pentru chat-ul video ocazional. Cu toate acestea, calitatea poate varia considerabil în funcție de laptopul pe care îl dețineți. În general, laptopurile mai performante vor avea camere web mai bune."
+      },
+      "usb": {
+        "title": "Camere Web USB",
+        "description": "Există și camere web externe care se conectează prin USB. Dacă căutați ceva mai bun decât camera integrată, un model de bază vă va oferi 1080p la 30 FPS, dar modelele de top vor ajunge până la 4K, 60 FPS, cu auto-focalizare, compensare în lumină scăzută etc."
+      },
+      "streaming": {
+        "title": "Camere de Streaming:",
+        "description": "Camere create pentru streameri, acestea se concentrează pe calitatea imaginii cu senzori mai mari, sensibilitate îmbunătățită în lumină scăzută și știință a culorilor îmbunătățită. HDR și ajustările FOV sunt comune."
+      },
+      "dslr": {
+        "title": "Opțiunea 1: DSLR/Mirrorless ca Webcam",
+        "description": "Multe camere noi pot fi folosite ca webcam prin USB sau cu o placă de captură. Aceasta vă va oferi cea mai înaltă calitate a imaginii, dar va necesita și cea mai mare cantitate de echipament și configurare."
+      },
+      "tip": "Dacă nu sunteți sigur dacă camera dvs. funcționează cu instrumentul nostru, testul nostru cuprinzător de webcam este compatibil cu toate tipurile de camere. Nu ezitați să-l folosiți pentru a compara diferite camere web sau pur și simplu pentru a verifica dacă noua dvs. cameră web funcționează după ce ați conectat-o."
+    },
+    "troubleshooting": {
+      "title": "Aveți Nevoie de Ajutor pentru Repararea Camerei Web?",
+      "intro": "Dacă ați efectuat un test și ați descoperit o problemă, urmați acești pași pentru a identifica și remedia cele mai frecvente probleme:",
+      "blackScreen": {
+        "title": "Camera Web Arată Ecran Negru",
+        "issues": [
+          "Verificați dacă aveți o acoperire fizică (cum ar fi un slider de confidențialitate, un plasture sau o bucată de bandă adezivă) peste obiectivul camerei",
+          "Verificați dacă o altă aplicație (Skype, Zoom, Teams etc.) folosește în prezent camera în fundal. Închideți acele aplicații și încercați din nou acest test webcam.",
+          "Dacă încă întâmpinați probleme, încercați să reporniți browserul și să încercați din nou testul webcam.",
+          "Dacă folosiți o cameră web USB externă, încercați să o conectați la un alt port USB.",
+          "Actualizați sau reinstalați driverele camerei."
+        ]
+      },
+      "blurry": {
+        "title": "Videoclipul Camerei Web Este Neclar",
+        "issues": [
+          "Curățați obiectivul camerei web cu o lavetă din microfibră.",
+          "Dacă camera web are un inel de focalizare, încercați să ajustați manual focalizarea.",
+          "Asigurați-vă că este suficientă lumină pentru a ajuta camera să focalizeze automat.",
+          "Deplasați-vă puțin mai aproape sau mai departe de camera web și vedeți dacă se îmbunătățește."
+        ]
+      },
+      "colors": {
+        "title": "Culorile Camerei Web Arată Incorect",
+        "issues": [
+          "Vă aflați sub condiții de iluminare diferite? Iluminarea naturală și artificială pot avea tonuri de culoare diferite.",
+          "Încercați să ajustați balanțul de alb în setările camerei web, dacă este disponibil.",
+          "Purtați ceva sau aveți ceva în jurul dvs. cu o culoare dominantă care ar putea cauza o dominantă de culoare? Încercați să o eliminați."
+        ]
+      },
+      "choppy": {
+        "title": "Videoclipul Este Sacadat sau Cu Întârziere",
+        "issues": [
+          "Reduceți calitatea video în setările acestui instrument de testare webcam.",
+          "Încercați să închideți toate celelalte aplicații care consumă resurse CPU sau GPU.",
+          "Îmbunătățiți condițiile de iluminare pentru a reduce efortul camerei.",
+          "Dacă folosiți o cameră web USB externă, conectați-o direct la computer în loc de un hub USB."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Testarea Camerei Web pentru Platforme Specifice",
+      "zoom": {
+        "title": "Videoconferință Zoom",
+        "description": "Folosiți acest test webcam pentru a vă asigura că camera funcționează bine înainte de a începe o întâlnire Zoom importantă. Asigurați-vă că calitatea video este suficient de bună la 720p (care este calitatea implicită pentru majoritatea întâlnirilor Zoom). Asigurați-vă că iluminarea este suficientă și poziția dvs. în câmpul camerei web este bună înainte de a vă alătura unui apel Zoom."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "Video HD 1080p este disponibil în întâlniri. Testați camera la diferite rezoluții pentru a confirma că aceasta poate suporta rezoluția video Teams. Testați fundalul pentru calitate profesională pentru Together Mode și fundal virtual."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet ajustează automat calitatea video pe baza condițiilor de rețea. Testați la minimum 720p pentru a vă asigura că camera dvs. îndeplinește cerințele minime Google Meet pentru transmisie video de înaltă calitate."
+      },
+      "streaming": {
+        "title": "Streaming (Twitch/YouTube)",
+        "description": "Testați la rezoluția maximă pe care camera web o poate gestiona (preferabil 1080p60). Asigurați-vă că rata de cadre este stabilă și vedeți cât de bine se descurcă camera cu mișcări rapide și condiții de iluminare multiple."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Dacă folosiți Discord pentru apeluri video, este necesar să aveți o cameră web capabilă de 720p. Doriți să vă asigurați că camera pe care o aveți este potrivită pentru computerul dvs. și pentru sesiunile de gaming și apelurile comunității. Acest lucru vă asigură, de asemenea, că camera nu consumă prea multă lățime de bandă și nu vă afectează experiența de gaming."
+      }
+    },
+    "relatedTools": {
+      "title": "Instrumente și Resurse Conexe",
+      "alsoTry": "Încercați și:",
+      "alsoTryLinks": ["Test Webcam și Microfon", "Test Microfon", "Test Mic", "Test Înregistrare Audio", "Verifică Microfon Online"],
+      "onThisPage": "Pe Această Pagină:",
+      "onThisPageLinks": ["Cum Să Testați Camera Web", "Setări Calitate Video", "Depanare Cameră", "Remediere Webcam Nefuncțional", "Cele Mai Bune Setări Webcam"]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "A funcționat microfonul? Folosiți <strong>testul nostru de microfon</strong> rapid și simplu pentru a vă asigura că <strong>microfonul funcționează</strong> corect. Acest <strong>test de microfon online</strong> va arăta, de asemenea, nivelurile microfonului, spectrul de frecvență și va înregistra audio. Nu este necesar software sau plugin pentru a <strong>testa microfonul</strong>. <strong>Testați microfonul</strong> acum înainte de a intra live, de a începe un apel video sau de a înregistra un podcast.",
+      "p2": "Apăsați butonul «Porniți Microfonul și Înregistrarea» de mai sus pentru a verifica microfonul. Nivelurile audio sunt afișate în timp real, astfel încât să puteți vedea dacă microfonul captează sunetul conform așteptărilor. Graficul de frecvență audio cu 32 de benzi vă permite să vedeți cât de bine captează microfonul frecvențele de sunet. Acest lucru este deosebit de util dacă sunteți podcaster sau muzician, deoarece vă va permite să folosiți echipamente care pot capta toate frecvențele clar."
+    },
+    "howToTest": {
+      "title": "Cum Să Vă Testați Microfonul",
+      "intro": "Urmați acești pași pentru un <strong>test de microfon</strong> complet:",
+      "steps": [
+        "<strong>Permiteți Accesul la Microfon:</strong> Permiteți browserului să vă acceseze microfonul. Apăsați pe permite dacă apare o casetă de dialog cu o solicitare de a acorda acces la microfon. Dacă folosiți browserul pentru prima dată, s-ar putea să fie nevoie să apăsați pe pictograma de scut din bara de adrese și apoi să selectați microfonul pentru a permite site-ului accesul.",
+        "<strong>Alegeți Microfonul (dacă este necesar):</strong> Alegeți microfonul dorit din opțiunile derulante (microfonul computerului, microfonul extern etc.). <strong>Testul de microfon online</strong> poate fi efectuat doar prin intermediul unui singur microfon odată.",
+        "<strong>Setați Rata de Eșantionare și Canalele:</strong> Alegeți rata de eșantionare pentru microfon (44.1 kHz pentru calitate standard și 48 kHz pentru calitate superioară). Selectați canalul mono sau stereo în funcție de ce doriți să realizați.",
+        "<strong>Înregistrați un Test de Microfon:</strong> Apăsați pe butonul de înregistrare pentru a începe un <strong>test de microfon</strong>. Înregistrarea va porni automat pentru a putea asculta redarea ulterior și a vedea cum sună microfonul.",
+        "<strong>Observați Indicatorul de Nivel al Microfonului:</strong> Pe măsură ce efectuați <strong>testul de microfon</strong>, observați indicatorul de nivel al microfonului în timp ce vorbiți în microfon. Dacă înregistrează corect, indicatorul ar trebui să se miște în funcție de volumul vocii dvs. Culoarea verde indică nivelul ideal de volum, galben pentru un nivel de volum mai ridicat și roșu pentru volume prea puternice care pot cauza clipare.",
+        "<strong>Încercați Să Vorbiți la Volume Diferite:</strong> Efectuați un <strong>test de microfon</strong> vorbind cu voce normală și apoi cu voce foarte slabă și foarte tare. Acest lucru vă va ajuta să vedeți cât de sensibil este microfonul la diferite volume.",
+        "<strong>Redați Înregistrarea:</strong> După efectuarea <strong>testului de microfon online</strong>, redați înregistrarea pentru a vedea cum sună microfonul. Acest lucru vă va ajuta să identificați probleme pe care nu le-ați observa doar cu indicatorul de nivel al microfonului."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Funcții Avansate",
+      "intro": "Indiferent dacă depanați de ce microfonul nu funcționează sau doriți să obțineți cea mai bună performanță pentru o întâlnire importantă sau un livestream, există mai multe funcții avansate pe care le puteți testa pe acest site:",
+      "inputGain": {
+        "title": "Amplificare Optimă a Intrării",
+        "description": "Configurați amplificarea microfonului între 50% și 150% cu opțiunile noastre pre-configurate sau în timp real cu cursorul nostru. Controlul asupra amplificării de intrare este deosebit de important pentru cei care înregistrează audio pentru podcast, unde se doresc niveluri consistente între episoade, pentru muzicieni (atât voce, cât și instrumente) și pentru streameri care sunt sensibili la clipare și distorsiune. Selectați presetarea Scăzut (50%) pentru medii prea zgomotoase sau dacă aveți un microfon cu condensator sensibil, Normal (100%) pentru majoritatea cazurilor de utilizare și Amplificare (150%) pentru surse mai silențioase care necesită mai multă amplificare. Controlul nostru de amplificare în timp real folosește GainNode-ul Web Audio API pentru amplificare fără introducerea de zgomot sau latență."
+      },
+      "noiseSuppression": {
+        "title": "Aplicați suprimarea zgomotului pentru înregistrări curate",
+        "description": "Dacă doriți să eliminați sunetele de tastare, clicurile mouse-ului, ventilatoarele, aerul condiționat și sunete similare din înregistrare, activați suprimarea zgomotului și încercați din nou. Funcționează în browserul dvs. și poate fi folosită pentru a curăța înregistrările zgomotoase ale muncii la distanță, podcasturilor, înregistrărilor de acasă, videoclipurilor etc., fără a avea nevoie de un noise gate sau un plugin de reducere a zgomotului. Suprimarea zgomotului folosește Web Audio API pentru a suprima zgomotul direct pe microfon, astfel încât nu crește încărcarea procesorului și nici nu adaugă latență. Puteți testa atât cu, cât și fără suprimarea zgomotului pentru a vedea ce funcționează cel mai bine pentru microfonul dvs."
+      },
+      "echoCancellation": {
+        "title": "De ce este utilă: Anularea ecoului",
+        "description": "elimină feedback-ul acustic și ecoul din microfon înainte de test. Acest lucru este important pentru apeluri video, interviuri de podcast și streaming live când audio-ul difuzoarelor poate fi captat și de microfon. Folosiți fereastra de presetări pentru a activa anularea ecoului pentru a testa microfonul cu aceasta activată. Acest lucru vă va ajuta să decideți dacă trebuie să tratați acustic spațiul de înregistrare sau dacă vă puteți baza pe anularea ecoului din browser. Util pentru: lucrătorii la distanță, intervievatorii de podcast și oricine înregistrează într-o cameră cu multe suprafețe dure (care pot produce ecou)."
+      },
+      "autoGainControl": {
+        "title": "Mențineți un volum constant cu AGC",
+        "description": "AGC face nivelul microfonului dvs. să sune mai tare și mai constant. Dacă sunteți silențios, vă va face mai tare. Dacă sunteți tare, vă va face mai silențios. Este excelent pentru streameri, deoarece dacă sunteți într-un moment zgomotos, nu trebuie să vă faceți griji că sunteți prea tare. Este de asemenea bun pentru podcasteri, dacă vă depărtați de microfon. De asemenea, este excelent pentru videoconferințe, dacă doriți să sunați profesional. Bifați această opțiune și vedeți dacă AGC funcționează bine cu browserul și microfonul dvs. Dacă doriți să înregistrați muzică sau ASMR, poate doriți să o dezactivați."
+      },
+      "realtimeMeter": {
+        "title": "Monitorizați nivelurile audio în timp real.",
+        "description": "Indicatorul de nivel arată RMS (Root Mean Square) al semnalului audio, arătând nivelul real al audio-ului. Este afișat și vârful, unde nivelul va începe să clipeze. Indicatorul de nivel are trei secțiuni; verde, galben și roșu. Zona verde este nivelul optim, între -12 și -6 dB. Zona galbenă este între -6 și -3 dB, iar zona roșie este orice peste -3 dB, când audio-ul va clipa. Folosiți acest indicator pentru a vă asigura că microfonul este poziționat corect. Folosiți-l pentru a vă ajusta nivelul vocii. Folosiți-l pentru a monitoriza nivelul audio înainte de a apăsa înregistrare, astfel încât să știți că nivelurile nu vor clipa. Podcasterii îl folosesc pentru a potrivi nivelurile între episoade. Muzicienii îl folosesc pentru a seta amplificarea microfoanelor. Lucrătorii la distanță îl folosesc pentru a se asigura că pot fi auziți, dar nu sunt prea tari."
+      },
+      "frequencySpectrum": {
+        "title": "Analiză Spectru de Frecvență",
+        "description": "Analiză în timp real a spectrului de frecvență al răspunsului în frecvență al microfonului dvs. Folosiți spectrul cu 32 de benzi pentru a determina ce frecvențe captează microfonul dvs. Rumble excesiv (20-250Hz)? Medii tulburi (250Hz-2kHz)? Sibilanță aspră (6kHz-8kHz)? Aceasta este folosită de inginerii audio pentru a evalua microfoanele și camerele, de podcasteri pentru a găsi frecvențele problematice care trebuie egalizate și de muzicieni pentru a determina ce microfon funcționează cel mai bine pentru vocea sau instrumentul lor. Actualizările în timp real vă permit să analizați poziția, proximitatea și mediul înconjurător."
+      },
+      "sideBySide": {
+        "title": "Comparare una lângă alta a două microfoane",
+        "description": "Alegeți opțiunea de comparare una lângă alta pentru a folosi două microfoane simultan. Acest lucru este deosebit de util dacă aveți două microfoane conectate (să zicem microfonul integrat al laptopului și un microfon USB), și doriți să le vedeți una lângă alta pentru a compara calitatea audio, pragul de zgomot, răspunsul în frecvență și sensibilitatea fiecăruia. Acest lucru este util pentru alegerea microfonului de cumpărat, testarea diferitelor plasamente de microfon sau decizia ce microfon să folosiți pentru podcastul sau streamul dvs. Eu îl folosesc pentru a-mi dovedi că merită să cumpăr un microfon nou, designerii de sunet îl folosesc pentru a găsi o potrivire cu un alt microfon pentru înregistrare stereo, iar departamentul IT al unei companii l-ar putea folosi pentru a testa microfoanele înainte de a le distribui în companie. Pentru a-l folosi, alegeți setarea de comparare din presetări, selectați un al doilea microfon, și ambele vor fi afișate una lângă alta cu rezultate în timp real."
+      },
+      "snrMeasurement": {
+        "title": "Măsurarea Raportului Semnal-Zgomot (SNR)",
+        "description": "Numărul verde arată SNR-ul dvs. actual. 60 dB este minimul recomandat pentru înregistrare profesională, 50-60 dB este minimul pentru difuzare și podcast, iar 40-50 dB este suficient pentru chat-uri video și tutoriale. Un SNR bun vă va spune dacă microfonul dvs. este suficient de bun pentru ce doriți să faceți, dacă camera dvs. este prea zgomotoasă sau dacă trebuie să adăugați panouri acustice. Apăsați pe butonul «Avansat» din colțul din dreapta sus al ecranului pentru a afișa SNR-ul, pragul de zgomot și intervalul dinamic pe măsură ce măsurați. Aceasta este o măsurătoare utilă pentru podcasteri care doresc să se asigure că transmisia lor respectă standardele de difuzare, muzicieni care doresc să evalueze configurația studioului de acasă și pentru oricine căruia îi pasă de calitatea sunetului."
+      }
+    },
+    "audioLevels": {
+      "title": "Nivelurile Audio Explicate",
+      "intro": "Indicatorul de nivel audio din testul de microfon de mai sus oferă o reprezentare vizuală a nivelului de volum al intrării microfonului dvs. Este important să știți ce înseamnă fiecare nivel pentru a oferi un sunet excelent:",
+      "green": {
+        "title": "Zona Verde (0-50%)",
+        "description": "Niveluri audio acceptabile pentru majoritatea cazurilor. Sunați tare și clar și aveți mult spațiu pentru a deveni mai tare fără clipare. Încercați să rămâneți în această zonă pentru apeluri video și alte comunicații."
+      },
+      "yellow": {
+        "title": "Zona Galbenă (50-80%)",
+        "description": ": Niveluri audio ridicate care sunt încă acceptabile. Bune pentru înregistrare când doriți un audio puternic și prezent. Cu toate acestea, sunetele bruște puternice ar putea cauza clipare."
+      },
+      "red": {
+        "title": "Zona Roșie (80-100%)",
+        "description": ": Aceasta este zona de pericol, unde audio-ul dvs. va fi probabil distorsionat (clipat). Dacă sunteți frecvent în roșu, ar trebui să reduceți volumul microfonului din panoul de control sau să vă îndepărtați de microfon."
+      },
+      "peak": {
+        "title": "Nivel de Vârf:",
+        "description": "Cel mai înalt nivel atins în sesiunea dvs. Acest lucru este util pentru a verifica dacă există evenimente scurte zgomotoase care cauzează clipare, când nivelurile medii sunt în regulă."
+      },
+      "rms": {
+        "title": "Nivel RMS",
+        "description": "- Volum mediu în timp. Mult mai important decât vârful când vine vorba de volumul perceput. Doriți ca nivelurile RMS să fie în verde pentru un audio constant tare, dar totuși plăcut."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Analiza Spectrului de Frecvență",
+      "intro": "Testul nostru de microfon conține un analizor de spectru de frecvență cu 32 de benzi care afișează distribuția semnalului audio pe diferite frecvențe. Acesta este un instrument profesional care vă permite să analizați răspunsul în frecvență al microfonului și să diagnosticați diverse probleme:",
+      "low": {
+        "title": "Frecvențe Joase (20-250 Hz)",
+        "description": "Acestea sunt frecvențele de bas care adaugă corp și căldură vocii dvs. Energia excesivă la frecvențe joase poate face înregistrarea să sune tulbure sau cu boom. Aceasta poate fi adesea rezultatul stării prea aproape de microfon. (Efectul de proximitate.)"
+      },
+      "mid": {
+        "title": "Frecvențe Medii (250-4000 Hz)",
+        "description": "Cea mai mare parte a clarității vocii dvs. se află aici. Această zonă ar trebui să fie proeminentă și definită. Dacă această zonă lipsește, vocea dvs. va suna slabă sau îndepărtată."
+      },
+      "high": {
+        "title": "Frecvențe Înalte (4000-20000 Hz)",
+        "description": "Strălucire și claritate. O frecvență înaltă bine echilibrată reproduce vorbirea într-un mod clar și inteligibil. Prea multă frecvență înaltă sună ascuțit sau sibilant (sunet de tzz)."
+      },
+      "tip": "Observați indicatorul de frecvență în timp ce vorbiți. Dacă arată o distribuție uniformă a frecvențelor, atunci microfonul este într-o poziție bună și probabil captează un sunet natural. Dacă arată prea multă activitate pe partea joasă, s-ar putea să fie nevoie să vă îndepărtați puțin."
+    },
+    "sampleRates": {
+      "title": "Setări ale Ratei de Eșantionare",
+      "intro": "Rata de eșantionare este numărul de eșantioane audio prelevate pe secundă. Cu cât rata de eșantionare este mai mare, cu atât audio-ul are mai multe detalii, dar necesită și mai multe resurse pentru procesare și salvare:",
+      "rates": {
+        "22khz": {
+          "title": "22.05 kHz",
+          "description": "Calitate scăzută. Doar pentru voce. Consum foarte mic de lățime de bandă, dar răspuns slab în frecvență. Ar trebui evitată de obicei."
+        },
+        "44khz": {
+          "title": "44.1 kHz (Calitate CD)",
+          "description": "– Potrivită pentru utilizare generală. Înregistrează toate frecvențele care pot fi auzite de urechea umană (20 Hz – 20 kHz). Excelentă pentru videoconferințe, podcast și muzică."
+        },
+        "48khz": {
+          "title": "48 kHz (Standard Profesional):",
+          "description": "Foarte similară cu 44.1 kHz, dar de calitate puțin mai ridicată. Aceasta este standardul pentru video/film și difuzare. Folosiți-o dacă urmează să sincronizați audio cu video."
+        }
+      },
+      "tip": "În general, 44.1 kHz este suficient pentru majoritatea testelor de microfon. Dacă sunteți un profesionist audio serios și doriți cea mai înaltă calitate (sau aveți nevoie de ea pentru a se potrivi cu material video), puteți folosi 48 kHz."
+    },
+    "types": {
+      "title": "Tipuri de Microfoane",
+      "builtIn": {
+        "title": "Microfoane Integrate în Laptop:",
+        "description": "Acestea sunt microfoanele integrate în laptopul dvs. Sunt convenabile, dar tind să fie de calitate mai scăzută. Puteți auzi tastarea și ventilatorul de la computer. Puteți totuși să le folosiți, doar poziționați laptopul astfel încât microfonul să fie orientat spre dvs. Acest lucru este bun pentru un chat video cu prietenul sau membrul familiei, dar probabil nu doriți să înregistrați o narațiune cu el."
+      },
+      "usb": {
+        "title": "Microfoane USB:",
+        "description": "Iată recomandările noastre de top pentru microfoane USB atât pentru Mac, cât și pentru PC. Un microfon USB decent va face o diferență enormă comparativ cu microfonul intern al computerului. Blue Yeti și Audio-Technica AT2020 USB sunt două dintre cele mai populare microfoane USB și sună fantastic. Perfecte pentru podcast, streaming pe Twitch sau efectuarea de apeluri video."
+      },
+      "headset": {
+        "title": "Căști de gaming și căști intraauriculare:",
+        "description": "Dacă doriți o cască sau căști intraauriculare pentru gaming, le puteți considera și pe acestea ca opțiune. Sunt mai convenabile de folosit iar poziționarea microfonului rămâne aceeași de fiecare dată. Evident, cu cât căștile sunt mai bune (și mai scumpe), cu atât va fi mai bună calitatea. Acestea sunt excelente pentru gaming și efectuarea ocazională de apeluri."
+      },
+      "condenser": {
+        "title": "Microfoane cu Condensator",
+        "description": "Microfoane sensibile care captează audio bogat și detaliat. Necesită poziționare atentă și tratament acustic. Cele mai bune pentru înregistrări profesionale, narațiuni și producție muzicală."
+      },
+      "dynamic": {
+        "title": "Microfoane Dinamice:",
+        "description": "Robuste și excelente la respingerea zgomotului de fundal. Folosite adesea pentru podcast și streaming datorită toleranței lor față de mediile casnice. Nu sunt la fel de sensibile ca cele cu condensator, dar sunt mai convenabile."
+      },
+      "tip": "Testul nostru de microfon este compatibil cu toate tipurile de microfoane. Puteți să-l folosiți pentru a testa mai multe microfoane, pentru a încerca hardware nou sau pentru a rezolva probleme."
+    },
+    "bestPractices": {
+      "title": "Cele Mai Bune Practici de Înregistrare cu Microfonul.",
+      "distance": {
+        "title": "Distanța.",
+        "description": "15-30 cm de gura dvs. Mai aproape: Sunet mai plin de bas (efectul de proximitate) și captează respirația. Mai departe: Sunet mai subțire și captează zgomotul camerei."
+      },
+      "popFilter": {
+        "title": "Investiți într-un Filtru Pop:",
+        "description": "Plosivele (P, B, T) creează rafale de aer care rezultă în distorsiune. Plasați un filtru pop între dvs. și microfon și acestea vor dispărea. Dacă plănuiți să faceți podcast sau narațiune, acesta este indispensabil."
+      },
+      "background": {
+        "title": "Minimizați zgomotul de fundal",
+        "description": "— Opriți ventilatorul, închideți fereastra, reduceți telefonul la tăcere. Faceți testul de microfon în mediul în care veți înregistra. Există mult zgomot de care nici nu suntem conștienți."
+      },
+      "acoustics": {
+        "title": "Nu uitați de Acustica Camerei",
+        "description": "Nu doriți să înregistrați într-un spațiu cu multe suprafețe dure și plate — va crea ecou și reverberație. Doriți suprafețe moi care absorb reflecțiile sonore (perdele, covoare, panouri acustice). Puteți chiar înregistra într-un dulap plin de haine, ceea ce poate face o diferență enormă."
+      },
+      "positioning": {
+        "title": "Consistența este esențială!",
+        "description": "Dacă descoperiți că microfonul sună bine într-un anumit loc, păstrați-l acolo pe durata sesiunii de înregistrare. Puteți investi într-un braț articulat sau un suport de microfon dacă doriți să evitați mișcarea microfonului. Puteți chiar desena un cerc pe birou pentru a arăta unde ar trebui să fie microfonul pentru a obține din nou acel sunet bun."
+      }
+    },
+    "troubleshooting": {
+      "title": "Depanarea Problemelor Microfonului",
+      "noAudio": {
+        "title": "Audio Nedetectat:",
+        "issues": [
+          "Verificați dacă permisiunile microfonului sunt acordate în setările browserului",
+          "Verificați dacă dispozitivul de intrare corect este selectat în meniul derulant",
+          "Asigurați-vă că microfonul nu este dezactivat în setările hardware sau de sistem",
+          "Pentru microfoane USB, încercați un alt port",
+          "Închideți alte aplicații care ar putea folosi microfonul"
+        ]
+      },
+      "quiet": {
+        "title": "Audio Prea Silențios:",
+        "issues": [
+          "Creșteți nivelul de intrare al microfonului din setările sistemului",
+          "Deplasați-vă mai aproape de microfon",
+          "Verificați dacă există controale de amplificare pe microfon",
+          "Asigurați-vă că vorbiți în direcția pattern-ului de captare al microfonului"
+        ]
+      },
+      "distorted": {
+        "title": "Audio Distorsionat sau Cu Clipare:",
+        "issues": [
+          "Reduceți nivelul de intrare al microfonului din setările sistemului",
+          "Îndepărtați-vă ușor de microfon",
+          "Verificați dacă există obstrucții fizice sau impurități pe microfon"
+        ]
+      },
+      "echo": {
+        "title": "Ecou sau Reverberație:",
+        "issues": [
+          "Folosiți căști pentru a preveni difuzoarele să trimită feedback în microfon",
+          "Adăugați materiale moi în camera dvs. pentru a absorbi reflecțiile sonore",
+          "Apropiați-vă de microfon pentru a crește sunetul direct față de reflecțiile camerei"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Instrumente și Resurse Conexe",
+      "alsoTry": "Încercați și:",
+      "alsoTryLinks": ["Test Webcam și Microfon", "Test Webcam", "Test Cameră", "Test Înregistrare Video", "Verifică Camera Online"],
+      "onThisPage": "Pe Această Pagină:",
+      "onThisPageLinks": ["Cum Să Testați Microfonul", "Ghid Niveluri Audio", "Depanare Microfon", "Remediere Microfon Nefuncțional", "Cele Mai Bune Setări Microfon"]
+    }
+  }
+}

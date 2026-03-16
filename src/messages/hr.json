@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "home": {
+      "title": "Besplatan test web kamere i mikrofona online | MicTestCam",
+      "description": "Testirajte svoju web kameru i mikrofon odmah online. Besplatan alat za testiranje kamere i mikrofona - 100% privatno, bez preuzimanja. Provjerite rade li vaši uređaji prije video poziva."
+    },
+    "webcam": {
+      "title": "Test web kamere - Besplatan online alat za testiranje kamere | Provjerite svoju web kameru",
+      "description": "Besplatan alat za testiranje web kamere - odmah provjerite radi li vaša kamera. Testirajte web kameru s pregledom uživo, filterima, postavkama kvalitete i snimanjem. 100% privatno, bez potrebe za preuzimanjem."
+    },
+    "microphone": {
+      "title": "Test mikrofona - Besplatan online test mikrofona | Provjerite svoj zvuk",
+      "description": "Besplatan online test mikrofona - provjerite radi li vaš mikrofon. Testirajte razine zvuka, frekvencijski odziv i kvalitetu snimanja. 100% privatan tester mikrofona, bez preuzimanja."
+    },
+    "privacy": {
+      "title": "Pravila privatnosti | MicTestCam",
+      "description": "Saznajte kako MicTestCam štiti vašu privatnost. Sva testiranja web kamere i mikrofona odvijaju se lokalno u vašem pregledniku - nikada ne prikupljamo niti pohranjujemo vaše podatke."
+    },
+    "terms": {
+      "title": "Uvjeti korištenja | MicTestCam",
+      "description": "Uvjeti korištenja za MicTestCam - besplatan online alat za testiranje web kamere i mikrofona. Pročitajte naše uvjete korištenja usluge."
+    },
+    "contact": {
+      "title": "Kontaktirajte nas | MicTestCam",
+      "description": "Stupite u kontakt s timom MicTestCam. Kontaktirajte nas za podršku, povratne informacije ili poslovne upite o našim besplatnim alatima za testiranje web kamere i mikrofona."
+    },
+    "blog": {
+      "title": "Blog - Savjeti za web kameru i mikrofon | MicTestCam",
+      "description": "Stručni savjeti, vodiči i upute za testiranje web kamere, postavljanje mikrofona i optimizaciju zvuka/videa. Saznajte kako postići najbolju kvalitetu za video pozive."
+    },
+    "reviews": {
+      "title": "Najbolje recenzije web kamera i mikrofona | MicTestCam",
+      "description": "Detaljne recenzije, ocjene i vodiči za kupnju web kamera, mikrofona, slušalica s mikrofonom i audio/video opreme. Stručna analiza koja vam pomaže odabrati savršenu opremu za streaming i video pozive."
+    }
+  },
+  "nav": {
+    "home": "Početna",
+    "webcamTest": "Test web kamere",
+    "microphoneTest": "Test mikrofona",
+    "reviews": "Recenzije",
+    "blog": "Blog",
+    "privacy": "Pravila privatnosti",
+    "terms": "Uvjeti korištenja",
+    "contact": "Kontakt"
+  },
+  "privacy": {
+    "banner": "100% privatno - Ništa ne napušta vaš preglednik"
+  },
+  "home": {
+    "hero": {
+      "title": "Besplatan test web kamere i mikrofona online",
+      "subtitle": "Odmah provjerite rade li vaša kamera i mikrofon savršeno prije sljedećeg video poziva. Bez preuzimanja, bez registracije, potpuno privatno.",
+      "webcamCta": "Testirajte svoju web kameru",
+      "microphoneCta": "Testirajte svoj mikrofon"
+    },
+    "features": {
+      "title": "Zašto koristiti MicTestCam?",
+      "privacy": {
+        "title": "100% privatno",
+        "description": "Vaš zvuk i video nikada ne napuštaju vaš preglednik. Ne pohranjujemo, ne prenosimo niti obrađujemo bilo koje vaše medijske podatke na našim poslužiteljima."
+      },
+      "simple": {
+        "title": "Jednostavno jednim klikom",
+        "description": "Bez komplicirane konfiguracije. Samo kliknite gumb i odmah vidite svoju web kameru ili čujte svoj mikrofon. Funkcionira u sekundi."
+      },
+      "professional": {
+        "title": "Profesionalni alati",
+        "description": "Napredne značajke poput analize frekvencijskog spektra, video filtera, postavki kvalitete i mogućnosti lokalnog snimanja."
+      },
+      "universal": {
+        "title": "Radi svugdje",
+        "description": "Kompatibilno sa svim modernim preglednicima i uređajima. Testirajte prije Zoom, Teams, Meet, Discord ili bilo koje aplikacije za video konferencije."
+      }
+    },
+    "howItWorks": {
+      "title": "Kako funkcionira",
+      "step1": {
+        "title": "Kliknite Pokreni",
+        "description": "Odaberite test web kamere ili mikrofona i kliknite gumb za pokretanje"
+      },
+      "step2": {
+        "title": "Dopustite pristup",
+        "description": "Odobrite pregledniku dopuštenje za pristup vašoj kameri ili mikrofonu"
+      },
+      "step3": {
+        "title": "Pogledajte rezultate",
+        "description": "Odmah vidite svoj video prikaz ili razine zvuka. Po potrebi snimite isječke"
+      }
+    },
+    "faq": {
+      "title": "Često postavljana pitanja",
+      "q1": {
+        "question": "Je li ovaj test web kamere zaista privatan?",
+        "answer": "Da, apsolutno. Sva obrada odvija se izravno u vašem pregledniku pomoću Web API-ja. Nikakvi video ili audio podaci nikada se ne šalju na naše poslužitelje ili bilo kojoj trećoj strani. To možete provjeriti pregledavanjem kartice mreže u vašem pregledniku."
+      },
+      "q2": {
+        "question": "Trebam li nešto instalirati?",
+        "answer": "Nije potrebna nikakva instalacija. MicTestCam radi u potpunosti u vašem web pregledniku. Samo posjetite stranicu i kliknite pokreni."
+      },
+      "q3": {
+        "question": "Koji su preglednici podržani?",
+        "answer": "MicTestCam radi na svim modernim preglednicima uključujući Chrome, Firefox, Safari, Edge i Opera na stolnim i mobilnim uređajima."
+      },
+      "q4": {
+        "question": "Mogu li snimati video ili zvuk?",
+        "answer": "Da! Možete snimati video isječke na stranici za testiranje web kamere i audio isječke na stranici za testiranje mikrofona. Sve snimke se spremaju lokalno u vašem pregledniku i mogu se preuzeti."
+      },
+      "q5": {
+        "question": "Zašto moja kamera/mikrofon ne radi?",
+        "answer": "Provjerite jeste li pregledniku odobrili dopuštenje za pristup vašem uređaju. Provjerite da nijedna druga aplikacija ne koristi vašu kameru ili mikrofon. Pokušajte osvježiti stranicu ili odabrati drugi uređaj iz padajućeg izbornika."
+      },
+      "q6": {
+        "question": "Je li ovo besplatno za korištenje?",
+        "answer": "Da, MicTestCam je potpuno besplatan za korištenje bez ikakvih ograničenja ili skrivenih naknada."
+      },
+      "q7": {
+        "question": "Mogu li testirati prije Zoom/Teams/Meet poziva?",
+        "answer": "Apsolutno! MicTestCam je savršen za testiranje prije poziva. Jednostavno testirajte svoje uređaje ovdje, a zatim se pridružite video konferenciji s povjerenjem."
+      },
+      "q8": {
+        "question": "Kako odabrati drugu kameru ili mikrofon?",
+        "answer": "Koristite padajući izbornik uređaja na stranici za testiranje za prebacivanje između povezanih kamera ili mikrofona."
+      },
+      "q9": {
+        "question": "Gdje se spremaju moje snimke?",
+        "answer": "Snimke se spremaju lokalno u pohrani vašeg preglednika (IndexedDB). Ostaju sačuvane čak i nakon zatvaranja preglednika i mogu se preuzeti ili izbrisati u bilo kojem trenutku."
+      },
+      "q10": {
+        "question": "Radi li ovo na mobilnim telefonima?",
+        "answer": "Da, MicTestCam radi na mobilnim uređajima s modernim preglednicima. Možete testirati i prednju i stražnju kameru na svom telefonu."
+      }
+    },
+    "trust": {
+      "tests": "Više od 50.000 testova dnevno",
+      "apps": "Radi sa Zoom, Teams, Meet",
+      "browsers": "Podržani svi moderni preglednici"
+    }
+  },
+  "webcam": {
+    "title": "Test web kamere - Besplatan online tester kamere",
+    "subtitle": "Testirajte svoju kameru odmah. Pogledajte svoj video, prilagodite kvalitetu, primijenite filtere i snimite isječke.",
+    "startButton": "Pokreni kameru i snimi",
+    "stopButton": "Zaustavi i spremi snimku",
+    "snapshotButton": "Snimi fotografiju",
+    "permissionMessage": "Kliknite gornji gumb za pokretanje testa web kamere",
+    "recording": "Snimanje",
+    "deviceLabel": "Kamera",
+    "qualityLabel": "Kvaliteta",
+    "filterLabel": "Filter",
+    "filters": {
+      "normal": "Normalno",
+      "grayscale": "Sivi tonovi",
+      "sepia": "Sepia",
+      "invert": "Invertiranje",
+      "blur": "Zamućenje",
+      "brightness": "Svjetlina",
+      "contrast": "Kontrast",
+      "hueRotate": "Rotacija nijanse",
+      "saturate": "Zasićenje"
+    },
+    "savedRecordings": {
+      "title": "Spremljene snimke",
+      "clearAll": "Obriši sve",
+      "noRecordings": "Još nema snimki. Pokrenite snimanje za spremanje video isječaka.",
+      "play": "Reproduciraj",
+      "download": "Preuzmi",
+      "delete": "Obriši"
+    },
+    "testCamera": "Testiraj kameru",
+    "stopCamera": "Zaustavi kameru",
+    "record": "Snimi",
+    "stopRecording": "Zaustavi snimanje",
+    "showAdvanced": "Prikaži napredno",
+    "hideAdvanced": "Sakrij napredno",
+    "mirrorMode": "Zrcalni način",
+    "flipHorizontally": "Okreni vodoravno",
+    "digitalZoom": "Digitalni zum",
+    "brightness": "Svjetlina",
+    "contrast": "Kontrast",
+    "dark": "Tamno",
+    "normal": "Normalno",
+    "bright": "Svijetlo",
+    "low": "Nisko",
+    "high": "Visoko",
+    "cameraComparison": "Usporedba kamera",
+    "compareSideBySide": "Usporedba jedne pored druge",
+    "requires2Cameras": "(potrebne 2+ kamere)",
+    "secondCamera": "Druga kamera",
+    "fineTuneWhileRecording": "Fino podešavanje tijekom snimanja",
+    "camera1": "Kamera 1",
+    "camera2": "Kamera 2",
+    "motion": "Pokret",
+    "advanced": {
+      "title": "Napredne kontrole kamere",
+      "exposure": "Ekspozicija",
+      "focus": "Fokus",
+      "whiteBalance": "Balans bijele",
+      "image": "Slika",
+      "ptz": "PTZ",
+      "mode": "Način",
+      "exposureTime": "Vrijeme ekspozicije",
+      "distance": "Udaljenost",
+      "temperature": "Temperatura",
+      "sharpness": "Oštrina",
+      "zoom": "Zum",
+      "pan": "Pomak",
+      "tilt": "Nagib",
+      "saturation": "Zasićenje",
+      "noAdvancedControls": "Vaša kamera ne podržava napredne hardverske kontrole"
+    },
+    "backgroundBlur": {
+      "title": "Zamućenje pozadine",
+      "blurStrength": "Jačina zamućenja",
+      "skinToneNote": "Koristi se lagano prepoznavanje tona kože. Za bolje rezultate osigurajte dobru rasvjetu."
+    },
+    "faceDetection": {
+      "facesDetected": "Otkriveno",
+      "face": "Lice"
+    },
+    "framing": {
+      "grid": "Mreža",
+      "faceGuide": "Vodič za lice",
+      "moveRight": "Pomaknite se udesno",
+      "moveLeft": "Pomaknite se ulijevo",
+      "moveDown": "Pomaknite se dolje",
+      "moveUp": "Pomaknite se gore",
+      "moveCloser": "Približite se",
+      "moveBack": "Odmaknite se",
+      "greatFraming": "Odličan kadar!",
+      "noFaceDetected": "Lice nije otkriveno"
+    },
+    "histogram": {
+      "videoAnalysis": "Analiza videa",
+      "histogram": "Histogram",
+      "waveform": "Valni oblik",
+      "shadows": "Sjene",
+      "midtones": "Srednji tonovi",
+      "highlights": "Svijetli dijelovi"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Rezolucija",
+      "bitrate": "Brzina prijenosa",
+      "lighting": "Rasvjeta",
+      "dropped": "Ispušteno",
+      "tooDark": "Pretamno",
+      "lowLight": "Slaba rasvjeta",
+      "overexposed": "Preeksponirano",
+      "good": "Dobro",
+      "hideMetrics": "Sakrij metrike"
+    }
+  },
+  "microphone": {
+    "title": "Test mikrofona - Besplatan online tester mikrofona",
+    "subtitle": "Testirajte svoj mikrofon uz mjerač razine zvuka u stvarnom vremenu i analizator frekvencijskog spektra.",
+    "startButton": "Pokreni mikrofon i snimi",
+    "stopButton": "Zaustavi i spremi snimku",
+    "permissionMessage": "Kliknite gornji gumb za pokretanje testa mikrofona",
+    "recording": "Snimanje",
+    "deviceLabel": "Mikrofon",
+    "sampleRateLabel": "Frekvencija uzorkovanja",
+    "channelLabel": "Kanali",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Razina zvuka",
+    "frequencySpectrum": "Frekvencijski spektar",
+    "savedRecordings": {
+      "title": "Spremljene snimke",
+      "clearAll": "Obriši sve",
+      "noRecordings": "Još nema snimki. Pokrenite snimanje za spremanje audio isječaka.",
+      "play": "Reproduciraj",
+      "download": "Preuzmi",
+      "delete": "Obriši"
+    },
+    "testMicrophone": "Testiraj mikrofon",
+    "stopMicrophone": "Zaustavi mikrofon",
+    "record": "Snimi",
+    "stopRecording": "Zaustavi snimanje",
+    "showAdvanced": "Prikaži napredno",
+    "hideAdvanced": "Sakrij napredno",
+    "inputGain": "Ulazno pojačanje",
+    "noiseSuppression": "Suzbijanje šuma",
+    "enableNoiseReduction": "Omogući smanjenje šuma",
+    "echoCancellation": "Poništavanje jeke",
+    "reduceEchoFeedback": "Smanji povratnu jeku",
+    "autoGainControl": "Automatska kontrola pojačanja",
+    "autoAdjustVolume": "Automatsko podešavanje glasnoće",
+    "microphoneComparison": "Usporedba mikrofona",
+    "compareSideBySide": "Usporedba jedne pored druge",
+    "requires2Mics": "(potrebna 2+ mikrofona)",
+    "secondMicrophone": "Drugi mikrofon",
+    "fineTuneWhileTesting": "Fino podešavanje tijekom testiranja",
+    "boost": "Pojačanje",
+    "normal": "Normalno",
+    "low": "Nisko",
+    "advanced": {
+      "title": "Napredna analiza zvuka",
+      "metrics": "Metrike",
+      "spectrogram": "Spektrogram",
+      "signalToNoiseRatio": "Omjer signala i šuma",
+      "excellent": "Izvrsno",
+      "good": "Dobro",
+      "fair": "Zadovoljavajuće",
+      "poor": "Loše",
+      "rms": "RMS (dB)",
+      "peak": "Vršna vrijednost (dB)",
+      "noiseFloor": "Razina šuma",
+      "dominantFrequency": "Dominantna frekvencija",
+      "detectedIssues": "Otkriveni problemi",
+      "detectedAt": "otkriveno na",
+      "time": "Vrijeme",
+      "frequencyLowHigh": "Frekvencija (Nisko → Visoko)"
+    },
+    "processing": {
+      "title": "Obrada zvuka",
+      "noiseSuppression": "Suzbijanje šuma",
+      "reduceBackgroundNoise": "Smanji pozadinsku buku",
+      "echoCancellation": "Poništavanje jeke",
+      "removeAudioFeedback": "Ukloni audio povratnu spregu",
+      "autoGainControl": "Automatska kontrola pojačanja",
+      "normalizeVolumeLevels": "Normaliziraj razine glasnoće",
+      "directMonitoring": "Izravno praćenje",
+      "listenToYourMic": "Slušajte svoj mikrofon",
+      "monitorVolume": "Glasnoća praćenja",
+      "useHeadphones": "Koristite slušalice kako biste izbjegli povratnu spregu!"
+    },
+    "comparison": {
+      "title": "A/B usporedba mikrofona",
+      "microphoneA": "Mikrofon A",
+      "microphoneB": "Mikrofon B",
+      "selectMicrophone": "Odaberite mikrofon...",
+      "startComparison": "Pokreni usporedbu",
+      "selectTwoDifferent": "Molimo odaberite dva različita mikrofona",
+      "active": "Aktivan",
+      "switchTo": "Prebaci na",
+      "rmsLevel": "RMS razina",
+      "peakLevel": "Vršna razina",
+      "snr": "SNR (dB)",
+      "stopComparison": "Zaustavi usporedbu",
+      "micA": "Mik A",
+      "micB": "Mik B"
+    }
+  },
+  "privacyPage": {
+    "title": "Pravila privatnosti",
+    "lastUpdated": "Zadnje ažuriranje",
+    "intro": "U MicTestCam ozbiljno shvaćamo vašu privatnost. Ova Pravila privatnosti objašnjavaju kako postupamo s vašim informacijama kada koristite naše usluge testiranja web kamere i mikrofona.",
+    "sections": {
+      "noCollection": {
+        "title": "Ne prikupljamo vaše podatke",
+        "content": "MicTestCam je dizajniran s privatnošću kao temeljnim načelom. Ne prikupljamo, ne pohranjujemo niti prenosimo bilo kakve audio ili video podatke iz vaših testova web kamere ili mikrofona. Sva obrada odvija se u potpunosti unutar vašeg web preglednika pomoću lokalnih JavaScript API-ja."
+      },
+      "localStorage": {
+        "title": "Lokalna pohrana",
+        "content": "Kada snimate video ili audio isječke, oni se pohranjuju lokalno u IndexedDB pohrani vašeg preglednika. Ti podaci nikada ne napuštaju vaš uređaj i nisu dostupni nama niti bilo kojoj trećoj strani. Ove snimke možete izbrisati u bilo kojem trenutku putem sučelja aplikacije ili brisanjem podataka preglednika."
+      },
+      "cookies": {
+        "title": "Kolačići i analitika",
+        "content": "Koristimo minimalan broj kolačića samo za osnovnu funkcionalnost web stranice, poput jezičnih postavki. Možemo koristiti analitiku koja poštuje privatnost za razumijevanje općih obrazaca korištenja, ali ne pratimo pojedinačne korisnike niti prikupljamo osobne podatke."
+      },
+      "thirdParty": {
+        "title": "Usluge trećih strana",
+        "content": "Naša web stranica može sadržavati veze na web stranice trećih strana. Nismo odgovorni za prakse privatnosti tih vanjskih stranica. Preporučujemo da pregledate njihova pravila privatnosti prije pružanja bilo kakvih osobnih podataka."
+      },
+      "security": {
+        "title": "Sigurnost",
+        "content": "Koristimo HTTPS enkripciju za zaštitu sve komunikacije između vašeg preglednika i naše web stranice. Budući da ne prikupljamo vaše medijske podatke, ne postoji rizik od izlaganja vaših snimki web kamere ili mikrofona kroz povredu podataka."
+      },
+      "children": {
+        "title": "Privatnost djece",
+        "content": "MicTestCam nije namijenjen djeci mlađoj od 13 godina. Ne prikupljamo svjesno informacije od djece."
+      },
+      "changes": {
+        "title": "Promjene ovih pravila",
+        "content": "Možemo povremeno ažurirati ova Pravila privatnosti. O svim promjenama obavijestit ćemo vas objavljivanjem novih Pravila privatnosti na ovoj stranici i ažuriranjem datuma 'Zadnje ažuriranje'."
+      },
+      "contact": {
+        "title": "Kontaktirajte nas",
+        "content": "Ako imate bilo kakvih pitanja o ovim Pravilima privatnosti, kontaktirajte nas putem naše stranice za kontakt."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Uvjeti korištenja",
+    "lastUpdated": "Zadnje ažuriranje",
+    "intro": "Dobrodošli na MicTestCam. Pristupanjem ili korištenjem naše web stranice i usluga pristajete na obvezujuće ove Uvjete korištenja.",
+    "sections": {
+      "acceptance": {
+        "title": "Prihvaćanje uvjeta",
+        "content": "Korištenjem MicTestCam pristajete na ove Uvjete korištenja i naša Pravila privatnosti. Ako se ne slažete s bilo kojim dijelom ovih uvjeta, ne smijete koristiti naše usluge."
+      },
+      "description": {
+        "title": "Opis usluge",
+        "content": "MicTestCam pruža besplatne online alate za testiranje web kamera i mikrofona. Naša usluga vam omogućuje provjeru ispravnog rada vaše kamere i mikrofona prije video poziva, snimanja ili streaming sesija."
+      },
+      "usage": {
+        "title": "Prihvatljivo korištenje",
+        "content": "Pristajete koristiti MicTestCam samo u zakonite svrhe i u skladu s ovim Uvjetima. Pristajete da nećete: koristiti uslugu za bilo kakvu nezakonitu aktivnost, pokušavati ometati pravilno funkcioniranje web stranice, pokušavati pristupiti dijelovima web stranice koji nisu namijenjeni javnom pristupu ili koristiti automatizirane sustave za pristup usluzi bez dopuštenja."
+      },
+      "privacy": {
+        "title": "Privatnost i podaci",
+        "content": "Sva testiranja web kamere i mikrofona odvijaju se lokalno u vašem pregledniku. Ne prikupljamo, ne pohranjujemo niti imamo pristup vašim audio ili video podacima. Za više informacija pregledajte naša Pravila privatnosti."
+      },
+      "intellectual": {
+        "title": "Intelektualno vlasništvo",
+        "content": "Web stranica MicTestCam, uključujući njezin dizajn, kod i sadržaj, zaštićena je autorskim pravom i drugim zakonima o intelektualnom vlasništvu. Ne smijete kopirati, mijenjati, distribuirati ili reproducirati bilo koji dio web stranice bez naše prethodne pisane suglasnosti."
+      },
+      "disclaimer": {
+        "title": "Odricanje od jamstava",
+        "content": "MicTestCam se pruža 'kakav jest' bez jamstava bilo koje vrste, izričitih ili podrazumijevanih. Ne jamčimo da će usluga biti neprekidna, bez grešaka ili da će zadovoljiti vaše specifične zahtjeve. Nismo odgovorni za bilo kakve probleme s hardverom ili softverom vaših uređaja."
+      },
+      "limitation": {
+        "title": "Ograničenje odgovornosti",
+        "content": "U najvećoj mjeri dopuštenoj zakonom, MicTestCam neće biti odgovoran za bilo kakve neizravne, slučajne, posebne, posljedične ili kaznene štete koje proizlaze iz vašeg korištenja usluge."
+      },
+      "changes": {
+        "title": "Promjene uvjeta",
+        "content": "Zadržavamo pravo izmjene ovih Uvjeta korištenja u bilo kojem trenutku. Promjene stupaju na snagu odmah nakon objave na web stranici. Vaše daljnje korištenje usluge nakon objave promjena predstavlja vaše prihvaćanje izmijenjenih uvjeta."
+      },
+      "governing": {
+        "title": "Mjerodavno pravo",
+        "content": "Ovi Uvjeti korištenja regulirani su i tumače se u skladu s primjenjivim zakonima, bez obzira na načela sukoba zakona."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "Ako imate bilo kakvih pitanja o ovim Uvjetima korištenja, kontaktirajte nas putem naše stranice za kontakt."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Kontaktirajte nas",
+    "subtitle": "Imate pitanja ili povratne informacije? Rado bismo vas čuli.",
+    "form": {
+      "name": "Vaše ime",
+      "namePlaceholder": "Unesite svoje ime",
+      "email": "Adresa e-pošte",
+      "emailPlaceholder": "Unesite svoju e-poštu",
+      "subject": "Predmet",
+      "subjectPlaceholder": "O čemu se radi?",
+      "message": "Poruka",
+      "messagePlaceholder": "Upišite svoju poruku ovdje...",
+      "submit": "Pošalji poruku",
+      "sending": "Slanje...",
+      "success": "Hvala! Vaša poruka je uspješno poslana.",
+      "error": "Žao nam je, došlo je do greške prilikom slanja vaše poruke. Molimo pokušajte ponovo."
+    },
+    "info": {
+      "title": "Drugi načini da nas kontaktirate",
+      "email": "E-pošta",
+      "response": "Obično odgovaramo unutar 24-48 sati.",
+      "social": "Pratite nas"
+    },
+    "faq": {
+      "title": "Prije nego nas kontaktirate",
+      "subtitle": "Možda ćete pronaći odgovor u našoj sekciji čestih pitanja na početnoj stranici."
+    }
+  },
+  "blogPage": {
+    "title": "Blog o testiranju web kamere i mikrofona - Savjeti, vodiči i upute",
+    "subtitle": "Stručni savjeti, vodiči i uvidi o testiranju web kamere, postavljanju mikrofona i optimizaciji zvuka/videa za video pozive, streaming i stvaranje sadržaja.",
+    "noPosts": "Još nema objava",
+    "noPostsDescription": "Uskoro provjerite za novi sadržaj!",
+    "readMore": "Pročitajte više",
+    "by": "autor",
+    "minRead": "min čitanja",
+    "categories": {
+      "all": "Sve objave",
+      "webcam": "Savjeti za web kameru",
+      "microphone": "Savjeti za mikrofon",
+      "tutorials": "Vodiči",
+      "troubleshooting": "Rješavanje problema"
+    },
+    "search": "Pretražite članke...",
+    "featured": "Istaknuto",
+    "latest": "Najnoviji članci",
+    "relatedPosts": "Povezane objave"
+  },
+  "reviewsPage": {
+    "title": "Najbolje recenzije web kamera i mikrofona - Stručna analiza proizvoda",
+    "subtitle": "Detaljne recenzije, ocjene i vodiči za kupnju web kamera, mikrofona, slušalica s mikrofonom i audio/video opreme. Pronađite savršenu opremu za streaming, video pozive i stvaranje sadržaja.",
+    "noReviews": "Još nema dostupnih recenzija",
+    "noReviewsDescription": "Uskoro provjerite za stručne recenzije proizvoda!",
+    "by": "autor",
+    "readMore": "Pročitajte recenziju"
+  },
+  "footer": {
+    "tagline": "Testirajte svoju web kameru i mikrofon online besplatno",
+    "privacy": "Pravila privatnosti",
+    "terms": "Uvjeti korištenja",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Sva prava pridržana.",
+    "language": "Jezik"
+  },
+  "common": {
+    "loading": "Učitavanje...",
+    "error": "Greška",
+    "close": "Zatvori",
+    "back": "Natrag",
+    "next": "Dalje",
+    "submit": "Pošalji",
+    "cancel": "Odustani",
+    "save": "Spremi",
+    "delete": "Obriši",
+    "edit": "Uredi",
+    "view": "Pregledaj",
+    "download": "Preuzmi",
+    "share": "Podijeli",
+    "copy": "Kopiraj",
+    "copied": "Kopirano!",
+    "readMore": "Pročitajte više",
+    "learnMore": "Saznajte više",
+    "getStarted": "Započnite"
+  },
+  "cta": {
+    "title": "Spremni za testiranje svojih uređaja?",
+    "subtitle": "Započnite testiranje web kamere i mikrofona odmah. Bez preuzimanja, bez registracije.",
+    "webcamButton": "Testiraj web kameru",
+    "microphoneButton": "Testiraj mikrofon"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam pruža trenutačno, besplatno online testiranje web kamera i mikrofona izravno u vašem pregledniku. Nije potrebno preuzimanje. Testirajte kvalitetu kamere, razine mikrofona i jasnoću zvuka za manje od 30 sekundi prije bilo kojeg video poziva ili sesije snimanja.",
+      "p1": "Pozdrav i dobrodošli na MicTestCam! MicTestCam nudi najlakši način za <strong>testiranje web kamere i mikrofona online</strong>, bilo da želite provjeriti svoju web kameru za video konferenciju, sastanak, prezentaciju, snimiti glasovne komentare za svoje YouTube videozapise i kanal, ili provesti detaljan <strong>test mikrofona</strong> za svoj podcast.",
+      "p2": "Alati za testiranje kamere i mikrofona MicTestCam rade u potpunosti unutar preglednika i ne zahtijevaju nikakvo preuzimanje. Privatnost korisnika je najvažniji prioritet za MicTestCam. Svi testovi se izvode u vašem pregledniku i vaši video i audio podaci nikada ne napuštaju vaše računalo. S više od 50.000 testova svaki dan i stopom uspješnosti od 99,9%, MicTestCam je najpopularnija platforma za profesionalce, udaljene zaposlenike, kreatore sadržaja i obične korisnike koji žele testirati uređaje.",
+      "p3": "Pritisnite gumbe ispod za <strong>test web kamere</strong> ili <strong>test mikrofona</strong>. MicTestCam treba samo nekoliko sekundi da provjeri rade li vaša kamera i mikrofon ispravno prije Zoom, Microsoft Teams, Google Meet, Discord, Skype ili drugog video poziva.",
+      "keyTakeaways": {
+        "title": "Ključne informacije",
+        "points": [
+          "Besplatno trenutačno testiranje web kamere i mikrofona - nije potrebna instalacija softvera",
+          "100% testiranje u pregledniku osigurava potpunu privatnost i sigurnost podataka",
+          "Povratne informacije u stvarnom vremenu o kvaliteti videa, razinama zvuka i frekvencijskom odzivu",
+          "Kompatibilno sa Zoom, Teams, Meet, Discord i svim video platformama",
+          "Više od 50.000 dnevnih testova sa stopom točnosti od 99,9%"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Zašto biste trebali testirati web kameru i mikrofon prije video poziva?",
+      "directAnswer": "Testiranje web kamere i mikrofona prije video poziva sprječava neugodne tehničke kvarove, štedi vrijeme sastanka i osigurava profesionalnu kvalitetu komunikacije. Test prije poziva identificira probleme s kutom kamere, osvjetljenjem, razinama zvuka i pozadinskom bukom prije nego što ih vaša publika vidi.",
+      "p1": "Rad na daljinu i virtualna komunikacija sada su standardne poslovne prakse. Sposobnost jasne komunikacije putem videa i zvuka ključna je za profesionalni uspjeh. Tehnički prekidi tijekom sastanaka narušavaju kredibilitet i troše vrijeme. Ponavljano postavljanje pitanja \"Vidite li me sada? A sada?\" podriva profesionalnu reputaciju i odgađa važne rasprave.",
+      "p2": "Provođenje brzog video testa prije sastanaka sprječava tehničke pogreške. Izvođenje brzog audio testa prije ključnih poziva osigurava da je vaš zvuk jasan bez pozadinske buke, jeke ili izobličenja. Prodajni stručnjaci, direktori, nastavnici i kreatori sadržaja razumiju važnost pouzdanog rada web kamere i mikrofona.",
+      "p3": "Za razliku od drugih alata za testiranje web kamere i mikrofona, MicTestCam ne samo da provjerava rade li vaša web kamera ili mikrofon, već pruža i detaljne informacije o kvaliteti videa i karakteristikama zvuka. MicTestCam pomaže korisnicima pronaći i riješiti tehničke probleme prije početka video poziva.",
+      "comparison": {
+        "title": "MicTestCam naspram ugrađenih testova video platformi",
+        "points": [
+          "<strong>MicTestCam:</strong> Pruža detaljnu analizu audio frekvencija, valne oblike u stvarnom vremenu i profesionalne metrike",
+          "<strong>Testovi platformi:</strong> Prikazuju samo osnovnu da/ne funkcionalnost bez detalja o kvaliteti",
+          "<strong>MicTestCam:</strong> Testovi rade na svim platformama - Zoom, Teams, Meet, Discord istovremeno",
+          "<strong>Testovi platformi:</strong> Provjeravaju funkcionalnost samo unutar te specifične platforme",
+          "<strong>MicTestCam:</strong> Nudi reprodukciju snimke kako biste čuli točno ono što će čuti drugi",
+          "<strong>Testovi platformi:</strong> Bez mogućnosti reprodukcije za provjeru kvalitete"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Kako funkcionira MicTestCam tester kamere i mikrofona?",
+      "directAnswer": "MicTestCam koristi WebRTC tehnologiju za pristup vašoj web kameri i mikrofonu izravno putem preglednika. Testiranje se odvija u potpunosti na vašem uređaju koristeći iste protokole koje koriste Zoom, Teams i Meet, osiguravajući točno testiranje performansi u stvarnim uvjetima bez prijenosa podataka na poslužitelje.",
+      "p1": "MicTestCam tester kamere i mikrofona koristi WebRTC protokole, iste protokole na koje se oslanjaju popularne web usluge za video konferencije. Kada <strong>testirate svoju web kameru</strong> pomoću MicTestCam, platforma pristupa vašoj web kameri putem Web API-ja preglednika i prikazuje video prikaz u stvarnom vremenu na zaslonu. Korisnici mogu provjeriti radi li web kamera, provjeriti je li osvjetljenje odgovarajuće, potvrditi da je kut kamere ispravan i procijeniti ukupnu kvalitetu videa.",
+      "p2": "MicTestCam alat za <strong>test mikrofona</strong> pruža trenutačne povratne informacije o razinama glasnoće glasa. Kada korisnici govore u mikrofon, mjerači zvuka odražavaju razine glasa u stvarnom vremenu kako bi pomogli utvrditi bilježi li mikrofon zvuk pravilno. Analizator frekvencijskog spektra od 32 pojasa prikazuje kako je zvuk raspodijeljen po frekvencijama, značajka posebno vrijedna za podcastere i glazbenike koji testiraju mikrofone za profesionalno snimanje.",
+      "p3": "Oba MicTestCam alata nude mogućnost automatskog snimanja. Korisnici mogu pokrenuti test i MicTestCam će automatski snimiti video i audio, omogućujući reprodukciju za procjenu kvalitete kakvu bi publika doživjela. Svo snimanje odvija se lokalno u pregledniku. MicTestCam ne prenosi niti pohranjuje bilo kakve korisničke podatke na vanjske poslužitelje, čime osigurava potpunu privatnost.",
+      "technicalSpecs": {
+        "title": "Tehničke specifikacije",
+        "specs": [
+          "<strong>Protokol:</strong> WebRTC (Web Real-Time Communication) - Industrijski standard koji koriste Zoom, Microsoft Teams, Google Meet",
+          "<strong>Analiza zvuka:</strong> Analizator frekvencijskog spektra od 32 pojasa (raspon 20Hz - 20kHz)",
+          "<strong>Rezolucija videa:</strong> Podržava testiranje od 240p do 8K (7680×4320) ovisno o mogućnostima kamere",
+          "<strong>Broj sličica:</strong> Praćenje u stvarnom vremenu na 15fps, 30fps i 60fps",
+          "<strong>Privatnost:</strong> 100% obrada na strani klijenta - nula prijenosa podataka na MicTestCam poslužitelje",
+          "<strong>Kompatibilnost:</strong> Radi na Chrome, Firefox, Safari, Edge - svim glavnim preglednicima"
+        ]
+      }
+    },
+    "features": {
+      "title": "Potpuni popis značajki testova",
+      "webcamTitle": "Test web kamere",
+      "webcamFeatures": [
+        "Pregled uživo vaše kamere s opcijama rezolucije od 240p do 1080p.",
+        "Otkrivanje više kamera poput USB kamera, web kamera, vanjskih kamera.",
+        "9+ različitih filtera i efekata za testiranje web kamere i njezine ravnoteže boja.",
+        "Praćenje broja sličica u sekundi kamere.",
+        "Mogućnost snimanja fotografije.",
+        "Automatsko snimanje videa s web kamere u WebM i MP4 formatu.",
+        "Snimke spremljene u lokalnu pohranu."
+      ],
+      "microphoneTitle": "Test mikrofona",
+      "microphoneFeatures": [
+        "Mjerač razine zvuka i vršnog nivoa u stvarnom vremenu.",
+        "Analizator frekvencijskog spektra od 32 pojasa u stvarnom vremenu.",
+        "Otkrivanje više mikrofona poput USB mikrofona, mikrofona na slušalicama itd.",
+        "Mogućnost konfiguracije frekvencija uzorkovanja do 48 kHz studijske kvalitete.",
+        "Konfiguracija za snimanje zvuka u mono ili stereo načinu.",
+        "Mjerač vršne i RMS razine za zvuk.",
+        "Automatsko snimanje zvuka s mogućnošću reprodukcije."
+      ]
+    },
+    "whoUses": {
+      "title": "Tko koristi naš test web kamere i test mikrofona",
+      "remoteWorkers": {
+        "title": "Radnici na daljinu i profesionalci",
+        "description": "Radnik na daljinu ili profesionalac provodi brzi test prije svojih video konferencija i sastanaka na Zoom, Google Meet ili Microsoft Teams kako bi vidio radi li web kamera ispravno, a zatim provodi brzi <strong>test mikrofona</strong> kako bi se uvjerio da ga je moguće čuti, da ne mora ponavljati i da ga ne prekidaju s \"Ne čujemo vas!\""
+      },
+      "contentCreators": {
+        "title": "YouTuberi, Twitch streameri, podcasteri i drugi kreatori sadržaja",
+        "description": "Za YouTubere, Twitch streamere, podcastere i druge kreatore sadržaja, naš napredni alat za audio i video dijagnostiku je neophodan. Koristite analizator frekvencijskog spektra za rješavanje audio problema i provedite testove kvalitete videa kako biste bili sigurni da isporučujete visokokvalitetni sadržaj."
+      },
+      "students": {
+        "title": "Studenti i nastavnici",
+        "description": "Studenti moraju osigurati da mogu komunicirati putem interneta. Provode testove prije nastave kako bi potvrdili da njihova oprema funkcionira. Nastavnici također provjeravaju je li njihova oprema u ispravnom stanju za uspješno održavanje nastave."
+      },
+      "jobSeekers": {
+        "title": "Tražitelji posla",
+        "description": "Ako planirate obaviti video intervju, svakako provedite <strong>test kamere</strong> i <strong>test mikrofona</strong> prije nego što krenete. To je velika prednost i pokazat će da ste pripremljeni. (Ništa nije gore od propuštanja prilike zbog tehničkog kvara.)"
+      },
+      "gamers": {
+        "title": "Igrači:",
+        "description": "Koristite slušalice za igre? Dobijte precizne rezultate za testiranje mikrofona za Discord, chat u igri ili streaming."
+      },
+      "techSupport": {
+        "title": "Tehnička podrška",
+        "description": "Ako imate probleme s kamerom ili mikrofonom, naši alati mogu pomoći utvrditi je li problem u hardveru, upravljačkim programima ili postavkama softvera."
+      }
+    },
+    "privacy": {
+      "title": "100% zajamčena privatnost",
+      "intro": "Privatnost je u srcu svega što radimo s našim alatima za <strong>test web kamere</strong> i <strong>test mikrofona</strong>. Svjesni smo da pristupanjem vašoj kameri i mikrofonu dijelite privatne informacije s nama. Zato je cijela naša platforma dizajnirana s politikom nultog povjerenja.",
+      "localProcessing": {
+        "title": "Sva obrada odvija se na vašem lokalnom uređaju",
+        "description": "Obrada videa i zvuka vrši se pomoću WebRTC API-ja u vašem pregledniku. Ne pohranjujemo vaše podatke na našim poslužiteljima jer ih uopće ne primamo."
+      },
+      "noAccount": {
+        "title": "Nije potreban račun",
+        "description": "Ne trebate kreirati račun, unositi adresu e-pošte niti dijeliti bilo kakve osobne podatke. Jednostavno posjetite stranicu, dopustite pregledniku pristup, testirajte svoje uređaje i idite dalje."
+      },
+      "transparent": {
+        "title": "Transparentan kod",
+        "description": "Ne prikrivamo naš kod. Možete ga pregledati u svom pregledniku pomoću razvojnih alata. Bez praćenja, bez prikupljanja podataka, bez analitike za prikupljanje vaših privatnih podataka."
+      },
+      "cleanup": {
+        "title": "Automatsko brisanje:",
+        "description": "Sve snimke pohranjuju se u lokalnu pohranu preglednika. Automatski se brišu kada zatvorite preglednik ili očistite lokalnu pohranu. Imate potpunu kontrolu nad time što se pohranjuje i na koji vremenski period."
+      }
+    },
+    "compatibility": {
+      "title": "Kompatibilnost s preglednicima i uređajima",
+      "intro": "Naši testovi web kamere i mikrofona podržavaju većinu popularnih modernih preglednika i uređaja. Oba alata dostupna su na Windows, Mac OS, Linux, iOS, Android ili bilo kojem drugom operativnom sustavu koji podržava moderan preglednik bez potrebe za dodatnim preuzimanjima ili instalacijom.",
+      "browsersTitle": "Podržani preglednici",
+      "browsers": [
+        "Google Chrome (najbolje performanse)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (na MacOS i iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Podržani uređaji",
+      "devices": [
+        "Ugrađene ili vanjske USB web kamere na stolnim i prijenosnim računalima",
+        "Pametni telefoni i tableti s prednjom i stražnjom kamerom",
+        "Vanjske USB kamere i web kamere za PC",
+        "Ugrađeni mikrofoni prijenosnih računala",
+        "Vanjski USB mikrofoni",
+        "Slušalice za igre s mikrofonima",
+        "Profesionalna audio sučelja i kondenzatorski mikrofoni"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Trebate pomoć?",
+      "intro": "Ne možete pokrenuti <strong>test web kamere</strong> ili <strong>test mikrofona</strong>? Pokušajte jedno od ovih rješenja.",
+      "cameraTitle": "Kamera nije otkrivena ili ne radi",
+      "cameraIssues": [
+        "Provjerite jeste li dopustili kameru u svom pregledniku. U adresnoj traci vidjet ćete ikonu kamere koju možete koristiti za omogućavanje pristupa kameri.",
+        "Kameru koristite u drugoj aplikaciji (Zoom, Teams, Skype itd.). Kameru možete koristiti samo u jednoj aplikaciji istovremeno. Zatvorite drugu aplikaciju ili osvježite stranicu i ponovo dopustite pristup.",
+        "Osvježite stranicu i ponovo dopustite pristup. Moguće je da se radi o grešci preglednika.",
+        "Koristite najnoviju verziju preglednika.",
+        "Provjerite jesu li upravljački programi kamere ispravno instalirani na vašem računalu.",
+        "Ako koristite USB kameru, pokušajte je spojiti na drugi USB priključak ili koristite drugi kabel."
+      ],
+      "microphoneTitle": "Mikrofon ne radi",
+      "microphoneIssues": [
+        "Dopustite pristup mikrofonu u svom pregledniku.",
+        "Provjerite je li mikrofon ispravno spojen na napajanje.",
+        "Koristite sistemske postavke zvuka za provjeru radi li mikrofon.",
+        "Druge aplikacije koriste mikrofon. Pokušajte ih zatvoriti.",
+        "Pokušajte podesiti razinu mikrofona u sistemskim postavkama kako biste pojačali glasnoću ako niste dovoljno glasni, ili smanjili glasnoću ako ste preglasni.",
+        "Provjerite da mikrofon nije utišan u vašem sustavu ili na uređaju (ako postoji hardverski gumb za utišavanje na uređaju)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Brze veze",
+      "webcamTitle": "Testiranje web kamere:",
+      "webcamLinks": ["Test web kamere", "Testiraj web kameru online", "Test kamere", "Online tester kamere", "Besplatan test web kamere", "Provjeri moju web kameru", "Test USB kamere", "Test kamere prijenosnog računala", "Test kamere za Zoom"],
+      "microphoneTitle": "Testiranje mikrofona:",
+      "microphoneLinks": ["Test mikrofona", "Test mikrofona online", "Testiraj moj mikrofon", "Online tester mikrofona", "Besplatan test mikrofona", "Provjeri mikrofon", "Online test zvuka", "Test USB mikrofona", "Test mikrofona za Discord"]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Testirajte svoju web kameru s našim brzim i jednostavnim online alatom za testiranje. Nudi pregled vaše kamere u stvarnom vremenu, višestruke postavke kvalitete, posebne efekte i automatsko snimanje pomoću vaše kamere online, sve bez instalacije dodatnog softvera. Tako ga možete koristiti kao <strong>test kamere</strong> za web konferencije ili testirati ugrađenu web kameru na novom računalu.",
+      "p2": "Za testiranje samo pritisnite gumb 'Pokreni kameru i snimi' iznad. Pojavit će se pregled vaše web kamere uživo kako biste mogli vidjeti radi li vaš video, testirati rasvjetu i provjeriti je li kamera pravilno postavljena. Ništa se ne prenosi, ne pohranjuje niti pristupa. Vaš video test obavlja se lokalno na vašem računalu."
+    },
+    "howToUse": {
+      "title": "Kako koristiti naš alat za testiranje web kamere",
+      "intro": "Za testiranje web kamere slijedite ove jednostavne korake:",
+      "steps": [
+        "<strong>Dopustite pristup:</strong> Pojavit će se dijaloški okvir s pitanjem može li preglednik pristupiti web kameri. Pritisnite Dopusti za omogućavanje pristupa preglednika web kameri. Imajte na umu da je to slučaj s bilo kojom web stranicom za testiranje web kamere. Dijaloški okvir se pojavljuje kao sigurnosna mjera za sprečavanje nasumičnih web stranica od pristupa web kameri.",
+        "<strong>Odaberite ispravnu kameru:</strong> Ako imate više kamera (na primjer, ugrađenu kameru prijenosnog računala i zasebnu USB kameru), možete odabrati koju kameru koristiti iz padajućeg izbornika. Naš alat za testiranje web kamere automatski će otkriti i prikazati sve kamere.",
+        "<strong>Odaberite kvalitetu:</strong> Odaberite željenu rezoluciju (kvalitetu) iz padajućeg izbornika kvalitete. Možete testirati kameru na niskoj kvaliteti (240p), srednjoj kvaliteti (480p), visokoj kvaliteti (720p), fullHD kvaliteti (1080p) itd. Viša kvaliteta pruža jasniju sliku, ali zahtijeva veću propusnost i procesorsku snagu.",
+        "<strong>Pokrenite test:</strong> Pritisnite Pokreni kameru i snimi i odmah ćete vidjeti prijenos uživo s vaše kamere. Možete odmah započeti snimanje, a zatim pregledati kvalitetu.",
+        "<strong>Koristite vizualne filtere:</strong> Imamo više od 9 vizualnih filtera (crno-bijeli, sepia, zamućenje, visoki kontrast, itd.) kako biste vidjeli kako utječu na izlaz vaše kamere.",
+        "<strong>Snimite fotografiju:</strong> Možete snimiti fotografiju tijekom testa kako biste provjerili kvalitetu slike ili vidjeli kako kamera podnosi specifične uvjete osvjetljenja.",
+        "<strong>Zaustavi i spremi:</strong> Kada završite, pritisnite Zaustavi i spremi snimku za zaustavljanje snimanja. Video će se spremiti u preglednik pa ga možete ponovo reproducirati i preuzeti."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Napredne značajke web kamere",
+      "intro": "Naš <strong>tester web kamere</strong> uključuje značajke profesionalne razine dizajnirane za razne slučajeve korištenja - od povremenih video poziva do stvaranja sadržaja.",
+      "mirrorMode": {
+        "title": "Zrcalni način za savršene selfije",
+        "description": "Zrcaljenje i okretanje je nezaobilazna značajka za vodiče za šminkanje, blogere i one koji žele vidjeti kako izgledaju u ogledalu. Kada kliknete gumb Zrcalo (dok je kamera uključena), slika vaše web kamere će se okrenuti vodoravno kako biste bolje mogli provjeriti svoje lice, našminkati se ili se jednostavno navići na zrcalni prikaz. Posebno ako snimate YouTube video, TikTok video ili Instagram priču gdje trebate prikazati tekst, koristiti smjerove itd."
+      },
+      "digitalZoom": {
+        "title": "Digitalni zum (1x do 3x)",
+        "description": "Pogledajte koliko je oštri vaša <strong>web kamera</strong> kada je zumirana na različitim razinama. Idealno za demo proizvoda, vodiče ili jednostavno za detaljniji pogled. Klizač za zum i gumbi za brzi odabir 1x, 2x, 3x za testiranje oštrine vaše web kamere pri zumiranju. Korisno za provjeru trebate li se približiti kameri ili možete zumirati bez previše degradacije kvalitete slike. Praktično za streamere uživo koji žele zumirati svoj rad na slikanju, izradi rukotvorina ili popravku tehnologije."
+      },
+      "brightnessContrast": {
+        "title": "Kontrole svjetline i kontrasta",
+        "description": "Podesite svjetlinu (50-150%) i kontrast (50-150%) i pogledajte kako vaša web kamera izgleda u različitim uvjetima osvjetljenja. Ove klizače možete koristiti za testiranje radi li automatska ekspozicija vaše kamere ispravno i za simuliranje različitih postavki snimanja. Ako je previše tamno ili previše svijetlo u vašoj sobi, možete podesiti klizače na ugodnu postavku za sljedeći video sastanak. Streameri i YouTuberi često koriste ove klizače kako bi izvukli najbolje iz svoje kamere i održali iste uvjete osvjetljenja za svoje videozapise."
+      },
+      "gridOverlay": {
+        "title": "Preklopna mreža za profesionalno kadriranje",
+        "description": "Naša ugrađena preklopna mreža koristi tehniku kompozicije Pravilo trećina, koja vam omogućuje savršeno kadriranje lica u snimci. Jednostavno postavite oči na gornju vodoravnu liniju i poravnajte lice s okomitim vodilicama. Ovo profesionalno fotografsko načelo osigurava atraktivnije i zanimljivije video snimke za YouTube, poslovne sastanke ili Twitch streamove. Preklopna mreža pomaže u dosljednom kadriranju kod ponovljenih snimanja."
+      },
+      "videoFilters": {
+        "title": "Video filteri i efekti",
+        "description": "Primijenite sljedeće filtere na svoju <strong>web kameru</strong> kako biste vidjeli kako izgledaju: Normalno, Sivi tonovi, Sepia, Invertiranje, Zamućenje, Svjetlina, Kontrast, Rotacija nijanse i Zasićenje. Filteri vam pokazuju koliko dobro vaša kamera može prikazati boje i kako će izgledati kada koristite filtere video efekata. Ako ste streamer ili youtuber, možete koristiti filtere da vidite kako bi vaš stream izgledao s različitim primijenjenim efektima. Filteri se također mogu koristiti za provjeru prikazuje li vaša kamera ispravne boje. Usporedite rezultate filtera Sivi tonovi i Sepia."
+      },
+      "videoMetrics": {
+        "title": "Metrike videa u stvarnom vremenu i histogram:",
+        "description": "pregledajte tehničke detalje o svom videu poput rezolucije, broja sličica i brzine prijenosa. RGB histogram vam omogućuje pregled raspodjele boja u vašem videu. Ovo je korisno za otkrivanje pre/pod ekspozicije, odstupanja boja i loše rasvjete. Ova značajka je idealna za profesionalce poput videografa, youtubera i vlogera koji žele osigurati da je njihov video što bolji. Ako vaš histogram ima strmi pad na bilo kojoj strani, morat ćete korigirati rasvjetu ili postavke kamere."
+      },
+      "advancedControls": {
+        "title": "Napredne kontrole kamere",
+        "description": "Neke web kamere imaju značajke poput ekspozicije, načina fokusa, balansa bijele, ISO i oštrine koje korisnik može kontrolirati. Naša web aplikacija vam omogućuje provjeru što vaša <strong>web kamera</strong> može učiniti. Možete prebacivati između automatskog i ručnog načina fokusa, promijeniti balans bijele za usklađivanje s temperaturom svjetla ili postaviti kompenzaciju ekspozicije prema vašim željama. Ovo je vrlo korisno za streamere, YouTubere i profesionalce koji moraju kontrolirati postavke svoje kamere."
+      },
+      "backgroundBlur": {
+        "title": "Efekt zamućenja pozadine",
+        "description": "Isprobajte web zamućenje pozadine bez ikakvih aplikacija ili zelenog zaslona. Naš efekt zamućenja pozadine koristi najnovije web tehnologije za uklanjanje pozadine i odvajanje od vas, korisno kada morate obavljati video konferencijske pozive od kuće s pozadinom koju ne želite da drugi vide. Možete podesiti razinu zamućenja primijenjenu na pozadinu. Ovaj alat vam omogućuje da vidite koliko dobro efekt zamućenja pozadine radi s vašom <strong>web kamerom</strong> i aplikacijom kamere. Ovo je posebno korisno za web programere, digitalne marketinške stručnjake i za sve koji stvaraju video sadržaj."
+      },
+      "motionDetection": {
+        "title": "Detekcija pokreta za testiranje sigurnosti",
+        "description": "Ako želite provjeriti koliko vaša <strong>web kamera</strong> reagira na pokret, koristite našu detekciju pokreta u stvarnom vremenu. S naprednim načinom možete vidjeti indikator postotka pokreta uživo koji odražava pokret u vašem videu. Koristite ovo za testiranje pokreta sigurnosne kamere, konfiguraciju nadzornog sustava ili testiranje kamere s aktivacijom pokretom. Detektor pokreta analizira video tok sličicu po sličicu kako bi utvrdio količinu pokreta. To omogućuje provjeru kvalitete kamere i potrebne osjetljivosti. Korisno za testiranje kućne sigurnosti, nadzora kućnih ljubimaca i nadzora djece."
+      },
+      "faceDetection": {
+        "title": "Detekcija i praćenje lica",
+        "description": "Otkrijte sposobnost vaše web kamere da detektira lica. U naprednom načinu crtamo okvire oko lica i brojimo ih. Naš alat za detekciju lica koristi FaceDetector API, kada je dostupan u vašem pregledniku, za otkrivanje više lica u kadru. Koristite ovaj alat za testiranje funkcionalnosti vaše <strong>kamere</strong> za automatsko kadriranje u video konferencijama, ili da vidite kako podnosi više od jednog lica. Kreatori video sadržaja mogu vidjeti detektira li njihova kamera pravilno lica za potrebe automatskog fokusa, a profesionalci mogu provjeriti radi li njihova dvorana za sastanke s više osoba prema očekivanjima."
+      },
+      "sideBySide": {
+        "title": "Način rada jedan pored drugog: Usporedite dvije kamere",
+        "description": "Način rada jedan pored drugog omogućuje usporedbu 2 web kamere jedne pored druge. Korisno je za istovremeno testiranje više web kamera. Ako imate ugrađenu web kameru i vanjsku USB web kameru, možete ih istovremeno pregledavati jednu pored druge. Također je vrlo korisno pri odabiru web kamere za kupnju. Možete usporediti kvalitetu slike kamere, točnost boja, rad pri slaboj rasvjeti i vidno polje u stvarnom vremenu. Izvrstan je alat za streamere i YouTubere."
+      }
+    },
+    "videoQuality": {
+      "title": "Objašnjenje postavki kvalitete videa web kamere",
+      "intro": "Rezolucija određuje oštrinu videa koji vaša web kamera proizvodi. Evo kako postavke funkcioniraju na našem testu rezolucije web kamere:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Ovo je najniža postavka kvalitete, za slučajeve kada samo želite testirati radi li vaš prijenos i vaša internetska veza je loša. Vaš video će biti zamućen, ali je odlično za provjeru prenosi li kamera uopće."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Niska kvaliteta, mala potrošnja propusnosti. Mogli biste obaviti video poziv niske rezolucije ako vam kvaliteta nije previše bitna. Još uvijek možete raspoznati lica, ali ništa više."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Standardna definicija. Ovo je srednji put između kvalitete i propusnosti. Većina aplikacija za video razgovor i streaming može koristiti ovo. Ovo je tipična rezolucija većine starijih web kamera."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Ova rezolucija pruža visoku definiciju kvalitete video konferencije, što je odlično za profesionalnu upotrebu. Nudi oštre slike i pristojnu kvalitetu boja. Ovo je najpopularnija rezolucija koja se koristi u aplikacijama za video konferencije poput Zoom, Teams i Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Ovo je najviša rezolucija koju ćete pronaći kod web kamere i idealna je za ljude koji žele stvarati visokokvalitetni sadržaj, streamati ili im je potrebna najbolja moguća kvaliteta videa. Zahtijeva više propusnosti i obrade, ali dobivate oštru i profesionalnu sliku."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Quad HD rezolucija s izvrsnim detaljima i jasnoćom. Odlično za profesionalne kreatore sadržaja, streamere koji zahtijevaju visoku razinu kvalitete slike i one s 4K monitorima koji žele izvornu rezoluciju. Potrebne su web kamere visoke kvalitete i značajna propusnost."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra visoka definicija s četiri puta više piksela od 1080p. Profesionalna kvaliteta za kreatore sadržaja, filmaše i vrhunski streaming. Zahtijeva vrhunske web kamere, moćan hardver računala i brzi internet. Savršeno za buduću kompatibilnost snimaka i maksimiziranje detalja za digitalni zum i izrezivanje."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "Maksimalna moguća rezolucija. Ima 16 puta više piksela od 1080p. Obično se koristi za profesionalne web kamere najviseg ranga ili za ljude koji koriste DSLR/mirrorless kamere kao web kamere. Za ovo vam je potrebna izuzetno kvalitetna web kamera ili DSLR/mirrorless kamera, izuzetno moćno računalo i izuzetno brza veza. Ovo se treba koristiti samo kada vam je potrebna kinematografska kvaliteta, ili kada imate izuzetno veliki monitor, ili ako želite puno digitalno zumirati."
+        }
+      },
+      "tip": "Ako provodite test web kamere, prvo testirajte s 720p kako biste osigurali da vaša kamera radi s visokom definicijom, a zatim testirajte s bilo kojom drugom rezolucijom koja vam je potrebna."
+    },
+    "frameRate": {
+      "title": "Broj sličica i glatke performanse videa",
+      "intro": "Broj sličica je frekvencija (brzina) kojom uređaj za snimanje proizvodi jedinstvene uzastopne slike nazvane sličice. Broj sličica izražava se u sličicama u sekundi (FPS). Što je veći broj sličica, to video izgleda glađe, posebno u pokretu. Naš online alat za testiranje web kamere provjerava stvarni FPS vaše web kamere kako bi pokazao ima li vaša web kamera ikakvih problema.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Prihvatljivo za video konferencije. Pokret izgleda pomalo isprekidano. Može biti uzrokovan kamerom niske klase, lošom rasvjetom ili uskim grlom procesora."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Ovo je tipični broj sličica za web kamere i većinu aplikacija za video konferencije. Pokret je gladak i stvaran. Ovo je također idealan broj sličica za profesionalnu video konferenciju."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Visoki broj sličica koji omogućuje još veću glatkoću pokreta. Idealan za streamere i YouTubere kojima je glatkoća pokreta ključna. Imajte na umu da ne podržavaju sve web kamere 60 FPS i da to troši više propusnosti."
+        }
+      },
+      "tip": "Ako rezultat testa vaše web kamere pokazuje nizak broj sličica, razmislite o korištenju niže rezolucije ili poboljšanju rasvjete. Svjetlo može biti problem s web kamerama jer mogu smanjiti broj sličica kako bi mogle povećati vrijeme ekspozicije."
+    },
+    "lighting": {
+      "title": "Savjeti za ljepši video s web kamere",
+      "intro": "Rasvjeta je najznačajnija varijabla kada je u pitanju kvaliteta videa web kamere. Web kamera niske kvalitete s odličnom rasvjetom izgledat će bolje od web kamere visoke kvalitete s lošom rasvjetom.",
+      "tips": {
+        "position": {
+          "title": "Svjetlo ispred vas",
+          "description": "Izvor svjetla trebao bi biti ispred vas, ne iza vas. Pozadinsko osvjetljenje (poput pozicioniranja ispred prozora) učinit će vaše lice tamnim i u sjeni."
+        },
+        "soft": {
+          "title": "Ublažite svjetlo",
+          "description": "Izbjegavajte izravno osvjetljenje koje uzrokuje jake sjene i pregrijane točke. Više izvora svjetla ili svjetlo koje dolazi kroz velike prozore uvijek je meko i stvara profesionalniji izgled slike."
+        },
+        "flicker": {
+          "title": "Izbjegavanje treperenja žarulja",
+          "description": "Neke LED žarulje i fluorescentna svjetla treperit će frekvencijom koju vaša kamera može vidjeti i dobit ćete treperenje u videu. Pokušajte koristiti žarulje sa žarnom niti ili LED žarulje visoke kvalitete za video."
+        },
+        "color": {
+          "title": "Temperatura boje je još jedan faktor koji treba uzeti u obzir.",
+          "description": "Osigurajte da svi izvori svjetla imaju istu temperaturu boje. Mješavina toplog i hladnog svjetla izgleda neprirodno. Web kamere općenito bolje izgledaju pod svjetlom uravnoteženim na dnevno svjetlo (5000-6500K)."
+        }
+      },
+      "tip": "Testirajte naš alat za testiranje web kamere s više izvora svjetla kako biste utvrdili poboljšava li se slika vaše web kamere. Možete testirati različite postavke svjetla zahvaljujući pregledu uživo kako biste vidjeli što najbolje funkcionira za vas."
+    },
+    "types": {
+      "title": "Vrste web kamera i što očekivati",
+      "builtIn": {
+        "title": "Ugrađene web kamere prijenosnih računala",
+        "description": "Prijenosna računala gotovo uvijek imaju web kameru ugrađenu na vrhu zaslona. Uglavnom su to kamere od 720p i sasvim su dobre za povremeni video razgovor. Međutim, kvaliteta može uvelike varirati ovisno o prijenosnom računalu koje posjedujete. Općenito, kvalitetnija prijenosna računala imaju bolje web kamere."
+      },
+      "usb": {
+        "title": "USB web kamere",
+        "description": "Postoje i vanjske web kamere koje se povezuju putem USB-a. Ako tražite nešto bolje od integrirane kamere, osnovni model pružit će vam 1080p pri 30 FPS, ali vrhunski modeli idu sve do 4K, 60 FPS, s automatskim fokusom, kompenzacijom slabe rasvjete itd."
+      },
+      "streaming": {
+        "title": "Kamere za streaming:",
+        "description": "Kamere napravljene za streamere, fokusirane na kvalitetu slike s većim senzorima, poboljšanom osjetljivošću pri slaboj rasvjeti i poboljšanom znanosti o bojama. HDR i podešavanje vidnog polja su uobičajeni."
+      },
+      "dslr": {
+        "title": "Opcija 1: DSLR/Mirrorless kao web kamera",
+        "description": "Mnoge nove kamere mogu se koristiti kao web kamera putem USB-a ili s karticom za snimanje. To će vam dati najkvalitetniju sliku, ali također zahtijeva najviše opreme i konfiguracije."
+      },
+      "tip": "Ako niste sigurni radi li vaša kamera s našim alatom, naš sveobuhvatan test web kamere kompatibilan je sa svim vrstama kamera. Slobodno ga koristite za usporedbu različitih web kamera ili jednostavno provjerite radi li vaša nova web kamera nakon što ste je spojili."
+    },
+    "troubleshooting": {
+      "title": "Trebate pomoć s popravkom web kamere?",
+      "intro": "Ako ste proveli test i otkrili problem, slijedite ove korake za identifikaciju i popravak najčešćih problema:",
+      "blackScreen": {
+        "title": "Web kamera prikazuje crni zaslon",
+        "issues": [
+          "Provjerite imate li fizičku prepreku (poput klizača za privatnost, flastera ili komada trake) preko leće kamere",
+          "Provjerite koristi li druga aplikacija (Skype, Zoom, Teams, itd.) kameru u pozadini. Zatvorite te aplikacije i pokušajte ponovo s ovim testom web kamere.",
+          "Ako i dalje imate problema, pokušajte ponovo pokrenuti preglednik i ponoviti test web kamere.",
+          "Ako koristite vanjsku USB web kameru, pokušajte je priključiti u drugi USB priključak.",
+          "Ažurirajte ili ponovo instalirajte upravljačke programe kamere."
+        ]
+      },
+      "blurry": {
+        "title": "Video s web kamere je zamućen",
+        "issues": [
+          "Očistite leću web kamere krpom od mikrovlakana.",
+          "Ako vaša web kamera ima prsten za fokus, pokušajte ručno podesiti fokus.",
+          "Provjerite ima li dovoljno svjetla za pomoć automatskom fokusu kamere.",
+          "Pomaknite se malo bliže ili dalje od web kamere i provjerite poboljšava li se slika."
+        ]
+      },
+      "colors": {
+        "title": "Boje web kamere izgledaju pogrešno",
+        "issues": [
+          "Jeste li pod različitim uvjetima osvjetljenja? Prirodno i umjetno osvjetljenje mogu imati različite tonove boja.",
+          "Pokušajte podesiti balans bijele u postavkama web kamere, ako je dostupno.",
+          "Nosite li nešto ili imate li nešto oko sebe s dominantnom bojom koja može uzrokovati odljev boja? Pokušajte to ukloniti."
+        ]
+      },
+      "choppy": {
+        "title": "Video je isprekidan ili zaostaje",
+        "issues": [
+          "Smanjite kvalitetu videa u postavkama ovog alata za testiranje web kamere.",
+          "Pokušajte zatvoriti sve druge aplikacije koje troše resurse procesora ili grafičke kartice.",
+          "Poboljšajte uvjete rasvjete kako biste smanjili opterećenje kamere.",
+          "Ako koristite vanjsku USB web kameru, spojite je izravno na računalo umjesto na USB koncentrator."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Testiranje web kamere za specifične platforme",
+      "zoom": {
+        "title": "Zoom video konferencije",
+        "description": "Koristite ovaj test web kamere kako biste osigurali da vaša kamera dobro radi prije pokretanja važnog Zoom sastanka. Provjerite je li kvaliteta videa dovoljno dobra na 720p (što je zadana kvaliteta za većinu Zoom sastanaka). Osigurajte da je rasvjeta dovoljna i da je vaš položaj u prikazu web kamere dobar prije pridruživanja Zoom pozivu."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "1080p HD video dostupan je u sastancima. Testirajte kameru na različitim rezolucijama kako biste potvrdili da vaša kamera može podržati Teams video rezoluciju. Testirajte pozadinu za profesionalnu kvalitetu za Together Mode i virtualnu pozadinu."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet automatski prilagođava kvalitetu videa na temelju mrežnih uvjeta. Testirajte na minimalno 720p kako biste osigurali da vaša kamera zadovoljava minimalne zahtjeve Google Meet za prijenos videa visoke kvalitete."
+      },
+      "streaming": {
+        "title": "Streaming (Twitch/YouTube)",
+        "description": "Testirajte na maksimalnoj rezoluciji koju vaša web kamera može podnijeti (poželjno 1080p60). Provjerite je li broj sličica stabilan i koliko dobro vaša kamera podnosi brze pokrete i različite uvjete osvjetljenja."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Ako koristite Discord za video pozive, potrebna vam je web kamera sposobna za rad na 720p. Želite se uvjeriti da je kamera koju imate prikladna za vaše računalo i za sesije igranja te pozive zajednice. To također osigurava da vaša kamera ne troši previše propusnosti i ne ometa vaše igranje."
+      }
+    },
+    "relatedTools": {
+      "title": "Povezani alati i resursi",
+      "alsoTry": "Također pokušajte:",
+      "alsoTryLinks": ["Test web kamere i mikrofona", "Testiraj mikrofon", "Test mikrofona", "Test audio snimanja", "Provjeri mikrofon online"],
+      "onThisPage": "Na ovoj stranici:",
+      "onThisPageLinks": ["Kako testirati web kameru", "Postavke kvalitete videa", "Rješavanje problema s kamerom", "Popravak nefunkcionalne web kamere", "Najbolje postavke web kamere"]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Je li vaš mikrofon radio? Koristite naš brzi i jednostavni <strong>test mikrofona</strong> kako biste se uvjerili da vaš <strong>mikrofon radi</strong> ispravno. Ovaj <strong>online test mikrofona</strong> također će prikazati razine mikrofona, frekvencijski spektar i snimiti vaš zvuk. Nije potreban nikakav softver ili dodatak za <strong>testiranje mikrofona</strong>. <strong>Testirajte svoj mikrofon</strong> sada prije nego krenete uživo, započnete video poziv ili snimate podcast.",
+      "p2": "Pritisnite gumb 'Pokreni mikrofon i snimi' iznad kako biste provjerili svoj mikrofon. Razine zvuka prikazuju se u stvarnom vremenu, tako da možete vidjeti bilježi li vaš mikrofon zvuk prema očekivanjima. Graf audio frekvencije od 32 pojasa omogućuje vam da vidite koliko dobro vaš mikrofon bilježi frekvencije zvuka. Ovo je posebno korisno ako ste podcaster ili glazbenik jer vam omogućuje korištenje opreme koja može jasno snimiti sve frekvencije."
+    },
+    "howToTest": {
+      "title": "Kako testirati mikrofon",
+      "intro": "Izvedite ove korake za potpuni <strong>test mikrofona</strong>:",
+      "steps": [
+        "<strong>Dopustite pristup mikrofonu:</strong> Dopustite pregledniku korištenje vašeg mikrofona. Kliknite na dopusti ako se pojavi dijaloški okvir sa zahtjevom za odobrenje pristupa mikrofonu. Ako preglednik koristite prvi put, možda ćete morati kliknuti ikonu štita u adresnoj traci i zatim odabrati mikrofon za dopuštenje pristupa stranici.",
+        "<strong>Odaberite svoj mikrofon (ako je potrebno):</strong> Odaberite željeni mikrofon iz padajućih opcija (mikrofon vašeg računala, vanjski mikrofon, itd.). <strong>Online test mikrofona</strong> može se provoditi samo kroz jedan mikrofon istovremeno.",
+        "<strong>Postavite frekvenciju uzorkovanja i kanale:</strong> Odaberite frekvenciju uzorkovanja za mikrofon (44,1 kHz za standardnu kvalitetu i 48 kHz za višu kvalitetu). Odaberite mono ili stereo kanal ovisno o tome što želite postići.",
+        "<strong>Snimite test mikrofona:</strong> Kliknite na gumb za snimanje kako biste pokrenuli <strong>test mikrofona</strong>. Automatski će započeti snimanje kako biste kasnije mogli poslušati reprodukciju i vidjeti kako zvuči vaš mikrofon.",
+        "<strong>Promatrajte mjerač razine mikrofona:</strong> Dok provodite <strong>test mikrofona</strong>, promatrajte mjerač razine mikrofona dok govorite u mikrofon. Ako pravilno bilježi, mjerač bi se trebao pomicati prema glasnoći vašeg glasa. Zelena boja označava idealnu razinu glasnoće, žuta višu razinu glasnoće, a crvena glasnoću koja je preglasna i potencijalno izobličena.",
+        "<strong>Pokušajte govoriti različitim glasnoćama:</strong> Provedite <strong>test mikrofona</strong> govoreći normalnim glasom, a zatim vrlo tihim i glasnim glasom. To će vam pomoći vidjeti koliko je vaš mikrofon osjetljiv na različite glasnoće.",
+        "<strong>Reproducirajte snimku:</strong> Nakon provedbe <strong>online testa mikrofona</strong>, reproducirajte svoju snimku kako biste vidjeli kako mikrofon zvuči. To će vam pomoći identificirati probleme koje ne biste primijetili samo s mjeračem razine mikrofona."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Napredne značajke",
+      "intro": "Bez obzira rješavate li problem zašto vaš mikrofon ne radi ili želite postići najbolje performanse za veliki sastanak ili prijenos uživo, postoji nekoliko naprednih značajki koje možete testirati na ovoj stranici:",
+      "inputGain": {
+        "title": "Optimalno ulazno pojačanje",
+        "description": "Konfigurirajte pojačanje mikrofona između 50% i 150% s našim unaprijed konfiguriranim opcijama ili u hodu s našim klizačem. Kontrola nad ulaznim pojačanjem posebno je važna za one koji snimaju zvuk za podcasting gdje je željena dosljedna razina između epizoda, za glazbenike (i glas i instrumente) te za streamere koji su osjetljivi na izobličenje. Odaberite pretpostavku Nisko (50%) za okruženja koja su previše glasna ili ako imate osjetljiv kondenzatorski mikrofon, Normalno (100%) za većinu slučajeva korištenja i Pojačanje (150%) za tiše izvore koji trebaju više pojačanja. Naša kontrola pojačanja u hodu koristi GainNode Web Audio API-ja za pojačanje bez uvođenja šuma ili kašnjenja."
+      },
+      "noiseSuppression": {
+        "title": "Primijenite suzbijanje šuma za čiste snimke",
+        "description": "Ako želite ukloniti zvukove tipkanja, klikanja miša, ventilatora, klima uređaja i slične zvukove iz snimke, omogućite suzbijanje šuma i pokušajte ponovo. Radi u vašem pregledniku i može se koristiti za čišćenje bučnih snimki rada na daljinu, podcasta, kućnih snimki, videozapisa itd., a ne trebate noise gate ili dodatak za smanjenje šuma. Suzbijanje šuma koristi Web Audio API za suzbijanje šuma izravno na mikrofonu pa ne povećava opterećenje procesora niti dodaje kašnjenje. Možete testirati s uključenim i isključenim suzbijanjem šuma kako biste vidjeli što najbolje funkcionira za vaš mikrofon."
+      },
+      "echoCancellation": {
+        "title": "Zašto je korisno: Poništavanje jeke",
+        "description": "uklanja akustičku povratnu spregu i jeku iz vašeg mikrofona prije testa. To je važno za video pozive, podcast intervjue i streaming uživo kada zvučnici mogu prenijeti zvuk natrag u mikrofon. Koristite skočni prozor s unaprijed definiranim postavkama za uključivanje poništavanja jeke i testiranje mikrofona s njim. To će vam pomoći odlučiti trebate li akustički obraditi svoj prostor za snimanje ili se možete osloniti na poništavanje jeke u pregledniku. Korisno za: radnike na daljinu, podcast voditelje intervjua i sve koji snimaju u prostoriji s mnogo tvrdih površina (koje mogu stvarati jeku)."
+      },
+      "autoGainControl": {
+        "title": "Održavajte dosljednu glasnoću s AGC",
+        "description": "AGC čini razinu vašeg mikrofona glasnijom i dosljednijom. Ako ste tihi, pojačat će vas. Ako ste glasni, stišat će vas. Odlično je za streamere jer u glasnim trenucima ne morate brinuti o tome da ste preglasni. Također je dobro za podcastere ako se udaljavate od mikrofona. Također je izvrsno za video konferencije ako želite zvučati profesionalno. Označite ovu opciju i provjerite radi li AGC dobro s vašim preglednikom i mikrofonom. Ako želite snimati glazbu ili ASMR, možda ćete htjeti ovo ostaviti isključenim."
+      },
+      "realtimeMeter": {
+        "title": "Pratite razine zvuka u stvarnom vremenu.",
+        "description": "Mjerač razine prikazuje RMS (korijen srednjeg kvadrata) audio signala, pokazujući stvarnu razinu zvuka. Prikazana je i vršna vrijednost, gdje razina počinje izobličavati. Mjerač razine ima tri odjeljka: zeleni, žuti i crveni. Zelena zona je optimalna razina, između -12 i -6 dB. Žuta zona je između -6 i -3 dB, a crvena zona je sve iznad -3 dB, kada će se vaš zvuk izobličiti. Koristite ovaj mjerač za provjeru pravilnog pozicioniranja mikrofona. Koristite ga za podešavanje razine glasa. Koristite ga za praćenje razine zvuka prije snimanja, kako biste znali da razine neće izobličavati. Podcasteri ga koriste za usklađivanje razina između epizoda. Glazbenici ga koriste za postavljanje pojačanja mikrofona. Radnici na daljinu ga koriste kako bi bili sigurni da ih se čuje, ali da nisu preglasni."
+      },
+      "frequencySpectrum": {
+        "title": "Analiza frekvencijskog spektra",
+        "description": "Analiza frekvencijskog spektra vašeg mikrofona u stvarnom vremenu. Koristite spektar od 32 pojasa za određivanje koje frekvencije vaš mikrofon bilježi. Prekomjerno brujanje (20-250Hz)? Zamućeni srednji tonovi (250Hz-2kHz)? Oštra sibilancija (6kHz-8kHz)? Ovo koriste audio inženjeri za procjenu mikrofona i prostorija, podcasteri za pronalaženje problematičnih frekvencija koje treba izjednačiti, i glazbenici za određivanje koji mikrofon najbolje odgovara njihovom glasu ili instrumentu. Ažuriranja u stvarnom vremenu omogućuju analizu položaja, blizine i okruženja."
+      },
+      "sideBySide": {
+        "title": "Usporedba dva mikrofona jedan pored drugog",
+        "description": "Odaberite opciju usporedbe jedan pored drugog za istovremeno korištenje dva mikrofona. Ovo je posebno korisno ako imate dva priključena mikrofona (recimo ugrađeni mikrofon prijenosnog računala i USB mikrofon) i želite ih vidjeti jedan pored drugog za usporedbu kvalitete zvuka, razine šuma, frekvencijskog odziva i osjetljivosti svakog. Ovo je korisno za odabir mikrofona za kupnju, testiranje različitih položaja mikrofona ili odlučivanje koji mikrofon koristiti za podcast ili stream. Koristim ga kako bih se uvjerio da se isplati kupiti novi mikrofon, dizajneri zvuka ga koriste za pronalaženje parova mikrofona za stereo snimanje, a IT odjel tvrtke može ga koristiti za testiranje mikrofona prije raspoređivanja u cijeloj tvrtki. Za korištenje odaberite postavku usporedbe, odaberite drugi mikrofon i oba će se prikazati jedan pored drugog s rezultatima u stvarnom vremenu."
+      },
+      "snrMeasurement": {
+        "title": "Mjerenje omjera signala i šuma (SNR)",
+        "description": "Zeleni broj prikazuje vaš trenutni SNR. 60 dB je minimalna preporučena vrijednost za profesionalno snimanje, 50-60 dB je minimum za emitiranje i podcasting, a 40-50 dB je dovoljno za video razgovore i vodiče. Dobar SNR reći će vam je li vaš mikrofon dovoljno dobar za ono što želite raditi, je li vaša soba preglasna ili trebate dodati akustičke panele. Kliknite gumb \"Napredno\" u gornjem desnom kutu zaslona za prikaz SNR-a, razine šuma i dinamičkog raspona tijekom mjerenja. Ovo je korisno mjerenje za podcastere koji žele osigurati da njihovo emitiranje zadovoljava standarde emitiranja, glazbenike koji žele procijeniti postav svog kućnog studija i za sve koji brinu o kvaliteti zvuka."
+      }
+    },
+    "audioLevels": {
+      "title": "Objašnjenje razina zvuka",
+      "intro": "Mjerač razine zvuka u gornjem testu mikrofona daje vizualni prikaz razine glasnoće ulaza vašeg mikrofona. Važno je znati što svaka razina znači za isporuku izvrsnog zvuka:",
+      "green": {
+        "title": "Zelena zona (0-50%)",
+        "description": "Prihvatljive razine zvuka za većinu slučajeva. Zvučite glasno i jasno, a imate dovoljno prostora da postanete glasniji bez izobličenja. Pokušajte ostati u ovom rasponu za video pozive i drugu komunikaciju."
+      },
+      "yellow": {
+        "title": "Žuta zona (50-80%)",
+        "description": ": Visoke razine zvuka koje su još uvijek prihvatljive. Dobro za snimanje kada želite snažan, prisutan zvuk. Međutim, iznenadni glasni zvukovi mogu uzrokovati izobličenje."
+      },
+      "red": {
+        "title": "Crvena zona (80-100%)",
+        "description": ": Ovo je opasna zona u kojoj će vaš zvuk vjerojatno biti izobličen. Ako ste često u crvenom, trebali biste smanjiti glasnoću mikrofona u upravljačkoj ploči ili se odmaknuti od mikrofona."
+      },
+      "peak": {
+        "title": "Vršna razina:",
+        "description": "Najviša razina postignuta tijekom vaše sesije. Korisno za provjeru postoje li kratki glasni događaji koji uzrokuju izobličenje, dok su prosječne razine u redu."
+      },
+      "rms": {
+        "title": "RMS razina",
+        "description": "- Prosječna glasnoća tijekom vremena. Mnogo važnija od vršne razine kada je u pitanju percipirana glasnoća. Želite da vaše RMS razine budu u zelenom za dosljedno glasan, ali još uvijek ugodan zvuk."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Analiza frekvencijskog spektra",
+      "intro": "Naš test mikrofona sadrži analizator frekvencijskog spektra od 32 pojasa koji prikazuje raspodjelu audio signala po različitim frekvencijama. Ovo je profesionalni alat koji vam omogućuje analizu frekvencijskog odziva mikrofona i dijagnosticiranje raznih problema:",
+      "low": {
+        "title": "Niske frekvencije (20-250 Hz)",
+        "description": "To su basovske frekvencije koje dodaju puninu i toplinu vašem glasu. Prekomjerna energija niskih frekvencija može učiniti vašu snimku zamućenom ili bučnom. To često može biti rezultat stajanja preblizu mikrofonu. (Efekt blizine.)"
+      },
+      "mid": {
+        "title": "Srednje frekvencije (250-4000 Hz)",
+        "description": "Većina jasnoće vašeg glasa leži ovdje. Ovo područje trebalo bi biti istaknuto i definirano. Ako ovaj raspon nedostaje, vaš glas će zvučati slabo ili udaljeno."
+      },
+      "high": {
+        "title": "Visoke frekvencije (4000-20000 Hz)",
+        "description": "Sjaj i jasnoća. Dobro uravnotežena visoka frekvencija reproducira govor na oštar, razumljiv način. Previše visoke frekvencije zvuči šuštavo ili sibilantno (tzz zvuk)."
+      },
+      "tip": "Promatrajte mjerač frekvencija dok govorite. Ako pokazuje ravnomjernu raspodjelu frekvencija, mikrofon je u dobrom položaju i vjerojatno bilježi prirodan zvuk. Ako pokazuje previše aktivnosti na niskom kraju, možda se trebate malo odmaknuti."
+    },
+    "sampleRates": {
+      "title": "Postavke frekvencije uzorkovanja",
+      "intro": "Frekvencija uzorkovanja je broj audio uzoraka uzetih u sekundi. Što je veća frekvencija uzorkovanja, to zvuk ima više detalja, ali također troši više resursa za obradu i pohranu:",
+      "rates": {
+        "22khz": {
+          "title": "22,05 kHz",
+          "description": "Niska kvaliteta. Samo za glas. Vrlo mala potrošnja propusnosti, ali loš frekvencijski odziv. Obično treba izbjegavati."
+        },
+        "44khz": {
+          "title": "44,1 kHz (CD kvaliteta)",
+          "description": "– Prikladno za opću upotrebu. Snima sve frekvencije čujne ljudskom uhu (20 Hz – 20 kHz). Odlično za video konferencije, podcasting i glazbu."
+        },
+        "48khz": {
+          "title": "48 kHz (profesionalni standard):",
+          "description": "Vrlo slično 44,1 kHz, ali nešto više kvalitete. Ovo je standard za video/film i emitiranje. Koristite ovo ako ćete sinkronizirati zvuk s videom."
+        }
+      },
+      "tip": "Općenito, 44,1 kHz je dovoljno za većinu testiranja mikrofona. Ako ste ozbiljan audio profesionalac i želite najvišu kvalitetu (ili je trebate uskladiti s video materijalom), možete koristiti 48 kHz."
+    },
+    "types": {
+      "title": "Vrste mikrofona",
+      "builtIn": {
+        "title": "Ugrađeni mikrofoni prijenosnih računala:",
+        "description": "To su mikrofoni ugrađeni u vaše prijenosno računalo. Praktični su, ali obično niže kvalitete. Možete čuti tipkanje i ventilator vašeg računala. Još uvijek ih možete koristiti, samo postavite prijenosno računalo tako da je mikrofon okrenut prema vama. Ovo je sasvim u redu za video razgovor s prijateljem ili članom obitelji, ali vjerojatno ne želite snimati glasovni komentar s njim."
+      },
+      "usb": {
+        "title": "USB mikrofoni:",
+        "description": "Evo naših najboljih preporuka za USB mikrofone za Mac i PC. Pristojan USB mikrofon napravit će veliku razliku u usporedbi s unutarnjim mikrofonom vašeg računala. Blue Yeti i Audio-Technica AT2020 USB dva su od najpopularnijih USB mikrofona i zvuče fantastično. Savršeni za podcasting, Twitch streaming ili video pozive."
+      },
+      "headset": {
+        "title": "Slušalice za igre i slušalice:",
+        "description": "Ako želite slušalice za igranje, možete ih također razmotriti kao opciju. Praktičnije su za korištenje, a položaj mikrofona ostaje isti svaki put. Naravno, što su bolje (i skuplje) slušalice, to će kvaliteta biti bolja. Odlične su za igranje i povremene pozive."
+      },
+      "condenser": {
+        "title": "Kondenzatorski mikrofoni",
+        "description": "Osjetljivi mikrofoni koji bilježe bogat, detaljan zvuk. Zahtijevaju pažljivo pozicioniranje i akustičku obradu. Najbolji za profesionalno snimanje, glasovne komentare i glazbenu produkciju."
+      },
+      "dynamic": {
+        "title": "Dinamički mikrofoni:",
+        "description": "Robusni i izvrsni u odbijanju pozadinske buke. Često se koriste za podcasting i streaming zbog tolerancije kućnog okruženja. Nisu toliko osjetljivi kao kondenzatorski, ali su praktičniji."
+      },
+      "tip": "Naš test mikrofona kompatibilan je sa svim vrstama mikrofona. Možete ga koristiti za testiranje više mikrofona, isprobavanje novog hardvera ili rješavanje problema."
+    },
+    "bestPractices": {
+      "title": "Najbolje prakse za snimanje mikrofonom",
+      "distance": {
+        "title": "Udaljenost.",
+        "description": "15-30 cm od usta. Bliže: Zvuči basovitije (efekt blizine) i bilježi disanje. Dalje: Tanji zvuk i bilježi buku prostorije."
+      },
+      "popFilter": {
+        "title": "Investirajte u pop filter:",
+        "description": "Plozivi (P, B, T) stvaraju udare zraka koji rezultiraju izobličenjem. Postavite pop filter između sebe i mikrofona i oni će nestati. Ako planirate raditi podcasting ili glasovne komentare, ovo je neophodan dodatak."
+      },
+      "background": {
+        "title": "Minimizirajte pozadinsku buku",
+        "description": "— Isključite ventilator, zatvorite prozor, utišajte telefon. Provedite test mikrofona u okruženju u kojem ćete snimati. Ima mnogo buke koje nismo ni svjesni."
+      },
+      "acoustics": {
+        "title": "Ne zaboravite na akustiku prostorije",
+        "description": "Ne želite snimati u prostoru s mnogo tvrdih, ravnih površina — to će stvoriti jeku i odjek. Želite meke površine koje apsorbiraju zvučne refleksije (zavjese, tepisi, akustički paneli). Možete čak snimati u ormaru punom odjeće, što može napraviti ogromnu razliku."
+      },
+      "positioning": {
+        "title": "Dosljednost je ključna!",
+        "description": "Ako ustanovite da mikrofon dobro zvuči na jednom mjestu, zadržite ga tamo tijekom cijele sesije snimanja. Možete investirati u nosač ili stalak za mikrofon ako želite izbjeći pomicanje mikrofona. Možete čak nacrtati krug na stolu da pokažete gdje mikrofon treba biti za ponovni postizanje tog dobrog zvuka."
+      }
+    },
+    "troubleshooting": {
+      "title": "Rješavanje problema s mikrofonom",
+      "noAudio": {
+        "title": "Zvuk nije otkriven:",
+        "issues": [
+          "Provjerite jesu li dopuštenja za mikrofon odobrena u postavkama preglednika",
+          "Provjerite je li odabran ispravan ulazni uređaj u padajućem izborniku",
+          "Provjerite da mikrofon nije utišan u hardverskim ili sistemskim postavkama",
+          "Za USB mikrofone pokušajte drugi priključak",
+          "Zatvorite druge aplikacije koje možda koriste mikrofon"
+        ]
+      },
+      "quiet": {
+        "title": "Zvuk je pretih:",
+        "issues": [
+          "Povećajte ulaznu razinu mikrofona u sistemskim postavkama",
+          "Približite se mikrofonu",
+          "Provjerite kontrole pojačanja na samom mikrofonu",
+          "Provjerite govorite li prema uzorku snimanja mikrofona"
+        ]
+      },
+      "distorted": {
+        "title": "Zvuk je izobličen:",
+        "issues": [
+          "Smanjite ulaznu razinu mikrofona u sistemskim postavkama",
+          "Malo se odmaknite od mikrofona",
+          "Provjerite postoje li fizičke prepreke ili nečistoće na mikrofonu"
+        ]
+      },
+      "echo": {
+        "title": "Jeka ili odjek:",
+        "issues": [
+          "Koristite slušalice kako biste spriječili da zvučnici vraćaju zvuk u mikrofon",
+          "Dodajte meke materijale u svoju prostoriju za apsorpciju zvučnih refleksija",
+          "Približite se mikrofonu kako biste povećali izravni zvuk u odnosu na refleksije prostorije"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Povezani alati i resursi",
+      "alsoTry": "Također pokušajte:",
+      "alsoTryLinks": ["Test web kamere i mikrofona", "Testiraj web kameru", "Test kamere", "Test video snimanja", "Provjeri kameru online"],
+      "onThisPage": "Na ovoj stranici:",
+      "onThisPageLinks": ["Kako testirati mikrofon", "Vodič za razine zvuka", "Rješavanje problema s mikrofonom", "Popravak nefunkcionalnog mikrofona", "Najbolje postavke mikrofona"]
+    }
+  }
+}

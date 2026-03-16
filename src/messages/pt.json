@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "home": {
+      "title": "Teste de Webcam e Teste de Microfone Online Gratuito | MicTestCam",
+      "description": "Teste a sua webcam e microfone instantaneamente online. Ferramenta gratuita de teste de câmara e microfone - 100% privado, sem transferências. Verifique se os seus dispositivos funcionam antes das videochamadas."
+    },
+    "webcam": {
+      "title": "Teste de Webcam - Ferramenta Gratuita de Teste de Câmara Online | Verifique a Sua Webcam",
+      "description": "Ferramenta gratuita de teste de webcam - verifique instantaneamente se a sua câmara está a funcionar. Teste a webcam com pré-visualização em direto, filtros, definições de qualidade e gravação. 100% privado, sem transferências necessárias."
+    },
+    "microphone": {
+      "title": "Teste de Microfone - Teste de Microfone Online Gratuito | Verifique o Seu Áudio",
+      "description": "Teste de microfone online gratuito - verifique se o seu microfone está a funcionar. Teste os níveis de áudio, resposta de frequência e qualidade de gravação. Testador de microfone 100% privado, sem transferências."
+    },
+    "privacy": {
+      "title": "Política de Privacidade | MicTestCam",
+      "description": "Saiba como o MicTestCam protege a sua privacidade. Todos os testes de webcam e microfone são realizados localmente no seu navegador - nunca recolhemos nem armazenamos os seus dados."
+    },
+    "terms": {
+      "title": "Termos de Serviço | MicTestCam",
+      "description": "Termos de Serviço do MicTestCam - ferramenta gratuita de teste de webcam e microfone online. Leia os nossos termos e condições de utilização do nosso serviço."
+    },
+    "contact": {
+      "title": "Contacte-nos | MicTestCam",
+      "description": "Entre em contacto com a equipa do MicTestCam. Contacte-nos para suporte, comentários ou consultas comerciais sobre as nossas ferramentas gratuitas de teste de webcam e microfone."
+    },
+    "blog": {
+      "title": "Blog - Dicas para Webcam e Microfone | MicTestCam",
+      "description": "Dicas especializadas, tutoriais e guias para teste de webcam, configuração de microfone e otimização de áudio/vídeo. Saiba como obter a melhor qualidade para as suas videochamadas."
+    },
+    "reviews": {
+      "title": "Melhores Análises de Webcams e Microfones | MicTestCam",
+      "description": "Análises aprofundadas, classificações e guias de compra para webcams, microfones, auriculares e equipamento de áudio/vídeo. Análise especializada para o ajudar a escolher o equipamento perfeito para streaming e videochamadas."
+    }
+  },
+  "nav": {
+    "home": "Início",
+    "webcamTest": "Teste de Webcam",
+    "microphoneTest": "Teste de Microfone",
+    "reviews": "Análises",
+    "blog": "Blog",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "contact": "Contacto"
+  },
+  "privacy": {
+    "banner": "100% Privado - Nada sai do seu navegador"
+  },
+  "home": {
+    "hero": {
+      "title": "Teste de Webcam e Teste de Microfone Online Gratuito",
+      "subtitle": "Verifique instantaneamente se a sua câmara e microfone funcionam perfeitamente antes da sua próxima videochamada. Sem transferências, sem registos, completamente privado.",
+      "webcamCta": "Testar a Sua Webcam",
+      "microphoneCta": "Testar o Seu Microfone"
+    },
+    "features": {
+      "title": "Porquê Utilizar o MicTestCam?",
+      "privacy": {
+        "title": "100% Privado",
+        "description": "O seu áudio e vídeo nunca saem do seu navegador. Não armazenamos, carregamos nem processamos quaisquer dados multimédia nos nossos servidores."
+      },
+      "simple": {
+        "title": "Simples com Um Clique",
+        "description": "Sem configuração complicada. Basta clicar num botão e ver instantaneamente a sua webcam ou ouvir o seu microfone. Funciona em segundos."
+      },
+      "professional": {
+        "title": "Ferramentas Profissionais",
+        "description": "Funcionalidades avançadas como análise de espetro de frequências, filtros de vídeo, definições de qualidade e capacidades de gravação local."
+      },
+      "universal": {
+        "title": "Funciona em Todo o Lado",
+        "description": "Compatível com todos os navegadores e dispositivos modernos. Teste antes do Zoom, Teams, Meet, Discord ou qualquer aplicação de videoconferência."
+      }
+    },
+    "howItWorks": {
+      "title": "Como Funciona",
+      "step1": {
+        "title": "Clique em Iniciar",
+        "description": "Escolha o teste de webcam ou microfone e clique no botão iniciar"
+      },
+      "step2": {
+        "title": "Permitir Acesso",
+        "description": "Conceda permissão ao navegador para aceder à sua câmara ou microfone"
+      },
+      "step3": {
+        "title": "Ver Resultados",
+        "description": "Veja instantaneamente a sua transmissão de vídeo ou níveis de áudio. Grave clips se necessário"
+      }
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "q1": {
+        "question": "Este teste de webcam é realmente privado?",
+        "answer": "Sim, absolutamente. Todo o processamento acontece diretamente no seu navegador utilizando APIs Web. Nenhum dado de vídeo ou áudio é enviado para os nossos servidores ou para terceiros. Pode verificar isto consultando o separador de rede do seu navegador."
+      },
+      "q2": {
+        "question": "Preciso de instalar alguma coisa?",
+        "answer": "Não é necessária qualquer instalação. O MicTestCam funciona inteiramente no seu navegador web. Basta visitar a página e clicar em iniciar."
+      },
+      "q3": {
+        "question": "Que navegadores são suportados?",
+        "answer": "O MicTestCam funciona em todos os navegadores modernos, incluindo Chrome, Firefox, Safari, Edge e Opera em dispositivos de secretária e móveis."
+      },
+      "q4": {
+        "question": "Posso gravar vídeo ou áudio?",
+        "answer": "Sim! Pode gravar clips de vídeo na página de teste de webcam e clips de áudio na página de teste de microfone. Todas as gravações são guardadas localmente no seu navegador e podem ser transferidas."
+      },
+      "q5": {
+        "question": "Porque é que a minha câmara/microfone não está a funcionar?",
+        "answer": "Certifique-se de que concedeu permissão ao navegador para aceder ao seu dispositivo. Verifique se nenhuma outra aplicação está a utilizar a sua câmara ou microfone. Tente atualizar a página ou selecionar um dispositivo diferente no menu suspenso."
+      },
+      "q6": {
+        "question": "A utilização é gratuita?",
+        "answer": "Sim, o MicTestCam é completamente gratuito, sem limitações ou taxas ocultas."
+      },
+      "q7": {
+        "question": "Posso testar antes de uma chamada Zoom/Teams/Meet?",
+        "answer": "Com certeza! O MicTestCam é perfeito para testes pré-chamada. Basta testar os seus dispositivos aqui e depois entrar na sua videoconferência com confiança."
+      },
+      "q8": {
+        "question": "Como seleciono uma câmara ou microfone diferente?",
+        "answer": "Utilize o menu suspenso de dispositivos na página de teste para alternar entre câmaras ou microfones ligados."
+      },
+      "q9": {
+        "question": "Onde são guardadas as minhas gravações?",
+        "answer": "As gravações são guardadas localmente no armazenamento do seu navegador. Persistem mesmo depois de fechar o navegador e podem ser transferidas ou eliminadas a qualquer momento."
+      },
+      "q10": {
+        "question": "Isto funciona em telemóveis?",
+        "answer": "Sim, o MicTestCam funciona em dispositivos móveis com navegadores modernos. Pode testar tanto a câmara frontal como a traseira do seu telemóvel."
+      }
+    },
+    "trust": {
+      "tests": "Mais de 50.000 testes diários",
+      "apps": "Funciona com Zoom, Teams, Meet",
+      "browsers": "Todos os navegadores modernos suportados"
+    }
+  },
+  "webcam": {
+    "title": "Teste de Webcam - Testador de Câmara Online Gratuito",
+    "subtitle": "Teste a sua câmara instantaneamente. Veja o seu vídeo, ajuste a qualidade, aplique filtros e grave clips.",
+    "startButton": "Iniciar Câmara e Gravar",
+    "stopButton": "Parar e Guardar Gravação",
+    "snapshotButton": "Tirar Fotografia",
+    "permissionMessage": "Clique no botão acima para iniciar o teste da sua webcam",
+    "recording": "A gravar",
+    "deviceLabel": "Câmara",
+    "qualityLabel": "Qualidade",
+    "filterLabel": "Filtro",
+    "filters": {
+      "normal": "Normal",
+      "grayscale": "Escala de Cinzentos",
+      "sepia": "Sépia",
+      "invert": "Inverter",
+      "blur": "Desfoque",
+      "brightness": "Brilho",
+      "contrast": "Contraste",
+      "hueRotate": "Rotação de Tonalidade",
+      "saturate": "Saturar"
+    },
+    "savedRecordings": {
+      "title": "Gravações Guardadas",
+      "clearAll": "Limpar Tudo",
+      "noRecordings": "Ainda não há gravações. Comece a gravar para guardar clips de vídeo.",
+      "play": "Reproduzir",
+      "download": "Transferir",
+      "delete": "Eliminar"
+    },
+    "testCamera": "Testar Câmara",
+    "stopCamera": "Parar Câmara",
+    "record": "Gravar",
+    "stopRecording": "Parar Gravação",
+    "showAdvanced": "Mostrar Avançado",
+    "hideAdvanced": "Ocultar Avançado",
+    "mirrorMode": "Modo Espelho",
+    "flipHorizontally": "Inverter horizontalmente",
+    "digitalZoom": "Zoom Digital",
+    "brightness": "Brilho",
+    "contrast": "Contraste",
+    "dark": "Escuro",
+    "normal": "Normal",
+    "bright": "Claro",
+    "low": "Baixo",
+    "high": "Alto",
+    "cameraComparison": "Comparação de Câmaras",
+    "compareSideBySide": "Comparar lado a lado",
+    "requires2Cameras": "(requer 2+ câmaras)",
+    "secondCamera": "Segunda Câmara",
+    "fineTuneWhileRecording": "Ajuste Fino Durante a Gravação",
+    "camera1": "Câmara 1",
+    "camera2": "Câmara 2",
+    "motion": "Movimento",
+    "advanced": {
+      "title": "Controlos Avançados da Câmara",
+      "exposure": "Exposição",
+      "focus": "Foco",
+      "whiteBalance": "Balanço de Brancos",
+      "image": "Imagem",
+      "ptz": "PTZ",
+      "mode": "Modo",
+      "exposureTime": "Tempo de Exposição",
+      "distance": "Distância",
+      "temperature": "Temperatura",
+      "sharpness": "Nitidez",
+      "zoom": "Zoom",
+      "pan": "Panorâmica",
+      "tilt": "Inclinação",
+      "saturation": "Saturação",
+      "noAdvancedControls": "A sua câmara não suporta controlos avançados de hardware"
+    },
+    "backgroundBlur": {
+      "title": "Desfoque de Fundo",
+      "blurStrength": "Intensidade do Desfoque",
+      "skinToneNote": "A utilizar deteção de tom de pele leve. Para melhores resultados, assegure uma boa iluminação."
+    },
+    "faceDetection": {
+      "facesDetected": "Detetado",
+      "face": "Rosto"
+    },
+    "framing": {
+      "grid": "Grelha",
+      "faceGuide": "Guia de Rosto",
+      "moveRight": "Mover para a direita",
+      "moveLeft": "Mover para a esquerda",
+      "moveDown": "Mover para baixo",
+      "moveUp": "Mover para cima",
+      "moveCloser": "Aproximar-se",
+      "moveBack": "Afastar-se",
+      "greatFraming": "Ótimo enquadramento!",
+      "noFaceDetected": "Nenhum rosto detetado"
+    },
+    "histogram": {
+      "videoAnalysis": "Análise de Vídeo",
+      "histogram": "Histograma",
+      "waveform": "Forma de Onda",
+      "shadows": "Sombras",
+      "midtones": "Tons Médios",
+      "highlights": "Realces"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Resolução",
+      "bitrate": "Taxa de Bits",
+      "lighting": "Iluminação",
+      "dropped": "Perdidos",
+      "tooDark": "Demasiado Escuro",
+      "lowLight": "Pouca Luz",
+      "overexposed": "Sobreexposto",
+      "good": "Bom",
+      "hideMetrics": "Ocultar métricas"
+    }
+  },
+  "microphone": {
+    "title": "Teste de Microfone - Testador de Microfone Online Gratuito",
+    "subtitle": "Teste o seu microfone com medidor de nível de áudio em tempo real e analisador de espetro de frequências.",
+    "startButton": "Iniciar Microfone e Gravar",
+    "stopButton": "Parar e Guardar Gravação",
+    "permissionMessage": "Clique no botão acima para iniciar o teste do seu microfone",
+    "recording": "A gravar",
+    "deviceLabel": "Microfone",
+    "sampleRateLabel": "Taxa de Amostragem",
+    "channelLabel": "Canais",
+    "mono": "Mono",
+    "stereo": "Estéreo",
+    "levelMeter": "Nível de Áudio",
+    "frequencySpectrum": "Espetro de Frequências",
+    "savedRecordings": {
+      "title": "Gravações Guardadas",
+      "clearAll": "Limpar Tudo",
+      "noRecordings": "Ainda não há gravações. Comece a gravar para guardar clips de áudio.",
+      "play": "Reproduzir",
+      "download": "Transferir",
+      "delete": "Eliminar"
+    },
+    "testMicrophone": "Testar Microfone",
+    "stopMicrophone": "Parar Microfone",
+    "record": "Gravar",
+    "stopRecording": "Parar Gravação",
+    "showAdvanced": "Mostrar Avançado",
+    "hideAdvanced": "Ocultar Avançado",
+    "inputGain": "Ganho de Entrada",
+    "noiseSuppression": "Supressão de Ruído",
+    "enableNoiseReduction": "Ativar redução de ruído",
+    "echoCancellation": "Cancelamento de Eco",
+    "reduceEchoFeedback": "Reduzir retorno de eco",
+    "autoGainControl": "Controlo Automático de Ganho",
+    "autoAdjustVolume": "Ajustar volume automaticamente",
+    "microphoneComparison": "Comparação de Microfones",
+    "compareSideBySide": "Comparar lado a lado",
+    "requires2Mics": "(requer 2+ microfones)",
+    "secondMicrophone": "Segundo Microfone",
+    "fineTuneWhileTesting": "Ajuste Fino Durante o Teste",
+    "boost": "Amplificar",
+    "normal": "Normal",
+    "low": "Baixo",
+    "advanced": {
+      "title": "Análise de Áudio Avançada",
+      "metrics": "Métricas",
+      "spectrogram": "Espetrograma",
+      "signalToNoiseRatio": "Relação Sinal-Ruído",
+      "excellent": "Excelente",
+      "good": "Bom",
+      "fair": "Razoável",
+      "poor": "Fraco",
+      "rms": "RMS (dB)",
+      "peak": "Pico (dB)",
+      "noiseFloor": "Ruído de Fundo",
+      "dominantFrequency": "Frequência Dominante",
+      "detectedIssues": "Problemas Detetados",
+      "detectedAt": "detetado em",
+      "time": "Tempo",
+      "frequencyLowHigh": "Frequência (Baixa \u2192 Alta)"
+    },
+    "processing": {
+      "title": "Processamento de Áudio",
+      "noiseSuppression": "Supressão de Ruído",
+      "reduceBackgroundNoise": "Reduzir ruído de fundo",
+      "echoCancellation": "Cancelamento de Eco",
+      "removeAudioFeedback": "Remover retorno de áudio",
+      "autoGainControl": "Controlo Automático de Ganho",
+      "normalizeVolumeLevels": "Normalizar níveis de volume",
+      "directMonitoring": "Monitorização Direta",
+      "listenToYourMic": "Ouça o seu microfone",
+      "monitorVolume": "Volume de Monitorização",
+      "useHeadphones": "Use auriculares para evitar retorno!"
+    },
+    "comparison": {
+      "title": "Comparação A/B de Microfones",
+      "microphoneA": "Microfone A",
+      "microphoneB": "Microfone B",
+      "selectMicrophone": "Selecionar microfone...",
+      "startComparison": "Iniciar Comparação",
+      "selectTwoDifferent": "Por favor, selecione dois microfones diferentes",
+      "active": "Ativo",
+      "switchTo": "Mudar para",
+      "rmsLevel": "Nível RMS",
+      "peakLevel": "Nível de Pico",
+      "snr": "SNR (dB)",
+      "stopComparison": "Parar Comparação",
+      "micA": "Mic A",
+      "micB": "Mic B"
+    }
+  },
+  "privacyPage": {
+    "title": "Política de Privacidade",
+    "lastUpdated": "Última Atualização",
+    "intro": "No MicTestCam, levamos a sua privacidade a sério. Esta Política de Privacidade explica como tratamos as suas informações quando utiliza os nossos serviços de teste de webcam e microfone.",
+    "sections": {
+      "noCollection": {
+        "title": "Não Recolhemos os Seus Dados",
+        "content": "O MicTestCam foi concebido com a privacidade como princípio fundamental. Não recolhemos, armazenamos nem transmitimos quaisquer dados de áudio ou vídeo dos seus testes de webcam ou microfone. Todo o processamento acontece inteiramente no seu navegador web utilizando APIs JavaScript locais."
+      },
+      "localStorage": {
+        "title": "Armazenamento Local",
+        "content": "Quando grava clips de vídeo ou áudio, estes são armazenados localmente no IndexedDB do seu navegador. Estes dados nunca saem do seu dispositivo e não são acessíveis por nós ou por terceiros. Pode eliminar estas gravações a qualquer momento através da interface da aplicação ou limpando os dados do seu navegador."
+      },
+      "cookies": {
+        "title": "Cookies e Análises",
+        "content": "Utilizamos cookies mínimos apenas para funcionalidades essenciais do website, como preferências de idioma. Podemos utilizar análises que respeitam a privacidade para compreender padrões gerais de utilização, mas não rastreamos utilizadores individuais nem recolhemos informações pessoais."
+      },
+      "thirdParty": {
+        "title": "Serviços de Terceiros",
+        "content": "O nosso website pode incluir ligações para websites de terceiros. Não somos responsáveis pelas práticas de privacidade desses sites externos. Recomendamos que reveja as suas políticas de privacidade antes de fornecer quaisquer informações pessoais."
+      },
+      "security": {
+        "title": "Segurança",
+        "content": "Utilizamos encriptação HTTPS para proteger todas as comunicações entre o seu navegador e o nosso website. Uma vez que não recolhemos os seus dados multimédia, não existe risco de as suas gravações de webcam ou microfone serem expostas através de uma violação de dados."
+      },
+      "children": {
+        "title": "Privacidade de Menores",
+        "content": "O MicTestCam não se destina a crianças com menos de 13 anos de idade. Não recolhemos intencionalmente informações de crianças."
+      },
+      "changes": {
+        "title": "Alterações a Esta Política",
+        "content": "Podemos atualizar esta Política de Privacidade periodicamente. Notificá-lo-emos de quaisquer alterações publicando a nova Política de Privacidade nesta página e atualizando a data de 'Última Atualização'."
+      },
+      "contact": {
+        "title": "Contacte-nos",
+        "content": "Se tiver alguma questão sobre esta Política de Privacidade, por favor contacte-nos através da nossa página de contacto."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Termos de Serviço",
+    "lastUpdated": "Última Atualização",
+    "intro": "Bem-vindo ao MicTestCam. Ao aceder ou utilizar o nosso website e serviços, concorda em ficar vinculado a estes Termos de Serviço.",
+    "sections": {
+      "acceptance": {
+        "title": "Aceitação dos Termos",
+        "content": "Ao utilizar o MicTestCam, concorda com estes Termos de Serviço e com a nossa Política de Privacidade. Se não concordar com qualquer parte destes termos, não poderá utilizar os nossos serviços."
+      },
+      "description": {
+        "title": "Descrição do Serviço",
+        "content": "O MicTestCam fornece ferramentas online gratuitas para testar webcams e microfones. O nosso serviço permite-lhe verificar se a sua câmara e microfone estão a funcionar corretamente antes de videochamadas, gravações ou sessões de streaming."
+      },
+      "usage": {
+        "title": "Utilização Aceitável",
+        "content": "Concorda em utilizar o MicTestCam apenas para fins legais e de acordo com estes Termos. Concorda em não: utilizar o serviço para qualquer atividade ilegal, tentar interferir com o funcionamento adequado do website, tentar aceder a áreas do website que não se destinam a acesso público, ou utilizar sistemas automatizados para aceder ao serviço sem permissão."
+      },
+      "privacy": {
+        "title": "Privacidade e Dados",
+        "content": "Todos os testes de webcam e microfone ocorrem localmente no seu navegador. Não recolhemos, armazenamos nem temos acesso aos seus dados de áudio ou vídeo. Para mais informações, por favor consulte a nossa Política de Privacidade."
+      },
+      "intellectual": {
+        "title": "Propriedade Intelectual",
+        "content": "O website MicTestCam, incluindo o seu design, código e conteúdo, é protegido por direitos de autor e outras leis de propriedade intelectual. Não pode copiar, modificar, distribuir ou reproduzir qualquer parte do website sem o nosso consentimento prévio por escrito."
+      },
+      "disclaimer": {
+        "title": "Exclusão de Garantias",
+        "content": "O MicTestCam é fornecido 'tal como está' sem garantias de qualquer tipo, expressas ou implícitas. Não garantimos que o serviço será ininterrupto, isento de erros ou que cumprirá os seus requisitos específicos. Não somos responsáveis por quaisquer problemas de hardware ou software com os seus dispositivos."
+      },
+      "limitation": {
+        "title": "Limitação de Responsabilidade",
+        "content": "Na máxima extensão permitida por lei, o MicTestCam não será responsável por quaisquer danos indiretos, incidentais, especiais, consequenciais ou punitivos resultantes da sua utilização do serviço."
+      },
+      "changes": {
+        "title": "Alterações aos Termos",
+        "content": "Reservamo-nos o direito de modificar estes Termos de Serviço a qualquer momento. As alterações entrarão em vigor imediatamente após publicação no website. A sua utilização continuada do serviço após a publicação das alterações constitui a sua aceitação dos termos modificados."
+      },
+      "governing": {
+        "title": "Lei Aplicável",
+        "content": "Estes Termos de Serviço serão regidos e interpretados de acordo com as leis aplicáveis, sem consideração por princípios de conflitos de leis."
+      },
+      "contact": {
+        "title": "Contacto",
+        "content": "Se tiver alguma questão sobre estes Termos de Serviço, por favor contacte-nos através da nossa página de contacto."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Contacte-nos",
+    "subtitle": "Tem questões ou comentários? Gostaríamos de ouvir a sua opinião.",
+    "form": {
+      "name": "O Seu Nome",
+      "namePlaceholder": "Introduza o seu nome",
+      "email": "Endereço de Email",
+      "emailPlaceholder": "Introduza o seu email",
+      "subject": "Assunto",
+      "subjectPlaceholder": "Qual é o assunto?",
+      "message": "Mensagem",
+      "messagePlaceholder": "Escreva a sua mensagem aqui...",
+      "submit": "Enviar Mensagem",
+      "sending": "A enviar...",
+      "success": "Obrigado! A sua mensagem foi enviada com sucesso.",
+      "error": "Desculpe, ocorreu um erro ao enviar a sua mensagem. Por favor, tente novamente."
+    },
+    "info": {
+      "title": "Outras Formas de Nos Contactar",
+      "email": "Email",
+      "response": "Normalmente respondemos dentro de 24-48 horas.",
+      "social": "Siga-nos"
+    },
+    "faq": {
+      "title": "Antes de Nos Contactar",
+      "subtitle": "Poderá encontrar a sua resposta na nossa secção de Perguntas Frequentes na página inicial."
+    }
+  },
+  "blogPage": {
+    "title": "Blog de Teste de Webcam e Microfone - Dicas, Guias e Tutoriais",
+    "subtitle": "Dicas especializadas, tutoriais e informações sobre teste de webcam, configuração de microfone e otimização de áudio/vídeo para videochamadas, streaming e criação de conteúdo.",
+    "noPosts": "Ainda sem publicações",
+    "noPostsDescription": "Volte em breve para novo conteúdo!",
+    "readMore": "Ler mais",
+    "by": "por",
+    "minRead": "min de leitura",
+    "categories": {
+      "all": "Todas as Publicações",
+      "webcam": "Dicas de Webcam",
+      "microphone": "Dicas de Microfone",
+      "tutorials": "Tutoriais",
+      "troubleshooting": "Resolução de Problemas"
+    },
+    "search": "Pesquisar artigos...",
+    "featured": "Destaque",
+    "latest": "Artigos Mais Recentes",
+    "relatedPosts": "Publicações Relacionadas"
+  },
+  "reviewsPage": {
+    "title": "Melhores Análises de Webcams e Microfones - Análise Especializada de Produtos",
+    "subtitle": "Análises aprofundadas, classificações e guias de compra para webcams, microfones, auriculares e equipamento de áudio/vídeo. Encontre o equipamento perfeito para streaming, videochamadas e criação de conteúdo.",
+    "noReviews": "Ainda não há análises disponíveis",
+    "noReviewsDescription": "Volte em breve para análises especializadas de produtos!",
+    "by": "por",
+    "readMore": "Ler Análise"
+  },
+  "footer": {
+    "tagline": "Teste a sua webcam e microfone online gratuitamente",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Todos os direitos reservados.",
+    "language": "Idioma"
+  },
+  "common": {
+    "loading": "A carregar...",
+    "error": "Erro",
+    "close": "Fechar",
+    "back": "Voltar",
+    "next": "Seguinte",
+    "submit": "Submeter",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "download": "Transferir",
+    "share": "Partilhar",
+    "copy": "Copiar",
+    "copied": "Copiado!",
+    "readMore": "Ler Mais",
+    "learnMore": "Saber Mais",
+    "getStarted": "Começar"
+  },
+  "cta": {
+    "title": "Pronto para Testar os Seus Dispositivos?",
+    "subtitle": "Comece a testar a sua webcam e microfone agora mesmo. Sem transferências, sem registos necessários.",
+    "webcamButton": "Testar Webcam",
+    "microphoneButton": "Testar Microfone"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "O MicTestCam fornece testes online instantâneos e gratuitos para webcams e microfones diretamente no seu navegador. Sem transferências necessárias. Teste a qualidade da sua câmara, os níveis do microfone e a clareza de áudio em menos de 30 segundos antes de qualquer videochamada ou sessão de gravação.",
+      "p1": "Olá e bem-vindo ao MicTestCam! O MicTestCam oferece a forma mais fácil de <strong>testar a sua webcam e microfone online</strong>, quer queira verificar a sua webcam para uma videoconferência, uma reunião, uma apresentação, gravar locuções para os seus vídeos e canal do YouTube, ou realizar um <strong>teste de microfone</strong> aprofundado para o seu podcast.",
+      "p2": "As Ferramentas de Teste de Câmara e Microfone do MicTestCam funcionam totalmente dentro do navegador e não requerem qualquer transferência. A privacidade do utilizador é a prioridade mais importante para o MicTestCam. Todos os testes são realizados no seu navegador e as suas informações de vídeo e áudio nunca saem do seu computador. Com mais de 50.000 testes por dia e uma taxa de sucesso de 99,9%, o MicTestCam é a plataforma mais popular para profissionais, trabalhadores remotos, criadores de conteúdo e utilizadores regulares que procuram testar dispositivos.",
+      "p3": "Clique nos botões abaixo para <strong>testar a webcam</strong> ou <strong>testar o microfone</strong>. O MicTestCam demora apenas alguns segundos a verificar se a sua câmara e microfone estão a funcionar corretamente antes de uma chamada Zoom, Microsoft Teams, Google Meet, Discord, Skype ou outra videochamada.",
+      "keyTakeaways": {
+        "title": "Pontos-Chave",
+        "points": [
+          "Teste instantâneo e gratuito de webcam e microfone - sem necessidade de instalação de software",
+          "Testes baseados no navegador a 100% garantem total privacidade e segurança de dados",
+          "Feedback em tempo real sobre qualidade de vídeo, níveis de áudio e resposta de frequência",
+          "Compatível com Zoom, Teams, Meet, Discord e todas as plataformas de vídeo",
+          "Mais de 50.000 testes diários com taxa de precisão de 99,9%"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Porque Deve Testar a Sua Webcam e Microfone Antes das Videochamadas?",
+      "directAnswer": "Testar a sua webcam e microfone antes das videochamadas previne falhas técnicas embaraçosas, poupa tempo de reunião e garante qualidade de comunicação profissional. Um teste pré-chamada identifica problemas com ângulos de câmara, iluminação, níveis de áudio e ruído de fundo antes de a sua audiência os ver.",
+      "p1": "O trabalho remoto e a comunicação virtual são agora práticas empresariais padrão. Ser capaz de comunicar claramente por vídeo e áudio é crucial para o sucesso profissional. Interrupções técnicas durante reuniões prejudicam a credibilidade e desperdiçam tempo. Ter de perguntar repetidamente \"Consegue ver-me agora? E agora?\" prejudica a reputação profissional e atrasa discussões importantes.",
+      "p2": "Realizar um rápido teste de vídeo antes das reuniões previne erros técnicos. Realizar um rápido teste de áudio antes de chamadas importantes garante que o seu áudio é claro, sem ruído de fundo, eco ou distorção. Profissionais de vendas, executivos, professores e criadores de conteúdo compreendem a importância de um desempenho fiável da webcam e do microfone.",
+      "p3": "Ao contrário de outras ferramentas de teste de webcam e microfone, o MicTestCam não só verifica se a sua webcam ou microfone estão a funcionar, mas também fornece informações detalhadas sobre a qualidade de vídeo e as características de áudio. O MicTestCam ajuda os utilizadores a encontrar e corrigir problemas técnicos antes do início das videochamadas.",
+      "comparison": {
+        "title": "MicTestCam vs. Testes Integrados das Plataformas de Vídeo",
+        "points": [
+          "<strong>MicTestCam:</strong> Fornece análise detalhada de frequência de áudio, formas de onda em tempo real e métricas profissionais",
+          "<strong>Testes das Plataformas:</strong> Mostram apenas funcionalidade básica sim/não sem detalhes de qualidade",
+          "<strong>MicTestCam:</strong> Os testes funcionam em todas as plataformas - Zoom, Teams, Meet, Discord simultaneamente",
+          "<strong>Testes das Plataformas:</strong> Verificam apenas a funcionalidade dentro dessa plataforma específica",
+          "<strong>MicTestCam:</strong> Oferece reprodução de gravação para ouvir exatamente o que os outros ouvirão",
+          "<strong>Testes das Plataformas:</strong> Sem funcionalidade de reprodução para verificação de qualidade"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Como Funciona o Testador de Câmara e Microfone do MicTestCam?",
+      "directAnswer": "O MicTestCam utiliza tecnologia WebRTC para aceder à sua webcam e microfone diretamente através do seu navegador. Os testes acontecem inteiramente no seu dispositivo utilizando os mesmos protocolos que o Zoom, Teams e Meet usam, garantindo testes de desempenho precisos do mundo real sem carregar quaisquer dados para servidores.",
+      "p1": "O testador de câmara e microfone do MicTestCam utiliza protocolos WebRTC, os mesmos protocolos em que os serviços populares de videoconferência baseados na web se apoiam. Quando <strong>testa a sua webcam</strong> utilizando o MicTestCam, a plataforma acede à sua webcam através da API Web do navegador e apresenta a transmissão de vídeo em tempo real no ecrã. Os utilizadores podem verificar se a webcam funciona, verificar se a iluminação é adequada, confirmar se o ângulo da câmara está correto e avaliar a qualidade geral do vídeo.",
+      "p2": "A ferramenta de <strong>teste de microfone</strong> do MicTestCam fornece feedback imediato sobre os níveis de volume da voz. Quando os utilizadores falam para o microfone, os medidores de áudio refletem os níveis de voz em tempo real para ajudar a determinar se o microfone está a captar o som corretamente. O analisador de espetro de frequências de 32 bandas mostra como o som é distribuído pelas frequências, uma funcionalidade particularmente valiosa para podcasters e músicos que testam microfones para gravação profissional.",
+      "p3": "Ambas as ferramentas do MicTestCam oferecem capacidade de gravação automática. Os utilizadores podem iniciar um teste e o MicTestCam gravará automaticamente a transmissão da câmara e o áudio, permitindo a reprodução para avaliar a qualidade tal como a audiência a experimentaria. Toda a gravação acontece localmente no navegador. O MicTestCam não carrega nem armazena quaisquer dados do utilizador em servidores externos, garantindo total privacidade.",
+      "technicalSpecs": {
+        "title": "Especificações Técnicas",
+        "specs": [
+          "<strong>Protocolo:</strong> WebRTC (Web Real-Time Communication) - Padrão da indústria utilizado pelo Zoom, Microsoft Teams, Google Meet",
+          "<strong>Análise de Áudio:</strong> Analisador de espetro de frequências de 32 bandas (gama de 20Hz - 20kHz)",
+          "<strong>Resolução de Vídeo:</strong> Suporta testes de 240p a 8K (7680×4320) dependendo da capacidade da câmara",
+          "<strong>Taxa de Fotogramas:</strong> Monitorização em tempo real a 15fps, 30fps e 60fps",
+          "<strong>Privacidade:</strong> Processamento 100% do lado do cliente - zero transmissão de dados para servidores do MicTestCam",
+          "<strong>Compatibilidade:</strong> Funciona em Chrome, Firefox, Safari, Edge - todos os principais navegadores"
+        ]
+      }
+    },
+    "features": {
+      "title": "Lista Completa de Funcionalidades dos Testes",
+      "webcamTitle": "Teste de webcam",
+      "webcamFeatures": [
+        "Pré-visualização em direto da sua câmara com opções de resolução de 240p a 1080p.",
+        "Deteção de múltiplos dispositivos de câmara como câmaras USB, webcams, câmaras externas.",
+        "Mais de 9 filtros e efeitos diferentes para testar a webcam e os seus balanços de cor.",
+        "Fotogramas por segundo para monitorizar a câmara.",
+        "Capacidade de capturar uma fotografia.",
+        "Gravação automática de vídeo da webcam nos formatos WebM e MP4.",
+        "Gravações guardadas no armazenamento local."
+      ],
+      "microphoneTitle": "Teste de microfone",
+      "microphoneFeatures": [
+        "Medidor de nível de áudio e medidor de pico em tempo real.",
+        "Analisador de espetro de frequências em tempo real de 32 bandas.",
+        "Deteção de múltiplos dispositivos de microfone como microfones USB, microfones de auricular, etc.",
+        "Capacidade de configurar taxas de amostragem até 48 KHz com qualidade de estúdio.",
+        "Configuração para gravar áudio em mono ou estéreo.",
+        "Medidor de nível de pico e RMS para áudio.",
+        "Gravação automática de áudio com opção de reprodução."
+      ]
+    },
+    "whoUses": {
+      "title": "Quem Utiliza o Nosso Teste de Webcam e Teste de Microfone",
+      "remoteWorkers": {
+        "title": "Trabalhadores remotos e profissionais",
+        "description": "Um trabalhador remoto ou profissional realiza um teste rápido antes das suas videoconferências e reuniões no Zoom, Google Meet ou Microsoft Teams para ver se a webcam está a funcionar corretamente, depois realiza um rápido <strong>teste de microfone</strong> para garantir que é audível, para que não tenham de se repetir nem sejam interrompidos com um \"Não o conseguimos ouvir!\""
+      },
+      "contentCreators": {
+        "title": "YouTubers, streamers do Twitch, podcasters e outros criadores de conteúdo",
+        "description": "Para YouTubers, streamers do Twitch, podcasters e outros criadores de conteúdo, a nossa ferramenta avançada de diagnóstico de áudio e vídeo é essencial. Utilize o analisador de espetro de frequências para resolver problemas de áudio e execute testes de qualidade de vídeo para garantir que está a entregar conteúdo de alta qualidade."
+      },
+      "students": {
+        "title": "Estudantes e Professores",
+        "description": "Os estudantes precisam de garantir que conseguem comunicar pela Internet. Realizam testes antes das suas aulas para confirmar que o seu equipamento está a funcionar. Os professores também verificam para garantir que o seu equipamento está em bom estado de funcionamento para dar as suas aulas com sucesso."
+      },
+      "jobSeekers": {
+        "title": "Candidatos a Emprego",
+        "description": "Se vai fazer entrevistas por vídeo, certifique-se de que realiza um <strong>teste de câmara</strong> e um <strong>teste de microfone</strong> antes de começar. Este é um grande diferenciador e mostrará que está preparado. (Nada é pior do que perder uma oportunidade por causa de uma falha técnica.)"
+      },
+      "gamers": {
+        "title": "Gamers:",
+        "description": "Utiliza um auricular de gaming? Obtenha os resultados precisos de que necessita para testar o seu microfone para Discord, chat em jogo ou streaming."
+      },
+      "techSupport": {
+        "title": "Suporte Técnico",
+        "description": "Se está a ter problemas com a sua câmara ou microfone, as nossas ferramentas podem ajudar a determinar se o problema é com o seu hardware, controladores ou configurações de software."
+      }
+    },
+    "privacy": {
+      "title": "Privacidade 100% Garantida",
+      "intro": "A privacidade está no centro de tudo o que fazemos nas nossas ferramentas de <strong>teste de webcam</strong> e <strong>teste de microfone</strong>. Compreendemos que ao aceder à sua câmara e microfone, está a partilhar informação privada connosco. É por isso que toda a nossa plataforma foi concebida com uma política de confiança zero.",
+      "localProcessing": {
+        "title": "Todo o processamento é feito na sua máquina local",
+        "description": "O processamento de vídeo e áudio é feito utilizando as APIs WebRTC no seu navegador. Não armazenamos os seus dados nos nossos servidores porque nem sequer os recebemos."
+      },
+      "noAccount": {
+        "title": "Sem Necessidade de Conta",
+        "description": "Não precisa de criar uma conta, introduzir um endereço de email, nem partilhar quaisquer dados pessoais. Basta ir ao site, permitir o acesso do navegador, testar os seus dispositivos e pronto."
+      },
+      "transparent": {
+        "title": "Código transparente",
+        "description": "Não ofuscamos o nosso código. Pode visualizá-lo no seu navegador utilizando as ferramentas de programador. Sem rastreamento, sem recolha de dados, sem análises para recolher os seus dados privados."
+      },
+      "cleanup": {
+        "title": "Eliminação Automática:",
+        "description": "Todas as gravações são armazenadas no armazenamento local do navegador. Serão automaticamente eliminadas quando fechar o navegador ou limpar o armazenamento local. Tem total controlo sobre o que é armazenado e por quanto tempo."
+      }
+    },
+    "compatibility": {
+      "title": "Compatibilidade entre navegadores e dispositivos",
+      "intro": "Os navegadores e dispositivos mais populares e atualizados são suportados pelos nossos testes de webcam e microfone. Ambas as ferramentas estão disponíveis em Windows, Mac OS, Linux, iOS, Android ou qualquer outro sistema operativo que suporte um navegador moderno, sem necessidade de transferências ou instalações adicionais.",
+      "browsersTitle": "Navegadores Suportados",
+      "browsers": [
+        "Google Chrome (melhor desempenho)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (em MacOS e iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Dispositivos Suportados",
+      "devices": [
+        "Webcams integradas ou externas USB em computadores de secretária e portáteis",
+        "Smartphones e tablets com câmaras frontal e traseira",
+        "Câmaras USB externas e webcams para PC",
+        "Microfones integrados de portáteis",
+        "Microfones USB externos",
+        "Auriculares de gaming com microfones",
+        "Interfaces de áudio profissionais e microfones de condensador"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Precisa de Ajuda?",
+      "intro": "Não consegue fazer o <strong>teste de webcam</strong> ou o <strong>teste de microfone</strong> funcionar? Tente uma destas soluções.",
+      "cameraTitle": "Câmara Não Detetada ou Não Funciona",
+      "cameraIssues": [
+        "Certifique-se de que permitiu a câmara no seu navegador. Na barra de endereço, verá um ícone de câmara que pode utilizar para ativar o acesso à câmara.",
+        "Está a utilizar a câmara noutra aplicação (Zoom, Teams, Skype, etc). Só pode utilizar a câmara numa aplicação de cada vez. Feche a outra aplicação ou atualize a página e permita o acesso novamente.",
+        "Atualize a página e permita o acesso novamente. Pode ser devido a um erro do navegador.",
+        "Utilize a versão mais recente do navegador.",
+        "Verifique se os controladores da câmara estão corretamente instalados no seu computador.",
+        "Se está a utilizar uma câmara USB, tente ligá-la a outra porta USB ou utilize um cabo diferente."
+      ],
+      "microphoneTitle": "Microfone Não Funciona",
+      "microphoneIssues": [
+        "Permita o acesso ao microfone no seu navegador.",
+        "Certifique-se de que o microfone está corretamente ligado à alimentação.",
+        "Utilize as definições de som do sistema para verificar se o microfone funciona.",
+        "Outras aplicações estão a utilizar o microfone. Tente fechá-las.",
+        "Tente ajustar o nível do microfone nas definições do sistema para captar mais volume se não for suficientemente alto, ou para reduzir o volume se for demasiado alto.",
+        "Verifique se o microfone não está silenciado no seu sistema ou no dispositivo (se tiver um botão físico de silenciar no dispositivo)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Ligações Rápidas",
+      "webcamTitle": "Testes de Webcam:",
+      "webcamLinks": ["Teste de Webcam", "Testar Webcam Online", "Teste de Câmara", "Testador de Câmara Online", "Teste de Webcam Gratuito", "Verificar a Minha Webcam", "Teste de Câmara USB", "Teste de Câmara de Portátil", "Testar Câmara para Zoom"],
+      "microphoneTitle": "Testes de Microfone:",
+      "microphoneLinks": ["Teste de Microfone", "Teste de Microfone Online", "Testar o Meu Microfone", "Testador de Microfone Online", "Teste de Microfone Gratuito", "Verificar Microfone", "Teste de Áudio Online", "Teste de Microfone USB", "Teste de Microfone para Discord"]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Teste a sua webcam com a nossa ferramenta de teste online rápida e fácil. Oferece uma pré-visualização em tempo real da sua câmara, múltiplas definições de qualidade, efeitos especiais e gravação automática utilizando a sua câmara online, tudo sem qualquer instalação de software adicional. Assim, pode utilizá-la como um <strong>teste de câmara</strong> para videoconferência, ou testar a sua webcam integrada num computador novo.",
+      "p2": "Para testar, basta premir o botão 'Iniciar Câmara e Gravar' acima. Uma pré-visualização em direto da sua webcam aparecerá para que possa ver se o seu vídeo está a funcionar, testar a sua iluminação e verificar se a câmara está posicionada corretamente. Nada é carregado, armazenado ou acedido. O seu teste de vídeo é feito localmente no seu computador."
+    },
+    "howToUse": {
+      "title": "Como Utilizar a Nossa Ferramenta de Teste de Webcam",
+      "intro": "Para testar a sua webcam, siga estes passos simples:",
+      "steps": [
+        "<strong>Permitir Acesso:</strong> Aparecerá uma caixa de diálogo a perguntar se o navegador pode aceder à webcam. Prima Permitir para autorizar o navegador a aceder à webcam. Note que isto acontece em qualquer website de teste de webcam. A caixa de diálogo aparece como medida de segurança para impedir que websites aleatórios acedam à webcam.",
+        "<strong>Selecionar a câmara correta:</strong> Se tiver múltiplas câmaras (por exemplo, uma câmara de portátil integrada e uma câmara USB separada), pode selecionar qual câmara utilizar no menu suspenso. A nossa ferramenta de teste de webcam detetará e listará automaticamente todas as câmaras.",
+        "<strong>Selecionar a qualidade:</strong> Escolha a resolução (qualidade) desejada no menu suspenso de qualidade. Pode testar a câmara em qualidade baixa (240p), qualidade média (480p), qualidade alta (720p), qualidade Full HD (1080p), etc. Qualidade superior proporciona uma imagem mais nítida mas requer mais largura de banda e CPU.",
+        "<strong>Iniciar o teste:</strong> Prima Iniciar Câmara e Gravar e verá imediatamente a transmissão em direto da sua câmara. Pode começar a gravar imediatamente e depois visualizar a qualidade.",
+        "<strong>Utilizar filtros visuais:</strong> Temos mais de 9 filtros visuais (preto e branco, sépia, desfoque, alto contraste, etc.) para ver como afetam o resultado da sua câmara.",
+        "<strong>Tirar uma fotografia:</strong> Pode tirar uma fotografia durante um teste para verificar a qualidade da sua imagem ou para ver como a câmara lida com condições de iluminação específicas.",
+        "<strong>Parar e Guardar:</strong> Quando terminar, prima Parar e Guardar Gravação para parar a gravação. O vídeo será guardado no navegador para que possa reproduzi-lo novamente e transferi-lo."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Funcionalidades Avançadas da Webcam",
+      "intro": "O nosso <strong>testador de webcam</strong> inclui funcionalidades de nível profissional concebidas para vários casos de utilização - desde videochamadas casuais à criação de conteúdo.",
+      "mirrorMode": {
+        "title": "Modo Espelho para Selfies Perfeitas",
+        "description": "O espelho e inversão é uma funcionalidade essencial para tutoriais de maquilhagem, bloggers e para quem quer ver como aparece num espelho. Quando clica no botão Espelho (com a câmara ligada), invertirá o vídeo da sua webcam horizontalmente para que possa verificar melhor o seu rosto, fazer a maquilhagem ou simplesmente habituar-se à vista espelhada. Especialmente se estiver a gravar um vídeo para o YouTube, um vídeo para o TikTok ou uma história para o Instagram onde precisa de mostrar texto, utilizar direções, etc."
+      },
+      "digitalZoom": {
+        "title": "Zoom Digital (1x a 3x)",
+        "description": "Veja quão nítida é a sua <strong>webcam</strong> quando ampliada em diferentes níveis. Ideal para demonstrações de produtos, tutoriais, ou simplesmente para ver ao perto. Cursor de zoom e botões rápidos 1x, 2x, 3x para testar a nitidez da sua webcam quando ampliada. Útil para ver se precisa de se aproximar da câmara, ou se pode ampliar sem degradar demasiado a qualidade da imagem. Prático para streamers que queiram ampliar o seu trabalho de pintura, artesanato ou reparação técnica."
+      },
+      "brightnessContrast": {
+        "title": "Controlos de Brilho e Contraste",
+        "description": "Ajuste o brilho (50-150%) e o contraste (50-150%) e veja como a sua webcam fica em diferentes condições de iluminação. Pode utilizar estes cursores para testar se a exposição automática da sua câmara funciona corretamente e para simular diferentes configurações de gravação. Se estiver demasiado escuro ou demasiado claro na sua sala, pode ajustar os cursores para uma configuração confortável para a sua próxima reunião por vídeo. Streamers e YouTubers utilizam frequentemente estes cursores para obter o melhor da sua câmara e para manter as mesmas condições de iluminação nos seus vídeos."
+      },
+      "gridOverlay": {
+        "title": "Sobreposição de Grelha para Enquadramento Profissional",
+        "description": "A nossa sobreposição de grelha integrada utiliza a técnica de composição da Regra dos Terços, permitindo-lhe enquadrar perfeitamente o seu rosto na sua gravação. Basta colocar os seus olhos na linha horizontal superior e alinhar o seu rosto com as guias verticais. Este princípio profissional de fotografia garante gravações de vídeo mais atrativas e interessantes para YouTube, reuniões de negócios ou streams no Twitch. A sobreposição de grelha ajuda com enquadramento consistente em gravações repetidas."
+      },
+      "videoFilters": {
+        "title": "Filtros e Efeitos de Vídeo",
+        "description": "Aplique os seguintes filtros à sua <strong>webcam</strong> para ver como ficam: Normal, Escala de Cinzentos, Sépia, Inverter, Desfoque, Brilho, Contraste, Rotação de Tonalidade e Saturar. Os filtros mostram-lhe quão bem a sua câmara consegue representar cores e como ficará quando utilizar filtros de efeitos de vídeo. Se for um streamer ou youtuber, pode utilizar filtros para ver como a sua transmissão ficaria com diferentes efeitos aplicados. Os filtros também podem ser utilizados para ver se a sua câmara produz as cores corretas. Compare os resultados dos filtros Escala de Cinzentos e Sépia."
+      },
+      "videoMetrics": {
+        "title": "Métricas de Vídeo em Tempo Real e Histograma:",
+        "description": "visualize detalhes técnicos sobre o seu vídeo como resolução, taxa de fotogramas e taxa de bits. O histograma RGB permite-lhe visualizar a distribuição de cores no seu vídeo. Isto é útil para detetar sobre/subexposição, desvios de cor e iluminação deficiente. Esta funcionalidade é ideal para profissionais como videógrafos, youtubers e vloggers que querem garantir que o seu vídeo é o melhor possível. Se o seu histograma tiver um corte em qualquer dos lados, precisará de corrigir a sua iluminação ou as definições da câmara."
+      },
+      "advancedControls": {
+        "title": "Controlos Avançados da Câmara",
+        "description": "Algumas webcams têm funcionalidades como exposição, modo de focagem, balanço de brancos, ISO e nitidez que podem ser controladas pelo utilizador. A nossa aplicação web permitir-lhe-á verificar o que a sua <strong>webcam</strong> consegue fazer. Pode alternar entre o modo de focagem automática e manual, alterar o balanço de brancos para corresponder à temperatura da sua luz, ou definir a compensação de exposição a seu gosto. Isto é muito útil para streamers, YouTubers e profissionais que precisam de controlar as definições da câmara."
+      },
+      "backgroundBlur": {
+        "title": "Efeito de Desfoque de Fundo",
+        "description": "Experimente o desfoque de fundo baseado na web sem quaisquer aplicações ou ecrã verde. O nosso efeito de desfoque de fundo utiliza as mais recentes tecnologias web para remover o fundo e separá-lo de si, útil quando tem de fazer videochamadas de casa com um fundo que não quer que os outros vejam. Pode ajustar o nível de desfoque aplicado ao seu fundo. Esta ferramenta permite-lhe ver quão bem o efeito de desfoque de fundo funciona com a sua <strong>webcam</strong> e aplicação de câmara. Isto é particularmente útil para programadores web, marketers digitais e para todos os que fazem conteúdo de vídeo."
+      },
+      "motionDetection": {
+        "title": "Deteção de Movimento para Testes de Segurança",
+        "description": "Se quiser verificar como a sua <strong>webcam</strong> reage ao movimento, utilize a nossa deteção de movimento em tempo real. Com o modo Avançado pode ver um indicador de percentagem de movimento em direto a refletir o movimento no seu vídeo. Utilize isto para testes de câmaras de segurança, configuração de sistemas de vigilância ou testes de câmaras de gravação ativadas por movimento. O detetor de movimento analisa a transmissão de vídeo fotograma a fotograma para descobrir a quantidade de movimento. Isto permite verificar quão boa é a câmara e que sensibilidade necessita. Útil para testes de segurança doméstica, monitor de animais de estimação e monitor de bebé."
+      },
+      "faceDetection": {
+        "title": "Deteção e Rastreamento Facial",
+        "description": "Detete a capacidade da sua webcam de detetar rostos. No modo avançado desenhamos caixas delimitadoras à volta dos rostos e contamo-los. A nossa ferramenta de deteção facial utiliza a API FaceDetector, quando disponível no seu navegador, para detetar múltiplos rostos numa imagem. Utilize esta ferramenta para testar a funcionalidade da sua <strong>câmara</strong> para enquadramento automático em videoconferência, ou para ver como lida com mais do que um rosto. Criadores de conteúdo de vídeo podem ver se a sua câmara deteta corretamente rostos para focagem automática, e profissionais podem verificar se a sua sala de reuniões multipessoal funciona como esperado."
+      },
+      "sideBySide": {
+        "title": "Modo lado a lado: Compare duas câmaras",
+        "description": "O modo lado a lado permite-lhe comparar 2 webcams lado a lado. É útil para testar múltiplas webcams ao mesmo tempo. Se tiver uma câmara web integrada e uma câmara web USB externa, pode visualizá-las lado a lado simultaneamente. Também é muito útil para escolher uma câmara web para comprar. Pode comparar qualidade de imagem, precisão de cor, desempenho com pouca luz e campo de visão em tempo real. É uma ótima ferramenta para streamers e YouTubers."
+      }
+    },
+    "videoQuality": {
+      "title": "Definições de Qualidade de Vídeo da Webcam Explicadas",
+      "intro": "A resolução determina a nitidez do vídeo que a sua webcam produz. Veja como as definições funcionam no nosso teste de resolução de webcam:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Esta é a definição de qualidade mais baixa, para quando apenas quer testar se a sua transmissão funciona e a sua ligação à Internet é terrível. O seu vídeo ficará desfocado, mas é ótimo para ver se a sua câmara está a transmitir, no mínimo."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Baixa qualidade, baixa utilização de largura de banda. Poderia fazer uma videochamada de baixa resolução se não se preocupar muito com a qualidade. Ainda se conseguem distinguir os rostos, mas nada mais."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Definição padrão. Este é o meio-termo entre qualidade e largura de banda. A maioria das aplicações de videochat e streaming consegue utilizar esta resolução. Esta é tipicamente a resolução da maioria das webcams antigas."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Esta resolução proporciona qualidade de videoconferência em alta definição, o que é ótimo para uso profissional. Oferece imagens nítidas e qualidade de cor decente. Esta é a resolução mais popular utilizada em aplicações de videoconferência como Zoom, Teams e Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Esta é a resolução mais alta que encontrará numa webcam, e é ideal para pessoas que querem criar conteúdo de alta qualidade, fazer streaming, ou necessitam da melhor qualidade de vídeo possível. Requer mais largura de banda e processamento, mas obterá uma imagem nítida e profissional."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Resolução Quad HD com excelente detalhe e clareza. Ótimo para criadores de conteúdo profissionais, streamers que necessitam de um alto nível de qualidade de imagem e para quem tem monitores 4K e deseja uma resolução nativa. São necessárias webcams de alta qualidade e uma quantidade significativa de largura de banda."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra Alta Definição com quatro vezes os pixéis do 1080p. Qualidade de nível profissional para criadores de conteúdo, cineastas e streaming de alta gama. Requer webcams premium, hardware de computador potente e Internet de alta velocidade. Perfeito para preparar gravações para o futuro e maximizar o detalhe para zoom digital e recorte."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "A resolução máxima possível. Tem 16 vezes mais pixéis do que 1080p. Isto é tipicamente utilizado para webcams profissionais de muito alta gama, ou para pessoas que utilizam DSLR/mirrorless como webcams. Necessitará de uma webcam ou DSLR/mirrorless de gama extremamente alta, um computador extremamente potente e uma ligação extremamente rápida. Isto deve ser utilizado apenas quando necessita de qualidade de nível cinematográfico, ou quando tem um monitor extremamente grande, ou se quiser fazer zoom digital com grande ampliação."
+        }
+      },
+      "tip": "Se estiver a fazer um teste de webcam, teste primeiro com 720p para garantir que a sua câmara funciona com alta definição, depois teste com qualquer outra resolução de que necessite."
+    },
+    "frameRate": {
+      "title": "Taxa de Fotogramas e Desempenho Suave de Vídeo.",
+      "intro": "A taxa de fotogramas é a frequência (taxa) à qual um dispositivo de imagem produz imagens consecutivas únicas chamadas fotogramas. A taxa de fotogramas é expressa em fotogramas por segundo (FPS). Quanto maior a taxa de fotogramas, mais suave o vídeo parece, especialmente em movimento. A nossa ferramenta de teste de webcam online verifica os FPS reais da sua webcam, para mostrar se a sua webcam tem algum problema.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Aceitável para videoconferência. O movimento parece algo irregular. Pode ser uma câmara de gama baixa, iluminação fraca ou um estrangulamento do CPU."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Esta é a taxa de fotogramas típica para webcams e a maioria das aplicações de videoconferência. O movimento é suave e natural. Esta é também a taxa de fotogramas ideal para uma videoconferência profissional."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Uma taxa de fotogramas alta que permite uma suavidade de movimento ainda maior. Ideal para streamers e YouTubers onde a suavidade de movimento é fundamental. Note que nem todas as webcams suportam 60 FPS, e consumirá mais largura de banda."
+        }
+      },
+      "tip": "Se o resultado do teste da sua webcam for uma taxa de fotogramas baixa, poderá considerar utilizar uma resolução mais baixa, ou aumentar a iluminação. A luz pode ser um problema com webcams, pois podem reduzir a taxa de fotogramas para poderem aumentar o tempo de exposição."
+    },
+    "lighting": {
+      "title": "Dicas para um Vídeo de Webcam com Melhor Aspeto",
+      "intro": "A iluminação é a variável mais significativa quando se trata da qualidade do vídeo da webcam. Uma webcam de baixa qualidade com boa iluminação ficará melhor do que uma webcam de alta qualidade com iluminação fraca.",
+      "tips": {
+        "position": {
+          "title": "Luz à Sua Frente",
+          "description": "A fonte de luz deve estar à sua frente, não atrás de si. A retroiluminação (como posicionar-se em frente a uma janela) tornará o seu rosto escuro e sombrio."
+        },
+        "soft": {
+          "title": "Suavize a Luz",
+          "description": "Evite iluminação direta que causa sombras fortes e pontos brilhantes. Múltiplas fontes de luz, ou luz proveniente de janelas grandes, é sempre suave e produz imagens de aspeto mais profissional."
+        },
+        "flicker": {
+          "title": "Evitar Lâmpadas com Cintilação",
+          "description": "Algumas lâmpadas LED e luzes fluorescentes cintilam a uma frequência que a sua câmara consegue ver, e obterá cintilação no seu vídeo. Tente utilizar lâmpadas incandescentes ou lâmpadas LED de alta qualidade para vídeo."
+        },
+        "color": {
+          "title": "A temperatura de cor é outro fator a considerar.",
+          "description": "Assegure que todas as fontes de luz têm a mesma temperatura de cor. Luz quente e fria misturadas não ficam bem. As webcams geralmente ficam melhor sob luz com balanço de luz do dia (5000-6500K)."
+        }
+      },
+      "tip": "Teste a nossa ferramenta de teste de webcam com múltiplas fontes de luz para determinar se a imagem da sua webcam melhora. Pode testar diferentes configurações de luz graças à visualização em direto para ver o que funciona melhor para si."
+    },
+    "types": {
+      "title": "Tipos de Webcams e o Que Esperar",
+      "builtIn": {
+        "title": "Webcams Integradas de Portáteis",
+        "description": "Os portáteis quase sempre têm uma webcam integrada na parte superior do ecrã. Na maioria dos casos, estas são câmaras de 720p, e funcionam bem para uma videochamada ocasional. No entanto, a qualidade pode variar muito dependendo do portátil que possui. Geralmente, portáteis mais sofisticados terão melhores webcams."
+      },
+      "usb": {
+        "title": "Webcams USB",
+        "description": "Existem também webcams externas que se ligam via USB. Se procura algo melhor do que a câmara integrada, um modelo básico dar-lhe-á 1080p a 30 FPS, mas os modelos de topo vão até 4K, 60 FPS, com focagem automática, compensação de pouca luz, etc."
+      },
+      "streaming": {
+        "title": "Câmaras de Streaming:",
+        "description": "Câmaras feitas para streamers, estas focam-se na qualidade de imagem com sensores maiores, sensibilidade melhorada com pouca luz e ciência de cor aperfeiçoada. HDR e ajustes de campo de visão são comuns."
+      },
+      "dslr": {
+        "title": "Opção 1: DSLR/Mirrorless como Webcam",
+        "description": "Muitas câmaras novas podem ser utilizadas como webcam via USB, ou com uma placa de captura. Isto dar-lhe-á a imagem de mais alta qualidade, mas também requererá a maior quantidade de equipamento e configuração."
+      },
+      "tip": "Se não tem a certeza se a sua câmara funciona com a nossa ferramenta, o nosso teste de webcam abrangente é compatível com todos os tipos de câmaras. Sinta-se à vontade para o utilizar para comparar diferentes webcams, ou simplesmente verificar se a sua nova webcam está a funcionar depois de a ter ligado."
+    },
+    "troubleshooting": {
+      "title": "Precisa de Ajuda a Resolver Problemas da Sua Webcam?",
+      "intro": "Se executou um teste e descobriu um problema, siga estes passos para identificar e corrigir os problemas mais comuns:",
+      "blackScreen": {
+        "title": "A Webcam Mostra Ecrã Preto",
+        "issues": [
+          "Verifique se tem uma cobertura física (como uma tampa de privacidade, penso rápido ou um pedaço de fita) sobre a lente da câmara",
+          "Verifique se outra aplicação (Skype, Zoom, Teams, etc.) está a utilizar a câmara em segundo plano. Feche essas aplicações e tente este teste de webcam novamente.",
+          "Se ainda estiver a ter problemas, tente reiniciar o seu navegador e tentar o teste de webcam novamente.",
+          "Se estiver a utilizar uma webcam USB externa, tente ligá-la a uma porta USB diferente.",
+          "Atualize ou reinstale os controladores da sua câmara."
+        ]
+      },
+      "blurry": {
+        "title": "O Vídeo da Webcam Está Desfocado",
+        "issues": [
+          "Limpe a lente da webcam com um pano de microfibra.",
+          "Se a sua webcam tem um anel de focagem, tente ajustar a focagem manualmente.",
+          "Certifique-se de que há luz suficiente para ajudar a sua câmara a focar automaticamente.",
+          "Aproxime-se ou afaste-se um pouco da webcam e veja se melhora."
+        ]
+      },
+      "colors": {
+        "title": "As Cores da Webcam Parecem Erradas",
+        "issues": [
+          "Está sob condições de iluminação diferentes? A iluminação natural e artificial podem ter tons de cor diferentes.",
+          "Tente ajustar o balanço de brancos nas definições da sua webcam, se disponível.",
+          "Está a vestir algo ou tem algo à sua volta com uma cor dominante que possa estar a causar desvio de cor? Tente removê-lo."
+        ]
+      },
+      "choppy": {
+        "title": "O Vídeo Está Instável ou com Atraso",
+        "issues": [
+          "Reduza a qualidade do vídeo nas definições desta ferramenta de teste de webcam.",
+          "Tente fechar todas as outras aplicações que estejam a consumir recursos de CPU ou GPU.",
+          "Melhore as suas condições de iluminação para reduzir o esforço na sua câmara.",
+          "Se estiver a utilizar uma webcam USB externa, ligue-a diretamente ao seu computador em vez de um hub USB."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Testar Webcam para Plataformas Específicas",
+      "zoom": {
+        "title": "Videoconferência Zoom",
+        "description": "Utilize este teste de webcam para garantir que a sua câmara está a funcionar bem antes de iniciar uma reunião Zoom importante. Certifique-se de que a qualidade de vídeo é suficiente a 720p (que é a qualidade predefinida para a maioria das reuniões Zoom). Assegure que a sua iluminação é suficiente e que a sua posição na vista da webcam é boa antes de entrar numa chamada Zoom."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "O vídeo HD de 1080p está disponível em reuniões. Teste a câmara em diferentes resoluções para confirmar que a sua câmara suporta a resolução de vídeo do Teams. Teste o fundo para qualidade profissional para o Modo Juntos e fundo virtual."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "O Meet ajusta automaticamente a qualidade de vídeo com base nas condições da rede. Teste com um mínimo de 720p para garantir que a sua câmara cumpre os requisitos mínimos do Google Meet para transmissão de vídeo de alta qualidade."
+      },
+      "streaming": {
+        "title": "Streaming (Twitch/YouTube)",
+        "description": "Teste na resolução máxima que a sua webcam consegue suportar (preferencialmente 1080p60). Certifique-se de que a taxa de fotogramas é estável e veja quão bem a sua câmara lida com movimentos rápidos e múltiplas condições de iluminação."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Se utiliza o Discord para fazer videochamadas, é necessário ter uma webcam capaz de funcionar a 720p. Certifique-se de que a câmara que tem é adequada para o seu computador e para as sessões de gaming e chamadas da comunidade. Isto também garante que a sua câmara não está a utilizar demasiada largura de banda e a prejudicar o seu gaming."
+      }
+    },
+    "relatedTools": {
+      "title": "Ferramentas e Recursos Relacionados",
+      "alsoTry": "Experimente Também:",
+      "alsoTryLinks": ["Teste de Webcam e Microfone", "Testar Microfone", "Teste de Microfone", "Teste de Gravação de Áudio", "Verificar Microfone Online"],
+      "onThisPage": "Nesta Página:",
+      "onThisPageLinks": ["Como Testar a Sua Webcam", "Definições de Qualidade de Vídeo", "Resolução de Problemas da Câmara", "Corrigir Webcam que Não Funciona", "Melhores Definições de Webcam"]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "O seu microfone funcionou? Utilize o nosso <strong>teste de microfone</strong> rápido e simples para garantir que o seu <strong>microfone está a funcionar</strong> corretamente. Este <strong>teste de microfone online</strong> também mostrará os seus níveis de microfone, espetro de frequências e gravará o seu áudio. Não é necessário software nem extensão para <strong>testar o seu microfone</strong>. <strong>Teste o seu microfone</strong> agora antes de ir ao vivo, iniciar uma videochamada ou gravar um podcast.",
+      "p2": "Prima o botão 'Iniciar Microfone e Gravar' acima para verificar o seu microfone. Os níveis de áudio são apresentados em tempo real, para que possa ver se o seu microfone está a captar o som como esperado. O gráfico de frequência de áudio de 32 bandas permite-lhe ver quão bem o seu microfone capta as frequências de som. Isto é particularmente útil se for podcaster ou músico, pois permitir-lhe-á utilizar equipamento que consegue captar todas as frequências com clareza."
+    },
+    "howToTest": {
+      "title": "Como Testar o Seu Microfone",
+      "intro": "Execute estes passos para um <strong>teste de microfone</strong> completo:",
+      "steps": [
+        "<strong>Permitir Acesso ao Seu Microfone:</strong> Permita o acesso do navegador para utilizar o seu microfone. Clique em permitir se aparecer uma caixa de diálogo a solicitar permissão para aceder ao seu microfone. Se estiver a utilizar o navegador pela primeira vez, poderá precisar de clicar num ícone de escudo na barra de endereço e depois selecionar o microfone para permitir que o site o aceda.",
+        "<strong>Escolha o Seu Microfone (se necessário):</strong> Escolha o microfone desejado nas opções do menu suspenso (microfone do computador, microfone externo, etc.). O <strong>teste de microfone online</strong> só pode ser realizado com um microfone de cada vez.",
+        "<strong>Defina a Taxa de Amostragem e os Canais:</strong> Escolha a taxa de amostragem para o seu microfone (44,1 kHz para qualidade padrão e 48 kHz para qualidade superior). Selecione um canal mono ou estéreo dependendo do que pretende alcançar.",
+        "<strong>Grave um Teste de Microfone:</strong> Clique no botão de gravação para iniciar um <strong>teste de microfone</strong>. Começará a gravar automaticamente para que possa ouvir a reprodução mais tarde e verificar como o seu microfone soa.",
+        "<strong>Observe o Medidor de Nível do Microfone:</strong> Enquanto realiza o <strong>teste de microfone</strong>, observe o medidor de nível do microfone ao falar para o microfone. Se estiver a gravar corretamente, o medidor deve mover-se de acordo com o volume da sua voz. Uma cor verde indica o nível de volume ideal, amarelo para um nível de volume mais alto, e vermelho para volumes demasiado altos e potencialmente com clipping.",
+        "<strong>Tente Falar em Diferentes Volumes:</strong> Realize um <strong>teste de microfone</strong> falando com voz normal e depois com voz muito suave e alta. Ajudá-lo-á a ver quão sensível é o seu microfone a diferentes volumes.",
+        "<strong>Reproduza a Gravação:</strong> Após realizar o <strong>teste de microfone online</strong>, reproduza a sua gravação para ver como o microfone soa. Ajudá-lo-á a identificar quaisquer problemas que não notaria com o medidor de nível do microfone."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Funcionalidades Avançadas",
+      "intro": "Quer esteja a resolver problemas sobre porque o seu microfone não funciona ou a procurar obter o melhor desempenho para uma reunião importante ou livestream, há várias funcionalidades avançadas que pode testar neste site:",
+      "inputGain": {
+        "title": "Ganho de Entrada Ótimo",
+        "description": "Configure o ganho do seu microfone entre 50% e 150% com as nossas opções pré-configuradas ou em tempo real com o nosso cursor. O controlo sobre o ganho de entrada é particularmente importante para quem grava áudio para podcasting onde se deseja níveis consistentes entre episódios, para músicos (voz e instrumentos), e para streamers que são sensíveis ao clipping e distorção. Selecione a predefinição Baixo (50%) para ambientes demasiado ruidosos ou se tiver um microfone de condensador sensível, Normal (100%) para a maioria dos casos de utilização, e Amplificar (150%) para fontes mais silenciosas que necessitam de mais amplificação. O nosso controlo de ganho em tempo real utiliza o GainNode da API Web Audio para amplificação sem a introdução de ruído ou latência."
+      },
+      "noiseSuppression": {
+        "title": "Aplicar supressão de ruído para gravações limpas",
+        "description": "Se quiser remover sons de digitação, cliques de rato, ventoinhas, ar condicionado e sons semelhantes da gravação, ative a supressão de ruído e tente novamente. Funciona no seu navegador e pode ser utilizada para limpar gravações ruidosas de trabalho remoto, podcasts, gravações domésticas, vídeos, etc., e não necessita de uma porta de ruído nem de um plugin de redução de ruído. A supressão de ruído utiliza a API Web Audio para suprimir ruído diretamente no microfone, portanto não aumenta a carga do CPU nem adiciona latência. Pode testar com e sem supressão de ruído para ver o que funciona melhor para o seu microfone."
+      },
+      "echoCancellation": {
+        "title": "Porque é útil: Cancelamento de eco",
+        "description": "remove o retorno acústico e eco do seu microfone antes do teste. Isto é importante para videochamadas, entrevistas de podcast e streaming ao vivo quando o áudio dos seus altifalantes também pode ser captado pelo seu microfone. Utilize a janela de pré-definições para ativar o cancelamento de eco e testar o seu microfone com ele ativado. Isto ajudá-lo-á a decidir se precisa de tratar o seu espaço de gravação acusticamente, ou se pode confiar no cancelamento de eco do navegador. Útil para: trabalhadores remotos, entrevistadores de podcast e qualquer pessoa que grave num espaço com muitas superfícies duras (que podem causar eco)."
+      },
+      "autoGainControl": {
+        "title": "Manter volume consistente com AGC",
+        "description": "O AGC faz com que o nível do seu microfone soe mais alto e mais consistente. Se falar baixo, tornará a sua voz mais alta. Se falar alto, tornará mais baixa. É ótimo para streamers, porque se estiver num momento ruidoso, não precisa de se preocupar em estar demasiado alto. Também é bom para podcasters, se se estiver a afastar do microfone. Além disso, é ótimo para videoconferência, se quiser soar profissional. Ative esta opção e veja se o AGC funciona bem com o seu navegador e o seu microfone. Se gostar de gravar música ou ASMR, poderá querer manter isto desativado."
+      },
+      "realtimeMeter": {
+        "title": "Monitorize os seus níveis de áudio em tempo real.",
+        "description": "O medidor de nível mostra o RMS (Root Mean Square) do sinal de áudio, apresentando o nível real do áudio. O pico também é mostrado, onde o nível começará a cortar. O medidor de nível tem três secções: verde, amarelo e vermelho. A zona verde é o nível ótimo, entre -12 e -6 dB. A zona amarela está entre -6 e -3 dB e a zona vermelha é qualquer valor acima de -3 dB, quando o seu áudio cortará. Utilize este medidor para garantir que o seu microfone está posicionado corretamente. Utilize-o para ajustar o nível da sua voz. Utilize-o para monitorizar o nível do seu áudio antes de começar a gravar, para saber que os seus níveis não cortarão. Podcasters utilizam-no para igualar níveis entre episódios. Músicos utilizam-no para definir o ganho dos seus microfones. Trabalhadores remotos utilizam-no para garantir que são ouvidos, mas sem serem demasiado altos."
+      },
+      "frequencySpectrum": {
+        "title": "Análise de Espetro de Frequências",
+        "description": "Análise de espetro de frequências em tempo real da resposta de frequência do seu microfone. Utilize o espetro de 32 bandas para determinar quais frequências o seu microfone está a captar. Rumor excessivo (20-250Hz)? Médios turvos (250Hz-2kHz)? Sibilância agressiva (6kHz-8kHz)? Isto é utilizado por engenheiros de áudio para avaliar microfones e salas, podcasters para encontrar frequências problemáticas que precisam de ser equalizadas, e músicos para determinar qual microfone funciona melhor para a sua voz ou instrumento. As atualizações em tempo real permitem-lhe analisar a sua posição, proximidade e arredores."
+      },
+      "sideBySide": {
+        "title": "Comparação lado a lado de dois microfones",
+        "description": "Escolha a opção de comparação lado a lado para utilizar dois microfones em simultâneo. Isto é particularmente útil se tiver dois microfones ligados (digamos o microfone integrado do seu portátil e um microfone USB), e quiser vê-los lado a lado para comparar a qualidade de áudio, o ruído de fundo, a resposta de frequência e a sensibilidade de cada um. Isto é útil para escolher qual microfone comprar, testar diferentes colocações de microfone, ou decidir qual microfone utilizar para o seu podcast ou stream. Utilizo-o para provar a mim mesmo que comprar um novo microfone vale a pena, designers de som utilizam-no para encontrar um par para outro microfone para gravação estéreo, e o departamento de TI de uma empresa pode utilizá-lo para testar microfones antes de os distribuir por toda a empresa. Para o utilizar, escolha a definição de comparação nas pré-definições, selecione um segundo microfone, e ambos serão mostrados lado a lado com resultados em tempo real."
+      },
+      "snrMeasurement": {
+        "title": "Medição da Relação Sinal-Ruído (SNR)",
+        "description": "O número verde mostra a sua SNR atual. 60 dB é o mínimo recomendado para gravação profissional, 50-60 dB é o mínimo para radiodifusão e podcasting, e 40-50 dB é suficiente para videochats e tutoriais. Uma boa SNR dir-lhe-á se o seu microfone é bom o suficiente para o que pretende fazer, se a sua sala é demasiado ruidosa, ou se precisa de adicionar painéis acústicos. Clique no botão \"Avançado\" no canto superior direito do ecrã para mostrar a SNR, o ruído de fundo e a gama dinâmica enquanto mede. Esta é uma medição útil para podcasters que querem garantir que a sua emissão está dentro dos padrões de radiodifusão, músicos que querem avaliar a configuração do seu estúdio doméstico, e para qualquer pessoa que se preocupe com a qualidade do som."
+      }
+    },
+    "audioLevels": {
+      "title": "Níveis de Áudio Explicados",
+      "intro": "O medidor de nível de áudio no teste de microfone acima fornece uma representação visual do nível de volume da entrada do seu microfone. É importante saber o que cada nível significa para entregar um som excelente:",
+      "green": {
+        "title": "Zona Verde (0-50%)",
+        "description": "Níveis de áudio aceitáveis para a maioria dos casos. Soa alto e claro, e tem bastante margem para aumentar o volume sem cortar. Tente manter-se nesta gama para videochamadas e outras comunicações."
+      },
+      "yellow": {
+        "title": "Zona Amarela (50-80%)",
+        "description": ": Níveis de áudio altos que ainda são aceitáveis. Bom para gravação quando quer um áudio forte e presente. No entanto, sons repentinamente altos podem causar clipping."
+      },
+      "red": {
+        "title": "Zona Vermelha (80-100%)",
+        "description": ": Esta é a zona de perigo, onde o seu áudio provavelmente estará distorcido (cortado). Se estiver frequentemente no vermelho, deve baixar o volume do seu microfone no painel de controlo, ou afastar-se do microfone."
+      },
+      "peak": {
+        "title": "Nível de Pico:",
+        "description": "O nível mais alto atingido pela sua sessão. Isto é útil para verificar se há eventos curtos e altos que estão a causar clipping, quando os níveis médios estão corretos."
+      },
+      "rms": {
+        "title": "Nível RMS",
+        "description": "- Volume médio ao longo do tempo. Muito mais importante do que o pico quando se trata de intensidade sonora percebida. Deve manter os seus níveis RMS no verde para um áudio consistentemente alto mas ainda agradável de ouvir."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Análise de Espetro de Frequências",
+      "intro": "O nosso teste de microfone contém um analisador de espetro de frequências de 32 bandas que apresenta a distribuição do sinal de áudio em diferentes frequências. Esta é uma ferramenta profissional que lhe permite analisar a resposta de frequência do seu microfone e diagnosticar vários problemas:",
+      "low": {
+        "title": "Frequências Baixas (20-250 Hz)",
+        "description": "Estas são as frequências graves que adicionam corpo e calor à sua voz. Energia excessiva em baixas frequências pode fazer a sua gravação soar turva ou ressonante. Isto pode frequentemente ser resultado de estar demasiado perto do microfone. (Efeito de proximidade.)"
+      },
+      "mid": {
+        "title": "Médios (250-4000 Hz)",
+        "description": "A maior parte da clareza da sua voz reside aqui. Esta área deve ser proeminente e definida. Se esta gama estiver em falta, a sua voz soará fraca ou distante."
+      },
+      "high": {
+        "title": "Frequências Altas (4000-20000 Hz)",
+        "description": "Brilho e clareza. Uma alta frequência bem equilibrada reproduz a fala de forma nítida e inteligível. Demasiada alta frequência soa estridente ou sibilante (som tzz)."
+      },
+      "tip": "Observe o medidor de frequência enquanto fala. Se mostrar uma distribuição uniforme de frequências, então o microfone está numa boa posição e provavelmente está a captar um som natural. Se mostrar demasiada atividade nas frequências baixas, poderá precisar de se afastar um pouco."
+    },
+    "sampleRates": {
+      "title": "Definições de Taxa de Amostragem",
+      "intro": "A taxa de amostragem é o número de amostras de áudio captadas por segundo. Quanto maior a taxa de amostragem, mais detalhe o áudio tem, mas também requer mais recursos para processamento e armazenamento:",
+      "rates": {
+        "22khz": {
+          "title": "22,05 kHz",
+          "description": "Baixa qualidade. Apenas para voz. Utilização de largura de banda muito baixa, mas resposta de frequência fraca. Deve ser geralmente evitada."
+        },
+        "44khz": {
+          "title": "44,1 kHz (Qualidade CD)",
+          "description": "– Adequada para uso geral. Grava todas as frequências que podem ser ouvidas pelo ouvido humano (20 Hz – 20 kHz). Ótima para videoconferência, podcasting e música."
+        },
+        "48khz": {
+          "title": "48 kHz (Padrão Profissional):",
+          "description": "Muito semelhante a 44,1 kHz mas com qualidade ligeiramente superior. Este é o padrão para vídeo/filme e radiodifusão. Utilize esta opção se vai sincronizar áudio com vídeo."
+        }
+      },
+      "tip": "Em geral, 44,1 kHz é suficiente para a maioria dos testes de microfone. Se é um profissional de áudio sério e quer a mais alta qualidade (ou necessita que corresponda a filmagens de vídeo), pode utilizar 48 kHz."
+    },
+    "types": {
+      "title": "Tipos de Microfones",
+      "builtIn": {
+        "title": "Microfones Integrados de Portáteis:",
+        "description": "Estes são os microfones integrados no seu portátil. São convenientes, mas tendem a ter qualidade inferior. Pode ouvir a sua digitação e a ventoinha do seu computador. Ainda pode utilizá-lo, basta posicionar o portátil para que o microfone esteja virado para si. Isto é adequado para uma videochamada com um amigo ou familiar, mas provavelmente não vai querer gravar uma locução com ele."
+      },
+      "usb": {
+        "title": "Microfones USB:",
+        "description": "Aqui estão as minhas principais recomendações de microfones USB tanto para Mac como para PC. Um microfone USB decente fará uma diferença enorme em comparação com o microfone interno do seu computador. O Blue Yeti e o Audio-Technica AT2020 USB são dois dos microfones USB mais populares e soam fantásticos. Perfeitos para podcasting, streaming no Twitch ou fazer videochamadas."
+      },
+      "headset": {
+        "title": "Auriculares de gaming e earbuds:",
+        "description": "Se quer um auricular ou earbuds para gaming, pode também considerar estas opções. São mais convenientes de utilizar e o posicionamento do microfone permanece o mesmo sempre. Obviamente, quanto melhor (e mais caro) o auricular ou earbuds, melhor será a qualidade. Estes são ótimos para gaming e para fazer chamadas ocasionais."
+      },
+      "condenser": {
+        "title": "Microfones de Condensador",
+        "description": "Microfones sensíveis que captam áudio rico e detalhado. Requerem posicionamento cuidadoso e tratamento acústico. Os melhores para gravação profissional, locução e produção musical."
+      },
+      "dynamic": {
+        "title": "Microfones Dinâmicos:",
+        "description": "Robustos e ótimos a rejeitar ruído de fundo. Frequentemente utilizados para podcasting e streaming devido à sua tolerância a ambientes domésticos. Não tão sensíveis como os de condensador, mas mais convenientes."
+      },
+      "tip": "O nosso teste de microfone é compatível com todos os tipos de microfones. Pode utilizá-lo para testar múltiplos microfones, para experimentar novo hardware ou para resolver problemas."
+    },
+    "bestPractices": {
+      "title": "Melhores Práticas de Gravação com Microfone.",
+      "distance": {
+        "title": "Distância.",
+        "description": "15-30 centímetros da sua boca. Mais perto: Soa mais grave (efeito de proximidade) e capta a respiração. Mais longe: Som mais fino e capta ruído da sala."
+      },
+      "popFilter": {
+        "title": "Invista num Filtro Anti-Pop:",
+        "description": "As plosivas (P, B, T) criam explosões de ar que resultam em distorção. Coloque um filtro anti-pop entre si e o seu microfone e elas desaparecerão. Se planeia fazer podcasting ou locução, isto é essencial."
+      },
+      "background": {
+        "title": "Minimize o ruído de fundo",
+        "description": "— Desligue a ventoinha, feche a janela, silencie o seu telemóvel. Faça o teste de microfone no ambiente onde vai gravar. Há muito ruído de que nem nos apercebemos."
+      },
+      "acoustics": {
+        "title": "Não se esqueça da Acústica da Sala",
+        "description": "Não vai querer gravar num espaço com muitas superfícies duras e planas — criará eco e reverberação. Deve ter superfícies suaves que absorvam reflexões sonoras (cortinas, alcatifa, painéis acústicos). Pode até gravar num armário cheio de roupa, o que pode fazer uma diferença enorme."
+      },
+      "positioning": {
+        "title": "A consistência é fundamental!",
+        "description": "Se descobrir que o microfone soa bem num determinado ponto, mantenha-o lá durante toda a sessão de gravação. Pode investir num braço articulado ou suporte de microfone se quiser evitar que o seu microfone se mova. Pode até desenhar um círculo na secretária para mostrar onde o seu microfone deve estar para conseguir aquele bom som novamente."
+      }
+    },
+    "troubleshooting": {
+      "title": "Resolução de Problemas do Microfone",
+      "noAudio": {
+        "title": "Sem Áudio Detetado:",
+        "issues": [
+          "Verifique se as permissões do microfone estão concedidas nas definições do navegador",
+          "Verifique se o dispositivo de entrada correto está selecionado no menu suspenso",
+          "Certifique-se de que o microfone não está silenciado nas definições de hardware ou do sistema",
+          "Para microfones USB, tente uma porta diferente",
+          "Feche outras aplicações que possam estar a utilizar o microfone"
+        ]
+      },
+      "quiet": {
+        "title": "Áudio Demasiado Baixo:",
+        "issues": [
+          "Aumente o nível de entrada do microfone nas definições do sistema",
+          "Aproxime-se do microfone",
+          "Verifique se existem controlos de ganho no próprio microfone",
+          "Certifique-se de que está a falar em direção ao padrão de captação do microfone"
+        ]
+      },
+      "distorted": {
+        "title": "Áudio Distorcido ou com Clipping:",
+        "issues": [
+          "Reduza o nível de entrada do microfone nas definições do sistema",
+          "Afaste-se ligeiramente do microfone",
+          "Verifique se existem obstruções físicas ou detritos no microfone"
+        ]
+      },
+      "echo": {
+        "title": "Eco ou Reverberação:",
+        "issues": [
+          "Utilize auriculares para evitar que os altifalantes causem retorno no microfone",
+          "Adicione materiais suaves à sua sala para absorver reflexões sonoras",
+          "Aproxime-se do microfone para aumentar o som direto vs. reflexões da sala"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Ferramentas e Recursos Relacionados",
+      "alsoTry": "Experimente Também:",
+      "alsoTryLinks": ["Teste de Webcam e Microfone", "Testar Webcam", "Teste de Câmara", "Teste de Gravação de Vídeo", "Verificar Câmara Online"],
+      "onThisPage": "Nesta Página:",
+      "onThisPageLinks": ["Como Testar o Seu Microfone", "Guia de Níveis de Áudio", "Resolução de Problemas do Microfone", "Corrigir Microfone que Não Funciona", "Melhores Definições de Microfone"]
+    }
+  }
+}

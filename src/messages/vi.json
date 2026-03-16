@@ -1,0 +1,1186 @@
+{
+  "meta": {
+    "home": {
+      "title": "Kiểm tra Webcam & Microphone Miễn phí Trực tuyến | MicTestCam",
+      "description": "Kiểm tra webcam và microphone của bạn ngay lập tức trực tuyến. Công cụ kiểm tra camera và mic miễn phí - 100% riêng tư, không cần tải xuống. Kiểm tra thiết bị trước cuộc gọi video."
+    },
+    "webcam": {
+      "title": "Kiểm tra Webcam - Công cụ Kiểm tra Camera Trực tuyến Miễn phí | Kiểm tra Webcam của Bạn",
+      "description": "Công cụ kiểm tra webcam miễn phí - kiểm tra ngay xem camera của bạn có hoạt động không. Kiểm tra webcam với xem trước trực tiếp, bộ lọc, cài đặt chất lượng và quay phim. 100% riêng tư, không cần tải xuống."
+    },
+    "microphone": {
+      "title": "Kiểm tra Mic - Kiểm tra Microphone Trực tuyến Miễn phí | Kiểm tra Âm thanh của Bạn",
+      "description": "Kiểm tra mic trực tuyến miễn phí - kiểm tra xem microphone của bạn có hoạt động không. Kiểm tra mức âm thanh, phản hồi tần số và chất lượng ghi âm. Công cụ kiểm tra microphone 100% riêng tư, không cần tải xuống."
+    },
+    "privacy": {
+      "title": "Chính sách Bảo mật | MicTestCam",
+      "description": "Tìm hiểu cách MicTestCam bảo vệ quyền riêng tư của bạn. Tất cả quá trình kiểm tra webcam và microphone diễn ra cục bộ trong trình duyệt của bạn - chúng tôi không bao giờ thu thập hoặc lưu trữ dữ liệu của bạn."
+    },
+    "terms": {
+      "title": "Điều khoản Dịch vụ | MicTestCam",
+      "description": "Điều khoản Dịch vụ của MicTestCam - công cụ kiểm tra webcam và microphone trực tuyến miễn phí. Đọc các điều khoản và điều kiện sử dụng dịch vụ của chúng tôi."
+    },
+    "contact": {
+      "title": "Liên hệ với Chúng tôi | MicTestCam",
+      "description": "Liên hệ với đội ngũ MicTestCam. Liên hệ với chúng tôi để được hỗ trợ, phản hồi hoặc các câu hỏi kinh doanh về công cụ kiểm tra webcam và microphone miễn phí của chúng tôi."
+    },
+    "blog": {
+      "title": "Blog - Mẹo về Webcam & Microphone | MicTestCam",
+      "description": "Mẹo, hướng dẫn và bài viết chuyên sâu về kiểm tra webcam, thiết lập microphone và tối ưu hóa âm thanh/video. Tìm hiểu cách đạt được chất lượng tốt nhất cho cuộc gọi video của bạn."
+    },
+    "reviews": {
+      "title": "Đánh giá Webcam & Microphone Tốt nhất | MicTestCam",
+      "description": "Đánh giá chuyên sâu, xếp hạng và hướng dẫn mua sắm cho webcam, microphone, tai nghe và thiết bị âm thanh/video. Phân tích chuyên sâu giúp bạn chọn thiết bị hoàn hảo để phát trực tuyến và gọi video."
+    }
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "webcamTest": "Kiểm tra Webcam",
+    "microphoneTest": "Kiểm tra Microphone",
+    "reviews": "Đánh giá",
+    "blog": "Blog",
+    "privacy": "Chính sách Bảo mật",
+    "terms": "Điều khoản Dịch vụ",
+    "contact": "Liên hệ"
+  },
+  "privacy": {
+    "banner": "100% Riêng tư - Không có gì rời khỏi trình duyệt của bạn"
+  },
+  "home": {
+    "hero": {
+      "title": "Kiểm tra Webcam & Microphone Miễn phí Trực tuyến",
+      "subtitle": "Xác minh ngay rằng camera và microphone của bạn hoạt động hoàn hảo trước cuộc gọi video tiếp theo. Không cần tải xuống, không cần đăng ký, hoàn toàn riêng tư.",
+      "webcamCta": "Kiểm tra Webcam của Bạn",
+      "microphoneCta": "Kiểm tra Microphone của Bạn"
+    },
+    "features": {
+      "title": "Tại sao Dùng MicTestCam?",
+      "privacy": {
+        "title": "100% Riêng tư",
+        "description": "Âm thanh và video của bạn không bao giờ rời khỏi trình duyệt. Chúng tôi không lưu trữ, tải lên hoặc xử lý bất kỳ dữ liệu phương tiện nào của bạn trên máy chủ của chúng tôi."
+      },
+      "simple": {
+        "title": "Đơn giản Một Cú nhấp",
+        "description": "Không cần thiết lập phức tạp. Chỉ cần nhấp vào nút và xem ngay webcam hoặc nghe microphone của bạn. Hoạt động trong vài giây."
+      },
+      "professional": {
+        "title": "Công cụ Chuyên nghiệp",
+        "description": "Các tính năng nâng cao như phân tích phổ tần số, bộ lọc video, cài đặt chất lượng và khả năng ghi âm cục bộ."
+      },
+      "universal": {
+        "title": "Hoạt động Mọi nơi",
+        "description": "Tương thích với tất cả các trình duyệt và thiết bị hiện đại. Kiểm tra trước Zoom, Teams, Meet, Discord hoặc bất kỳ ứng dụng hội nghị video nào."
+      }
+    },
+    "howItWorks": {
+      "title": "Cách Hoạt động",
+      "step1": {
+        "title": "Nhấp Bắt đầu",
+        "description": "Chọn kiểm tra webcam hoặc microphone và nhấp vào nút bắt đầu"
+      },
+      "step2": {
+        "title": "Cho phép Truy cập",
+        "description": "Cấp quyền cho trình duyệt truy cập camera hoặc microphone của bạn"
+      },
+      "step3": {
+        "title": "Xem Kết quả",
+        "description": "Xem ngay luồng video hoặc mức âm thanh của bạn. Ghi lại các đoạn clip nếu cần"
+      }
+    },
+    "faq": {
+      "title": "Câu hỏi Thường gặp",
+      "q1": {
+        "question": "Bài kiểm tra webcam này có thực sự riêng tư không?",
+        "answer": "Có, hoàn toàn. Tất cả quá trình xử lý diễn ra trực tiếp trong trình duyệt của bạn bằng cách sử dụng Web API. Không có dữ liệu video hoặc âm thanh nào được gửi đến máy chủ của chúng tôi hoặc bất kỳ bên thứ ba nào. Bạn có thể xác minh điều này bằng cách kiểm tra tab mạng của trình duyệt."
+      },
+      "q2": {
+        "question": "Tôi có cần cài đặt bất cứ thứ gì không?",
+        "answer": "Không cần cài đặt. MicTestCam hoạt động hoàn toàn trong trình duyệt web của bạn. Chỉ cần truy cập trang và nhấp bắt đầu."
+      },
+      "q3": {
+        "question": "Những trình duyệt nào được hỗ trợ?",
+        "answer": "MicTestCam hoạt động trên tất cả các trình duyệt hiện đại bao gồm Chrome, Firefox, Safari, Edge và Opera trên máy tính để bàn và thiết bị di động."
+      },
+      "q4": {
+        "question": "Tôi có thể ghi video hoặc âm thanh không?",
+        "answer": "Có! Bạn có thể ghi các đoạn video trên trang kiểm tra webcam và các đoạn âm thanh trên trang kiểm tra microphone. Tất cả các bản ghi được lưu cục bộ trong trình duyệt của bạn và có thể được tải xuống."
+      },
+      "q5": {
+        "question": "Tại sao camera/microphone của tôi không hoạt động?",
+        "answer": "Hãy đảm bảo bạn đã cấp quyền truy cập cho trình duyệt. Kiểm tra xem không có ứng dụng nào khác đang sử dụng camera hoặc microphone của bạn. Thử làm mới trang hoặc chọn thiết bị khác từ menu thả xuống."
+      },
+      "q6": {
+        "question": "Dịch vụ này có miễn phí không?",
+        "answer": "Có, MicTestCam hoàn toàn miễn phí với không có giới hạn hay phí ẩn."
+      },
+      "q7": {
+        "question": "Tôi có thể kiểm tra trước cuộc gọi Zoom/Teams/Meet không?",
+        "answer": "Tất nhiên! MicTestCam hoàn hảo để kiểm tra trước cuộc gọi. Chỉ cần kiểm tra thiết bị ở đây, sau đó tham gia hội nghị video của bạn với sự tự tin."
+      },
+      "q8": {
+        "question": "Làm thế nào để chọn camera hoặc microphone khác?",
+        "answer": "Sử dụng menu thả xuống thiết bị trên trang kiểm tra để chuyển đổi giữa các camera hoặc microphone đã kết nối."
+      },
+      "q9": {
+        "question": "Các bản ghi của tôi được lưu ở đâu?",
+        "answer": "Các bản ghi được lưu cục bộ trong bộ nhớ của trình duyệt. Chúng vẫn tồn tại ngay cả sau khi đóng trình duyệt và có thể được tải xuống hoặc xóa bất kỳ lúc nào."
+      },
+      "q10": {
+        "question": "Công cụ này có hoạt động trên điện thoại di động không?",
+        "answer": "Có, MicTestCam hoạt động trên các thiết bị di động với trình duyệt hiện đại. Bạn có thể kiểm tra cả camera trước và camera sau trên điện thoại của mình."
+      }
+    },
+    "trust": {
+      "tests": "Hơn 50.000 lần kiểm tra mỗi ngày",
+      "apps": "Hoạt động với Zoom, Teams, Meet",
+      "browsers": "Tất cả các trình duyệt hiện đại được hỗ trợ"
+    }
+  },
+  "webcam": {
+    "title": "Kiểm tra Webcam - Công cụ Kiểm tra Camera Trực tuyến Miễn phí",
+    "subtitle": "Kiểm tra camera của bạn ngay lập tức. Xem video, điều chỉnh chất lượng, áp dụng bộ lọc và ghi lại các đoạn clip.",
+    "startButton": "Bắt đầu Camera & Ghi hình",
+    "stopButton": "Dừng & Lưu Bản ghi",
+    "snapshotButton": "Chụp ảnh nhanh",
+    "permissionMessage": "Nhấp vào nút bên trên để bắt đầu kiểm tra webcam của bạn",
+    "recording": "Đang ghi",
+    "deviceLabel": "Camera",
+    "qualityLabel": "Chất lượng",
+    "filterLabel": "Bộ lọc",
+    "filters": {
+      "normal": "Bình thường",
+      "grayscale": "Thang xám",
+      "sepia": "Sepia",
+      "invert": "Đảo ngược",
+      "blur": "Làm mờ",
+      "brightness": "Độ sáng",
+      "contrast": "Độ tương phản",
+      "hueRotate": "Xoay màu sắc",
+      "saturate": "Độ bão hòa"
+    },
+    "savedRecordings": {
+      "title": "Bản ghi Đã lưu",
+      "clearAll": "Xóa tất cả",
+      "noRecordings": "Chưa có bản ghi. Bắt đầu ghi để lưu các đoạn video.",
+      "play": "Phát",
+      "download": "Tải xuống",
+      "delete": "Xóa"
+    },
+    "testCamera": "Kiểm tra Camera",
+    "stopCamera": "Dừng Camera",
+    "record": "Ghi hình",
+    "stopRecording": "Dừng Ghi hình",
+    "showAdvanced": "Hiển thị Nâng cao",
+    "hideAdvanced": "Ẩn Nâng cao",
+    "mirrorMode": "Chế độ Gương",
+    "flipHorizontally": "Lật ngang",
+    "digitalZoom": "Thu phóng Kỹ thuật số",
+    "brightness": "Độ sáng",
+    "contrast": "Độ tương phản",
+    "dark": "Tối",
+    "normal": "Bình thường",
+    "bright": "Sáng",
+    "low": "Thấp",
+    "high": "Cao",
+    "cameraComparison": "So sánh Camera",
+    "compareSideBySide": "So sánh cạnh nhau",
+    "requires2Cameras": "(yêu cầu 2+ camera)",
+    "secondCamera": "Camera thứ hai",
+    "fineTuneWhileRecording": "Tinh chỉnh trong khi Ghi hình",
+    "camera1": "Camera 1",
+    "camera2": "Camera 2",
+    "motion": "Chuyển động",
+    "advanced": {
+      "title": "Điều khiển Camera Nâng cao",
+      "exposure": "Phơi sáng",
+      "focus": "Lấy nét",
+      "whiteBalance": "Cân bằng trắng",
+      "image": "Hình ảnh",
+      "ptz": "PTZ",
+      "mode": "Chế độ",
+      "exposureTime": "Thời gian phơi sáng",
+      "distance": "Khoảng cách",
+      "temperature": "Nhiệt độ màu",
+      "sharpness": "Độ sắc nét",
+      "zoom": "Thu phóng",
+      "pan": "Xoay ngang",
+      "tilt": "Nghiêng",
+      "saturation": "Độ bão hòa",
+      "noAdvancedControls": "Camera của bạn không hỗ trợ các điều khiển phần cứng nâng cao"
+    },
+    "backgroundBlur": {
+      "title": "Làm mờ Nền",
+      "blurStrength": "Cường độ Làm mờ",
+      "skinToneNote": "Sử dụng phát hiện tông màu da nhẹ. Để có kết quả tốt hơn, hãy đảm bảo ánh sáng đầy đủ."
+    },
+    "faceDetection": {
+      "facesDetected": "Đã phát hiện",
+      "face": "Khuôn mặt"
+    },
+    "framing": {
+      "grid": "Lưới",
+      "faceGuide": "Hướng dẫn Khuôn mặt",
+      "moveRight": "Di chuyển sang phải",
+      "moveLeft": "Di chuyển sang trái",
+      "moveDown": "Di chuyển xuống",
+      "moveUp": "Di chuyển lên",
+      "moveCloser": "Di chuyển lại gần hơn",
+      "moveBack": "Di chuyển ra xa",
+      "greatFraming": "Khung hình tuyệt vời!",
+      "noFaceDetected": "Không phát hiện khuôn mặt"
+    },
+    "histogram": {
+      "videoAnalysis": "Phân tích Video",
+      "histogram": "Biểu đồ tần suất",
+      "waveform": "Dạng sóng",
+      "shadows": "Bóng tối",
+      "midtones": "Tông trung",
+      "highlights": "Sáng nhất"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Độ phân giải",
+      "bitrate": "Tốc độ bit",
+      "lighting": "Ánh sáng",
+      "dropped": "Bị bỏ",
+      "tooDark": "Quá tối",
+      "lowLight": "Ánh sáng yếu",
+      "overexposed": "Quá sáng",
+      "good": "Tốt",
+      "hideMetrics": "Ẩn số liệu"
+    }
+  },
+  "microphone": {
+    "title": "Kiểm tra Mic - Công cụ Kiểm tra Microphone Trực tuyến Miễn phí",
+    "subtitle": "Kiểm tra microphone của bạn với đồng hồ đo mức âm thanh thời gian thực và bộ phân tích phổ tần số.",
+    "startButton": "Bắt đầu Microphone & Ghi âm",
+    "stopButton": "Dừng & Lưu Bản ghi",
+    "permissionMessage": "Nhấp vào nút bên trên để bắt đầu kiểm tra microphone của bạn",
+    "recording": "Đang ghi",
+    "deviceLabel": "Microphone",
+    "sampleRateLabel": "Tần số lấy mẫu",
+    "channelLabel": "Kênh",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Mức Âm thanh",
+    "frequencySpectrum": "Phổ Tần số",
+    "savedRecordings": {
+      "title": "Bản ghi Đã lưu",
+      "clearAll": "Xóa tất cả",
+      "noRecordings": "Chưa có bản ghi. Bắt đầu ghi để lưu các đoạn âm thanh.",
+      "play": "Phát",
+      "download": "Tải xuống",
+      "delete": "Xóa"
+    },
+    "testMicrophone": "Kiểm tra Microphone",
+    "stopMicrophone": "Dừng Microphone",
+    "record": "Ghi âm",
+    "stopRecording": "Dừng Ghi âm",
+    "showAdvanced": "Hiển thị Nâng cao",
+    "hideAdvanced": "Ẩn Nâng cao",
+    "inputGain": "Độ khuếch đại đầu vào",
+    "noiseSuppression": "Triệt tiếng ồn",
+    "enableNoiseReduction": "Bật giảm tiếng ồn",
+    "echoCancellation": "Triệt tiếng vang",
+    "reduceEchoFeedback": "Giảm tiếng vang phản hồi",
+    "autoGainControl": "Điều chỉnh Độ khuếch đại Tự động",
+    "autoAdjustVolume": "Tự động điều chỉnh âm lượng",
+    "microphoneComparison": "So sánh Microphone",
+    "compareSideBySide": "So sánh cạnh nhau",
+    "requires2Mics": "(yêu cầu 2+ microphone)",
+    "secondMicrophone": "Microphone thứ hai",
+    "fineTuneWhileTesting": "Tinh chỉnh trong khi Kiểm tra",
+    "boost": "Tăng cường",
+    "normal": "Bình thường",
+    "low": "Thấp",
+    "advanced": {
+      "title": "Phân tích Âm thanh Nâng cao",
+      "metrics": "Số liệu",
+      "spectrogram": "Biểu đồ phổ",
+      "signalToNoiseRatio": "Tỷ lệ Tín hiệu trên Nhiễu",
+      "excellent": "Xuất sắc",
+      "good": "Tốt",
+      "fair": "Trung bình",
+      "poor": "Kém",
+      "rms": "RMS (dB)",
+      "peak": "Đỉnh (dB)",
+      "noiseFloor": "Mức nhiễu nền",
+      "dominantFrequency": "Tần số Chủ đạo",
+      "detectedIssues": "Sự cố Phát hiện",
+      "detectedAt": "phát hiện lúc",
+      "time": "Thời gian",
+      "frequencyLowHigh": "Tần số (Thấp → Cao)"
+    },
+    "processing": {
+      "title": "Xử lý Âm thanh",
+      "noiseSuppression": "Triệt tiếng ồn",
+      "reduceBackgroundNoise": "Giảm tiếng ồn nền",
+      "echoCancellation": "Triệt tiếng vang",
+      "removeAudioFeedback": "Loại bỏ tiếng vang âm thanh",
+      "autoGainControl": "Điều chỉnh Độ khuếch đại Tự động",
+      "normalizeVolumeLevels": "Chuẩn hóa mức âm lượng",
+      "directMonitoring": "Giám sát Trực tiếp",
+      "listenToYourMic": "Nghe microphone của bạn",
+      "monitorVolume": "Âm lượng Giám sát",
+      "useHeadphones": "Sử dụng tai nghe để tránh tiếng vang phản hồi!"
+    },
+    "comparison": {
+      "title": "So sánh Microphone A/B",
+      "microphoneA": "Microphone A",
+      "microphoneB": "Microphone B",
+      "selectMicrophone": "Chọn microphone...",
+      "startComparison": "Bắt đầu So sánh",
+      "selectTwoDifferent": "Vui lòng chọn hai microphone khác nhau",
+      "active": "Đang hoạt động",
+      "switchTo": "Chuyển sang",
+      "rmsLevel": "Mức RMS",
+      "peakLevel": "Mức đỉnh",
+      "snr": "SNR (dB)",
+      "stopComparison": "Dừng So sánh",
+      "micA": "Mic A",
+      "micB": "Mic B"
+    }
+  },
+  "privacyPage": {
+    "title": "Chính sách Bảo mật",
+    "lastUpdated": "Cập nhật lần cuối",
+    "intro": "Tại MicTestCam, chúng tôi coi trọng quyền riêng tư của bạn. Chính sách Bảo mật này giải thích cách chúng tôi xử lý thông tin của bạn khi bạn sử dụng dịch vụ kiểm tra webcam và microphone của chúng tôi.",
+    "sections": {
+      "noCollection": {
+        "title": "Chúng tôi Không Thu thập Dữ liệu của Bạn",
+        "content": "MicTestCam được thiết kế với quyền riêng tư là nguyên tắc cốt lõi. Chúng tôi không thu thập, lưu trữ hoặc truyền bất kỳ dữ liệu âm thanh hoặc video nào từ các bài kiểm tra webcam hoặc microphone của bạn. Tất cả quá trình xử lý diễn ra hoàn toàn trong trình duyệt web của bạn bằng cách sử dụng API JavaScript cục bộ."
+      },
+      "localStorage": {
+        "title": "Bộ nhớ Cục bộ",
+        "content": "Khi bạn ghi lại các đoạn video hoặc âm thanh, chúng được lưu trữ cục bộ trong bộ nhớ IndexedDB của trình duyệt. Dữ liệu này không bao giờ rời khỏi thiết bị của bạn và không thể truy cập được bởi chúng tôi hoặc bất kỳ bên thứ ba nào. Bạn có thể xóa các bản ghi này bất kỳ lúc nào thông qua giao diện ứng dụng hoặc bằng cách xóa dữ liệu trình duyệt."
+      },
+      "cookies": {
+        "title": "Cookie và Phân tích",
+        "content": "Chúng tôi chỉ sử dụng cookie tối thiểu cho các chức năng thiết yếu của trang web như tùy chọn ngôn ngữ. Chúng tôi có thể sử dụng phân tích tôn trọng quyền riêng tư để hiểu các mẫu sử dụng chung, nhưng chúng tôi không theo dõi người dùng cá nhân hoặc thu thập thông tin cá nhân."
+      },
+      "thirdParty": {
+        "title": "Dịch vụ Bên thứ ba",
+        "content": "Trang web của chúng tôi có thể bao gồm các liên kết đến các trang web của bên thứ ba. Chúng tôi không chịu trách nhiệm về các biện pháp bảo mật của các trang web bên ngoài này. Chúng tôi khuyến nghị xem lại chính sách bảo mật của họ trước khi cung cấp bất kỳ thông tin cá nhân nào."
+      },
+      "security": {
+        "title": "Bảo mật",
+        "content": "Chúng tôi sử dụng mã hóa HTTPS để bảo vệ tất cả các thông tin liên lạc giữa trình duyệt của bạn và trang web của chúng tôi. Vì chúng tôi không thu thập dữ liệu phương tiện của bạn, không có rủi ro nào về việc các bản ghi webcam hoặc microphone của bạn bị lộ qua vi phạm dữ liệu."
+      },
+      "children": {
+        "title": "Quyền riêng tư của Trẻ em",
+        "content": "MicTestCam không dành cho trẻ em dưới 13 tuổi. Chúng tôi không cố ý thu thập thông tin từ trẻ em."
+      },
+      "changes": {
+        "title": "Thay đổi đối với Chính sách này",
+        "content": "Chúng tôi có thể cập nhật Chính sách Bảo mật này theo thời gian. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Chính sách Bảo mật mới trên trang này và cập nhật ngày 'Cập nhật lần cuối'."
+      },
+      "contact": {
+        "title": "Liên hệ với Chúng tôi",
+        "content": "Nếu bạn có bất kỳ câu hỏi nào về Chính sách Bảo mật này, vui lòng liên hệ với chúng tôi qua trang liên hệ của chúng tôi."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Điều khoản Dịch vụ",
+    "lastUpdated": "Cập nhật lần cuối",
+    "intro": "Chào mừng đến với MicTestCam. Bằng cách truy cập hoặc sử dụng trang web và dịch vụ của chúng tôi, bạn đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này.",
+    "sections": {
+      "acceptance": {
+        "title": "Chấp thuận Điều khoản",
+        "content": "Bằng cách sử dụng MicTestCam, bạn đồng ý với các Điều khoản Dịch vụ và Chính sách Bảo mật của chúng tôi. Nếu bạn không đồng ý với bất kỳ phần nào của các điều khoản này, bạn không thể sử dụng dịch vụ của chúng tôi."
+      },
+      "description": {
+        "title": "Mô tả Dịch vụ",
+        "content": "MicTestCam cung cấp các công cụ trực tuyến miễn phí để kiểm tra webcam và microphone. Dịch vụ của chúng tôi cho phép bạn xác minh rằng camera và microphone của bạn đang hoạt động đúng cách trước các cuộc gọi video, ghi âm hoặc phiên phát trực tiếp."
+      },
+      "usage": {
+        "title": "Sử dụng Hợp lệ",
+        "content": "Bạn đồng ý chỉ sử dụng MicTestCam cho các mục đích hợp pháp và tuân theo các Điều khoản này. Bạn đồng ý không: sử dụng dịch vụ cho bất kỳ hoạt động bất hợp pháp nào, cố gắng can thiệp vào hoạt động bình thường của trang web, cố gắng truy cập các khu vực của trang web không dành cho truy cập công khai, hoặc sử dụng các hệ thống tự động để truy cập dịch vụ mà không có sự cho phép."
+      },
+      "privacy": {
+        "title": "Quyền riêng tư và Dữ liệu",
+        "content": "Tất cả quá trình kiểm tra webcam và microphone diễn ra cục bộ trong trình duyệt của bạn. Chúng tôi không thu thập, lưu trữ hoặc có quyền truy cập vào dữ liệu âm thanh hoặc video của bạn. Để biết thêm thông tin, vui lòng xem lại Chính sách Bảo mật của chúng tôi."
+      },
+      "intellectual": {
+        "title": "Sở hữu Trí tuệ",
+        "content": "Trang web MicTestCam, bao gồm thiết kế, mã và nội dung của nó, được bảo vệ bởi bản quyền và các luật sở hữu trí tuệ khác. Bạn không được sao chép, sửa đổi, phân phối hoặc tái tạo bất kỳ phần nào của trang web mà không có sự đồng ý bằng văn bản trước của chúng tôi."
+      },
+      "disclaimer": {
+        "title": "Từ chối Bảo hành",
+        "content": "MicTestCam được cung cấp 'nguyên trạng' mà không có bảo hành dưới bất kỳ hình thức nào, dù rõ ràng hay ngụ ý. Chúng tôi không đảm bảo rằng dịch vụ sẽ không bị gián đoạn, không có lỗi hoặc đáp ứng các yêu cầu cụ thể của bạn. Chúng tôi không chịu trách nhiệm về bất kỳ vấn đề phần cứng hoặc phần mềm nào với thiết bị của bạn."
+      },
+      "limitation": {
+        "title": "Giới hạn Trách nhiệm",
+        "content": "Trong phạm vi tối đa được pháp luật cho phép, MicTestCam sẽ không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hệ quả hoặc trừng phạt nào phát sinh từ việc sử dụng dịch vụ của bạn."
+      },
+      "changes": {
+        "title": "Thay đổi Điều khoản",
+        "content": "Chúng tôi có quyền sửa đổi các Điều khoản Dịch vụ này bất kỳ lúc nào. Các thay đổi sẽ có hiệu lực ngay lập tức sau khi đăng lên trang web. Việc bạn tiếp tục sử dụng dịch vụ sau khi các thay đổi được đăng tải cấu thành sự chấp thuận của bạn đối với các điều khoản đã sửa đổi."
+      },
+      "governing": {
+        "title": "Luật Điều chỉnh",
+        "content": "Các Điều khoản Dịch vụ này sẽ được điều chỉnh và giải thích theo pháp luật hiện hành, bất kể xung đột các nguyên tắc pháp luật."
+      },
+      "contact": {
+        "title": "Liên hệ",
+        "content": "Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản Dịch vụ này, vui lòng liên hệ với chúng tôi qua trang liên hệ của chúng tôi."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Liên hệ với Chúng tôi",
+    "subtitle": "Có câu hỏi hoặc phản hồi? Chúng tôi rất muốn lắng nghe từ bạn.",
+    "form": {
+      "name": "Tên của Bạn",
+      "namePlaceholder": "Nhập tên của bạn",
+      "email": "Địa chỉ Email",
+      "emailPlaceholder": "Nhập email của bạn",
+      "subject": "Chủ đề",
+      "subjectPlaceholder": "Đây là về vấn đề gì?",
+      "message": "Tin nhắn",
+      "messagePlaceholder": "Nhập tin nhắn của bạn tại đây...",
+      "submit": "Gửi Tin nhắn",
+      "sending": "Đang gửi...",
+      "success": "Cảm ơn! Tin nhắn của bạn đã được gửi thành công.",
+      "error": "Xin lỗi, đã xảy ra lỗi khi gửi tin nhắn của bạn. Vui lòng thử lại."
+    },
+    "info": {
+      "title": "Các cách khác để Liên hệ với Chúng tôi",
+      "email": "Email",
+      "response": "Chúng tôi thường phản hồi trong vòng 24-48 giờ.",
+      "social": "Theo dõi Chúng tôi"
+    },
+    "faq": {
+      "title": "Trước khi Liên hệ với Chúng tôi",
+      "subtitle": "Bạn có thể tìm thấy câu trả lời trong phần Câu hỏi Thường gặp trên trang chủ."
+    }
+  },
+  "blogPage": {
+    "title": "Blog Kiểm tra Webcam & Microphone - Mẹo, Hướng dẫn & Bài học",
+    "subtitle": "Mẹo, hướng dẫn và thông tin chuyên sâu từ các chuyên gia về kiểm tra webcam, thiết lập microphone và tối ưu hóa âm thanh/video cho cuộc gọi video, phát trực tiếp và tạo nội dung.",
+    "noPosts": "Chưa có bài viết",
+    "noPostsDescription": "Hãy quay lại sớm để xem nội dung mới!",
+    "readMore": "Đọc thêm",
+    "by": "bởi",
+    "minRead": "phút đọc",
+    "categories": {
+      "all": "Tất cả Bài viết",
+      "webcam": "Mẹo Webcam",
+      "microphone": "Mẹo Microphone",
+      "tutorials": "Hướng dẫn",
+      "troubleshooting": "Khắc phục sự cố"
+    },
+    "search": "Tìm kiếm bài viết...",
+    "featured": "Nổi bật",
+    "latest": "Bài viết Mới nhất",
+    "relatedPosts": "Bài viết Liên quan"
+  },
+  "reviewsPage": {
+    "title": "Đánh giá Webcam & Microphone Tốt nhất - Phân tích Sản phẩm Chuyên sâu",
+    "subtitle": "Đánh giá chuyên sâu, xếp hạng và hướng dẫn mua sắm cho webcam, microphone, tai nghe và thiết bị âm thanh/video. Tìm thiết bị hoàn hảo để phát trực tiếp, gọi video và tạo nội dung.",
+    "noReviews": "Chưa có đánh giá nào",
+    "noReviewsDescription": "Hãy quay lại sớm để xem đánh giá sản phẩm từ các chuyên gia!",
+    "by": "bởi",
+    "readMore": "Đọc Đánh giá"
+  },
+  "footer": {
+    "tagline": "Kiểm tra webcam và microphone trực tuyến miễn phí",
+    "privacy": "Chính sách Bảo mật",
+    "terms": "Điều khoản Dịch vụ",
+    "contact": "Liên hệ",
+    "blog": "Blog",
+    "copyright": "MicTestCam. Tất cả các quyền được bảo lưu.",
+    "language": "Ngôn ngữ"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "close": "Đóng",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "submit": "Gửi",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa",
+    "view": "Xem",
+    "download": "Tải xuống",
+    "share": "Chia sẻ",
+    "copy": "Sao chép",
+    "copied": "Đã sao chép!",
+    "readMore": "Đọc thêm",
+    "learnMore": "Tìm hiểu thêm",
+    "getStarted": "Bắt đầu"
+  },
+  "cta": {
+    "title": "Sẵn sàng Kiểm tra Thiết bị của Bạn?",
+    "subtitle": "Bắt đầu kiểm tra webcam và microphone của bạn ngay bây giờ. Không cần tải xuống, không cần đăng ký.",
+    "webcamButton": "Kiểm tra Webcam",
+    "microphoneButton": "Kiểm tra Microphone"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam cung cấp khả năng kiểm tra webcam và microphone trực tuyến miễn phí ngay lập tức trực tiếp trong trình duyệt của bạn. Không cần tải xuống. Kiểm tra chất lượng camera, mức microphone và độ rõ ràng âm thanh trong dưới 30 giây trước bất kỳ cuộc gọi video hoặc phiên ghi âm nào.",
+      "p1": "Xin chào và chào mừng đến với MicTestCam! MicTestCam cung cấp cách dễ nhất để <strong>kiểm tra webcam và mic trực tuyến</strong>, dù bạn muốn kiểm tra webcam cho hội nghị video, cuộc họp, bài thuyết trình, ghi âm lồng tiếng cho video và kênh YouTube của bạn, hay thực hiện <strong>kiểm tra microphone</strong> chuyên sâu cho podcast của bạn.",
+      "p2": "Các công cụ Kiểm tra Camera & Microphone của MicTestCam hoạt động hoàn toàn trong trình duyệt và không yêu cầu bất kỳ tải xuống nào. Quyền riêng tư của người dùng là ưu tiên quan trọng nhất đối với MicTestCam. Tất cả các bài kiểm tra được thực hiện trong trình duyệt của bạn và thông tin video và âm thanh của bạn không bao giờ rời khỏi máy tính. Với hơn 50.000 lần kiểm tra mỗi ngày và tỷ lệ thành công 99,9%, MicTestCam là nền tảng phổ biến nhất dành cho các chuyên gia, nhân viên làm việc từ xa, người tạo nội dung và người dùng thông thường muốn kiểm tra thiết bị.",
+      "p3": "Nhấn các nút bên dưới để <strong>kiểm tra webcam</strong> hoặc <strong>kiểm tra microphone</strong>. MicTestCam chỉ mất vài giây để xác minh xem camera và microphone của bạn có hoạt động đúng cách trước cuộc gọi Zoom, Microsoft Teams, Google Meet, Discord, Skype hoặc cuộc gọi video khác.",
+      "keyTakeaways": {
+        "title": "Điểm Chính",
+        "points": [
+          "Kiểm tra webcam và microphone tức thì miễn phí - không cần cài đặt phần mềm",
+          "Kiểm tra hoàn toàn dựa trên trình duyệt đảm bảo quyền riêng tư và bảo mật dữ liệu hoàn toàn",
+          "Phản hồi thời gian thực về chất lượng video, mức âm thanh và phản hồi tần số",
+          "Tương thích với Zoom, Teams, Meet, Discord và tất cả các nền tảng video",
+          "Hơn 50.000 lần kiểm tra hàng ngày với tỷ lệ chính xác 99,9%"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Tại sao Bạn Nên Kiểm tra Webcam và Microphone trước Cuộc gọi Video?",
+      "directAnswer": "Kiểm tra webcam và microphone trước cuộc gọi video ngăn ngừa các sự cố kỹ thuật đáng xấu hổ, tiết kiệm thời gian họp và đảm bảo chất lượng giao tiếp chuyên nghiệp. Kiểm tra trước cuộc gọi giúp xác định các vấn đề về góc camera, ánh sáng, mức âm thanh và tiếng ồn nền trước khi khán giả nhìn thấy chúng.",
+      "p1": "Làm việc từ xa và giao tiếp ảo hiện là các thực hành kinh doanh tiêu chuẩn. Khả năng giao tiếp rõ ràng qua video và âm thanh là điều quan trọng để thành công trong công việc. Các sự gián đoạn kỹ thuật trong cuộc họp làm tổn hại đến uy tín và lãng phí thời gian. Việc phải liên tục hỏi \"Bạn có thể nhìn thấy tôi không? Còn bây giờ thì sao?\" làm tổn hại đến danh tiếng chuyên nghiệp và làm chậm trễ các cuộc thảo luận quan trọng.",
+      "p2": "Thực hiện kiểm tra video nhanh trước các cuộc họp giúp ngăn ngừa các sự cố kỹ thuật. Thực hiện kiểm tra âm thanh nhanh trước các cuộc gọi quan trọng đảm bảo âm thanh của bạn rõ ràng mà không có tiếng ồn nền, tiếng vang hoặc méo tiếng. Các chuyên gia bán hàng, giám đốc điều hành, giáo viên và người tạo nội dung hiểu tầm quan trọng của hiệu suất webcam và microphone đáng tin cậy.",
+      "p3": "Không giống các công cụ kiểm tra webcam và microphone khác, MicTestCam không chỉ xác minh xem webcam hoặc microphone của bạn có hoạt động không mà còn cung cấp thông tin chi tiết về chất lượng video và đặc điểm âm thanh. MicTestCam giúp người dùng tìm và khắc phục các vấn đề kỹ thuật trước khi cuộc gọi video bắt đầu.",
+      "comparison": {
+        "title": "MicTestCam so với Kiểm tra Nền tảng Video Tích hợp sẵn",
+        "points": [
+          "<strong>MicTestCam:</strong> Cung cấp phân tích tần số âm thanh chi tiết, dạng sóng thời gian thực và các số liệu chuyên nghiệp",
+          "<strong>Kiểm tra Nền tảng:</strong> Chỉ hiển thị chức năng cơ bản có/không mà không có chi tiết chất lượng",
+          "<strong>MicTestCam:</strong> Các bài kiểm tra hoạt động trên tất cả các nền tảng - Zoom, Teams, Meet, Discord đồng thời",
+          "<strong>Kiểm tra Nền tảng:</strong> Chỉ xác minh chức năng trong nền tảng cụ thể đó",
+          "<strong>MicTestCam:</strong> Cung cấp phát lại bản ghi để nghe chính xác những gì người khác sẽ nghe",
+          "<strong>Kiểm tra Nền tảng:</strong> Không có tính năng phát lại để xác minh chất lượng"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "Công cụ Kiểm tra Camera và Microphone của MicTestCam Hoạt động như thế nào?",
+      "directAnswer": "MicTestCam sử dụng công nghệ WebRTC để truy cập webcam và microphone của bạn trực tiếp thông qua trình duyệt. Quá trình kiểm tra diễn ra hoàn toàn trên thiết bị của bạn bằng cách sử dụng các giao thức tương tự mà Zoom, Teams và Meet sử dụng, đảm bảo kiểm tra hiệu suất thực tế chính xác mà không tải lên bất kỳ dữ liệu nào lên máy chủ.",
+      "p1": "Công cụ kiểm tra camera và microphone của MicTestCam sử dụng các giao thức WebRTC, các giao thức tương tự mà các dịch vụ hội nghị video dựa trên web phổ biến dựa vào. Khi bạn <strong>kiểm tra webcam</strong> bằng MicTestCam, nền tảng truy cập webcam của bạn thông qua Web API của trình duyệt và hiển thị luồng video theo thời gian thực trên màn hình. Người dùng có thể xác minh xem webcam có hoạt động không, kiểm tra xem ánh sáng có phù hợp không, xác nhận góc camera có chính xác không và đánh giá chất lượng video tổng thể.",
+      "p2": "Công cụ <strong>kiểm tra microphone</strong> của MicTestCam cung cấp phản hồi tức thì về mức âm lượng giọng nói. Khi người dùng nói vào microphone, đồng hồ đo âm thanh phản ánh mức giọng nói theo thời gian thực để giúp xác định xem microphone có ghi âm âm thanh đúng cách không. Bộ phân tích phổ tần số 32 dải hiển thị cách âm thanh được phân phối trên các tần số, một tính năng đặc biệt có giá trị cho các podcaster và nhạc sĩ kiểm tra microphone để ghi âm chuyên nghiệp.",
+      "p3": "Cả hai công cụ MicTestCam đều cung cấp khả năng tự động ghi âm. Người dùng có thể bắt đầu kiểm tra và MicTestCam sẽ tự động ghi lại luồng camera và âm thanh, cho phép phát lại để đánh giá chất lượng như khán giả sẽ trải nghiệm. Tất cả quá trình ghi âm diễn ra cục bộ trong trình duyệt. MicTestCam không tải lên hoặc lưu trữ bất kỳ dữ liệu người dùng nào trên các máy chủ bên ngoài, đảm bảo quyền riêng tư hoàn toàn.",
+      "technicalSpecs": {
+        "title": "Thông số Kỹ thuật",
+        "specs": [
+          "<strong>Giao thức:</strong> WebRTC (Giao tiếp Thời gian Thực trên Web) - Tiêu chuẩn ngành được Zoom, Microsoft Teams, Google Meet sử dụng",
+          "<strong>Phân tích Âm thanh:</strong> Bộ phân tích phổ tần số 32 dải (phạm vi 20Hz - 20kHz)",
+          "<strong>Độ phân giải Video:</strong> Hỗ trợ kiểm tra từ 240p đến 8K (7680×4320) tùy thuộc vào khả năng camera",
+          "<strong>Tốc độ Khung hình:</strong> Giám sát thời gian thực ở 15fps, 30fps và 60fps",
+          "<strong>Quyền riêng tư:</strong> Xử lý 100% phía khách hàng - không truyền dữ liệu đến máy chủ MicTestCam",
+          "<strong>Tương thích:</strong> Hoạt động trên Chrome, Firefox, Safari, Edge - tất cả các trình duyệt chính"
+        ]
+      }
+    },
+    "features": {
+      "title": "Danh sách Đầy đủ các Tính năng của các Bài kiểm tra",
+      "webcamTitle": "Kiểm tra Webcam",
+      "webcamFeatures": [
+        "Xem trước trực tiếp camera của bạn với các tùy chọn độ phân giải từ 240p đến 1080p.",
+        "Phát hiện nhiều thiết bị camera như USB camera, webcam, camera ngoài.",
+        "Hơn 9 bộ lọc và hiệu ứng khác nhau để kiểm tra webcam và cân bằng màu sắc của nó.",
+        "Số khung hình mỗi giây để theo dõi camera.",
+        "Khả năng chụp ảnh nhanh.",
+        "Tự động ghi video từ webcam ở định dạng WebM và MP4.",
+        "Các bản ghi được lưu trong bộ nhớ cục bộ."
+      ],
+      "microphoneTitle": "Kiểm tra Microphone",
+      "microphoneFeatures": [
+        "Đồng hồ đo mức âm thanh và đỉnh thời gian thực.",
+        "Bộ phân tích phổ tần số 32 dải thời gian thực.",
+        "Phát hiện nhiều thiết bị microphone như USB microphone, microphone tai nghe, v.v.",
+        "Khả năng cấu hình tần số lấy mẫu lên đến 48 kHz chất lượng studio.",
+        "Cấu hình ghi âm mono hoặc stereo.",
+        "Đồng hồ đo mức Đỉnh và RMS cho âm thanh.",
+        "Tự động ghi âm với tùy chọn phát lại."
+      ]
+    },
+    "whoUses": {
+      "title": "Ai Sử dụng Kiểm tra Webcam và Kiểm tra Mic của Chúng tôi",
+      "remoteWorkers": {
+        "title": "Nhân viên làm việc từ xa và chuyên gia",
+        "description": "Một nhân viên làm việc từ xa hoặc chuyên gia thực hiện kiểm tra nhanh trước các hội nghị và cuộc họp video của họ trên Zoom, Google Meet hoặc Microsoft Teams để xem webcam có hoạt động đúng không, sau đó thực hiện <strong>kiểm tra mic</strong> nhanh để đảm bảo họ có thể nghe được và không phải nhắc lại và không bị ngắt lời với lời \"Chúng tôi không thể nghe bạn!\""
+      },
+      "contentCreators": {
+        "title": "YouTuber, streamer Twitch, podcaster và những người tạo nội dung khác",
+        "description": "Đối với YouTuber, streamer Twitch, podcaster và những người tạo nội dung khác, công cụ chẩn đoán âm thanh và video nâng cao của chúng tôi là điều cần thiết. Sử dụng bộ phân tích phổ tần số để giải quyết các vấn đề âm thanh và chạy các bài kiểm tra chất lượng video để đảm bảo bạn đang cung cấp nội dung chất lượng cao."
+      },
+      "students": {
+        "title": "Học sinh và Giáo viên",
+        "description": "Học sinh cần đảm bảo họ có thể giao tiếp qua Internet. Họ thực hiện kiểm tra trước các lớp học của mình để xác nhận rằng thiết bị của họ đang hoạt động. Giáo viên cũng kiểm tra để đảm bảo thiết bị của họ đang hoạt động tốt để dạy các lớp học thành công."
+      },
+      "jobSeekers": {
+        "title": "Người tìm việc",
+        "description": "Nếu bạn sắp thực hiện các cuộc phỏng vấn video, hãy đảm bảo thực hiện <strong>kiểm tra camera</strong> và <strong>kiểm tra microphone</strong> trước. Đây là một sự khác biệt lớn và sẽ cho thấy bạn đã chuẩn bị. (Không có gì tệ hơn là mất cơ hội vì sự cố kỹ thuật.)"
+      },
+      "gamers": {
+        "title": "Game thủ:",
+        "description": "Đang sử dụng tai nghe chơi game? Nhận kết quả chính xác bạn cần để kiểm tra mic cho Discord, chat trong game hoặc phát trực tiếp."
+      },
+      "techSupport": {
+        "title": "Hỗ trợ Kỹ thuật",
+        "description": "Nếu bạn đang gặp sự cố với camera hoặc microphone, các công cụ của chúng tôi có thể giúp xác định xem vấn đề nằm ở phần cứng, driver hay cài đặt phần mềm."
+      }
+    },
+    "privacy": {
+      "title": "Quyền riêng tư 100% Được đảm bảo",
+      "intro": "Quyền riêng tư là trọng tâm của mọi thứ chúng tôi làm tại các công cụ <strong>kiểm tra webcam</strong> và <strong>kiểm tra microphone</strong> của chúng tôi. Chúng tôi nhận thức được rằng bằng cách truy cập camera và microphone của bạn, bạn đang chia sẻ thông tin riêng tư với chúng tôi. Đây là lý do tại sao toàn bộ nền tảng của chúng tôi được thiết kế với chính sách không tin tưởng.",
+      "localProcessing": {
+        "title": "Tất cả quá trình xử lý được thực hiện trên máy cục bộ của bạn",
+        "description": "Xử lý video và âm thanh được thực hiện bằng cách sử dụng WebRTC API trong trình duyệt của bạn. Chúng tôi không lưu trữ dữ liệu của bạn trên máy chủ vì chúng tôi thậm chí không nhận được nó."
+      },
+      "noAccount": {
+        "title": "Không cần Tài khoản",
+        "description": "Bạn không cần tạo tài khoản, nhập địa chỉ email hoặc chia sẻ bất kỳ thông tin cá nhân nào. Chỉ cần truy cập trang web, cho phép trình duyệt quyền truy cập, kiểm tra thiết bị và đi."
+      },
+      "transparent": {
+        "title": "Mã nguồn Minh bạch",
+        "description": "Chúng tôi không làm rối mã. Bạn có thể xem nó trong trình duyệt của mình bằng cách sử dụng công cụ phát triển. Không theo dõi, không thu thập dữ liệu, không có phân tích nào thu thập dữ liệu riêng tư của bạn."
+      },
+      "cleanup": {
+        "title": "Tự động Xóa:",
+        "description": "Tất cả các bản ghi được lưu trong bộ nhớ cục bộ của trình duyệt. Chúng sẽ tự động bị xóa khi bạn đóng trình duyệt hoặc xóa bộ nhớ cục bộ. Bạn có toàn quyền kiểm soát những gì được lưu trữ và trong khoảng thời gian bao lâu."
+      }
+    },
+    "compatibility": {
+      "title": "Tương thích trên các trình duyệt và thiết bị",
+      "intro": "Hầu hết các trình duyệt và thiết bị phổ biến được cập nhật đều được hỗ trợ bởi các bài kiểm tra webcam và microphone của chúng tôi. Cả hai công cụ đều có sẵn trên Windows, Mac OS, Linux, iOS, Android hoặc bất kỳ hệ điều hành nào hỗ trợ trình duyệt hiện đại mà không cần bất kỳ tải xuống hoặc cài đặt bổ sung nào.",
+      "browsersTitle": "Trình duyệt Được hỗ trợ",
+      "browsers": [
+        "Google Chrome (hiệu suất tốt nhất)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (trên MacOS và iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Thiết bị Được hỗ trợ",
+      "devices": [
+        "Webcam tích hợp hoặc USB ngoài trên máy tính để bàn và laptop",
+        "Điện thoại thông minh và máy tính bảng với camera trước và sau",
+        "Camera USB ngoài và webcam cho PC",
+        "Microphone tích hợp laptop",
+        "Microphone USB ngoài",
+        "Tai nghe chơi game với microphone",
+        "Giao diện âm thanh chuyên nghiệp và microphone condenser"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Cần Trợ giúp?",
+      "intro": "Không thể làm cho <strong>kiểm tra webcam</strong> hoặc <strong>kiểm tra microphone</strong> hoạt động? Hãy thử một trong những giải pháp này.",
+      "cameraTitle": "Camera Không Phát hiện hoặc Không Hoạt động",
+      "cameraIssues": [
+        "Hãy đảm bảo bạn đã cho phép camera trong trình duyệt. Trong thanh địa chỉ, bạn sẽ thấy biểu tượng camera mà bạn có thể sử dụng để bật quyền truy cập camera.",
+        "Bạn đang sử dụng camera trong ứng dụng khác (Zoom, Teams, Skype, v.v.). Bạn chỉ có thể sử dụng camera trong một ứng dụng tại một thời điểm. Đóng ứng dụng kia hoặc làm mới trang và cho phép truy cập lại.",
+        "Làm mới trang và cho phép truy cập lại. Có thể do lỗi trình duyệt.",
+        "Sử dụng phiên bản trình duyệt mới nhất.",
+        "Kiểm tra xem driver camera có được cài đặt đúng cách trên máy tính của bạn không.",
+        "Nếu bạn đang sử dụng webcam USB, hãy thử kết nối nó với cổng USB khác hoặc sử dụng cáp khác."
+      ],
+      "microphoneTitle": "Microphone Không Hoạt động",
+      "microphoneIssues": [
+        "Cho phép truy cập microphone trong trình duyệt của bạn.",
+        "Đảm bảo rằng microphone được kết nối đúng cách với nguồn điện.",
+        "Sử dụng cài đặt âm thanh hệ thống để kiểm tra xem microphone có hoạt động không.",
+        "Các ứng dụng khác đang sử dụng microphone. Hãy thử đóng chúng.",
+        "Thử điều chỉnh mức microphone trong cài đặt hệ thống để thu âm lượng nếu bạn không đủ lớn, hoặc giảm âm lượng nếu bạn quá lớn.",
+        "Kiểm tra xem microphone có bị tắt tiếng trong hệ thống hoặc trên thiết bị không (nếu có nút tắt tiếng phần cứng trên thiết bị)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Liên kết Nhanh",
+      "webcamTitle": "Kiểm tra Webcam:",
+      "webcamLinks": [
+        "Kiểm tra Webcam",
+        "Kiểm tra Webcam Trực tuyến",
+        "Kiểm tra Camera",
+        "Công cụ Kiểm tra Camera Trực tuyến",
+        "Kiểm tra Webcam Miễn phí",
+        "Kiểm tra Webcam của Tôi",
+        "Kiểm tra USB Camera",
+        "Kiểm tra Camera Laptop",
+        "Kiểm tra Camera cho Zoom"
+      ],
+      "microphoneTitle": "Kiểm tra Microphone:",
+      "microphoneLinks": [
+        "Kiểm tra Microphone",
+        "Kiểm tra Mic Trực tuyến",
+        "Kiểm tra Microphone của Tôi",
+        "Công cụ Kiểm tra Microphone Trực tuyến",
+        "Kiểm tra Mic Miễn phí",
+        "Kiểm tra Microphone",
+        "Kiểm tra Âm thanh Trực tuyến",
+        "Kiểm tra USB Microphone",
+        "Kiểm tra Mic Discord"
+      ]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Kiểm tra webcam của bạn với công cụ kiểm tra trực tuyến nhanh và dễ dàng của chúng tôi. Nó cung cấp xem trước camera theo thời gian thực, nhiều cài đặt chất lượng, hiệu ứng đặc biệt và ghi hình tự động bằng camera trực tuyến, tất cả mà không cần cài đặt phần mềm bổ sung. Vì vậy bạn có thể sử dụng nó như một <strong>kiểm tra camera</strong> cho hội nghị web, hoặc kiểm tra webcam tích hợp sẵn trên máy tính mới.",
+      "p2": "Để kiểm tra, chỉ cần nhấn nút 'Bắt đầu Camera & Ghi hình' ở trên. Xem trước trực tiếp của webcam sẽ xuất hiện để bạn có thể xem xem video của bạn có hoạt động không, kiểm tra ánh sáng và xem camera của bạn có được đặt đúng cách không. Không có gì được tải lên, lưu trữ hoặc truy cập. Bài kiểm tra video của bạn được thực hiện cục bộ trên máy tính của bạn."
+    },
+    "howToUse": {
+      "title": "Cách Sử dụng Công cụ Kiểm tra Webcam của Chúng tôi",
+      "intro": "Để kiểm tra webcam của bạn, hãy làm theo các bước đơn giản sau:",
+      "steps": [
+        "<strong>Cho phép Truy cập:</strong> Một hộp thoại sẽ xuất hiện hỏi xem trình duyệt có thể truy cập webcam không. Nhấn Cho phép để cho phép trình duyệt truy cập webcam. Lưu ý rằng đây là trường hợp đối với bất kỳ trang web kiểm tra webcam nào. Hộp thoại xuất hiện như một biện pháp bảo mật để ngăn các trang web ngẫu nhiên truy cập webcam.",
+        "<strong>Chọn camera đúng:</strong> Nếu bạn có nhiều camera (ví dụ: camera laptop tích hợp và USB camera riêng biệt), bạn có thể chọn camera nào để sử dụng từ menu thả xuống. Công cụ kiểm tra webcam của chúng tôi sẽ tự động phát hiện và liệt kê tất cả các camera.",
+        "<strong>Chọn chất lượng:</strong> Chọn độ phân giải (chất lượng) mong muốn từ menu thả xuống chất lượng. Bạn có thể kiểm tra camera ở chất lượng thấp (240p), chất lượng trung bình (480p), chất lượng cao (720p), chất lượng fullHD (1080p), v.v. Chất lượng cao hơn cung cấp hình ảnh rõ ràng hơn nhưng đòi hỏi nhiều băng thông và CPU hơn.",
+        "<strong>Bắt đầu kiểm tra:</strong> Nhấn Bắt đầu Camera & Ghi hình và bạn sẽ ngay lập tức thấy luồng trực tiếp từ camera của bạn. Bạn có thể bắt đầu ghi hình ngay lập tức và sau đó xem chất lượng.",
+        "<strong>Sử dụng bộ lọc hình ảnh:</strong> Chúng tôi có hơn 9 bộ lọc hình ảnh (đen trắng, sepia, làm mờ, độ tương phản cao, v.v.) để xem chúng ảnh hưởng đến đầu ra camera của bạn như thế nào.",
+        "<strong>Chụp ảnh nhanh:</strong> Bạn có thể chụp ảnh nhanh trong khi kiểm tra để kiểm tra chất lượng ảnh hoặc để xem camera xử lý các điều kiện ánh sáng cụ thể như thế nào.",
+        "<strong>Dừng & Lưu:</strong> Khi hoàn thành, nhấn Dừng & Lưu Bản ghi để dừng ghi hình. Video sẽ được lưu trong trình duyệt để bạn có thể phát lại và tải xuống."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Tính năng Webcam Nâng cao",
+      "intro": "Công cụ <strong>kiểm tra webcam</strong> của chúng tôi bao gồm các tính năng cấp chuyên nghiệp được thiết kế cho các trường hợp sử dụng khác nhau - từ cuộc gọi video thông thường đến tạo nội dung.",
+      "mirrorMode": {
+        "title": "Chế độ Gương cho Ảnh Selfie Hoàn hảo",
+        "description": "Gương và lật là tính năng cần có cho các hướng dẫn trang điểm, blogger và những người muốn xem họ trông như thế nào từ gương. Khi bạn nhấp nút Gương (trong khi camera đang bật), nó sẽ lật video webcam của bạn theo chiều ngang để bạn có thể kiểm tra khuôn mặt, trang điểm hoặc đơn giản là làm quen với góc nhìn gương. Đặc biệt hữu ích nếu bạn đang ghi video YouTube, TikTok hoặc Instagram story nơi bạn cần hiển thị văn bản, sử dụng một số hướng dẫn, v.v."
+      },
+      "digitalZoom": {
+        "title": "Thu phóng Kỹ thuật số (1x đến 3x)",
+        "description": "Xem <strong>webcam</strong> của bạn sắc nét như thế nào khi phóng to ở các mức độ khác nhau. Lý tưởng cho các buổi demo sản phẩm, hướng dẫn hoặc chỉ muốn cận cảnh thật sự. Thanh trượt thu phóng & nút nhanh 1x, 2x, 3x để kiểm tra độ sắc nét của webcam khi phóng to. Hữu ích để xem bạn có cần di chuyển lại gần camera hơn không, hoặc liệu bạn có thể phóng to mà không làm giảm chất lượng hình ảnh quá nhiều không. Tiện dụng cho streamer trực tiếp muốn phóng to vào bức tranh, thủ công hoặc sửa chữa kỹ thuật."
+      },
+      "brightnessContrast": {
+        "title": "Điều khiển Độ sáng & Độ tương phản",
+        "description": "Điều chỉnh độ sáng (50-150%) và độ tương phản (50-150%) và xem webcam của bạn trông như thế nào trong các điều kiện ánh sáng khác nhau. Bạn có thể sử dụng các thanh trượt này để kiểm tra xem phơi sáng tự động của camera có hoạt động đúng không và để mô phỏng các cài đặt ghi hình khác nhau. Nếu phòng quá tối hoặc quá sáng, bạn có thể điều chỉnh các thanh trượt đến mức thoải mái cho cuộc họp video tiếp theo. Streamer và YouTuber thường sử dụng các thanh trượt này để tận dụng tối đa camera và duy trì cùng điều kiện ánh sáng cho video của họ."
+      },
+      "gridOverlay": {
+        "title": "Lưới Chồng lên cho Khung hình Chuyên nghiệp",
+        "description": "Lưới chồng lên tích hợp của chúng tôi sử dụng kỹ thuật bố cục Quy tắc Một phần ba, cho phép bạn đóng khung khuôn mặt hoàn hảo trong bản ghi. Chỉ cần đặt mắt trên đường ngang trên cùng và căn chỉnh khuôn mặt với các hướng dẫn dọc. Nguyên tắc nhiếp ảnh chuyên nghiệp này đảm bảo các bản ghi video hấp dẫn và thú vị hơn cho YouTube, cuộc họp kinh doanh hoặc stream Twitch. Lưới chồng lên hỗ trợ đóng khung nhất quán trong các bản ghi lặp lại."
+      },
+      "videoFilters": {
+        "title": "Bộ lọc & Hiệu ứng Video",
+        "description": "Áp dụng các bộ lọc sau cho <strong>webcam</strong> của bạn để xem chúng trông như thế nào: Bình thường, Thang xám, Sepia, Đảo ngược, Làm mờ, Độ sáng, Độ tương phản, Xoay màu sắc và Độ bão hòa. Các bộ lọc cho bạn thấy camera có thể đại diện màu sắc tốt như thế nào và nó sẽ trông như thế nào khi bạn sử dụng bộ lọc hiệu ứng video. Nếu bạn là streamer hoặc YouTuber, bạn có thể sử dụng bộ lọc để xem stream của bạn trông như thế nào với các hiệu ứng khác nhau được áp dụng. Các bộ lọc cũng có thể được sử dụng để xem camera có xuất ra màu sắc đúng không. So sánh kết quả của bộ lọc Thang xám và Sepia."
+      },
+      "videoMetrics": {
+        "title": "Số liệu Video Thời gian thực & Biểu đồ tần suất:",
+        "description": "xem chi tiết kỹ thuật về video của bạn như độ phân giải, tốc độ khung hình và tốc độ bit. Biểu đồ tần suất RGB cho phép bạn xem sự phân phối màu sắc trong video của bạn. Điều này hữu ích để phát hiện phơi sáng quá mức/không đủ, đúc màu và ánh sáng kém. Tính năng này lý tưởng cho các chuyên gia như nhà quay phim, YouTuber và vlogger muốn đảm bảo video của họ tốt nhất có thể. Nếu biểu đồ tần suất của bạn có vách trên một bên, bạn sẽ cần điều chỉnh ánh sáng hoặc cài đặt camera."
+      },
+      "advancedControls": {
+        "title": "Điều khiển Camera Nâng cao",
+        "description": "Một số webcam có các tính năng như phơi sáng, chế độ lấy nét, cân bằng trắng, ISO và độ sắc nét có thể được người dùng kiểm soát. Ứng dụng web của chúng tôi sẽ cho phép bạn kiểm tra <strong>webcam</strong> của bạn có thể làm gì. Bạn có thể chuyển đổi giữa chế độ lấy nét tự động và thủ công, thay đổi cân bằng trắng để phù hợp với nhiệt độ ánh sáng, hoặc đặt bù phơi sáng theo ý muốn. Điều này rất hữu ích cho streamer, YouTuber và các chuyên gia cần kiểm soát cài đặt camera của họ."
+      },
+      "backgroundBlur": {
+        "title": "Hiệu ứng Làm mờ Nền",
+        "description": "Thử làm mờ nền dựa trên web mà không cần ứng dụng hoặc màn hình xanh. Hiệu ứng làm mờ nền của chúng tôi sử dụng các công nghệ web mới nhất để loại bỏ nền và tách biệt nó khỏi bạn, hữu ích khi bạn phải thực hiện cuộc gọi hội nghị video từ nhà với nền bạn không muốn người khác nhìn thấy. Bạn có thể điều chỉnh mức độ làm mờ được áp dụng cho nền của bạn. Công cụ này cho phép bạn xem hiệu ứng làm mờ nền hoạt động tốt như thế nào với <strong>webcam</strong> và ứng dụng camera của bạn. Điều này đặc biệt hữu ích cho nhà phát triển web, nhà tiếp thị kỹ thuật số và những người tạo nội dung video."
+      },
+      "motionDetection": {
+        "title": "Phát hiện Chuyển động để Kiểm tra Bảo mật",
+        "description": "Nếu bạn muốn kiểm tra <strong>webcam</strong> của bạn phản ứng với chuyển động như thế nào, hãy sử dụng phát hiện chuyển động thời gian thực của chúng tôi. Với chế độ Nâng cao, bạn có thể thấy chỉ số phần trăm chuyển động trực tiếp phản ánh chuyển động trong video của bạn. Sử dụng để kiểm tra chuyển động camera bảo mật, cấu hình hệ thống giám sát hoặc kiểm tra camera ghi hình kích hoạt bởi chuyển động. Bộ phát hiện chuyển động phân tích luồng video khung hình theo khung hình để tìm ra lượng chuyển động. Điều này cho phép kiểm tra camera tốt như thế nào và bạn cần độ nhạy nào. Hữu ích cho kiểm tra bảo mật nhà, theo dõi thú cưng và kiểm tra baby monitor."
+      },
+      "faceDetection": {
+        "title": "Phát hiện & Theo dõi Khuôn mặt",
+        "description": "Phát hiện khả năng phát hiện khuôn mặt của webcam của bạn. Trong chế độ nâng cao, chúng tôi vẽ các hộp giới hạn quanh khuôn mặt và đếm chúng. Công cụ phát hiện khuôn mặt của chúng tôi sử dụng FaceDetector API, khi có sẵn trong trình duyệt của bạn, để phát hiện nhiều khuôn mặt trong một khung hình. Sử dụng công cụ này để kiểm tra chức năng của <strong>camera</strong> cho tự động đóng khung trong hội nghị video, hoặc để xem nó xử lý nhiều hơn một khuôn mặt như thế nào. Người tạo nội dung video có thể xem camera của họ phát hiện khuôn mặt đúng cách cho mục đích lấy nét tự động hay không, và các chuyên gia có thể kiểm tra phòng họp đa người của họ hoạt động như mong đợi."
+      },
+      "sideBySide": {
+        "title": "Chế độ cạnh nhau: So sánh hai camera",
+        "description": "Chế độ cạnh nhau cho phép bạn so sánh 2 webcam cạnh nhau. Nó hữu ích để kiểm tra nhiều webcam cùng một lúc. Nếu bạn có camera web tích hợp và camera web USB bên ngoài, bạn có thể xem chúng cạnh nhau cùng một lúc. Nó cũng rất hữu ích để chọn webcam để mua. Bạn có thể so sánh chất lượng hình ảnh camera, độ chính xác màu sắc, hiệu suất ánh sáng yếu và góc nhìn trong thời gian thực. Đây là công cụ tuyệt vời cho streamer và YouTuber."
+      }
+    },
+    "videoQuality": {
+      "title": "Giải thích Cài đặt Chất lượng Video Webcam",
+      "intro": "Độ phân giải xác định độ sắc nét của video webcam tạo ra. Đây là cách các cài đặt thực hiện trên bài kiểm tra độ phân giải webcam của chúng tôi:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "Đây là cài đặt chất lượng thấp nhất, dành cho khi bạn chỉ muốn kiểm tra xem stream có hoạt động không và kết nối Internet của bạn rất kém. Video của bạn sẽ bị mờ, nhưng đó là tốt để xem camera của bạn có đang phát trực tiếp không, ít nhất là vậy."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Chất lượng thấp, sử dụng băng thông nhỏ. Bạn có thể thực hiện cuộc gọi video độ phân giải thấp nếu bạn không quá quan tâm đến chất lượng. Bạn vẫn có thể nhận ra khuôn mặt, nhưng không có gì khác."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Độ phân giải tiêu chuẩn. Đây là điểm trung gian giữa chất lượng và băng thông. Hầu hết các ứng dụng chat video và phát trực tiếp đều có thể sử dụng điều này. Đây thường là độ phân giải của hầu hết webcam cũ."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "Độ phân giải này cung cấp chất lượng hội nghị video độ nét cao, rất phù hợp cho sử dụng chuyên nghiệp. Nó cung cấp hình ảnh sắc nét và chất lượng màu sắc khá tốt. Đây là độ phân giải phổ biến nhất được sử dụng trong các ứng dụng hội nghị video như Zoom, Teams và Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "Đây là độ phân giải cao nhất bạn sẽ tìm thấy trong webcam, và lý tưởng cho những người muốn tạo nội dung chất lượng cao, phát trực tiếp hoặc cần chất lượng video tốt nhất có thể. Nó đòi hỏi nhiều băng thông và xử lý hơn, nhưng bạn sẽ nhận được hình ảnh sắc nét và chuyên nghiệp."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Độ phân giải Quad HD với chi tiết và độ rõ ràng xuất sắc. Tuyệt vời cho người tạo nội dung chuyên nghiệp, streamer cần mức chất lượng hình ảnh cao và những người có màn hình 4K muốn độ phân giải gốc. Cần webcam chất lượng cao và lượng băng thông đáng kể."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra High Definition với gấp bốn lần pixel so với 1080p. Chất lượng cấp chuyên nghiệp cho người tạo nội dung, nhà làm phim và phát trực tiếp cao cấp. Cần webcam cao cấp, phần cứng máy tính mạnh mẽ và Internet tốc độ cao. Hoàn hảo để đảm bảo chất lượng bản ghi trong tương lai và tối đa hóa chi tiết cho thu phóng kỹ thuật số và cắt xén."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "Độ phân giải tối đa có thể. Nó có 16 lần nhiều pixel hơn 1080p. Điều này thường được sử dụng cho webcam chuyên nghiệp cao cấp, hoặc cho những người sử dụng DSLR/mirrorless làm webcam. Bạn sẽ cần webcam hoặc DSLR/mirrorless cực kỳ cao cấp, máy tính cực kỳ mạnh mẽ và kết nối cực kỳ nhanh. Chỉ nên sử dụng khi bạn cần chất lượng cấp điện ảnh, hoặc khi bạn có màn hình cực lớn, hoặc nếu bạn muốn phóng to kỹ thuật số nhiều."
+        }
+      },
+      "tip": "Nếu bạn đang thực hiện kiểm tra webcam, hãy kiểm tra với 720p trước để đảm bảo camera của bạn hoạt động với độ nét cao, sau đó kiểm tra với bất kỳ độ phân giải nào khác bạn cần."
+    },
+    "frameRate": {
+      "title": "Tốc độ Khung hình và Hiệu suất Video Mượt mà.",
+      "intro": "Tốc độ khung hình là tần suất (tốc độ) mà thiết bị tạo hình ảnh tạo ra các hình ảnh liên tiếp duy nhất được gọi là khung hình. Tốc độ khung hình được biểu thị bằng khung hình mỗi giây (FPS). Tốc độ khung hình càng cao thì video trông càng mượt mà, đặc biệt là khi có chuyển động. Công cụ kiểm tra webcam trực tuyến của chúng tôi kiểm tra FPS thực tế của webcam, để hiển thị xem webcam của bạn có bất kỳ vấn đề nào không.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Ổn cho hội nghị video. Chuyển động trông có vẻ giật. Có thể do camera thấp cấp, ánh sáng kém hoặc tắc nghẽn CPU."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- Đây là tốc độ khung hình điển hình cho webcam và hầu hết các ứng dụng hội nghị video. Chuyển động mượt mà và thực tế. Đây cũng là tốc độ khung hình lý tưởng cho hội nghị video chuyên nghiệp."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "Tốc độ khung hình cao cho phép chuyển động mượt mà hơn. Lý tưởng cho streamer và YouTuber nơi độ mượt mà của chuyển động là quan trọng. Lưu ý rằng không phải tất cả webcam đều hỗ trợ 60 FPS và nó sẽ tiêu thụ nhiều băng thông hơn."
+        }
+      },
+      "tip": "Nếu kết quả kiểm tra từ webcam của bạn cho thấy tốc độ khung hình thấp, bạn có thể xem xét sử dụng độ phân giải thấp hơn hoặc tăng ánh sáng. Ánh sáng có thể là vấn đề với webcam vì chúng có thể giảm tốc độ khung hình để có thể tăng thời gian phơi sáng."
+    },
+    "lighting": {
+      "title": "Mẹo để Video Webcam Trông Đẹp hơn",
+      "intro": "Ánh sáng là biến quan trọng nhất khi nói đến chất lượng video webcam. Webcam chất lượng thấp với ánh sáng tốt sẽ trông đẹp hơn webcam chất lượng cao với ánh sáng kém.",
+      "tips": {
+        "position": {
+          "title": "Ánh sáng Phía trước Bạn",
+          "description": "Nguồn sáng nên ở phía trước bạn, không phải phía sau. Ánh sáng ngược (như đặt mình trước cửa sổ) sẽ làm khuôn mặt bạn tối và bóng tối."
+        },
+        "soft": {
+          "title": "Làm mềm Ánh sáng",
+          "description": "Tránh ánh sáng trực tiếp gây ra bóng mạnh và điểm sáng. Nhiều nguồn sáng, hoặc ánh sáng từ cửa sổ lớn, luôn mềm mại và tạo ra hình ảnh trông chuyên nghiệp hơn."
+        },
+        "flicker": {
+          "title": "Tránh Bóng đèn Nhấp nháy",
+          "description": "Một số bóng đèn LED và đèn huỳnh quang sẽ nhấp nháy ở tần số mà camera của bạn có thể nhìn thấy, và bạn sẽ thấy nhấp nháy trong video. Hãy thử sử dụng bóng đèn sợi đốt hoặc bóng đèn LED chất lượng cao cho video."
+        },
+        "color": {
+          "title": "Nhiệt độ màu sắc là một yếu tố khác cần xem xét.",
+          "description": "Đảm bảo tất cả các nguồn sáng có cùng nhiệt độ màu. Ánh sáng ấm và mát pha trộn với nhau trông không lành mạnh. Webcam thường trông tốt hơn dưới ánh sáng cân bằng ban ngày (5000-6500K)."
+        }
+      },
+      "tip": "Kiểm tra công cụ kiểm tra webcam của chúng tôi với nhiều nguồn sáng để xác định xem hình ảnh webcam của bạn có cải thiện không. Bạn có thể kiểm tra các cài đặt ánh sáng khác nhau nhờ chế độ xem trực tiếp để xem điều gì phù hợp nhất với bạn."
+    },
+    "types": {
+      "title": "Các loại Webcam và Điều Cần Mong đợi",
+      "builtIn": {
+        "title": "Webcam Tích hợp Laptop",
+        "description": "Laptop hầu như luôn có webcam tích hợp ở đầu màn hình. Đa phần, đây là camera 720p và hoạt động tốt cho các cuộc trò chuyện video thông thường. Tuy nhiên, chất lượng có thể khác nhau tùy thuộc vào laptop bạn sở hữu. Nhìn chung, laptop cao cấp hơn sẽ có webcam tốt hơn."
+      },
+      "usb": {
+        "title": "Webcam USB",
+        "description": "Cũng có các webcam bên ngoài kết nối qua USB. Nếu bạn đang tìm kiếm thứ gì đó tốt hơn camera tích hợp, một mẫu cơ bản sẽ cho bạn 1080p ở 30 FPS, nhưng các mẫu cao cấp sẽ lên đến 4K, 60 FPS, với lấy nét tự động, bù ánh sáng yếu, v.v."
+      },
+      "streaming": {
+        "title": "Camera Phát trực tiếp:",
+        "description": "Camera được tạo ra cho streamer, tập trung vào chất lượng hình ảnh với cảm biến lớn hơn, độ nhạy ánh sáng yếu cải thiện và khoa học màu sắc cải thiện. HDR và điều chỉnh góc nhìn là phổ biến."
+      },
+      "dslr": {
+        "title": "Tùy chọn 1: DSLR/Mirrorless làm Webcam",
+        "description": "Nhiều camera mới có thể được sử dụng làm webcam qua USB hoặc với thẻ capture. Điều này sẽ cho bạn chất lượng hình ảnh cao nhất, nhưng cũng sẽ đòi hỏi nhiều thiết bị và cấu hình nhất."
+      },
+      "tip": "Nếu bạn không chắc liệu camera của bạn có hoạt động với công cụ của chúng tôi không, bài kiểm tra webcam toàn diện của chúng tôi tương thích với tất cả các loại camera. Hãy thoải mái sử dụng nó để so sánh các webcam khác nhau hoặc chỉ kiểm tra webcam mới của bạn có hoạt động sau khi kết nối không."
+    },
+    "troubleshooting": {
+      "title": "Cần Trợ giúp Khắc phục Sự cố Webcam?",
+      "intro": "Nếu bạn đã chạy kiểm tra và phát hiện sự cố, hãy làm theo các bước này để xác định và khắc phục các vấn đề phổ biến nhất:",
+      "blackScreen": {
+        "title": "Webcam Hiển thị Màn hình Đen",
+        "issues": [
+          "Kiểm tra xem bạn có nắp đậy vật lý (như thanh trượt bảo mật, băng dính hoặc băng keo) trên ống kính camera không",
+          "Kiểm tra xem ứng dụng khác (Skype, Zoom, Teams, v.v.) có đang sử dụng camera ở nền không. Đóng các ứng dụng đó và thử lại bài kiểm tra webcam này.",
+          "Nếu bạn vẫn gặp sự cố, hãy thử khởi động lại trình duyệt và thử lại bài kiểm tra webcam.",
+          "Nếu bạn đang sử dụng webcam USB bên ngoài, hãy thử cắm vào cổng USB khác.",
+          "Cập nhật hoặc cài đặt lại driver camera."
+        ]
+      },
+      "blurry": {
+        "title": "Video Webcam bị Mờ",
+        "issues": [
+          "Lau ống kính webcam bằng vải microfiber.",
+          "Nếu webcam của bạn có vòng lấy nét, hãy thử điều chỉnh lấy nét thủ công.",
+          "Đảm bảo có đủ ánh sáng để giúp camera lấy nét tự động.",
+          "Di chuyển gần hơn hoặc xa hơn webcam và xem nó có cải thiện không."
+        ]
+      },
+      "colors": {
+        "title": "Màu sắc Webcam Trông Sai",
+        "issues": [
+          "Bạn có đang ở các điều kiện ánh sáng khác nhau không? Ánh sáng tự nhiên và nhân tạo có thể có các tông màu khác nhau.",
+          "Hãy thử điều chỉnh cân bằng trắng trong cài đặt webcam, nếu có.",
+          "Bạn có đang mặc thứ gì đó hoặc có thứ gì đó xung quanh bạn với màu sắc nổi bật có thể gây đúc màu không? Hãy thử loại bỏ nó."
+        ]
+      },
+      "choppy": {
+        "title": "Video bị Giật hoặc Lag",
+        "issues": [
+          "Giảm chất lượng video trong cài đặt công cụ kiểm tra webcam này.",
+          "Hãy thử đóng tất cả các ứng dụng khác đang tiêu thụ tài nguyên CPU hoặc GPU.",
+          "Cải thiện điều kiện ánh sáng để giảm tải cho camera.",
+          "Nếu bạn đang sử dụng webcam USB bên ngoài, hãy kết nối trực tiếp với máy tính thay vì qua hub USB."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Kiểm tra Webcam cho các Nền tảng Cụ thể",
+      "zoom": {
+        "title": "Hội nghị Video Zoom",
+        "description": "Sử dụng bài kiểm tra webcam này để đảm bảo camera của bạn hoạt động tốt trước khi bắt đầu cuộc họp Zoom quan trọng. Đảm bảo chất lượng video đủ tốt ở 720p (là chất lượng mặc định cho hầu hết các cuộc họp Zoom). Đảm bảo ánh sáng đầy đủ và vị trí của bạn trong góc nhìn webcam tốt trước khi tham gia cuộc gọi Zoom."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "Video HD 1080p có sẵn trong các cuộc họp. Kiểm tra camera ở các độ phân giải khác nhau để xác nhận camera của bạn có thể hỗ trợ độ phân giải video Teams. Kiểm tra nền cho chất lượng chuyên nghiệp cho Together Mode và nền ảo."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet tự động điều chỉnh chất lượng video dựa trên điều kiện mạng. Kiểm tra ở tối thiểu 720p để đảm bảo camera của bạn đáp ứng các yêu cầu tối thiểu của Google Meet cho truyền video chất lượng cao."
+      },
+      "streaming": {
+        "title": "Phát trực tiếp (Twitch/YouTube)",
+        "description": "Kiểm tra ở độ phân giải tối đa webcam của bạn có thể xử lý (ưu tiên 1080p60). Đảm bảo tốc độ khung hình ổn định và xem camera của bạn xử lý chuyển động nhanh và nhiều điều kiện ánh sáng tốt như thế nào."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "Nếu bạn sử dụng Discord để thực hiện cuộc gọi video, cần có webcam có thể chạy 720p. Bạn muốn đảm bảo rằng camera bạn có phù hợp với máy tính và cho các phiên chơi game và cuộc gọi cộng đồng. Điều này cũng đảm bảo rằng camera của bạn không chiếm quá nhiều băng thông và cản trở game của bạn."
+      }
+    },
+    "relatedTools": {
+      "title": "Công cụ & Tài nguyên Liên quan",
+      "alsoTry": "Cũng Thử:",
+      "alsoTryLinks": [
+        "Kiểm tra Webcam & Mic",
+        "Kiểm tra Microphone",
+        "Kiểm tra Mic",
+        "Kiểm tra Ghi âm",
+        "Kiểm tra Mic Trực tuyến"
+      ],
+      "onThisPage": "Trên Trang này:",
+      "onThisPageLinks": [
+        "Cách Kiểm tra Webcam của Bạn",
+        "Cài đặt Chất lượng Video",
+        "Khắc phục sự cố Camera",
+        "Cách Sửa Webcam Không Hoạt động",
+        "Cài đặt Webcam Tốt nhất"
+      ]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Mic của bạn có hoạt động không? Sử dụng <strong>kiểm tra mic</strong> nhanh và đơn giản của chúng tôi để đảm bảo <strong>microphone của bạn đang hoạt động</strong> đúng cách. <strong>Kiểm tra microphone trực tuyến</strong> này cũng sẽ hiển thị mức microphone, phổ tần số và ghi âm của bạn. Không cần phần mềm hoặc plugin để <strong>kiểm tra mic</strong> của bạn. <strong>Kiểm tra mic</strong> ngay bây giờ trước khi bạn phát trực tiếp, bắt đầu cuộc gọi video hoặc ghi podcast.",
+      "p2": "Nhấn nút 'Bắt đầu Microphone & Ghi âm' ở trên để kiểm tra microphone của bạn. Mức âm thanh được hiển thị theo thời gian thực, vì vậy bạn có thể xem microphone có thu âm như mong đợi không. Biểu đồ tần số âm thanh 32 dải cho phép bạn xem microphone thu tần số âm thanh tốt như thế nào. Điều này đặc biệt hữu ích nếu bạn là podcaster hoặc nhạc sĩ vì nó sẽ cho phép bạn sử dụng thiết bị có thể thu tất cả các tần số rõ ràng."
+    },
+    "howToTest": {
+      "title": "Cách Kiểm tra Microphone của Bạn",
+      "intro": "Thực hiện các bước này để thực hiện <strong>kiểm tra microphone</strong> đầy đủ:",
+      "steps": [
+        "<strong>Cho phép Truy cập Microphone của Bạn:</strong> Cho phép trình duyệt sử dụng microphone của bạn. Nhấp vào cho phép nếu hộp thoại xuất hiện với yêu cầu cấp quyền truy cập microphone của bạn. Nếu bạn lần đầu sử dụng trình duyệt, bạn có thể cần nhấp vào biểu tượng lá chắn trong thanh địa chỉ và sau đó chọn microphone để cho phép quyền cho trang web truy cập.",
+        "<strong>Chọn Microphone của Bạn (nếu cần):</strong> Chọn microphone mong muốn từ các tùy chọn thả xuống (microphone của máy tính, microphone bên ngoài, v.v.). <strong>Kiểm tra microphone trực tuyến</strong> chỉ có thể được thực hiện qua một microphone tại một thời điểm.",
+        "<strong>Đặt Tần số Lấy mẫu và Kênh của Bạn:</strong> Chọn tần số lấy mẫu cho microphone của bạn (44,1 kHz cho chất lượng tiêu chuẩn và 48 kHz cho chất lượng cao hơn). Chọn kênh mono hoặc stereo tùy thuộc vào những gì bạn muốn đạt được.",
+        "<strong>Ghi lại Bài Kiểm tra Microphone:</strong> Nhấp vào nút ghi âm để bắt đầu <strong>kiểm tra microphone</strong>. Nó sẽ bắt đầu ghi âm tự động để bạn có thể nghe lại phát lại sau và xem microphone của bạn nghe như thế nào.",
+        "<strong>Quan sát Đồng hồ Đo Mức Microphone:</strong> Khi bạn thực hiện <strong>kiểm tra microphone</strong>, hãy quan sát đồng hồ đo mức microphone khi bạn nói vào microphone. Nếu nó đang ghi âm bạn đúng cách, đồng hồ đo sẽ di chuyển theo âm lượng giọng nói của bạn. Màu xanh lá cây cho biết mức âm lượng lý tưởng, màu vàng cho mức âm lượng cao hơn và màu đỏ cho âm lượng quá to và có khả năng clipping.",
+        "<strong>Thử Nói ở Các Âm lượng Khác nhau:</strong> Thực hiện <strong>kiểm tra microphone</strong> bằng cách nói bằng giọng bình thường và sau đó bằng giọng rất nhỏ và to. Nó sẽ giúp bạn xem microphone nhạy cảm với các âm lượng khác nhau như thế nào.",
+        "<strong>Phát lại Bản ghi:</strong> Sau khi thực hiện <strong>kiểm tra microphone trực tuyến</strong>, hãy phát lại bản ghi để xem microphone nghe như thế nào. Nó sẽ giúp bạn xác định bất kỳ sự cố nào mà bạn sẽ không nhận thấy với đồng hồ đo mức microphone."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Tính năng Nâng cao",
+      "intro": "Dù bạn đang khắc phục sự cố tại sao mic không hoạt động hay muốn có hiệu suất tốt nhất cho cuộc họp lớn hoặc livestream, có một số tính năng nâng cao bạn có thể kiểm tra trên trang web này:",
+      "inputGain": {
+        "title": "Độ khuếch đại Đầu vào Tối ưu",
+        "description": "Cấu hình độ khuếch đại microphone của bạn giữa 50% và 150% với các tùy chọn được cấu hình sẵn hoặc ngay lập tức với thanh trượt của chúng tôi. Kiểm soát độ khuếch đại đầu vào đặc biệt quan trọng đối với những người ghi âm podcast nơi mức nhất quán giữa các tập là mong muốn, cho nhạc sĩ (cả giọng hát và nhạc cụ), và cho streamer nhạy cảm với clipping và biến dạng. Chọn preset Thấp (50%) cho môi trường quá ồn hoặc nếu bạn có microphone condenser nhạy, Bình thường (100%) cho hầu hết các trường hợp sử dụng, và Tăng cường (150%) cho nguồn yên tĩnh cần khuếch đại thêm. Kiểm soát độ khuếch đại ngay lập tức của chúng tôi tận dụng GainNode của Web Audio API để khuếch đại mà không tạo ra tiếng ồn hoặc độ trễ."
+      },
+      "noiseSuppression": {
+        "title": "Áp dụng triệt tiếng ồn cho bản ghi sạch",
+        "description": "Nếu bạn muốn loại bỏ âm thanh gõ phím, nhấp chuột, quạt, điều hòa và các âm thanh tương tự khỏi bản ghi, vui lòng bật triệt tiếng ồn và thử lại. Nó hoạt động trong trình duyệt của bạn và có thể được sử dụng để làm sạch các bản ghi ồn ào khi làm việc từ xa, podcast, ghi âm tại nhà, video, v.v., và bạn không cần cổng tiếng ồn hoặc plugin giảm tiếng ồn. Việc triệt tiếng ồn sử dụng Web Audio API để triệt tiếng ồn trực tiếp trên microphone nên nó không tăng tải CPU và không thêm độ trễ. Bạn có thể kiểm tra cả hai với và không có triệt tiếng ồn để xem điều gì hoạt động tốt nhất cho microphone của bạn."
+      },
+      "echoCancellation": {
+        "title": "Tại sao hữu ích: Triệt tiếng vang",
+        "description": "loại bỏ tiếng vang âm học và phản hồi khỏi microphone của bạn trước khi kiểm tra. Điều này quan trọng cho cuộc gọi video, phỏng vấn podcast và phát trực tiếp khi âm thanh từ loa của bạn cũng có thể được thu bởi microphone. Sử dụng pop-up cài đặt sẵn để bật triệt tiếng vang để kiểm tra microphone với nó đang bật. Điều này sẽ giúp bạn quyết định liệu bạn có cần xử lý không gian ghi âm cho âm học không, hay liệu bạn có thể dựa vào triệt tiếng vang của trình duyệt. Hữu ích cho: nhân viên làm việc từ xa, người phỏng vấn podcast và bất kỳ ai ghi âm trong phòng có nhiều bề mặt cứng (có thể tạo ra tiếng vang)."
+      },
+      "autoGainControl": {
+        "title": "Duy trì âm lượng nhất quán với AGC",
+        "description": "AGC làm cho mức microphone nghe có vẻ to hơn và nhất quán hơn. Nếu bạn yên tĩnh, nó sẽ làm bạn to hơn. Nếu bạn to, nó sẽ làm bạn yên tĩnh hơn. Rất tốt cho streamer, vì nếu bạn đang ở một thời điểm ồn ào, bạn không cần lo lắng về việc quá to. Cũng tốt cho podcaster, nếu bạn đang di chuyển xa hơn khỏi mic. Ngoài ra, rất tốt cho hội nghị video nếu bạn muốn nghe như một chuyên gia. Kiểm tra hộp này và xem AGC có hoạt động tốt với trình duyệt và mic của bạn không. Nếu bạn muốn ghi âm nhạc hoặc ASMR, bạn có thể muốn tắt điều này."
+      },
+      "realtimeMeter": {
+        "title": "Theo dõi mức âm thanh của bạn theo thời gian thực.",
+        "description": "Đồng hồ đo mức hiển thị RMS (Căn bậc hai trung bình bình phương) của tín hiệu âm thanh, hiển thị mức âm thanh thực tế. Đỉnh cũng được hiển thị, nơi mức sẽ bắt đầu clipping. Đồng hồ đo mức có ba phần; xanh lá cây, vàng và đỏ. Vùng xanh lá cây là mức tối ưu, giữa -12 và -6 dB. Vùng vàng là giữa -6 và -3 dB và vùng đỏ là bất cứ thứ gì trên -3 dB, khi âm thanh của bạn sẽ clipping. Sử dụng đồng hồ đo này để đảm bảo microphone của bạn được đặt đúng cách. Sử dụng nó để điều chỉnh mức giọng nói của bạn. Sử dụng nó để theo dõi mức âm thanh trước khi bạn nhấn ghi âm, để biết mức của bạn sẽ không clipping. Podcaster sử dụng nó để khớp mức giữa các tập. Nhạc sĩ sử dụng nó để đặt độ khuếch đại microphone. Nhân viên làm việc từ xa sử dụng nó để đảm bảo họ có thể nghe được, nhưng không quá to."
+      },
+      "frequencySpectrum": {
+        "title": "Phân tích Phổ Tần số",
+        "description": "Phân tích phổ tần số thời gian thực về phản hồi tần số của microphone. Sử dụng phổ 32 dải để xác định tần số nào microphone của bạn đang thu. Tiếng ầm ầm quá mức (20-250Hz)? Tần số trung bầy (250Hz-2kHz)? Sibilance khắc nghiệt (6kHz-8kHz)? Điều này được sử dụng bởi kỹ sư âm thanh để đánh giá microphone và phòng, podcaster để tìm các tần số có vấn đề cần cân bằng hóa, và nhạc sĩ để xác định mic nào hoạt động tốt nhất cho giọng hát hoặc nhạc cụ của họ. Cập nhật thời gian thực cho phép bạn phân tích vị trí, khoảng cách và môi trường xung quanh."
+      },
+      "sideBySide": {
+        "title": "So sánh hai microphone cạnh nhau",
+        "description": "Chọn tùy chọn so sánh cạnh nhau để sử dụng hai microphone cùng một lúc. Điều này đặc biệt hữu ích nếu bạn có hai microphone được cắm (ví dụ microphone tích hợp của laptop và microphone USB), và bạn muốn xem chúng cạnh nhau để so sánh chất lượng âm thanh, mức nhiễu nền, phản hồi tần số và độ nhạy của mỗi cái. Điều này hữu ích để chọn microphone nào nên mua, kiểm tra các vị trí microphone khác nhau, hoặc quyết định microphone nào nên sử dụng cho podcast hoặc stream của bạn. Tôi sử dụng nó để tự chứng minh rằng việc mua microphone mới là đáng, nhà thiết kế âm thanh sử dụng nó để tìm microphone phù hợp với microphone khác để ghi âm stereo, và bộ phận IT của công ty có thể sử dụng nó để kiểm tra microphone trước khi triển khai chúng trong toàn công ty. Để sử dụng, chọn cài đặt so sánh trong các cài đặt sẵn, chọn microphone thứ hai và cả hai sẽ được hiển thị cạnh nhau với kết quả thời gian thực."
+      },
+      "snrMeasurement": {
+        "title": "Đo Tỷ lệ Tín hiệu trên Nhiễu (SNR)",
+        "description": "Con số màu xanh lá cây hiển thị SNR hiện tại của bạn. 60 dB là mức tối thiểu được khuyến nghị cho ghi âm chuyên nghiệp, 50-60 dB là mức tối thiểu cho phát sóng và podcast, và 40-50 dB là ổn cho cuộc gọi video và hướng dẫn. SNR tốt sẽ cho bạn biết microphone của bạn có đủ tốt cho những gì bạn muốn làm không, nếu phòng của bạn quá ồn hoặc nếu bạn cần thêm tấm âm học. Nhấp vào nút \"Nâng cao\" ở góc trên bên phải màn hình để hiển thị SNR, mức nhiễu nền và dải động khi bạn đo. Đây là phép đo hữu ích cho podcaster muốn đảm bảo phát sóng của họ nằm trong tiêu chuẩn phát sóng, nhạc sĩ muốn đánh giá thiết lập home studio của họ và cho bất kỳ ai quan tâm đến chất lượng âm thanh của họ."
+      }
+    },
+    "audioLevels": {
+      "title": "Giải thích Mức Âm thanh",
+      "intro": "Đồng hồ đo mức âm thanh trong bài kiểm tra mic ở trên cung cấp biểu diễn hình ảnh về mức âm lượng của đầu vào mic. Điều quan trọng là biết mỗi mức có nghĩa gì để cung cấp âm thanh tốt:",
+      "green": {
+        "title": "Vùng xanh lá cây (0-50%)",
+        "description": "Mức âm thanh chấp nhận được cho hầu hết các trường hợp. Bạn nghe to và rõ ràng, và bạn có đủ chỗ để to hơn mà không clipping. Cố gắng ở trong phạm vi này cho cuộc gọi video và giao tiếp khác."
+      },
+      "yellow": {
+        "title": "Vùng vàng (50-80%)",
+        "description": ": Mức âm thanh cao vẫn có thể chấp nhận được. Tốt để ghi âm khi bạn muốn âm thanh mạnh mẽ, hiện diện. Tuy nhiên, các âm thanh to đột ngột có thể gây clipping."
+      },
+      "red": {
+        "title": "Vùng đỏ (80-100%)",
+        "description": ": Đây là vùng nguy hiểm, nơi âm thanh của bạn có thể sẽ bị biến dạng (clipping). Nếu bạn thường xuyên ở vùng đỏ, bạn nên giảm âm lượng microphone trong bảng điều khiển hoặc di chuyển xa hơn khỏi microphone."
+      },
+      "peak": {
+        "title": "Mức đỉnh:",
+        "description": "Mức cao nhất đạt được bởi phiên của bạn. Điều này hữu ích để kiểm tra xem có các sự kiện to ngắn gây clipping không, khi mức trung bình ổn."
+      },
+      "rms": {
+        "title": "Mức RMS",
+        "description": "- Âm lượng trung bình theo thời gian. Quan trọng hơn nhiều so với đỉnh khi nói đến độ to cảm nhận được. Bạn muốn mức RMS của mình ở vùng xanh lá cây để âm thanh nhất quán to nhưng vẫn dễ chịu."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Phân tích Phổ Tần số",
+      "intro": "Bài kiểm tra microphone của chúng tôi chứa bộ phân tích phổ tần số 32 dải hiển thị sự phân phối tín hiệu âm thanh trên các tần số khác nhau. Đây là công cụ chuyên nghiệp cho phép bạn phân tích phản hồi tần số của microphone và chẩn đoán các vấn đề khác nhau:",
+      "low": {
+        "title": "Tần số Thấp (20-250 Hz)",
+        "description": "Đây là các tần số bass thêm độ dày và ấm vào giọng nói của bạn. Năng lượng tần số thấp quá mức có thể làm cho bản ghi của bạn nghe mù mờ hoặc ầm ầm. Điều này thường có thể là kết quả của việc đứng quá gần mic. (Hiệu ứng khoảng cách gần.)"
+      },
+      "mid": {
+        "title": "Tần số Trung (250-4000 Hz)",
+        "description": "Hầu hết sự rõ ràng của giọng nói nằm ở đây. Khu vực này nên nổi bật và rõ ràng. Nếu phạm vi này thiếu, giọng nói của bạn sẽ nghe yếu ớt hoặc xa xăm."
+      },
+      "high": {
+        "title": "Tần số Cao (4000-20000 Hz)",
+        "description": "Độ sáng và rõ ràng. Tần số cao cân bằng tốt tái tạo giọng nói theo cách sắc nét, dễ hiểu. Tần số cao quá nhiều nghe chói hoặc sibilant (âm tzz)."
+      },
+      "tip": "Quan sát đồng hồ đo tần số trong khi nói. Nếu nó hiển thị sự phân phối đều các tần số, thì mic ở vị trí tốt và có thể đang ghi âm tự nhiên. Nếu nó hiển thị quá nhiều hoạt động ở tần số thấp, bạn có thể cần lùi lại một chút."
+    },
+    "sampleRates": {
+      "title": "Cài đặt Tần số Lấy mẫu",
+      "intro": "Tần số lấy mẫu là số mẫu âm thanh được lấy mỗi giây. Tần số lấy mẫu càng cao thì âm thanh có nhiều chi tiết hơn, nhưng nó cũng tốn nhiều tài nguyên hơn để xử lý và lưu:",
+      "rates": {
+        "22khz": {
+          "title": "22,05 kHz",
+          "description": "Chất lượng thấp. Chỉ dành cho giọng nói. Sử dụng băng thông rất thấp nhưng phản hồi tần số kém. Thường nên tránh."
+        },
+        "44khz": {
+          "title": "44,1 kHz (Chất lượng CD)",
+          "description": "– Phù hợp cho sử dụng chung. Ghi lại tất cả các tần số có thể nghe được bởi tai người (20 Hz – 20 kHz). Tuyệt vời cho hội nghị video, podcast và âm nhạc."
+        },
+        "48khz": {
+          "title": "48 kHz (Tiêu chuẩn Chuyên nghiệp):",
+          "description": "Rất tương tự 44,1 kHz nhưng chất lượng cao hơn một chút. Đây là tiêu chuẩn cho video/phim và phát sóng. Sử dụng cái này nếu bạn sắp đồng bộ âm thanh với video."
+        }
+      },
+      "tip": "Nói chung, 44,1 kHz là ổn cho hầu hết các bài kiểm tra mic. Nếu bạn là chuyên gia âm thanh nghiêm túc và muốn chất lượng cao nhất (hoặc cần nó phù hợp với cảnh quay video), bạn có thể sử dụng 48 kHz."
+    },
+    "types": {
+      "title": "Các loại Microphone",
+      "builtIn": {
+        "title": "Microphone Tích hợp Laptop:",
+        "description": "Đây là các microphone được tích hợp vào laptop của bạn. Chúng tiện lợi nhưng thường có chất lượng thấp hơn. Bạn có thể nghe tiếng gõ phím và quạt từ máy tính. Bạn vẫn có thể sử dụng nó, chỉ cần đặt laptop để mic hướng về phía bạn. Điều này ổn cho cuộc trò chuyện video với bạn bè hoặc thành viên gia đình, nhưng bạn có thể không muốn ghi lồng tiếng với nó."
+      },
+      "usb": {
+        "title": "Microphone USB:",
+        "description": "Đây là các khuyến nghị microphone USB hàng đầu của tôi cho cả Mac và PC. Một microphone USB tốt sẽ tạo ra sự khác biệt lớn so với microphone nội bộ của máy tính. Blue Yeti và Audio-Technica AT2020 USB là hai trong số các microphone USB phổ biến nhất và nghe tuyệt vời. Hoàn hảo cho podcast, phát trực tiếp Twitch hoặc thực hiện cuộc gọi video."
+      },
+      "headset": {
+        "title": "Tai nghe chơi game và earbuds:",
+        "description": "Nếu bạn muốn tai nghe hoặc earbuds để chơi game, bạn cũng có thể xem xét chúng như một lựa chọn. Chúng tiện lợi hơn để sử dụng và vị trí microphone vẫn giữ nguyên mỗi lần. Rõ ràng, tai nghe hoặc earbuds càng tốt (và đắt hơn), chất lượng càng tốt. Chúng rất phù hợp để chơi game và thực hiện cuộc gọi thỉnh thoảng."
+      },
+      "condenser": {
+        "title": "Microphone Condenser",
+        "description": "Microphone nhạy cảm ghi âm phong phú, chi tiết. Cần đặt vị trí cẩn thận và xử lý âm học. Tốt nhất cho ghi âm chuyên nghiệp, lồng tiếng và sản xuất âm nhạc."
+      },
+      "dynamic": {
+        "title": "Microphone Dynamic:",
+        "description": "Mạnh mẽ và giỏi từ chối tiếng ồn nền. Thường được sử dụng cho podcast và phát trực tiếp vì khả năng chịu đựng môi trường nhà. Không nhạy cảm như condenser nhưng tiện lợi hơn."
+      },
+      "tip": "Bài kiểm tra microphone của chúng tôi tương thích với tất cả các loại microphone. Bạn có thể sử dụng nó để kiểm tra nhiều mic, thử phần cứng mới hoặc giải quyết vấn đề."
+    },
+    "bestPractices": {
+      "title": "Thực hành Tốt nhất Khi Ghi âm Microphone.",
+      "distance": {
+        "title": "Khoảng cách.",
+        "description": "6-12 inch từ miệng của bạn. Gần hơn: Nghe có vẻ nhiều bass hơn (hiệu ứng khoảng cách gần) và thu âm hơi thở. Xa hơn: Âm thanh mỏng hơn và thu tiếng ồn phòng."
+      },
+      "popFilter": {
+        "title": "Đầu tư vào Pop Filter:",
+        "description": "Các plosive (P, B, T) tạo ra luồng khí dẫn đến biến dạng. Đặt pop filter giữa bạn và mic và chúng sẽ biến mất. Nếu bạn có kế hoạch làm podcast hoặc lồng tiếng, đây là điều cần thiết."
+      },
+      "background": {
+        "title": "Giảm thiểu tiếng ồn nền",
+        "description": "— Tắt quạt, đóng cửa sổ, tắt tiếng điện thoại. Thực hiện kiểm tra mic trong môi trường bạn sẽ ghi âm. Có rất nhiều tiếng ồn mà chúng ta thậm chí không nhận ra."
+      },
+      "acoustics": {
+        "title": "Đừng quên Âm học Phòng",
+        "description": "Bạn không muốn ghi âm trong không gian có nhiều bề mặt cứng, phẳng — nó sẽ tạo ra tiếng vang và tiếng vọng. Bạn muốn các bề mặt mềm hấp thụ phản xạ âm thanh (rèm cửa, thảm, tấm âm học). Bạn thậm chí có thể ghi âm trong tủ quần áo đầy quần áo, điều này có thể tạo ra sự khác biệt lớn."
+      },
+      "positioning": {
+        "title": "Nhất quán là chìa khóa!",
+        "description": "Nếu bạn thấy microphone nghe tốt ở một vị trí, hãy giữ nó ở đó trong suốt phiên ghi âm. Bạn có thể đầu tư vào boom arm hoặc giá microphone nếu bạn muốn tránh mic di chuyển. Bạn thậm chí có thể vẽ một vòng tròn trên bàn để chỉ ra nơi đặt mic để đạt được âm thanh tốt đó một lần nữa."
+      }
+    },
+    "troubleshooting": {
+      "title": "Khắc phục Sự cố Microphone",
+      "noAudio": {
+        "title": "Không Phát hiện Âm thanh:",
+        "issues": [
+          "Xác minh quyền microphone được cấp trong cài đặt trình duyệt",
+          "Kiểm tra xem thiết bị đầu vào đúng được chọn trong menu thả xuống",
+          "Đảm bảo microphone không bị tắt tiếng trong phần cứng hoặc cài đặt hệ thống",
+          "Đối với microphone USB, hãy thử cổng khác",
+          "Đóng các ứng dụng khác có thể đang sử dụng microphone"
+        ]
+      },
+      "quiet": {
+        "title": "Âm thanh Quá Nhỏ:",
+        "issues": [
+          "Tăng mức đầu vào microphone trong cài đặt hệ thống",
+          "Di chuyển gần hơn microphone",
+          "Kiểm tra điều khiển độ khuếch đại trên chính microphone",
+          "Đảm bảo bạn đang nói hướng về phía mẫu thu âm của microphone"
+        ]
+      },
+      "distorted": {
+        "title": "Âm thanh Bị Biến dạng hoặc Clipping:",
+        "issues": [
+          "Giảm mức đầu vào microphone trong cài đặt hệ thống",
+          "Di chuyển xa hơn một chút khỏi microphone",
+          "Kiểm tra các vật cản vật lý hoặc chất bẩn trên microphone"
+        ]
+      },
+      "echo": {
+        "title": "Tiếng vang hoặc Reverb:",
+        "issues": [
+          "Sử dụng tai nghe để ngăn loa phản hồi vào mic",
+          "Thêm vật liệu mềm vào phòng của bạn để hấp thụ phản xạ âm thanh",
+          "Di chuyển gần hơn microphone để tăng âm thanh trực tiếp so với phản xạ phòng"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Công cụ & Tài nguyên Liên quan",
+      "alsoTry": "Cũng Thử:",
+      "alsoTryLinks": [
+        "Kiểm tra Webcam & Mic",
+        "Kiểm tra Webcam",
+        "Kiểm tra Camera",
+        "Kiểm tra Ghi hình Video",
+        "Kiểm tra Camera Trực tuyến"
+      ],
+      "onThisPage": "Trên Trang này:",
+      "onThisPageLinks": [
+        "Cách Kiểm tra Mic của Bạn",
+        "Hướng dẫn Mức Âm thanh",
+        "Khắc phục sự cố Microphone",
+        "Cách Sửa Mic Không Hoạt động",
+        "Cài đặt Mic Tốt nhất"
+      ]
+    }
+  }
+}

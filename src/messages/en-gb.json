@@ -1,0 +1,1186 @@
+{
+  "meta": {
+    "home": {
+      "title": "Free Webcam Test & Microphone Test Online | MicTestCam",
+      "description": "Test your webcam and microphone instantly online. Free camera test and mic test tool - 100% private, no downloads. Check if your devices work before video calls."
+    },
+    "webcam": {
+      "title": "Webcam Test - Free Online Camera Test Tool | Check Your Webcam",
+      "description": "Free webcam test tool - instantly check if your camera is working. Test webcam with live preview, filters, quality settings & recording. 100% private, no downloads needed."
+    },
+    "microphone": {
+      "title": "Mic Test - Free Online Microphone Test | Check Your Audio",
+      "description": "Free online mic test - check if your microphone is working. Test audio levels, frequency response, and recording quality. 100% private microphone tester, no downloads."
+    },
+    "privacy": {
+      "title": "Privacy Policy | MicTestCam",
+      "description": "Learn how MicTestCam protects your privacy. All webcam and microphone testing happens locally in your browser - we never collect or store your data."
+    },
+    "terms": {
+      "title": "Terms of Service | MicTestCam",
+      "description": "Terms of Service for MicTestCam - free online webcam and microphone testing tool. Read our terms and conditions for using our service."
+    },
+    "contact": {
+      "title": "Contact Us | MicTestCam",
+      "description": "Get in touch with MicTestCam team. Contact us for support, feedback, or business enquiries about our free webcam and microphone testing tools."
+    },
+    "blog": {
+      "title": "Blog - Webcam & Microphone Tips | MicTestCam",
+      "description": "Expert tips, tutorials, and guides for webcam testing, microphone setup, and audio/video optimisation. Learn how to get the best quality for your video calls."
+    },
+    "reviews": {
+      "title": "Best Webcam & Microphone Reviews | MicTestCam",
+      "description": "In-depth reviews, ratings, and buying guides for webcams, microphones, headsets, and audio/video equipment. Expert analysis to help you choose the perfect gear for streaming and video calls."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "webcamTest": "Webcam Test",
+    "microphoneTest": "Microphone Test",
+    "reviews": "Reviews",
+    "blog": "Blog",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact"
+  },
+  "privacy": {
+    "banner": "100% Private - Nothing leaves your browser"
+  },
+  "home": {
+    "hero": {
+      "title": "Free Webcam Test & Microphone Test Online",
+      "subtitle": "Instantly verify your camera and microphone work perfectly before your next video call. No downloads, no signups, completely private.",
+      "webcamCta": "Test Your Webcam",
+      "microphoneCta": "Test Your Microphone"
+    },
+    "features": {
+      "title": "Why Use MicTestCam?",
+      "privacy": {
+        "title": "100% Private",
+        "description": "Your audio and video never leave your browser. We don't store, upload, or process any of your media data on our servers."
+      },
+      "simple": {
+        "title": "One-Click Simple",
+        "description": "No complicated setup. Just click a button and instantly see your webcam or hear your microphone. Works in seconds."
+      },
+      "professional": {
+        "title": "Professional Tools",
+        "description": "Advanced features like frequency spectrum analysis, video filters, quality settings, and local recording capabilities."
+      },
+      "universal": {
+        "title": "Works Everywhere",
+        "description": "Compatible with all modern browsers and devices. Test before Zoom, Teams, Meet, Discord, or any video conferencing app."
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": {
+        "title": "Click Start",
+        "description": "Choose webcam or microphone test and click the start button"
+      },
+      "step2": {
+        "title": "Allow Access",
+        "description": "Grant browser permission to access your camera or microphone"
+      },
+      "step3": {
+        "title": "See Results",
+        "description": "Instantly see your video feed or audio levels. Record clips if needed"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": {
+        "question": "Is this webcam test really private?",
+        "answer": "Yes, absolutely. All processing happens directly in your browser using Web APIs. No video or audio data is ever sent to our servers or any third party. You can verify this by checking your browser's network tab."
+      },
+      "q2": {
+        "question": "Do I need to install anything?",
+        "answer": "No installation required. MicTestCam works entirely in your web browser. Just visit the page and click start."
+      },
+      "q3": {
+        "question": "Which browsers are supported?",
+        "answer": "MicTestCam works on all modern browsers including Chrome, Firefox, Safari, Edge, and Opera on desktop and mobile devices."
+      },
+      "q4": {
+        "question": "Can I record video or audio?",
+        "answer": "Yes! You can record video clips on the webcam test page and audio clips on the microphone test page. All recordings are saved locally in your browser and can be downloaded."
+      },
+      "q5": {
+        "question": "Why isn't my camera/microphone working?",
+        "answer": "Make sure you've granted browser permission to access your device. Check that no other application is using your camera or microphone. Try refreshing the page or selecting a different device from the dropdown."
+      },
+      "q6": {
+        "question": "Is this free to use?",
+        "answer": "Yes, MicTestCam is completely free to use with no limitations or hidden fees."
+      },
+      "q7": {
+        "question": "Can I test before a Zoom/Teams/Meet call?",
+        "answer": "Absolutely! MicTestCam is perfect for pre-call testing. Simply test your devices here, then join your video conference with confidence."
+      },
+      "q8": {
+        "question": "How do I select a different camera or microphone?",
+        "answer": "Use the device dropdown menu on the test page to switch between connected cameras or microphones."
+      },
+      "q9": {
+        "question": "Where are my recordings saved?",
+        "answer": "Recordings are saved locally in your browser's storage. They persist even after closing the browser and can be downloaded or deleted at any time."
+      },
+      "q10": {
+        "question": "Does this work on mobile phones?",
+        "answer": "Yes, MicTestCam works on mobile devices with modern browsers. You can test both front and rear cameras on your phone."
+      }
+    },
+    "trust": {
+      "tests": "50,000+ tests daily",
+      "apps": "Works with Zoom, Teams, Meet",
+      "browsers": "All modern browsers supported"
+    }
+  },
+  "webcam": {
+    "title": "Webcam Test - Free Online Camera Tester",
+    "subtitle": "Test your camera instantly. See your video, adjust quality, apply filters, and record clips.",
+    "startButton": "Start Camera & Record",
+    "stopButton": "Stop & Save Recording",
+    "snapshotButton": "Take Snapshot",
+    "permissionMessage": "Click the button above to start your webcam test",
+    "recording": "Recording",
+    "deviceLabel": "Camera",
+    "qualityLabel": "Quality",
+    "filterLabel": "Filter",
+    "filters": {
+      "normal": "Normal",
+      "grayscale": "Greyscale",
+      "sepia": "Sepia",
+      "invert": "Invert",
+      "blur": "Blur",
+      "brightness": "Brightness",
+      "contrast": "Contrast",
+      "hueRotate": "Hue Rotate",
+      "saturate": "Saturate"
+    },
+    "savedRecordings": {
+      "title": "Saved Recordings",
+      "clearAll": "Clear All",
+      "noRecordings": "No recordings yet. Start recording to save video clips.",
+      "play": "Play",
+      "download": "Download",
+      "delete": "Delete"
+    },
+    "testCamera": "Test Camera",
+    "stopCamera": "Stop Camera",
+    "record": "Record",
+    "stopRecording": "Stop Recording",
+    "showAdvanced": "Show Advanced",
+    "hideAdvanced": "Hide Advanced",
+    "mirrorMode": "Mirror Mode",
+    "flipHorizontally": "Flip horizontally",
+    "digitalZoom": "Digital Zoom",
+    "brightness": "Brightness",
+    "contrast": "Contrast",
+    "dark": "Dark",
+    "normal": "Normal",
+    "bright": "Bright",
+    "low": "Low",
+    "high": "High",
+    "cameraComparison": "Camera Comparison",
+    "compareSideBySide": "Compare side-by-side",
+    "requires2Cameras": "(requires 2+ cameras)",
+    "secondCamera": "Second Camera",
+    "fineTuneWhileRecording": "Fine-Tune While Recording",
+    "camera1": "Camera 1",
+    "camera2": "Camera 2",
+    "motion": "Motion",
+    "advanced": {
+      "title": "Advanced Camera Controls",
+      "exposure": "Exposure",
+      "focus": "Focus",
+      "whiteBalance": "White Balance",
+      "image": "Image",
+      "ptz": "PTZ",
+      "mode": "Mode",
+      "exposureTime": "Exposure Time",
+      "distance": "Distance",
+      "temperature": "Temperature",
+      "sharpness": "Sharpness",
+      "zoom": "Zoom",
+      "pan": "Pan",
+      "tilt": "Tilt",
+      "saturation": "Saturation",
+      "noAdvancedControls": "Your camera doesn't support advanced hardware controls"
+    },
+    "backgroundBlur": {
+      "title": "Background Blur",
+      "blurStrength": "Blur Strength",
+      "skinToneNote": "Using lightweight skin-tone detection. For better results, ensure good lighting."
+    },
+    "faceDetection": {
+      "facesDetected": "Detected",
+      "face": "Face"
+    },
+    "framing": {
+      "grid": "Grid",
+      "faceGuide": "Face Guide",
+      "moveRight": "Move right",
+      "moveLeft": "Move left",
+      "moveDown": "Move down",
+      "moveUp": "Move up",
+      "moveCloser": "Move closer",
+      "moveBack": "Move back",
+      "greatFraming": "Great framing!",
+      "noFaceDetected": "No face detected"
+    },
+    "histogram": {
+      "videoAnalysis": "Video Analysis",
+      "histogram": "Histogram",
+      "waveform": "Waveform",
+      "shadows": "Shadows",
+      "midtones": "Midtones",
+      "highlights": "Highlights"
+    },
+    "metrics": {
+      "fps": "FPS",
+      "resolution": "Resolution",
+      "bitrate": "Bitrate",
+      "lighting": "Lighting",
+      "dropped": "Dropped",
+      "tooDark": "Too Dark",
+      "lowLight": "Low Light",
+      "overexposed": "Overexposed",
+      "good": "Good",
+      "hideMetrics": "Hide metrics"
+    }
+  },
+  "microphone": {
+    "title": "Mic Test - Free Online Microphone Tester",
+    "subtitle": "Test your microphone with real-time audio level metre and frequency spectrum analyser.",
+    "startButton": "Start Microphone & Record",
+    "stopButton": "Stop & Save Recording",
+    "permissionMessage": "Click the button above to start your microphone test",
+    "recording": "Recording",
+    "deviceLabel": "Microphone",
+    "sampleRateLabel": "Sample Rate",
+    "channelLabel": "Channels",
+    "mono": "Mono",
+    "stereo": "Stereo",
+    "levelMeter": "Audio Level",
+    "frequencySpectrum": "Frequency Spectrum",
+    "savedRecordings": {
+      "title": "Saved Recordings",
+      "clearAll": "Clear All",
+      "noRecordings": "No recordings yet. Start recording to save audio clips.",
+      "play": "Play",
+      "download": "Download",
+      "delete": "Delete"
+    },
+    "testMicrophone": "Test Microphone",
+    "stopMicrophone": "Stop Microphone",
+    "record": "Record",
+    "stopRecording": "Stop Recording",
+    "showAdvanced": "Show Advanced",
+    "hideAdvanced": "Hide Advanced",
+    "inputGain": "Input Gain",
+    "noiseSuppression": "Noise Suppression",
+    "enableNoiseReduction": "Enable noise reduction",
+    "echoCancellation": "Echo Cancellation",
+    "reduceEchoFeedback": "Reduce echo feedback",
+    "autoGainControl": "Auto Gain Control",
+    "autoAdjustVolume": "Auto-adjust volume",
+    "microphoneComparison": "Microphone Comparison",
+    "compareSideBySide": "Compare side-by-side",
+    "requires2Mics": "(requires 2+ microphones)",
+    "secondMicrophone": "Second Microphone",
+    "fineTuneWhileTesting": "Fine-Tune While Testing",
+    "boost": "Boost",
+    "normal": "Normal",
+    "low": "Low",
+    "advanced": {
+      "title": "Advanced Audio Analysis",
+      "metrics": "Metrics",
+      "spectrogram": "Spectrogram",
+      "signalToNoiseRatio": "Signal-to-Noise Ratio",
+      "excellent": "Excellent",
+      "good": "Good",
+      "fair": "Fair",
+      "poor": "Poor",
+      "rms": "RMS (dB)",
+      "peak": "Peak (dB)",
+      "noiseFloor": "Noise Floor",
+      "dominantFrequency": "Dominant Frequency",
+      "detectedIssues": "Detected Issues",
+      "detectedAt": "detected at",
+      "time": "Time",
+      "frequencyLowHigh": "Frequency (Low → High)"
+    },
+    "processing": {
+      "title": "Audio Processing",
+      "noiseSuppression": "Noise Suppression",
+      "reduceBackgroundNoise": "Reduce background noise",
+      "echoCancellation": "Echo Cancellation",
+      "removeAudioFeedback": "Remove audio feedback",
+      "autoGainControl": "Auto Gain Control",
+      "normalizeVolumeLevels": "Normalise volume levels",
+      "directMonitoring": "Direct Monitoring",
+      "listenToYourMic": "Listen to your microphone",
+      "monitorVolume": "Monitor Volume",
+      "useHeadphones": "Use headphones to avoid feedback!"
+    },
+    "comparison": {
+      "title": "A/B Microphone Comparison",
+      "microphoneA": "Microphone A",
+      "microphoneB": "Microphone B",
+      "selectMicrophone": "Select microphone...",
+      "startComparison": "Start Comparison",
+      "selectTwoDifferent": "Please select two different microphones",
+      "active": "Active",
+      "switchTo": "Switch to",
+      "rmsLevel": "RMS Level",
+      "peakLevel": "Peak Level",
+      "snr": "SNR (dB)",
+      "stopComparison": "Stop Comparison",
+      "micA": "Mic A",
+      "micB": "Mic B"
+    }
+  },
+  "privacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated",
+    "intro": "At MicTestCam, we take your privacy seriously. This Privacy Policy explains how we handle your information when you use our webcam and microphone testing services.",
+    "sections": {
+      "noCollection": {
+        "title": "We Don't Collect Your Data",
+        "content": "MicTestCam is designed with privacy as a core principle. We do not collect, store, or transmit any audio or video data from your webcam or microphone tests. All processing happens entirely within your web browser using local JavaScript APIs."
+      },
+      "localStorage": {
+        "title": "Local Storage",
+        "content": "When you record video or audio clips, they are stored locally in your browser's IndexedDB storage. This data never leaves your device and is not accessible to us or any third party. You can delete these recordings at any time through the application interface or by clearing your browser data."
+      },
+      "cookies": {
+        "title": "Cookies and Analytics",
+        "content": "We use minimal cookies only for essential website functionality such as language preferences. We may use privacy-respecting analytics to understand general usage patterns, but we do not track individual users or collect personal information."
+      },
+      "thirdParty": {
+        "title": "Third-Party Services",
+        "content": "Our website may include links to third-party websites. We are not responsible for the privacy practices of these external sites. We recommend reviewing their privacy policies before providing any personal information."
+      },
+      "security": {
+        "title": "Security",
+        "content": "We use HTTPS encryption to protect all communications between your browser and our website. Since we don't collect your media data, there is no risk of your webcam or microphone recordings being exposed through a data breach."
+      },
+      "children": {
+        "title": "Children's Privacy",
+        "content": "MicTestCam is not intended for children under 13 years of age. We do not knowingly collect information from children."
+      },
+      "changes": {
+        "title": "Changes to This Policy",
+        "content": "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the 'Last Updated' date."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "content": "If you have any questions about this Privacy Policy, please contact us through our contact page."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated",
+    "intro": "Welcome to MicTestCam. By accessing or using our website and services, you agree to be bound by these Terms of Service.",
+    "sections": {
+      "acceptance": {
+        "title": "Acceptance of Terms",
+        "content": "By using MicTestCam, you agree to these Terms of Service and our Privacy Policy. If you do not agree with any part of these terms, you may not use our services."
+      },
+      "description": {
+        "title": "Service Description",
+        "content": "MicTestCam provides free online tools for testing webcams and microphones. Our service allows you to verify that your camera and microphone are working properly before video calls, recordings, or streaming sessions."
+      },
+      "usage": {
+        "title": "Acceptable Use",
+        "content": "You agree to use MicTestCam only for lawful purposes and in accordance with these Terms. You agree not to: use the service for any illegal activity, attempt to interfere with the proper functioning of the website, attempt to access areas of the website that are not intended for public access, or use automated systems to access the service without permission."
+      },
+      "privacy": {
+        "title": "Privacy and Data",
+        "content": "All webcam and microphone testing occurs locally in your browser. We do not collect, store, or have access to your audio or video data. For more information, please review our Privacy Policy."
+      },
+      "intellectual": {
+        "title": "Intellectual Property",
+        "content": "The MicTestCam website, including its design, code, and content, is protected by copyright and other intellectual property laws. You may not copy, modify, distribute, or reproduce any part of the website without our prior written consent."
+      },
+      "disclaimer": {
+        "title": "Disclaimer of Warranties",
+        "content": "MicTestCam is provided 'as is' without warranties of any kind, either express or implied. We do not guarantee that the service will be uninterrupted, error-free, or meet your specific requirements. We are not responsible for any hardware or software issues with your devices."
+      },
+      "limitation": {
+        "title": "Limitation of Liability",
+        "content": "To the fullest extent permitted by law, MicTestCam shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of the service."
+      },
+      "changes": {
+        "title": "Changes to Terms",
+        "content": "We reserve the right to modify these Terms of Service at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service after changes are posted constitutes your acceptance of the modified terms."
+      },
+      "governing": {
+        "title": "Governing Law",
+        "content": "These Terms of Service shall be governed by and construed in accordance with applicable laws, without regard to conflict of law principles."
+      },
+      "contact": {
+        "title": "Contact",
+        "content": "If you have any questions about these Terms of Service, please contact us through our contact page."
+      }
+    }
+  },
+  "contactPage": {
+    "title": "Contact Us",
+    "subtitle": "Have questions or feedback? We'd love to hear from you.",
+    "form": {
+      "name": "Your Name",
+      "namePlaceholder": "Enter your name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this about?",
+      "message": "Message",
+      "messagePlaceholder": "Type your message here...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you! Your message has been sent successfully.",
+      "error": "Sorry, there was an error sending your message. Please try again."
+    },
+    "info": {
+      "title": "Other Ways to Reach Us",
+      "email": "Email",
+      "response": "We typically respond within 24-48 hours.",
+      "social": "Follow Us"
+    },
+    "faq": {
+      "title": "Before You Contact Us",
+      "subtitle": "You might find your answer in our FAQ section on the homepage."
+    }
+  },
+  "blogPage": {
+    "title": "Webcam & Microphone Testing Blog - Tips, Guides & Tutorials",
+    "subtitle": "Expert tips, tutorials, and insights about webcam testing, microphone setup, and audio/video optimisation for video calls, streaming, and content creation.",
+    "noPosts": "No posts yet",
+    "noPostsDescription": "Check back soon for new content!",
+    "readMore": "Read more",
+    "by": "by",
+    "minRead": "min read",
+    "categories": {
+      "all": "All Posts",
+      "webcam": "Webcam Tips",
+      "microphone": "Microphone Tips",
+      "tutorials": "Tutorials",
+      "troubleshooting": "Troubleshooting"
+    },
+    "search": "Search articles...",
+    "featured": "Featured",
+    "latest": "Latest Articles",
+    "relatedPosts": "Related Posts"
+  },
+  "reviewsPage": {
+    "title": "Best Webcam & Microphone Reviews - Expert Product Analysis",
+    "subtitle": "In-depth reviews, ratings, and buying guides for webcams, microphones, headsets, and audio/video equipment. Find the perfect gear for streaming, video calls, and content creation.",
+    "noReviews": "No reviews available yet",
+    "noReviewsDescription": "Check back soon for expert product reviews!",
+    "by": "by",
+    "readMore": "Read Review"
+  },
+  "footer": {
+    "tagline": "Test your webcam and microphone online for free",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact",
+    "blog": "Blog",
+    "copyright": "MicTestCam. All rights reserved.",
+    "language": "Language"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "download": "Download",
+    "share": "Share",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started"
+  },
+  "cta": {
+    "title": "Ready to Test Your Devices?",
+    "subtitle": "Start testing your webcam and microphone right now. No downloads, no signups required.",
+    "webcamButton": "Test Webcam",
+    "microphoneButton": "Test Microphone"
+  },
+  "homeSeo": {
+    "intro": {
+      "directAnswer": "MicTestCam provides instant, free online testing for webcams and microphones directly in your browser. No downloads required. Test your camera quality, microphone levels, and audio clarity in under 30 seconds before any video call or recording session.",
+      "p1": "Hello and welcome to MicTestCam! MicTestCam offers the easiest way to <strong>test your webcam and mic online</strong>, whether you want to check your webcam for a video conference, a meeting, a presentation, record voiceovers for your YouTube videos and channel, or conduct an in-depth <strong>microphone test</strong> for your podcast.",
+      "p2": "MicTestCam's Camera & Microphone Test Tools operate totally within the browser and do not require any download. User privacy is the most important priority for MicTestCam. All tests are performed in your browser and your video and audio information never leaves your computer. With more than 50,000 tests every day and a 99.9% success rate, MicTestCam is the most popular platform for professionals, remote employees, content creators, and regular users looking to test devices.",
+      "p3": "Hit the buttons below to <strong>test webcam</strong> or <strong>test microphone</strong>. MicTestCam takes only a few seconds to verify if your camera and microphone are working correctly before a Zoom, Microsoft Teams, Google Meet, Discord, Skype or other video call.",
+      "keyTakeaways": {
+        "title": "Key Takeaways",
+        "points": [
+          "Free instant webcam and microphone testing - no software installation needed",
+          "100% browser-based testing ensures complete privacy and data security",
+          "Real-time feedback on video quality, audio levels, and frequency response",
+          "Compatible with Zoom, Teams, Meet, Discord, and all video platforms",
+          "Over 50,000 daily tests with 99.9% accuracy rate"
+        ]
+      }
+    },
+    "whyTest": {
+      "title": "Why Should You Test Your Webcam and Microphone Before Video Calls?",
+      "directAnswer": "Testing your webcam and microphone before video calls prevents embarrassing technical failures, saves meeting time, and ensures professional communication quality. A pre-call test identifies issues with camera angles, lighting, audio levels, and background noise before your audience sees them.",
+      "p1": "Remote work and virtual communication are now standard business practices. Being able to communicate clearly over video and audio is crucial for professional success. Technical interruptions during meetings damage credibility and waste time. Having to repeatedly ask \"Can you see me now? How about now?\" undermines professional reputation and delays important discussions.",
+      "p2": "Conducting a quick video test before meetings prevents technical blunders. Performing a quick audio test before critical calls ensures your audio is clear without background noise, echo, or distortion. Sales professionals, executives, teachers, and content creators understand the importance of reliable webcam and microphone performance.",
+      "p3": "Unlike other webcam and microphone test tools, MicTestCam not only verifies if your webcam or microphone are working, but also provides detailed information on video quality and audio characteristics. MicTestCam helps users find and fix technical problems before video calls begin.",
+      "comparison": {
+        "title": "MicTestCam vs. Built-in Video Platform Tests",
+        "points": [
+          "<strong>MicTestCam:</strong> Provides detailed audio frequency analysis, real-time waveforms, and professional metrics",
+          "<strong>Platform Tests:</strong> Only show basic yes/no functionality without quality details",
+          "<strong>MicTestCam:</strong> Tests work across all platforms - Zoom, Teams, Meet, Discord simultaneously",
+          "<strong>Platform Tests:</strong> Only verify functionality within that specific platform",
+          "<strong>MicTestCam:</strong> Offers recording playback to hear exactly what others will hear",
+          "<strong>Platform Tests:</strong> No playback feature for quality verification"
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "How Does MicTestCam's Camera and Microphone Tester Work?",
+      "directAnswer": "MicTestCam uses WebRTC technology to access your webcam and microphone directly through your browser. The testing happens entirely on your device using the same protocols that Zoom, Teams, and Meet use, ensuring accurate real-world performance testing without uploading any data to servers.",
+      "p1": "MicTestCam's camera and microphone tester uses WebRTC protocols, the same protocols that popular web-based video conferencing services rely on. When you <strong>test your webcam</strong> using MicTestCam, the platform accesses your webcam through the browser's Web API and presents the video feed in real-time on the screen. Users can verify if the webcam works, check if lighting is appropriate, confirm the camera angle is correct, and assess overall video quality.",
+      "p2": "The MicTestCam <strong>microphone test</strong> tool provides immediate feedback on voice volume levels. When users speak into the microphone, audio metres reflect voice levels in real-time to help determine whether the microphone is capturing sound properly. The 32-band frequency spectrum analyser displays how sound is distributed across frequencies, a feature particularly valuable for podcasters and musicians testing microphones for professional recording.",
+      "p3": "Both MicTestCam tools offer auto-record capability. Users can start a test and MicTestCam will automatically record the camera feed and audio, allowing playback to evaluate quality as the audience would experience it. All recording happens locally in the browser. MicTestCam does not upload or store any user data on external servers, ensuring complete privacy.",
+      "technicalSpecs": {
+        "title": "Technical Specifications",
+        "specs": [
+          "<strong>Protocol:</strong> WebRTC (Web Real-Time Communication) - Industry standard used by Zoom, Microsoft Teams, Google Meet",
+          "<strong>Audio Analysis:</strong> 32-band frequency spectrum analyser (20Hz - 20kHz range)",
+          "<strong>Video Resolution:</strong> Supports testing from 240p to 8K (7680x4320) depending on camera capability",
+          "<strong>Frame Rate:</strong> Real-time monitoring at 15fps, 30fps, and 60fps",
+          "<strong>Privacy:</strong> 100% client-side processing - zero data transmission to MicTestCam servers",
+          "<strong>Compatibility:</strong> Works on Chrome, Firefox, Safari, Edge - all major browsers"
+        ]
+      }
+    },
+    "features": {
+      "title": "Full list of Features of the Tests",
+      "webcamTitle": "Webcam test",
+      "webcamFeatures": [
+        "Live preview of your camera with resolution options from 240p to 1080p.",
+        "Detection of Multiple camera devices like USB cameras, Web cams, external cameras.",
+        "9+ Different filters and effects to test the webcam and its colour balances.",
+        "Frame rates per seconds to monitor the camera.",
+        "Ability to capture a snapshot.",
+        "Automatically record video from the webcam in WebM and MP4 format.",
+        "Recordings saved in local storage."
+      ],
+      "microphoneTitle": "Microphone test",
+      "microphoneFeatures": [
+        "Realtime audio level metre and peak metre.",
+        "Realtime frequency spectrum analyser of 32 band.",
+        "Detection of multiple microphone devices like USB microphones, headset microphones etc.",
+        "Ability to configure sample rates up to 48 KHz studio quality.",
+        "Configure to record audio in mono or stereo.",
+        "Peak and RMS level metre for audio.",
+        "Automatically records audio with an option to play back."
+      ]
+    },
+    "whoUses": {
+      "title": "Who use our Webcam Test and Mic Test",
+      "remoteWorkers": {
+        "title": "Remote workers and professionals",
+        "description": "A remote worker or a professional conduct a quick test before their video conferences and meetings on Zoom, Google Meet or Microsoft Teams to see whether their webcam is working correctly, then conduct a quick <strong>mic test</strong> to make sure they are audible so that they don't have to repeat themselves and don't get interrupted with a \"We can't hear you!\""
+      },
+      "contentCreators": {
+        "title": "YouTubers, Twitch streamers, podcasters and other content creators",
+        "description": "For YouTubers, Twitch streamers, podcasters and other content creators, our advanced audio and video diagnostics tool is a must. Use the frequency spectrum analyser to resolve audio problems and run video quality tests to make sure you're delivering high-quality content."
+      },
+      "students": {
+        "title": "Students and Teachers",
+        "description": "Students need to ensure they can communicate over the Internet. They conduct tests before their classes to confirm that their equipment is functioning. Teachers also check to ensure that their equipment is in working order to teach their classes successfully."
+      },
+      "jobSeekers": {
+        "title": "Job Seekers",
+        "description": "If you are going to do video interviews, make sure to do a <strong>camera test</strong> and a <strong>microphone test</strong> before you go on. This is a huge differentiator and will show that you are prepared. (Nothing is worse than losing an opportunity because of a technical failure.)"
+      },
+      "gamers": {
+        "title": "Gamers:",
+        "description": "Using a gaming headset? Get the precise results you need to test your mic for Discord, in-game chat, or streaming."
+      },
+      "techSupport": {
+        "title": "Tech Support",
+        "description": "If you're having problems with your camera or microphone, our tools can help determine if the issue is with your hardware, drivers, or software settings."
+      }
+    },
+    "privacy": {
+      "title": "100% Privacy Guaranteed",
+      "intro": "Privacy is at the heart of everything we do at our <strong>webcam test</strong> and <strong>microphone test</strong> tools. We realise that by accessing your camera and microphone, you are sharing private information with us. This is why our entire platform is designed with a zero trust policy.",
+      "localProcessing": {
+        "title": "All processing is done on your local machine",
+        "description": "Video and audio processing are done using the WebRTC APIs in your browser. We don't store your data on our servers because we don't even get it."
+      },
+      "noAccount": {
+        "title": "No Account Required",
+        "description": "You do not have to create an account, enter an email address, or share any personal details. Simply go to the site, allow your browser permission, test your devices and go."
+      },
+      "transparent": {
+        "title": "See-through code",
+        "description": "We do not obfuscate our code. You can view it in your browser by using dev tools. No tracking, no data collection, no analytics to collect your private data."
+      },
+      "cleanup": {
+        "title": "Automatic Deletion:",
+        "description": "All recordings are stored in the browser's local storage. They will be automatically deleted when you close the browser or clear the local storage. You have full authority over what is stored and for what time period."
+      }
+    },
+    "compatibility": {
+      "title": "Compatibility across browser and device",
+      "intro": "Most popular up-to-date browsers and devices are supported by our webcam and microphone tests. Both tools are available on Windows, Mac OS, Linux, iOS, Android or any other operating system that supports a modern browser without requiring any additional downloads or installation.",
+      "browsersTitle": "Supported Browsers",
+      "browsers": [
+        "Google Chrome (best performance)",
+        "Mozilla Firefox",
+        "Microsoft Edge",
+        "Safari (on macOS and iOS)",
+        "Opera",
+        "Brave"
+      ],
+      "devicesTitle": "Supported Devices",
+      "devices": [
+        "Built-in or external USB webcams on desktop and laptop computers",
+        "Smartphones and tablets with front and back facing cameras",
+        "External USB cameras and webcams for PC",
+        "Built-in laptop microphones",
+        "External USB microphones",
+        "Gaming headsets with microphones",
+        "Professional audio interfaces and condenser microphones"
+      ]
+    },
+    "troubleshooting": {
+      "title": "Need Help?",
+      "intro": "Can't seem to get the <strong>webcam test</strong> or <strong>microphone test</strong> to work? Try one of these solutions.",
+      "cameraTitle": "Camera Not Detected or Working",
+      "cameraIssues": [
+        "Make sure you have allowed the camera in your browser. In the address bar, you will see a camera sign that you can use to enable camera access.",
+        "You are using the camera in another application (Zoom, Teams, Skype etc). You can only use the camera in one application at a time. Close the other application or refresh the page and allow access again.",
+        "Refresh the page and allow access again. It might be due to a browser bug.",
+        "Use the latest version of the browser.",
+        "Check if the camera drivers are correctly installed in your computer.",
+        "If you are using a USB camera try connecting it to another USB port or use a different cable."
+      ],
+      "microphoneTitle": "Microphone Not Working",
+      "microphoneIssues": [
+        "Allow the microphone access in your browser.",
+        "Make sure that the microphone is properly connected to power supply.",
+        "Use the system sound settings to check if the microphone works.",
+        "Other applications are using the microphone. Try closing them.",
+        "Try adjusting the microphone level in system settings to pick up the volume if you are not loud enough, or to reduce the volume if you are too loud.",
+        "Check if the microphone is not muted in your system or on the device (if it is a hardware mute button on the device)."
+      ]
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "webcamTitle": "Webcam Testing:",
+      "webcamLinks": [
+        "Webcam Test",
+        "Test Webcam Online",
+        "Camera Test",
+        "Online Camera Tester",
+        "Free Webcam Test",
+        "Check My Webcam",
+        "USB Camera Test",
+        "Laptop Camera Test",
+        "Test Camera for Zoom"
+      ],
+      "microphoneTitle": "Microphone Testing:",
+      "microphoneLinks": [
+        "Microphone Test",
+        "Mic Test Online",
+        "Test My Microphone",
+        "Online Microphone Tester",
+        "Free Mic Test",
+        "Check Microphone",
+        "Audio Test Online",
+        "USB Microphone Test",
+        "Discord Mic Test"
+      ]
+    }
+  },
+  "webcamSeo": {
+    "intro": {
+      "p1": "Test your webcam with our fast and easy online test tool. It offers a real-time preview of your camera, multiple quality settings, special effects, and automatic recording using your camera online, all without any additional software installation. So you can use it as a web conferencing <strong>camera test</strong>, or test your built-in webcam on a new computer.",
+      "p2": "To test, just press the 'Start Camera & Record' button above. A live preview of your webcam will appear so you can see if your video is working, test your lighting, and if your camera is positioned properly. Nothing is uploaded, stored or accessed. Your video test is done locally on your computer."
+    },
+    "howToUse": {
+      "title": "How to Use Our Webcam Test Tool",
+      "intro": "To test your webcam, follow these simple steps:",
+      "steps": [
+        "<strong>Allow Access:</strong> A dialogue will pop up asking if the browser can access the webcam. Press Allow to allow the browser to access the webcam. Note that this is the case for any webcam test website. The dialogue appears as a security measure to prevent random websites from accessing the webcam.",
+        "<strong>Select the correct camera:</strong> If you have multiple cameras (for example, a built-in laptop camera and a separate USB camera), you can select which camera to use from the dropdown menu. Our webcam test tool will automatically detect and list all cameras.",
+        "<strong>Select the quality:</strong> Choose the desired resolution (quality) from the quality dropdown. You can test the camera at low quality (240p), medium quality (480p), high quality (720p), fullHD quality (1080p) etc. Higher quality provides a clearer picture but requires more bandwidth and CPU.",
+        "<strong>Start the test:</strong> Press Start Camera & Record and you will immediately see the live feed from your camera. You can immediately start recording and then view the quality.",
+        "<strong>Use visual filters:</strong> We have more than 9 visual filters (black&white, sepia, blur, high contrast, etc) to see how they affect your camera's output.",
+        "<strong>Take a snapshot:</strong> You can take a snapshot during a test to check your picture quality or to see how the camera handles specific lighting conditions.",
+        "<strong>Stop & Save:</strong> When done, press Stop & Save Recording to stop the recording. The video will be saved in the browser so you can play it again and download it."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Advanced Webcam Features",
+      "intro": "Our <strong>webcam tester</strong> includes professional-grade features designed for various use cases - from casual video calls to content creation.",
+      "mirrorMode": {
+        "title": "Mirror Mode for Perfect Selfies",
+        "description": "Mirror and flip is a must-have feature for makeup tutorials, bloggers and for those who want to see what they look like from a mirror. When you click the Mirror button (while your camera is turned on), it will flip your webcam video horizontally so you can better check your face, do your make-up or simply get accustomed to the mirror view. Especially, if you are recording a YouTube video, a TikTok video or an Instagram story where you need to show text, use some directions etc."
+      },
+      "digitalZoom": {
+        "title": "Digital Zoom (1x to 3x)",
+        "description": "See how sharp your <strong>webcam</strong> is when zoomed in at different levels. Ideal for product demos, tutorials, or just getting really up close and personal. Zoom slider & 1x, 2x, 3x quick buttons to test the sharpness of your webcam when zoomed in. Useful to see if you need to move closer to your camera, or if you can zoom in without degrading the image quality too much. Handy for live streamers who want to zoom in on their painting, crafting, or tech repair work."
+      },
+      "brightnessContrast": {
+        "title": "Brightness & Contrast Controls",
+        "description": "Adjust the brightness (50-150%) and contrast (50-150%) and see what your webcam looks like in different lighting conditions. You can use these sliders to test if your camera auto exposure works properly and to mimic different recording settings. If it is too dark or too bright in your room you can adjust the sliders to a comfortable setting for your next video meeting. Streamers and YouTubers often use these sliders to get the best out of their camera and to maintain the same lighting conditions for their videos."
+      },
+      "gridOverlay": {
+        "title": "Grid Overlay for Professional Framing",
+        "description": "Our built-in grid overlay utilises the Rule of Thirds composition technique, allowing you to perfectly frame your face in your recording. Simply place your eyes on the top horizontal line and align your face with the vertical guides. This professional photography principle ensures more attractive and interesting video recordings for YouTube, business meetings, or Twitch streams. The grid overlay assists with consistent framing in repeated recordings."
+      },
+      "videoFilters": {
+        "title": "Video Filters & Effects",
+        "description": "Apply the following filters to your <strong>webcam</strong> to see how they look like: Normal, Greyscale, Sepia, Invert, Blur, Brightness, Contrast, Hue Rotate and Saturate. The filters show you how well your camera can represent colours and how it will look when you use video effect filters. If you are a streamer or YouTuber you can use filters to see how your stream would look like with different effects applied. The filters can also be used to see if your camera outputs the correct colours. Compare the results of the Greyscale and Sepia filters."
+      },
+      "videoMetrics": {
+        "title": "Real-Time Video Metrics & Histogram:",
+        "description": "view technical details about your video such as resolution, frame rate, and bitrate. The RGB histogram allows you to view the distribution of colours in your video. This is useful for detecting over/under exposure, colour casts, and bad lighting. This feature is ideal for professionals such as videographers, YouTubers, and vloggers who want to ensure their video is as good as possible. If your histogram has a cliff on either side, you will need to correct your lighting or camera settings."
+      },
+      "advancedControls": {
+        "title": "Advanced Camera Controls",
+        "description": "Some webcams have features like exposure, focus mode, white balance, ISO, and sharpness that can be controlled by the user. Our web application will allow you to check what your <strong>webcam</strong> can do. You can change between auto and manual focus mode, change the white balance to match the temperature of your light, or set the exposure compensation to your likings. This is very useful for streamers, YouTubers, and professionals that need to control their camera settings."
+      },
+      "backgroundBlur": {
+        "title": "Background Blur Effect",
+        "description": "Try web-based background blur without any applications or green screen. Our background blur effect uses the latest web technologies to remove the background and separate it from you, useful when you have to make video conferencing calls from home with a background that you don't want others to see. You can adjust the level of blur applied to your background. This tool allows you to see how well background blur effect is working with your <strong>webcam</strong> and camera application. This is particularly useful for web developers, digital marketers, and for everyone who makes video content."
+      },
+      "motionDetection": {
+        "title": "Motion Detection for Security Testing",
+        "description": "If you want to check how much your <strong>webcam</strong> reacts to motion, use our real-time motion detection. With Advanced mode you can see live motion percentage indicator reflecting motion in your video. Use this for security camera motion testing, surveillance system configuration or motion activated recording camera testing. Motion detector analyses video stream frame by frame to find out the amount of motion. This allows to check how good the camera is, and what sensitivity you need. Useful for home security, pet monitor and baby monitor testing."
+      },
+      "faceDetection": {
+        "title": "Face Detection & Tracking",
+        "description": "Detect your webcam's capability to detect faces. In advanced mode we draw bounding boxes around faces and count them. Our face detection tool uses FaceDetector API, when available in your browser, to detect multiple faces in a frame. Use this tool to test the functionality of your <strong>camera</strong> for auto-framing in video conferencing, or to see how it handles more than one face. Video content creators can see if their camera properly detects faces for auto-focus purposes, and professionals can check their multi-person meeting room works as expected."
+      },
+      "sideBySide": {
+        "title": "Side-by-side mode: Compare two cameras",
+        "description": "Side-by-side mode allows you to compare 2 webcams side-by-side. It is useful for testing multiple webcams at the same time. If you have a built-in web camera and an external USB web camera you can view them side-by-side at the same time. It is also very useful for choosing a web camera to buy. You can compare camera image quality, colour accuracy, low-light performance, and field of view in real time. It is a great tool for streamers and YouTubers."
+      }
+    },
+    "videoQuality": {
+      "title": "Webcam Video Quality Settings Explained",
+      "intro": "Resolution determines the sharpness of the video your webcam produces. Here's how the settings perform on our webcam resolution test:",
+      "settings": {
+        "240p": {
+          "title": "240p (426x240):",
+          "description": "This is the lowest quality setting, for when you just want to test if your stream works, and your internet connection is terrible. Your video will be blurry, but it's great for seeing if your camera is streaming, at the very least."
+        },
+        "360p": {
+          "title": "360p (640x360)",
+          "description": "— Low quality, small bandwidth usage. You could do a low res video call if you don't care about quality too much. You could still make out the faces, but nothing else."
+        },
+        "480p": {
+          "title": "480p (854x480)",
+          "description": "- Standard definition. This is the middle ground between quality and bandwidth. Most video chat and streaming applications can use this. This is typically the resolution of most old webcams."
+        },
+        "720p": {
+          "title": "720p HD (1280x720):",
+          "description": "This resolution delivers high-definition video conferencing quality, which is great for professional use. It offers sharp images and decent colour quality. This is the most popular resolution used in video conferencing apps such as Zoom, Teams, and Meet."
+        },
+        "1080p": {
+          "title": "1080p Full HD (1920x1080)",
+          "description": "This is the highest resolution you'll find in a webcam, and is ideal for people who want to make high-quality content, stream, or need the best possible video quality. It requires more bandwidth and processing, but you'll get a sharp and professional image."
+        },
+        "1440p": {
+          "title": "1440p QHD (2560x1440)",
+          "description": "Quad HD resolution with excellent detail and clarity. Great for pro content creators, streamers who require a high level of image quality, and those with 4K monitors who desire a native resolution. High quality webcams and a significant amount of bandwidth are needed."
+        },
+        "4K": {
+          "title": "4K Ultra HD (3840x2160)",
+          "description": "Ultra High Definition with four times the pixels of 1080p. Professional-grade quality for content creators, filmmakers, and high-end streaming. Requires premium webcams, powerful computer hardware, and high-speed internet. Perfect for future-proofing recordings and maximising detail for digital zoom and cropping."
+        },
+        "8K": {
+          "title": "8K Ultra HD (7680x4320)",
+          "description": "The maximum possible resolution. It has 16 times more pixels than 1080p. This is typically used for very high-end professional webcams, or for people that use DSLR/mirrorless as webcams. You'll need an extremely high end webcam or DSLR/mirrorless for this, an extremely powerful computer, and an extremely fast connection. This should only be used when you need cinema-level quality, or when you have an extremely large monitor, or if you want to digitally zoom in a lot."
+        }
+      },
+      "tip": "If you're doing a webcam test, test with 720p first to ensure your camera works with high-definition, then test with any other resolution you need."
+    },
+    "frameRate": {
+      "title": "Frame Rate and Smooth Video Performance.",
+      "intro": "Frame rate is the frequency (rate) at which an imaging device produces unique consecutive images called frames. The frame rate is expressed in frames per second (FPS). The higher the frame rate the smoother the video looks, especially in motion. Our online webcam test tool checks the real FPS of your webcam, to show if your webcam has any issues.",
+      "rates": {
+        "15fps": {
+          "title": "15 FPS.",
+          "description": "Okay for video conferencing. The motion looks kinda jerky. Could be low-end camera, poor lighting, or a CPU bottleneck."
+        },
+        "30fps": {
+          "title": "24-30 FPS",
+          "description": "- This is the typical frame rate for webcams and most video conferencing applications. The motion is smooth and real. This is also the ideal frame rate for a professional video conference."
+        },
+        "60fps": {
+          "title": "60 FPS:",
+          "description": "A high frame rate that allows for even more motion smoothness. Ideal for streamers and YouTubers where motion smoothness is key. Note that not all webcams support 60 FPS, and it will consume more bandwidth."
+        }
+      },
+      "tip": "If the test result from your webcam is a low frame rate, you might consider using a lower resolution, or increase the lighting. Light can be an issue with webcams as they may reduce the framerate in order to be able to increase exposure time."
+    },
+    "lighting": {
+      "title": "Tips for Better-Looking Webcam Video",
+      "intro": "Lighting is the most significant variable when it comes to the quality of webcam video. A low-quality webcam with great lighting will look better than a high-quality webcam with poor lighting.",
+      "tips": {
+        "position": {
+          "title": "Light in Front of You",
+          "description": "The light source should be in front of you, not behind you. Backlighting (such as positioning yourself in front of a window) will make your face dark and shadowy."
+        },
+        "soft": {
+          "title": "Soften the Light",
+          "description": "Avoid straight-on lighting which causes strong shadows and hot-spots. Multiple light sources, or light coming in from large windows, is always soft and makes for more professional looking images."
+        },
+        "flicker": {
+          "title": "Avoiding Flickering Light Bulbs",
+          "description": "Some LED bulbs and fluorescent lights will flicker at a frequency that your camera can see, and you will get flickering in your video. Try using bulbs that are incandescent or LED light bulbs that are high quality for video."
+        },
+        "color": {
+          "title": "Colour temperature is another factor to consider.",
+          "description": "Ensure all light sources have the same colour temperature. Warm and cool light mixed together looks unhealthy. Webcams generally look better under daylight-balanced light (5000-6500K)."
+        }
+      },
+      "tip": "Test our webcam test tool with multiple light sources to determine if your webcam image improves. You can test different light settings because of the live view to see what works best for you."
+    },
+    "types": {
+      "title": "Types of Webcams and What to Expect",
+      "builtIn": {
+        "title": "Built-in Laptop Webcams",
+        "description": "Laptops almost always have a webcam built into the top of the screen. For the most part, these are 720p cameras, and they work fine for the occasional video chat. However, the quality can vary widely depending on the laptop you own. Generally, nicer laptops will have better webcams."
+      },
+      "usb": {
+        "title": "USB Webcams",
+        "description": "There are also external webcams that connect via USB. If you're looking for something better than the integrated camera, a basic model will give you 1080p at 30 FPS, but the top end models will go all the way up to 4K, 60 FPS, with auto focus, low light compensation, etc."
+      },
+      "streaming": {
+        "title": "Streaming Cameras:",
+        "description": "Cameras made for streamers, these focus on image quality with bigger sensors, improved low light sensitivity and improved colour science. HDR and FOV adjustments are common."
+      },
+      "dslr": {
+        "title": "Option 1: DSLR/Mirrorless as a Webcam",
+        "description": "A lot of new cameras can be used as a webcam over USB, or with a capture card. This will give you the highest quality picture, but will also require the most amount of gear and configuration."
+      },
+      "tip": "If you are unsure if your camera is working with our tool, our comprehensive webcam test is compatible with all kinds of cameras. Feel free to use it to compare different webcams, or simply check that your new webcam is working after you have connected it."
+    },
+    "troubleshooting": {
+      "title": "Need Help Fixing Your Webcam?",
+      "intro": "If you've run a test and discovered an issue, follow these steps to identify and fix the most common problems:",
+      "blackScreen": {
+        "title": "Webcam Shows Black Screen",
+        "issues": [
+          "Check if you have a physical covering (such as a privacy slider, plaster, or a piece of tape) over the camera lens",
+          "Check if another app (Skype, Zoom, Teams, etc.) is currently using the camera in the background. Close those apps and try this webcam test again.",
+          "If you're still encountering issues, try restarting your browser and trying the webcam test again.",
+          "If you're using an external USB webcam, try plugging it into a different USB port.",
+          "Update or reinstall your camera drivers."
+        ]
+      },
+      "blurry": {
+        "title": "Webcam Video is Blurry",
+        "issues": [
+          "Clean the webcam lens with a microfibre cloth.",
+          "If your webcam has a focus ring, try manually adjusting the focus.",
+          "Make sure there is enough light to help your camera auto-focus.",
+          "Move a bit closer or further away from the webcam and see if it improves."
+        ]
+      },
+      "colors": {
+        "title": "Webcam Colours Look Wrong",
+        "issues": [
+          "Are you under different lighting conditions? Natural and artificial lighting can have different colour tones.",
+          "Try adjusting the white balance in your webcam settings, if available.",
+          "Are you wearing something or have something around you with a dominant colour that may cause colour casting? Try removing it."
+        ]
+      },
+      "choppy": {
+        "title": "Video is Choppy or Laggy",
+        "issues": [
+          "Reduce the video quality in the settings of this webcam test tool.",
+          "Try closing all other applications that are consuming CPU or GPU resources.",
+          "Improve your lighting conditions to reduce the strain on your camera.",
+          "If you are using an external USB webcam, connect it directly to your computer instead of a USB hub."
+        ]
+      }
+    },
+    "platforms": {
+      "title": "Testing Webcam for Specific Platforms",
+      "zoom": {
+        "title": "Zoom Video Conferencing",
+        "description": "Use this webcam test to ensure that your camera is working well before you start an important Zoom meeting. Make sure the video quality is good enough at 720p (which is the default quality for most Zoom meetings). Ensure that your lighting is sufficient and your position in the webcam view is good before joining a Zoom call."
+      },
+      "teams": {
+        "title": "Microsoft Teams:",
+        "description": "1080p HD video is available in meetings. Test camera at different resolutions to confirm that your camera can support Teams video resolution. Test background for professional quality for Together Mode and virtual background."
+      },
+      "meet": {
+        "title": "Google Meet:",
+        "description": "Meet automatically adjusts video quality based on network conditions. Test at 720p minimum to ensure that your camera meets Google Meet's minimum requirements for high quality video transmission."
+      },
+      "streaming": {
+        "title": "Streaming (Twitch/YouTube)",
+        "description": "Test at the maximum resolution your webcam can handle (1080p60 preferably). Make sure that the frame rate is stable, and see how well your camera copes with fast movements and multiple lighting conditions."
+      },
+      "discord": {
+        "title": "Discord:",
+        "description": "If you use Discord to conduct video calls, it is necessary to have a webcam capable of running 720p. You want to make sure that the camera you have is suitable for your computer and for the gaming sessions and community calls. This also ensures that your camera is not hogging too much bandwidth and hindering your gaming."
+      }
+    },
+    "relatedTools": {
+      "title": "Related Tools & Resources",
+      "alsoTry": "Also Try:",
+      "alsoTryLinks": [
+        "Webcam & Mic Test",
+        "Test Microphone",
+        "Mic Test",
+        "Audio Recording Test",
+        "Check Mic Online"
+      ],
+      "onThisPage": "On This Page:",
+      "onThisPageLinks": [
+        "How to Test Your Webcam",
+        "Video Quality Settings",
+        "Camera Troubleshooting",
+        "Webcam Not Working Fix",
+        "Best Webcam Settings"
+      ]
+    }
+  },
+  "microphoneSeo": {
+    "intro": {
+      "p1": "Did your mic work? Use our quick and simple <strong>mic test</strong> to make sure your <strong>microphone is working</strong> properly. This <strong>online microphone test</strong> will also show your microphone levels, frequency spectrum, and record your audio. No software or plugin is needed to <strong>test your mic</strong>. <strong>Test your mic</strong> now before you go live, start a video call, or record a podcast.",
+      "p2": "Press the 'Start Microphone & Record' button above to check your microphone. The audio levels are displayed in real time, so you can see if your microphone is picking up sound as expected. The 32 band audio frequency graph allows you to see how well your microphone picks up frequencies of sound. This is particularly useful if you're a podcaster or musician as it will allow you to use equipment that can pick up all frequencies clearly."
+    },
+    "howToTest": {
+      "title": "How to Test Your Microphone",
+      "intro": "Perform these steps for a full <strong>microphone test</strong>:",
+      "steps": [
+        "<strong>Allow Access to Your Microphone:</strong> Allow access to the browser to use your microphone. Click on allow if a dialogue box appears with a request to grant access to your microphone. If you're using the browser for the first time, you might need to click a shield icon in the address bar and then select the microphone to allow permission for the site to access it.",
+        "<strong>Pick Your Microphone (if necessary):</strong> Pick your desired microphone from the dropdown options (your computer's microphone, external microphone, etc.). The <strong>online microphone test</strong> can only be conducted through one microphone at a time.",
+        "<strong>Set Your Sampling Rate and Channels:</strong> Pick the sampling rate for your microphone (44.1 kHz for standard quality and 48 kHz for higher quality). Select a mono or stereo channel depending on what you want to achieve.",
+        "<strong>Record a Microphone Test:</strong> Click on the record button to start a <strong>microphone test</strong>. It will start recording automatically so you can listen to the playback later and see how your microphone sounds.",
+        "<strong>Observe the Microphone Level Metre:</strong> As you conduct the <strong>microphone test</strong>, observe the microphone level metre as you speak into the microphone. If it's recording you properly, the metre should move according to the volume of your voice. A green colour indicates the ideal volume level, yellow for a higher volume level, and red for volumes that are too loud and potentially clipping.",
+        "<strong>Try Speaking at Different Volumes:</strong> Conduct a <strong>microphone test</strong> by speaking in a normal voice and then in a very soft voice and loud voice. It will help you see how sensitive your microphone is to different volumes.",
+        "<strong>Play Back the Recording:</strong> After conducting the <strong>online microphone test</strong>, playback your recording to see how the microphone sounds. It will help you identify any issues that you wouldn't notice with the microphone level metre."
+      ]
+    },
+    "advancedFeatures": {
+      "title": "Advanced Features",
+      "intro": "Whether you're troubleshooting why your mic is not working or looking to get the best performance for a big meeting or livestream, there are several advanced features you can test on this site:",
+      "inputGain": {
+        "title": "Optimal Input Gain",
+        "description": "Configure your microphone gain between 50% and 150% with our pre-configured options or on-the-fly with our slider. Control over input gain is particularly important to those who record audio for podcasting where consistent levels between episodes is desired, for musicians (both voice and instruments), and for streamers who are sensitive to clipping and distortion. Select the Low (50%) preset for environments that are too loud or if you have a sensitive condenser microphone, Normal (100%) for most use cases, and Boost (150%) for quieter sources that need more amplification. Our on-the-fly gain control leverages the Web Audio API's GainNode for amplification without the introduction of noise or latency."
+      },
+      "noiseSuppression": {
+        "title": "Apply noise suppression for clean recordings",
+        "description": "If you want to remove typing sounds, mouse clicks, fans, AC and similar sounds from the recording, please enable the noise suppression and try again. It works in your browser and can be used to clean up noisy recordings of remote work, podcasts, home recordings, videos, etc, and you don't need a noise gate or a noise reduction plugin. The noise suppression uses Web Audio API to suppress noise directly on the microphone so it does not increase CPU load nor adds latency. You can test both with and without noise suppression to see what works best for your microphone."
+      },
+      "echoCancellation": {
+        "title": "Why it's useful: Echo cancellation",
+        "description": "removes acoustic feedback and echo from your microphone before the test. This is important for video calls, podcast interviews, and live streaming when your speakers' audio can also be picked up by your microphone. Use the pre-settings pop-up to turn echo cancellation on to test your microphone with it on. This will help you decide whether you need to treat your recording space for acoustics, or whether you can rely on browser echo cancellation. Useful for: remote workers, podcast interviewers, and anyone who records in a room with a lot of hard surfaces (which can echo)."
+      },
+      "autoGainControl": {
+        "title": "Maintain consistent volume with AGC",
+        "description": "AGC makes your microphone level sound louder and more consistent. If you are quiet, it will make you louder. If you are loud, it will make you quieter. It's great for streamers, because if you are in a loud moment, you don't have to worry about being too loud. It's also good for podcasters, if you are moving further from your mic. Also, it's great for video conferencing, if you want to sound like a pro. Check this box, and see if AGC works well with your browser and your mic. If you like to record music or ASMR, you may want to keep this off."
+      },
+      "realtimeMeter": {
+        "title": "Monitor your audio levels in real time.",
+        "description": "The level metre shows the RMS (Root mean square) of the audio signal, showing the actual level of the audio. The peak is also shown, where the level will start to clip. The level metre has three sections; green, yellow and red. The green zone is the optimal level, between -12 and -6 dB. The yellow zone is between -6 and -3 dB and the red zone is anything above -3 dB, when your audio will clip. Use this metre to make sure your microphone is positioned correctly. Use it to adjust your voice level. Use it to monitor the level of your audio before you hit record, so you know your levels won't clip. Podcasters use this to match levels between episodes. Musicians use it to set the gain of their microphones. Remote workers use it to make sure they can be heard, but aren't too loud."
+      },
+      "frequencySpectrum": {
+        "title": "Frequency Spectrum Analysis",
+        "description": "Real-time frequency spectrum analysis of your microphone's frequency response. Use the 32-band spectrum to determine which frequencies your microphone is picking up. Excessive rumble (20-250Hz)? Muddy mids (250Hz-2kHz)? Harsh sibilance (6kHz-8kHz)? This is used by audio engineers to evaluate microphones and rooms, podcasters to find problematic frequencies that need to be equalised, and musicians to determine which mic works best for their voice or instrument. Real-time updates allow you to analyse your position, proximity and surroundings."
+      },
+      "sideBySide": {
+        "title": "Side-by-side comparison of two microphones",
+        "description": "Choose the side-by-side comparison option to use two microphones at once. This is particularly useful if you have two microphones plugged in (say your laptop's built-in microphone and a USB microphone), and you want to see them side-by-side to compare the audio quality, noise floor, frequency response, and sensitivity of each. This is useful for choosing which microphone to buy, testing different microphone placements, or deciding which microphone to use for your podcast or stream. I use it to prove to myself that buying a new microphone is worth it, sound designers use it to find a match for another microphone for stereo recording, and a company's IT department might use it to test microphones before deploying them throughout their company. To use it, choose the comparison setting in the pre-sets, select a second microphone, and both will be shown side-by-side with real time results."
+      },
+      "snrMeasurement": {
+        "title": "Signal-to-Noise Ratio (SNR) Measurement",
+        "description": "The green number shows your current SNR. 60 dB is the minimum recommended for professional recording, 50-60 dB is the minimum for broadcasting and podcasting, and 40-50 dB is fine for video chats and tutorials. A good SNR will tell you if your microphone is good enough for what you want to do, if your room is too loud, or if you need to add acoustic panels. Click on the \"Advanced\" button at the top right of the screen to show the SNR, noise floor, and dynamic range as you measure. This is a useful measurement for podcasters who want to make sure their broadcast is within broadcast standards, musicians who want to evaluate their home studio setup, and for anyone who cares about their sound quality."
+      }
+    },
+    "audioLevels": {
+      "title": "Audio Levels Explained",
+      "intro": "The audio level metre in the mic test above gives a visual representation of the volume level of your mic input. It's important to know what each level means to deliver great sound:",
+      "green": {
+        "title": "Green Zone (0-50%)",
+        "description": "Acceptable audio levels for most cases. You sound loud and clear, and you have plenty of room to get louder without clipping. Try to stay in this range for video calls and other communication."
+      },
+      "yellow": {
+        "title": "Yellow Zone (50-80%)",
+        "description": ": High audio levels that are still acceptable. Good for recording when you want strong, present audio. However, sudden loud sounds might cause clipping."
+      },
+      "red": {
+        "title": "Red Zone (80-100%)",
+        "description": ": This is the danger zone, where your audio will probably be distorted (clipped). If you are frequently in the red, you should lower your microphone volume in your control panel, or back away from your microphone."
+      },
+      "peak": {
+        "title": "Peak Level:",
+        "description": "The highest level attained by your session. This is useful to check if there are short loud events that are causing clipping, when the average levels are ok."
+      },
+      "rms": {
+        "title": "RMS Level",
+        "description": "- Average volume over time. Much more important than peak when it comes to perceived loudness. You want your RMS levels to be in the green for consistently loud but still pleasant sounding audio."
+      }
+    },
+    "frequencySpectrum": {
+      "title": "Frequency Spectrum Analysis",
+      "intro": "Our microphone test contains a 32-band frequency spectrum analyser which displays the distribution of audio signal across different frequencies. This is a professional tool that allows you to analyse your microphone's frequency response and diagnose various problems:",
+      "low": {
+        "title": "Low Frequencies (20-250 Hz)",
+        "description": "These are the bass frequencies that add body and warmth to your voice. Excessive low frequency energy can make your recording sound muddy or boomy. This can often be the result of standing too close to the mic. (Proximity effect.)"
+      },
+      "mid": {
+        "title": "Mids (250-4000 Hz)",
+        "description": "Most of the clarity of your voice lies here. This area should be prominent and defined. If this range is lacking, your voice will sound weak or far away."
+      },
+      "high": {
+        "title": "High Frequencies (4000-20000 Hz)",
+        "description": "Brightness and clarity. A well-balanced high frequency reproduces speech in a sharp, intelligible manner. Too much high frequency sounds tizzy or sibilant (tzz sound)."
+      },
+      "tip": "Observe the frequency metre while speaking. If it shows an even distribution of frequencies, then the mic is in a good position and is likely capturing a natural sound. If it shows too much activity on the low end, you may need to step back a bit."
+    },
+    "sampleRates": {
+      "title": "Sample Rate Settings",
+      "intro": "The sample rate is the number of audio samples taken per second. The higher the sample rate, the more detail the audio has, but it also takes up more resources for processing and saving:",
+      "rates": {
+        "22khz": {
+          "title": "22.05 kHz",
+          "description": "Low quality. Only for voice. Very low bandwidth usage, but poor frequency response. Should usually be avoided."
+        },
+        "44khz": {
+          "title": "44.1 kHz (CD Quality)",
+          "description": "– Suitable for general use. Records all frequencies that can be heard by the human ear (20 Hz – 20 kHz). Great for video conferencing, podcasting, and music."
+        },
+        "48khz": {
+          "title": "48 kHz (Professional Standard):",
+          "description": "Very similar to 44.1 kHz but a slightly higher quality. This is the standard for video/film and broadcasting. Use this if you are going to be synching audio to video."
+        }
+      },
+      "tip": "In general, 44.1 kHz is fine for most mic testing. If you are a serious audio professional and want the highest quality (or need it to match up with video footage), you can use 48 kHz."
+    },
+    "types": {
+      "title": "Types of Microphones",
+      "builtIn": {
+        "title": "Built-in Laptop Microphones:",
+        "description": "These are the microphones that are built into your laptop. They're convenient, but tend to be lower quality. You may hear your typing and the fan from your computer. You can still use it, just place the laptop so the mic is facing you. This is fine for a video chat with your friend or family member, but you probably don't want to record a voiceover with it."
+      },
+      "usb": {
+        "title": "USB Microphones:",
+        "description": "Here are my top USB microphone recommendations for both Mac and PC. A decent USB microphone will make a world of difference compared to your computer's internal microphone. The Blue Yeti and Audio-Technica AT2020 USB are two of the most popular USB microphones out there and sound fantastic. Perfect for podcasting, Twitch streaming, or making video calls."
+      },
+      "headset": {
+        "title": "Gaming headsets and earbuds:",
+        "description": "If you want a headset or earbuds for gaming, you can also consider these as an option. They are more convenient to use and the microphone positioning remains the same every time. Obviously, the better (and more expensive) the headset or earbuds, the better will be the quality. These are great for gaming purposes and making the occasional call."
+      },
+      "condenser": {
+        "title": "Condenser Microphones",
+        "description": "Sensitive microphones that capture rich, detailed audio. Require careful positioning and acoustic treatment. Best for professional recording, voiceover, and music production."
+      },
+      "dynamic": {
+        "title": "Dynamic Microphones:",
+        "description": "Robust and great at rejecting background noise. Often used for podcasting and streaming due to their tolerance of home environments. Not as sensitive as condensers, but more convenient."
+      },
+      "tip": "Our microphone test is compatible with all types of microphones. You can use it to test multiple mics, to try new hardware, or to solve problems."
+    },
+    "bestPractices": {
+      "title": "Microphone Recording Best Practices.",
+      "distance": {
+        "title": "Distance.",
+        "description": "6-12 inches from your mouth. Closer: Sounds more bassy (proximity effect) and picks up breathing. Farther: Thinner sound and picks up room noise."
+      },
+      "popFilter": {
+        "title": "Invest in a Pop Filter:",
+        "description": "Plosives (P, B, T) create air blasts that result in distortion. Place a pop filter between you and your mic and they will disappear. If you plan on doing podcasting or voice over, this is a must."
+      },
+      "background": {
+        "title": "Minimise background noise",
+        "description": "— Turn off the fan, close the window, silence your phone. Do the mic test within the environment where you will be recording. There's a lot of noise we are not even aware of."
+      },
+      "acoustics": {
+        "title": "Don't forget about Room Acoustics",
+        "description": "You don't want to record in a space with a lot of hard, flat surfaces — it will create echo and reverb. You want soft surfaces that absorb sound reflections (curtains, carpeting, acoustic panels). You can even record in a closet full of clothes, which can make a huge difference."
+      },
+      "positioning": {
+        "title": "Consistency is key!",
+        "description": "If you find that the microphone sounds good in one spot, keep it there for the duration of your recording session. You can invest in a boom arm or microphone stand if you want to avoid your mic moving around at all. You can even draw a circle on the desk to show where your mic should be to achieve that good sound again."
+      }
+    },
+    "troubleshooting": {
+      "title": "Troubleshooting Microphone Problems",
+      "noAudio": {
+        "title": "No Audio Detected:",
+        "issues": [
+          "Verify microphone permissions are granted in browser settings",
+          "Check that the correct input device is selected in the dropdown",
+          "Ensure microphone isn't muted in hardware or system settings",
+          "For USB microphones, try a different port",
+          "Close other applications that might be using the microphone"
+        ]
+      },
+      "quiet": {
+        "title": "Audio Too Quiet:",
+        "issues": [
+          "Increase microphone input level in system settings",
+          "Move closer to the microphone",
+          "Check for gain controls on the microphone itself",
+          "Ensure you're speaking toward the microphone's pickup pattern"
+        ]
+      },
+      "distorted": {
+        "title": "Audio Distorted or Clipping:",
+        "issues": [
+          "Reduce microphone input level in system settings",
+          "Move slightly away from the microphone",
+          "Check for physical obstructions or debris on the microphone"
+        ]
+      },
+      "echo": {
+        "title": "Echo or Reverb:",
+        "issues": [
+          "Use headphones to prevent speakers from feeding back into the mic",
+          "Add soft materials to your room to absorb sound reflections",
+          "Get closer to the microphone to increase direct sound vs. room reflections"
+        ]
+      }
+    },
+    "relatedTools": {
+      "title": "Related Tools & Resources",
+      "alsoTry": "Also Try:",
+      "alsoTryLinks": [
+        "Webcam & Mic Test",
+        "Test Webcam",
+        "Camera Test",
+        "Video Recording Test",
+        "Check Camera Online"
+      ],
+      "onThisPage": "On This Page:",
+      "onThisPageLinks": [
+        "How to Test Your Mic",
+        "Audio Level Guide",
+        "Microphone Troubleshooting",
+        "Mic Not Working Fix",
+        "Best Mic Settings"
+      ]
+    }
+  }
+}
