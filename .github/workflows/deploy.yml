@@ -10,6 +10,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     name: Deploy
+    # Needs write access to update WRANGLER_OAUTH_TOKEN / WRANGLER_REFRESH_TOKEN secrets
+    permissions:
+      contents: read
+      id-token: write
 
     steps:
       - name: Checkout
@@ -26,8 +30,38 @@ jobs:
         # to keep the Worker bundle under the 3 MiB free-plan limit
         run: npm ci
 
+      - name: Restore wrangler OAuth credentials
+        env:
+          WRANGLER_OAUTH_TOKEN: ${{ secrets.WRANGLER_OAUTH_TOKEN }}
+          WRANGLER_REFRESH_TOKEN: ${{ secrets.WRANGLER_REFRESH_TOKEN }}
+          WRANGLER_SCOPES: ${{ secrets.WRANGLER_SCOPES }}
+        run: |
+          mkdir -p ~/.wrangler/config
+          cat > ~/.wrangler/config/default.toml << EOF
+          oauth_token = "$WRANGLER_OAUTH_TOKEN"
+          expiration_time = "2020-01-01T00:00:00.000Z"
+          refresh_token = "$WRANGLER_REFRESH_TOKEN"
+          scopes = $WRANGLER_SCOPES
+          EOF
+
       - name: Build and deploy
         run: npm run deploy
         env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: 9e79ed6651ebcaffe98a867f16204ba6
+
+      - name: Rotate OAuth tokens in GitHub secrets
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.REPO_PAT }}
+        run: |
+          # After wrangler runs, it may have refreshed the token — save the new values
+          NEW_TOKEN=$(grep 'oauth_token' ~/.wrangler/config/default.toml | sed "s/.*= *\"//;s/\".*//")
+          NEW_REFRESH=$(grep 'refresh_token' ~/.wrangler/config/default.toml | sed "s/.*= *\"//;s/\".*//")
+          if [ -n "$NEW_TOKEN" ] && [ "$NEW_TOKEN" != "${{ secrets.WRANGLER_OAUTH_TOKEN }}" ]; then
+            echo "Rotating OAuth token in GitHub secrets..."
+            gh secret set WRANGLER_OAUTH_TOKEN --body "$NEW_TOKEN" --repo ${{ github.repository }}
+            gh secret set WRANGLER_REFRESH_TOKEN --body "$NEW_REFRESH" --repo ${{ github.repository }}
+            echo "Secrets rotated successfully."
+          else
+            echo "OAuth token unchanged, no rotation needed."
+          fi
