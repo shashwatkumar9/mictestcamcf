@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import { notFound } from 'next/navigation';
 import ReviewDetail from '@/components/review/ReviewDetail';
 import { getReviewBySlug, getAllReviews } from '@/lib/admin/reviews';

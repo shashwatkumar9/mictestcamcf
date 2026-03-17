@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import type { Metadata } from 'next';
 import { type Locale, locales } from '@/lib/i18n';
 import { BlogPostContent } from '@/components/blog/BlogPostContent';

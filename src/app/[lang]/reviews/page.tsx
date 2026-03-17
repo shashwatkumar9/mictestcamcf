@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import ReviewCard from '@/components/review/ReviewCard';
 import { getAllReviews } from '@/lib/admin/reviews';
 import { getDictionary } from '@/lib/getDictionary';
