@@ -21,3 +21,10 @@ database_id = "af2a4758-4098-4587-81fd-068e59b6badf"
 
 [vars]
 NEXT_PUBLIC_APP_URL = "https://mictestcam.com"
+
+# Custom domain routes — routes traffic from mictestcam.com to this Worker
+# The zone must have Cloudflare proxy enabled for these hostnames.
+routes = [
+  { pattern = "mictestcam.com/*", zone_name = "mictestcam.com" },
+  { pattern = "www.mictestcam.com/*", zone_name = "mictestcam.com" },
+]
