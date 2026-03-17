@@ -1,5 +1,8 @@
 interface CloudflareEnv {
   DB: D1Database;
+  ASSETS: Fetcher;
+  IMAGES: ImagesBinding;
+  WORKER_SELF_REFERENCE: Fetcher;
   JWT_SECRET: string;
   ADMIN_EMAIL: string;
   ADMIN_USERNAME: string;

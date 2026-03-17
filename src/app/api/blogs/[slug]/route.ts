@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import { NextRequest, NextResponse } from 'next/server';
 import { getBlogPostBySlug } from '@/lib/admin/blog';
 import type { Locale } from '@/lib/i18n';

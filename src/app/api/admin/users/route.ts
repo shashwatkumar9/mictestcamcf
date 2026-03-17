@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import { NextRequest, NextResponse } from 'next/server';
 import { verifyToken, getAllUsers, createUser, type UserRole } from '@/lib/admin/users';
 import { sendVerificationEmail } from '@/lib/admin/email';

@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 import { NextRequest, NextResponse } from 'next/server';
 import { verifyToken } from '@/lib/admin/auth';
 import { getAllReviews, createReview, getReviewCount } from '@/lib/admin/reviews';
